@@ -1,5 +1,5 @@
 {
-  "ScrapedAt": "2026-07-05T17:14:53.986931+02:00",
+  "ScrapedAt": "2026-07-05T18:46:53.064232+02:00",
   "NewStrains": [],
   "RemovedCount": 0,
   "BackInStock": [],
@@ -7,28 +7,77 @@
   "PriceUp": [
     {
       "P": {
-        "Id": 1120,
-        "Name": "enua 27/1 SBD CA Strawberry Diesel",
-        "Producer": "enua Pharma",
-        "MinPrice": 7.92,
+        "Id": 3628,
+        "Name": "NICE 33/1 LP Lotus Punch",
+        "Producer": "Cansativa",
+        "MinPrice": 4.55,
         "Available": true,
-        "Url": "https://flowzz.com/product/enua-27-1-sbd-ca-strawberry-diesel"
+        "Url": "https://flowzz.com/product/nice-33-1-lp-lotus-punch"
       },
-      "Old": 6.99,
-      "New": 7.92
+      "Old": 4.35,
+      "New": 4.55
     },
     {
       "P": {
-        "Id": 3950,
-        "Name": "Curaleaf Natural 30/1 PT ZKS Zookies",
-        "Producer": "Adven",
-        "MinPrice": 4.99,
+        "Id": 3298,
+        "Name": "enua 30/1 PS3 JFG CA Jet Fuel Gelato",
+        "Producer": "enua Pharma",
+        "MinPrice": 4.34,
         "Available": true,
-        "Url": "https://flowzz.com/product/curaleaf-natural-30-1-pt-zks-zookies"
+        "Url": "https://flowzz.com/product/enua-30-1-ps3-jfg-ca-jet-fuel-gelato"
       },
       "Old": 3.98,
-      "New": 4.99
+      "New": 4.34
+    },
+    {
+      "P": {
+        "Id": 3253,
+        "Name": "Cannamedical Indica ultra AU Green Delight",
+        "Producer": "Cannamedical",
+        "MinPrice": 6.95,
+        "Available": true,
+        "Url": "https://flowzz.com/product/cannamedical-indica-ultra-au-green-delight"
+      },
+      "Old": 3.99,
+      "New": 6.95
+    },
+    {
+      "P": {
+        "Id": 3213,
+        "Name": "Slouu 25/1 PS3 CA SBS Sugar Berry Sorbet",
+        "Producer": "enua Pharma",
+        "MinPrice": 4.35,
+        "Available": true,
+        "Url": "https://flowzz.com/product/slouu-25-1-ps3-ca-sbs-sugar-berry-sorbet"
+      },
+      "Old": 3.33,
+      "New": 4.35
     }
   ],
-  "PriceDown": []
+  "PriceDown": [
+    {
+      "P": {
+        "Id": 2169,
+        "Name": "Demecan Core JM7 31/1 Jelly Mints",
+        "Producer": "Demecan",
+        "MinPrice": 5.9,
+        "Available": true,
+        "Url": "https://flowzz.com/product/demecan-core-jm7-31-1-jelly-mints"
+      },
+      "Old": 5.95,
+      "New": 5.9
+    },
+    {
+      "P": {
+        "Id": 3279,
+        "Name": "Cresco RFSH 28/1 Lemon Cherry Gelato",
+        "Producer": "Cantourage",
+        "MinPrice": 5.4,
+        "Available": true,
+        "Url": "https://flowzz.com/product/cresco-rfsh-28-1-lemon-cherry-gelato"
+      },
+      "Old": 5.44,
+      "New": 5.4
+    }
+  ]
 }
