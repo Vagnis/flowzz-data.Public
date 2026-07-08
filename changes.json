@@ -1,337 +1,35 @@
 {
-  "ScrapedAt": "2026-07-08T21:42:22.330098+02:00",
+  "ScrapedAt": "2026-07-08T23:04:34.431644+02:00",
   "NewStrains": [],
   "RemovedCount": 0,
-  "BackInStock": [
-    {
-      "Id": 474,
-      "Name": "Cannamedical Hybrid Forte NM Critical Bilbo",
-      "Producer": "Cannamedical",
-      "MinPrice": 7.99,
-      "Available": true,
-      "Url": "https://flowzz.com/product/cannamedical-hybrid-forte-nm-critical-bilbo"
-    },
-    {
-      "Id": 3975,
-      "Name": "HiDealz 22/1 AEC POJ Purple Octane jealousy",
-      "Producer": "Remexian Pharma",
-      "MinPrice": 3.15,
-      "Available": true,
-      "Url": "https://flowzz.com/product/hidealz-22-1-aec-poj-purple-octane-jealousy"
-    },
-    {
-      "Id": 3655,
-      "Name": "HiDealz 15/1 MS BTU Black Tuna smalls",
-      "Producer": "Remexian Pharma",
-      "MinPrice": 2.85,
-      "Available": true,
-      "Url": "https://flowzz.com/product/hidealz-15-1-ms-btu-black-tuna-smalls"
-    },
-    {
-      "Id": 3466,
-      "Name": "MED HYBRID BAL PHCC 22/1 Cherry Cookies",
-      "Producer": "phyto-hemp",
-      "MinPrice": 2.95,
-      "Available": true,
-      "Url": "https://flowzz.com/product/med-hybrid-bal-phcc-22-1-cherry-cookies"
-    }
-  ],
-  "OutOfStock": [
-    {
-      "Id": 3887,
-      "Name": "NERO 21/1 BIZ GGE Green Gelato",
-      "Producer": "Remexian Pharma",
-      "MinPrice": null,
-      "Available": false,
-      "Url": "https://flowzz.com/product/nero-21-1-biz-gge-green-gelato"
-    },
-    {
-      "Id": 3825,
-      "Name": "flighh no. XVIII 26/1 Baklava",
-      "Producer": "Heyday",
-      "MinPrice": null,
-      "Available": false,
-      "Url": "https://flowzz.com/product/flighh-no-xviii-26-1-baklava"
-    }
-  ],
+  "BackInStock": [],
+  "OutOfStock": [],
   "PriceUp": [
     {
       "P": {
-        "Id": 2709,
-        "Name": "BOTANICS Purple Cream 26/1 Purple Ice Water",
-        "Producer": "Nimbus Health",
-        "MinPrice": 4.77,
+        "Id": 1758,
+        "Name": "Sibanax Hybrid MCF 28/1 Mac Fem",
+        "Producer": "Heyday",
+        "MinPrice": 5.9,
         "Available": true,
-        "Url": "https://flowzz.com/product/botanics-purple-cream-26-1-purple-ice-water"
+        "Url": "https://flowzz.com/product/sibanax-hybrid-mcf-28-1"
       },
-      "Old": 3.69,
-      "New": 4.77
+      "Old": 5.45,
+      "New": 5.9
     }
   ],
   "PriceDown": [
     {
       "P": {
-        "Id": 2681,
-        "Name": "MC Regular Drop GMO x Jet Fuel Gelato",
-        "Producer": "Demecan",
-        "MinPrice": 4.99,
-        "Available": true,
-        "Url": "https://flowzz.com/product/mc-regular-drop-gmo-x-jet-fuel-gelato"
-      },
-      "Old": 5.15,
-      "New": 4.99
-    },
-    {
-      "P": {
-        "Id": 2509,
-        "Name": "Sumo PAB 25/1 Papaya Bomb",
-        "Producer": "Cantourage",
-        "MinPrice": 4.95,
-        "Available": true,
-        "Url": "https://flowzz.com/product/sumo-pab-25-1-rainbow-papaya-bomb"
-      },
-      "Old": 4.97,
-      "New": 4.95
-    },
-    {
-      "P": {
-        "Id": 2168,
-        "Name": "Cannamedical Hybrid Forte BC Lemon Cookies",
-        "Producer": "Cannamedical",
-        "MinPrice": 5.99,
-        "Available": true,
-        "Url": "https://flowzz.com/product/cannameidcal-hybrid-forte-bc-lemon-cookies"
-      },
-      "Old": 6.45,
-      "New": 5.99
-    },
-    {
-      "P": {
-        "Id": 667,
-        "Name": "Cannamedical Sativa Ultra NM Polar Cookies",
-        "Producer": "Cannamedical",
-        "MinPrice": 6.84,
-        "Available": true,
-        "Url": "https://flowzz.com/product/cannamedical-sativa-ultra-nm-polar-cookies"
-      },
-      "Old": 6.85,
-      "New": 6.84
-    },
-    {
-      "P": {
-        "Id": 630,
-        "Name": "enua 25/1 SJ CA Splitter Jelato",
-        "Producer": "enua Pharma",
-        "MinPrice": 4.29,
-        "Available": true,
-        "Url": "https://flowzz.com/product/enua-25-1-sj-ca-splitter-gelato"
-      },
-      "Old": 4.39,
-      "New": 4.29
-    },
-    {
-      "P": {
-        "Id": 370,
-        "Name": "Cannamedical Sativa classic NM Gelato Dream",
-        "Producer": "Cannamedical",
-        "MinPrice": 6.99,
-        "Available": true,
-        "Url": "https://flowzz.com/product/cannamedical-sativa-classic-nm-gelato-dream"
-      },
-      "Old": 7.59,
-      "New": 6.99
-    },
-    {
-      "P": {
-        "Id": 74,
-        "Name": "Pedanios 22/1 Ghost Train Haze",
-        "Producer": "Aurora",
-        "MinPrice": 7.49,
-        "Available": true,
-        "Url": "https://flowzz.com/product/pedanios-22-1-dnk-ghost-train-haze"
-      },
-      "Old": 7.8,
-      "New": 7.49
-    },
-    {
-      "P": {
-        "Id": 3960,
-        "Name": "Green Mile 33/1 GIS Grape Ice Storm",
-        "Producer": "Remexian Pharma",
-        "MinPrice": 6.38,
-        "Available": true,
-        "Url": "https://flowzz.com/product/green-mile-33-1-gis-grape-ice-storm"
-      },
-      "Old": 6.39,
-      "New": 6.38
-    },
-    {
-      "P": {
-        "Id": 3935,
-        "Name": "Luana 20/1 Mochi",
-        "Producer": "Cannamedical",
-        "MinPrice": 3.95,
-        "Available": true,
-        "Url": "https://flowzz.com/product/luana-20-1-mochi"
-      },
-      "Old": 3.99,
-      "New": 3.95
-    },
-    {
-      "P": {
-        "Id": 3909,
-        "Name": "HiDealz 24/1 MS Honeydew Haze Smalls",
-        "Producer": "Remexian Pharma",
-        "MinPrice": 2.99,
-        "Available": true,
-        "Url": "https://flowzz.com/product/hidealz-24-1-ms-honeydew-haze"
-      },
-      "Old": 3.19,
-      "New": 2.99
-    },
-    {
-      "P": {
-        "Id": 3836,
-        "Name": "Hollymood 30/1 SR Sunset Runtz",
-        "Producer": "Bathera",
-        "MinPrice": 4.89,
-        "Available": true,
-        "Url": "https://flowzz.com/product/hollymood-30-1-sr-sunset-runtz"
-      },
-      "Old": 4.96,
-      "New": 4.89
-    },
-    {
-      "P": {
-        "Id": 3759,
-        "Name": "THC AKUT 30 CPJ Cap Junky",
-        "Producer": "Bathera",
-        "MinPrice": 5.4,
-        "Available": true,
-        "Url": "https://flowzz.com/product/thc-akut-30-cpj-cap-junky"
-      },
-      "Old": 5.9,
-      "New": 5.4
-    },
-    {
-      "P": {
-        "Id": 3734,
-        "Name": "Slouu 33/1 COZ CA Cookies OZ",
-        "Producer": "enua Pharma",
-        "MinPrice": 4.95,
-        "Available": true,
-        "Url": "https://flowzz.com/product/slouu-33-1-coz-ca-cookies-oz"
-      },
-      "Old": 4.96,
-      "New": 4.95
-    },
-    {
-      "P": {
-        "Id": 3622,
-        "Name": "Remexian 33/1 BBR HOT High Octane 94",
-        "Producer": "Remexian Pharma",
-        "MinPrice": 4.39,
-        "Available": true,
-        "Url": "https://flowzz.com/product/remexian-33-1-bbr-hot-high-octane-94"
-      },
-      "Old": 4.99,
-      "New": 4.39
-    },
-    {
-      "P": {
-        "Id": 3609,
-        "Name": "Weeco LMC 33/1 DK Lemoncello",
-        "Producer": "Weeco",
-        "MinPrice": 4.59,
-        "Available": true,
-        "Url": "https://flowzz.com/product/weeco-lmc-33-1-dk-lemoncello"
-      },
-      "Old": 4.6,
-      "New": 4.59
-    },
-    {
-      "P": {
-        "Id": 3605,
-        "Name": "Canify 22/1 CZE Ku. Mochi",
-        "Producer": "Canify",
-        "MinPrice": 3.99,
-        "Available": true,
-        "Url": "https://flowzz.com/product/canify-22-1-cze-ku-mochi"
-      },
-      "Old": 4.35,
-      "New": 3.99
-    },
-    {
-      "P": {
-        "Id": 3577,
-        "Name": "Huala 30/1 UK WTR Waffle Truffle",
-        "Producer": "Four 20 Pharma",
-        "MinPrice": 3.95,
-        "Available": true,
-        "Url": "https://flowzz.com/product/huala-30-1-uk-wtr-white-truffle"
-      },
-      "Old": 3.96,
-      "New": 3.95
-    },
-    {
-      "P": {
-        "Id": 3561,
-        "Name": "Barongo 32/1 SOR SFV OG x Candy Rain",
-        "Producer": "WMG Pharma",
-        "MinPrice": 7.4,
-        "Available": true,
-        "Url": "https://flowzz.com/product/barongo-32-1-sor-sfv-og-x-candy-rain"
-      },
-      "Old": 7.99,
-      "New": 7.4
-    },
-    {
-      "P": {
-        "Id": 3389,
-        "Name": "Cannamedical Indica Light ZAF Strawberry Lemonade",
-        "Producer": "Cannamedical",
-        "MinPrice": 3.49,
-        "Available": true,
-        "Url": "https://flowzz.com/product/cannamedical-indica-light-zaf-strawberry-lemonade"
-      },
-      "Old": 3.79,
-      "New": 3.49
-    },
-    {
-      "P": {
-        "Id": 3147,
-        "Name": "Drapalin 28/1 Bliss",
-        "Producer": "Drapalin Pharmaceuticals",
-        "MinPrice": 4.19,
-        "Available": true,
-        "Url": "https://flowzz.com/product/drapalin-28-1-bliss"
-      },
-      "Old": 4.25,
-      "New": 4.19
-    },
-    {
-      "P": {
-        "Id": 2986,
-        "Name": "Cannabis flos 22/1 CZE Ku. Ultra Sour",
-        "Producer": "Canify",
-        "MinPrice": 4.2,
-        "Available": true,
-        "Url": "https://flowzz.com/product/cannabis-flos-22-1-cze-ku-ultra-sour"
-      },
-      "Old": 4.35,
-      "New": 4.2
-    },
-    {
-      "P": {
-        "Id": 2757,
-        "Name": "NICE 29/1 MOS Morning Sun",
+        "Id": 3054,
+        "Name": "NICE 26/1 KC LA Kush Cake",
         "Producer": "Cansativa",
-        "MinPrice": 4.65,
+        "MinPrice": 3.57,
         "Available": true,
-        "Url": "https://flowzz.com/product/nice-29-1-mos-morning-sun"
+        "Url": "https://flowzz.com/product/nice-26-1-kc-la-kush-cake"
       },
-      "Old": 4.69,
-      "New": 4.65
+      "Old": 3.59,
+      "New": 3.57
     }
   ]
 }
