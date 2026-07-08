@@ -1,83 +1,221 @@
 {
-  "ScrapedAt": "2026-07-08T07:28:48.860868+02:00",
+  "ScrapedAt": "2026-07-08T08:56:22.929890+02:00",
   "NewStrains": [],
   "RemovedCount": 0,
-  "BackInStock": [],
-  "OutOfStock": [],
+  "BackInStock": [
+    {
+      "Id": 2871,
+      "Name": "Luana 20/1 Tropicana Cookies",
+      "Producer": "Cannamedical",
+      "MinPrice": 3.99,
+      "Available": true,
+      "Url": "https://flowzz.com/product/luana-20-1-tropicana-cookies"
+    }
+  ],
+  "OutOfStock": [
+    {
+      "Id": 3386,
+      "Name": "mediproCan Pine & Peak 21/1 Blunicorn",
+      "Producer": "mediproCan Pharma",
+      "MinPrice": null,
+      "Available": false,
+      "Url": "https://flowzz.com/product/mediprocan-pine-peak-21-1-blunicorn"
+    }
+  ],
   "PriceUp": [
     {
       "P": {
-        "Id": 3891,
-        "Name": "Demecan HS Low Drop 17/01 Burmese Mimosa × Athene",
-        "Producer": "Demecan",
-        "MinPrice": 5.39,
+        "Id": 2004,
+        "Name": "ZOIKS 26/1 TG Tangrini",
+        "Producer": "avaay",
+        "MinPrice": 3.99,
         "Available": true,
-        "Url": "https://flowzz.com/product/demecan-hs-low-drop-17-1-burmese-mimosa-x-athene"
+        "Url": "https://flowzz.com/product/zoiks-26-1-tg-tangrini"
       },
-      "Old": 4.14,
-      "New": 5.39
-    },
-    {
-      "P": {
-        "Id": 2999,
-        "Name": "Herbasana Medellin Midnight 22:01 El Patron",
-        "Producer": "Herbasana",
-        "MinPrice": 4.55,
-        "Available": true,
-        "Url": "https://flowzz.com/product/herbasana-medellin-midnight-22-01-el-patron"
-      },
-      "Old": 3.98,
-      "New": 4.55
-    }
-  ],
-  "PriceDown": [
-    {
-      "P": {
-        "Id": 2252,
-        "Name": "Cannamedical Indica Ultra SM Sunset Serenity",
-        "Producer": "Cannamedical",
-        "MinPrice": 4.28,
-        "Available": true,
-        "Url": "https://flowzz.com/product/cannamedical-indica-ultra-sunset-serenity"
-      },
-      "Old": 4.98,
-      "New": 4.28
+      "Old": 3.89,
+      "New": 3.99
     },
     {
       "P": {
         "Id": 1405,
         "Name": "Cannamedical Hybrid Forte DK 24/1 Ghost Train Haze",
         "Producer": "Cannamedical",
-        "MinPrice": 4.34,
+        "MinPrice": 4.79,
         "Available": true,
         "Url": "https://flowzz.com/product/cannamedical-hybridforte-dk-24-1-ghost-train-haze"
       },
-      "Old": 4.79,
-      "New": 4.34
+      "Old": 4.34,
+      "New": 4.79
     },
     {
       "P": {
-        "Id": 546,
-        "Name": "enua 22/1 PS3 BCP CA Black Cherry Punch",
-        "Producer": "enua Pharma",
-        "MinPrice": 3.84,
+        "Id": 1264,
+        "Name": "30/1 Amici UL Ultra Limelight",
+        "Producer": "Cansativa",
+        "MinPrice": 4.79,
         "Available": true,
-        "Url": "https://flowzz.com/product/enua-22-1-bcp-black-cherry-punch"
+        "Url": "https://flowzz.com/product/30-1-amici-ul-ultra-limelight"
       },
-      "Old": 3.85,
-      "New": 3.84
+      "Old": 4.55,
+      "New": 4.79
     },
     {
       "P": {
-        "Id": 3029,
-        "Name": "Cannamedical Indica Ultra SM Pineapple Express",
+        "Id": 3968,
+        "Name": "Remexian 27/1 RPK KIB Kiba",
+        "Producer": "Remexian Pharma",
+        "MinPrice": 3.77,
+        "Available": true,
+        "Url": "https://flowzz.com/product/remexian-27-1-rpk-kib-kiba"
+      },
+      "Old": 3.57,
+      "New": 3.77
+    },
+    {
+      "P": {
+        "Id": 3625,
+        "Name": "30/1 Amici SLH Super Lemon Haze",
+        "Producer": "Cansativa",
+        "MinPrice": 5.18,
+        "Available": true,
+        "Url": "https://flowzz.com/product/30-1-amici-slh-super-lemon-haze"
+      },
+      "Old": 5.15,
+      "New": 5.18
+    },
+    {
+      "P": {
+        "Id": 3496,
+        "Name": "NOC SE 19 Scoop of Chem x Early Orange",
+        "Producer": "Noc Pharma",
+        "MinPrice": 3.14,
+        "Available": true,
+        "Url": "https://flowzz.com/product/noc-se-19-scoop-of-chem-early-orange"
+      },
+      "Old": 2.88,
+      "New": 3.14
+    },
+    {
+      "P": {
+        "Id": 3116,
+        "Name": "Cannamedical CM 28/1 BRY Strawberry OG",
         "Producer": "Cannamedical",
-        "MinPrice": 4.13,
+        "MinPrice": 4.94,
         "Available": true,
-        "Url": "https://flowzz.com/product/cannamedical-indica-ultra-sm-pineapple-express"
+        "Url": "https://flowzz.com/product/cannamedical-cm-28-1-bry-strawberry-og"
       },
-      "Old": 5.06,
-      "New": 4.13
+      "Old": 4.93,
+      "New": 4.94
+    },
+    {
+      "P": {
+        "Id": 2894,
+        "Name": "TRUU HS 21:01 Rainbow Dawg",
+        "Producer": "Demecan",
+        "MinPrice": 3.92,
+        "Available": true,
+        "Url": "https://flowzz.com/product/truu-hs-21-01-rainbow-dawg"
+      },
+      "Old": 3.9,
+      "New": 3.92
+    }
+  ],
+  "PriceDown": [
+    {
+      "P": {
+        "Id": 3891,
+        "Name": "Demecan HS Low Drop 17/01 Burmese Mimosa × Athene",
+        "Producer": "Demecan",
+        "MinPrice": 4.14,
+        "Available": true,
+        "Url": "https://flowzz.com/product/demecan-hs-low-drop-17-1-burmese-mimosa-x-athene"
+      },
+      "Old": 5.39,
+      "New": 4.14
+    },
+    {
+      "P": {
+        "Id": 3666,
+        "Name": "Demecan Craft GO 26/01 Game Over #4",
+        "Producer": "Demecan",
+        "MinPrice": 6.59,
+        "Available": true,
+        "Url": "https://flowzz.com/product/demecan-craft-go-26-01-game-over-4"
+      },
+      "Old": 6.99,
+      "New": 6.59
+    },
+    {
+      "P": {
+        "Id": 3389,
+        "Name": "Cannamedical Indica Light ZAF Strawberry Lemonade",
+        "Producer": "Cannamedical",
+        "MinPrice": 3.48,
+        "Available": true,
+        "Url": "https://flowzz.com/product/cannamedical-indica-light-zaf-strawberry-lemonade"
+      },
+      "Old": 3.49,
+      "New": 3.48
+    },
+    {
+      "P": {
+        "Id": 3298,
+        "Name": "enua 30/1 PS3 JFG CA Jet Fuel Gelato",
+        "Producer": "enua Pharma",
+        "MinPrice": 4.24,
+        "Available": true,
+        "Url": "https://flowzz.com/product/enua-30-1-ps3-jfg-ca-jet-fuel-gelato"
+      },
+      "Old": 4.25,
+      "New": 4.24
+    },
+    {
+      "P": {
+        "Id": 3219,
+        "Name": "enua 30/1 BC CA Cap Junky",
+        "Producer": "enua Pharma",
+        "MinPrice": 5.0,
+        "Available": true,
+        "Url": "https://flowzz.com/product/enua-30-1-bc-ca-cap-junky"
+      },
+      "Old": 5.19,
+      "New": 5.0
+    },
+    {
+      "P": {
+        "Id": 2753,
+        "Name": "APEX CHY CA 27/1 Choc Monkey",
+        "Producer": "Cannovum",
+        "MinPrice": 3.85,
+        "Available": true,
+        "Url": "https://flowzz.com/product/apex-chy-ca-27-1-choc-monkey"
+      },
+      "Old": 3.99,
+      "New": 3.85
+    },
+    {
+      "P": {
+        "Id": 2881,
+        "Name": "Siggis PMNZ 28:01 Siggis Pfefferminze",
+        "Producer": "Demecan",
+        "MinPrice": 7.58,
+        "Available": true,
+        "Url": "https://flowzz.com/product/siggis-pmnz-28-01-siggis-pfefferminze"
+      },
+      "Old": 7.59,
+      "New": 7.58
+    },
+    {
+      "P": {
+        "Id": 2834,
+        "Name": "Cannamedical CM 28/1 Craft Lotus",
+        "Producer": "Cannamedical",
+        "MinPrice": 5.8,
+        "Available": true,
+        "Url": "https://flowzz.com/product/cannamedical-cm-28-1-craft-lotus"
+      },
+      "Old": 5.99,
+      "New": 5.8
     }
   ]
 }
