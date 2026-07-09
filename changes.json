@@ -1,18 +1,22 @@
 {
-  "ScrapedAt": "2026-07-09T04:54:50.548987+02:00",
+  "ScrapedAt": "2026-07-09T06:32:23.308548+02:00",
   "NewStrains": [],
   "RemovedCount": 0,
   "BackInStock": [],
-  "OutOfStock": [
-    {
-      "Id": 3825,
-      "Name": "flighh no. XVIII 26/1 Baklava",
-      "Producer": "Heyday",
-      "MinPrice": null,
-      "Available": false,
-      "Url": "https://flowzz.com/product/flighh-no-xviii-26-1-baklava"
-    }
-  ],
+  "OutOfStock": [],
   "PriceUp": [],
-  "PriceDown": []
+  "PriceDown": [
+    {
+      "P": {
+        "Id": 3695,
+        "Name": "Greenseal 33/1 SGU Strawberry Guava",
+        "Producer": "Remexian Pharma",
+        "MinPrice": 5.6,
+        "Available": true,
+        "Url": "https://flowzz.com/product/greenseal-33-1-sgu-strawberry-guava"
+      },
+      "Old": 5.65,
+      "New": 5.6
+    }
+  ]
 }
