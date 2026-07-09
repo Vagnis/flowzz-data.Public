@@ -1,22 +1,107 @@
 {
-  "ScrapedAt": "2026-07-09T06:32:23.308548+02:00",
+  "ScrapedAt": "2026-07-09T08:16:51.390452+02:00",
   "NewStrains": [],
   "RemovedCount": 0,
   "BackInStock": [],
   "OutOfStock": [],
-  "PriceUp": [],
-  "PriceDown": [
+  "PriceUp": [
+    {
+      "P": {
+        "Id": 2004,
+        "Name": "ZOIKS 26/1 TG Tangrini",
+        "Producer": "avaay",
+        "MinPrice": 3.99,
+        "Available": true,
+        "Url": "https://flowzz.com/product/zoiks-26-1-tg-tangrini"
+      },
+      "Old": 3.89,
+      "New": 3.99
+    },
+    {
+      "P": {
+        "Id": 2602,
+        "Name": "420 Evolution 25/1 CA MSP Masterpiece",
+        "Producer": "Four 20 Pharma",
+        "MinPrice": 6.45,
+        "Available": true,
+        "Url": "https://flowzz.com/product/420-evolution-25-1-ca-msp-masterpiece"
+      },
+      "Old": 5.49,
+      "New": 6.45
+    },
     {
       "P": {
         "Id": 3695,
         "Name": "Greenseal 33/1 SGU Strawberry Guava",
         "Producer": "Remexian Pharma",
-        "MinPrice": 5.6,
+        "MinPrice": 5.65,
         "Available": true,
         "Url": "https://flowzz.com/product/greenseal-33-1-sgu-strawberry-guava"
       },
-      "Old": 5.65,
-      "New": 5.6
+      "Old": 5.6,
+      "New": 5.65
+    }
+  ],
+  "PriceDown": [
+    {
+      "P": {
+        "Id": 2505,
+        "Name": "Luana 20/1 Rainbow Papaya Bomb",
+        "Producer": "Cannamedical",
+        "MinPrice": 3.99,
+        "Available": true,
+        "Url": "https://flowzz.com/product/luana-20-1-rainbow-papaya-bomb"
+      },
+      "Old": 4.0,
+      "New": 3.99
+    },
+    {
+      "P": {
+        "Id": 3639,
+        "Name": "Hexa 18/1 STO Studio 54",
+        "Producer": "medizinalhanf",
+        "MinPrice": 2.85,
+        "Available": true,
+        "Url": "https://flowzz.com/product/hexa-18-1-sto-studio-54"
+      },
+      "Old": 2.94,
+      "New": 2.85
+    },
+    {
+      "P": {
+        "Id": 3389,
+        "Name": "Cannamedical Indica Light ZAF Strawberry Lemonade",
+        "Producer": "Cannamedical",
+        "MinPrice": 3.48,
+        "Available": true,
+        "Url": "https://flowzz.com/product/cannamedical-indica-light-zaf-strawberry-lemonade"
+      },
+      "Old": 3.49,
+      "New": 3.48
+    },
+    {
+      "P": {
+        "Id": 3410,
+        "Name": "MH SLG Blackscotti 18/1",
+        "Producer": "medizinalhanf",
+        "MinPrice": 2.85,
+        "Available": true,
+        "Url": "https://flowzz.com/product/mh-slg-blackscotti-18-1"
+      },
+      "Old": 3.19,
+      "New": 2.85
+    },
+    {
+      "P": {
+        "Id": 3162,
+        "Name": "Luana 27/1 Donny B Bunatic",
+        "Producer": "Cannamedical",
+        "MinPrice": 4.37,
+        "Available": true,
+        "Url": "https://flowzz.com/product/luana-27-1-donny-b-bunatic"
+      },
+      "Old": 4.38,
+      "New": 4.37
     }
   ]
 }
