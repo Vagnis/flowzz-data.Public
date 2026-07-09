@@ -1,107 +1,341 @@
 {
-  "ScrapedAt": "2026-07-09T16:47:32.429318+02:00",
+  "ScrapedAt": "2026-07-09T18:27:22.762808+02:00",
   "NewStrains": [],
   "RemovedCount": 0,
-  "BackInStock": [],
-  "OutOfStock": [],
+  "BackInStock": [
+    {
+      "Id": 4017,
+      "Name": "Sibanax GMO Zkittlez 28/1",
+      "Producer": "Heyday",
+      "MinPrice": 5.27,
+      "Available": true,
+      "Url": "https://flowzz.com/product/sibanax-gmo-zkittlez-28-1"
+    }
+  ],
+  "OutOfStock": [
+    {
+      "Id": 1787,
+      "Name": "Bathera 24/1 BZ Blue Z",
+      "Producer": "Bathera",
+      "MinPrice": null,
+      "Available": false,
+      "Url": "https://flowzz.com/product/bathera-24-1-bz-zkittlez-x-kush-mints"
+    }
+  ],
   "PriceUp": [
     {
       "P": {
-        "Id": 3881,
-        "Name": "Slouu 27/1 AT2 OMJ CA Oz Melon Jam",
-        "Producer": "enua Pharma",
-        "MinPrice": 2.99,
+        "Id": 1710,
+        "Name": "Remexian 24/1 PRT MCR Motor Crasher",
+        "Producer": "Remexian Pharma",
+        "MinPrice": 8.38,
         "Available": true,
-        "Url": "https://flowzz.com/product/slouu-27-1-at2-omj-ca-oz-melon-jam"
+        "Url": "https://flowzz.com/product/remexian-24-1-prt-mcr-motor-crasher"
       },
-      "Old": 2.95,
-      "New": 2.99
+      "Old": 3.56,
+      "New": 8.38
     },
     {
       "P": {
-        "Id": 3836,
-        "Name": "Hollymood 30/1 SR Sunset Runtz",
-        "Producer": "Bathera",
-        "MinPrice": 4.97,
+        "Id": 1664,
+        "Name": "TRUU HS 21/01 Mandarin Sunset",
+        "Producer": "Demecan",
+        "MinPrice": 6.66,
         "Available": true,
-        "Url": "https://flowzz.com/product/hollymood-30-1-sr-sunset-runtz"
+        "Url": "https://flowzz.com/product/demecan-truu-hs-21-1-mandarin-sunset"
       },
-      "Old": 4.96,
-      "New": 4.97
+      "Old": 5.49,
+      "New": 6.66
+    },
+    {
+      "P": {
+        "Id": 1525,
+        "Name": "Weeco Duke 20/1 Purple Rain",
+        "Producer": "Weeco",
+        "MinPrice": 4.75,
+        "Available": true,
+        "Url": "https://flowzz.com/product/weeco-20-1-purple-rain"
+      },
+      "Old": 3.57,
+      "New": 4.75
+    },
+    {
+      "P": {
+        "Id": 1272,
+        "Name": "aleph red 27/1 Hokuzai",
+        "Producer": "alephSana",
+        "MinPrice": 6.27,
+        "Available": true,
+        "Url": "https://flowzz.com/product/aleph-red-27-1-hokuzai"
+      },
+      "Old": 5.99,
+      "New": 6.27
+    },
+    {
+      "P": {
+        "Id": 1088,
+        "Name": "Demecan CRAFT FCF 28:01 First Class Funk",
+        "Producer": "Demecan",
+        "MinPrice": 5.79,
+        "Available": true,
+        "Url": "https://flowzz.com/product/demecan-craft-28-01-first-class-funk"
+      },
+      "Old": 5.39,
+      "New": 5.79
+    },
+    {
+      "P": {
+        "Id": 3158,
+        "Name": "Curaleaf Natural 30/1 PT WPT Wedding Pop Triangle",
+        "Producer": "Four 20 Pharma",
+        "MinPrice": 4.29,
+        "Available": true,
+        "Url": "https://flowzz.com/product/curaleaf-natural-30-1-pt-wpt-wedding-pop-triangle"
+      },
+      "Old": 3.99,
+      "New": 4.29
     }
   ],
   "PriceDown": [
     {
       "P": {
-        "Id": 2346,
-        "Name": "Lahoja ACSMC 25/1 Pink Slurricane",
-        "Producer": "Cantourage",
-        "MinPrice": 4.0,
+        "Id": 2691,
+        "Name": "Candoro ethics 22:1 Hybrid OGK OG Kush",
+        "Producer": "Candoro Ethics",
+        "MinPrice": 4.7,
         "Available": true,
-        "Url": "https://flowzz.com/product/lahoja-acsmc-25-1-pink-slurricane"
+        "Url": "https://flowzz.com/product/candoro-ethics-22-1-hybrid-ogk-og-kush"
       },
-      "Old": 5.0,
-      "New": 4.0
+      "Old": 4.8,
+      "New": 4.7
     },
     {
       "P": {
-        "Id": 2140,
-        "Name": "Cookies 2.0 Hawaiian Rain 28/1 CAN",
-        "Producer": "Cansativa",
-        "MinPrice": 5.0,
+        "Id": 2404,
+        "Name": "Huala 27/1 CA ALM Alien Mints",
+        "Producer": "Four 20 Pharma",
+        "MinPrice": 3.72,
         "Available": true,
-        "Url": "https://flowzz.com/product/cookies-2-0-hawaiian-rain-28-1-can"
+        "Url": "https://flowzz.com/product/huala-27-1-ca-alm"
       },
-      "Old": 5.57,
-      "New": 5.0
+      "Old": 3.73,
+      "New": 3.72
     },
     {
       "P": {
-        "Id": 2084,
-        "Name": "Soma OG 34/1 PF Cap junky",
-        "Producer": "Cansativa",
-        "MinPrice": 6.0,
-        "Available": true,
-        "Url": "https://flowzz.com/product/soma-og-34-1-pf-cap-junky"
-      },
-      "Old": 6.92,
-      "New": 6.0
-    },
-    {
-      "P": {
-        "Id": 1264,
-        "Name": "30/1 Amici UL Ultra Limelight",
-        "Producer": "Cansativa",
-        "MinPrice": 4.55,
-        "Available": true,
-        "Url": "https://flowzz.com/product/30-1-amici-ul-ultra-limelight"
-      },
-      "Old": 4.69,
-      "New": 4.55
-    },
-    {
-      "P": {
-        "Id": 936,
-        "Name": "Social Choice 18/1 FLX MTS Manantiales",
+        "Id": 2218,
+        "Name": "Remexian 24/1 GJY CHK Chemical Kush",
         "Producer": "Remexian Pharma",
-        "MinPrice": 2.94,
+        "MinPrice": 3.99,
         "Available": true,
-        "Url": "https://flowzz.com/product/social-choice-18-1-flx-mts-manantiales"
+        "Url": "https://flowzz.com/product/remexian-24-1-gjy-chk-chemical-kush"
       },
-      "Old": 4.69,
-      "New": 2.94
+      "Old": 5.8,
+      "New": 3.99
     },
     {
       "P": {
-        "Id": 3573,
-        "Name": "aleph Mont Blanc 26/1 Glitterbomb",
-        "Producer": "alephSana",
-        "MinPrice": 6.99,
+        "Id": 1262,
+        "Name": "22/1 Amici BH Blueberry Headband",
+        "Producer": "Cansativa",
+        "MinPrice": 4.99,
         "Available": true,
-        "Url": "https://flowzz.com/product/aleph-mont-blanc-26-1-glitterbomb"
+        "Url": "https://flowzz.com/product/22-1-amici-bh-blueberry-headband"
       },
-      "Old": 7.29,
-      "New": 6.99
+      "Old": 5.21,
+      "New": 4.99
+    },
+    {
+      "P": {
+        "Id": 1222,
+        "Name": "avaay 32/1 AHC Amnesia Haze Cake",
+        "Producer": "avaay",
+        "MinPrice": 8.24,
+        "Available": true,
+        "Url": "https://flowzz.com/product/avaay-32-1-ahc-amnesia-haze-cake"
+      },
+      "Old": 8.27,
+      "New": 8.24
+    },
+    {
+      "P": {
+        "Id": 1033,
+        "Name": "Green Karat SD 30/1 Supreme Diesel",
+        "Producer": "Cantourage",
+        "MinPrice": 7.29,
+        "Available": true,
+        "Url": "https://flowzz.com/product/green-karat-sd-30-1-supreme-diesel"
+      },
+      "Old": 7.33,
+      "New": 7.29
+    },
+    {
+      "P": {
+        "Id": 590,
+        "Name": "Green Karat SD PT Supreme Diesel",
+        "Producer": "Cantourage",
+        "MinPrice": 5.69,
+        "Available": true,
+        "Url": "https://flowzz.com/product/green-karat-sd-pt-supreme-diesel"
+      },
+      "Old": 5.9,
+      "New": 5.69
+    },
+    {
+      "P": {
+        "Id": 3944,
+        "Name": "Bathera 37/1 PP Polar Pop",
+        "Producer": "Bathera",
+        "MinPrice": 8.18,
+        "Available": true,
+        "Url": "https://flowzz.com/product/bathera-37-1-pp-polar-pop"
+      },
+      "Old": 8.19,
+      "New": 8.18
+    },
+    {
+      "P": {
+        "Id": 3898,
+        "Name": "Aphria RX THC25 CTB Cactus Breath",
+        "Producer": "Tilray",
+        "MinPrice": 4.66,
+        "Available": true,
+        "Url": "https://flowzz.com/product/aphria-rx-thc25-cactus-breath"
+      },
+      "Old": 4.68,
+      "New": 4.66
+    },
+    {
+      "P": {
+        "Id": 3896,
+        "Name": "Aphria RX THC28 CCC Cherry Cheese Cake",
+        "Producer": "Aphria",
+        "MinPrice": 4.79,
+        "Available": true,
+        "Url": "https://flowzz.com/product/aphria-rx-thc28-ccc-cherry-cheese-cake"
+      },
+      "Old": 4.8,
+      "New": 4.79
+    },
+    {
+      "P": {
+        "Id": 3844,
+        "Name": "Apollo 30/1 MID Marmalade",
+        "Producer": "Cannprisma",
+        "MinPrice": 4.2,
+        "Available": true,
+        "Url": "https://flowzz.com/product/apollo-30-1-mid-marmalade"
+      },
+      "Old": 4.32,
+      "New": 4.2
+    },
+    {
+      "P": {
+        "Id": 3815,
+        "Name": "Siggis WLDM 28:01 Siggis Waldmeister",
+        "Producer": "Demecan",
+        "MinPrice": 7.68,
+        "Available": true,
+        "Url": "https://flowzz.com/product/siggis-wldm-2801-siggis-waldmeister"
+      },
+      "Old": 7.69,
+      "New": 7.68
+    },
+    {
+      "P": {
+        "Id": 3776,
+        "Name": "AphriaRX THC25 OKB OG Kush Breath",
+        "Producer": "Tilray",
+        "MinPrice": 4.29,
+        "Available": true,
+        "Url": "https://flowzz.com/product/aphriarx-thc25-okb-og-kush-breath"
+      },
+      "Old": 4.3,
+      "New": 4.29
+    },
+    {
+      "P": {
+        "Id": 3720,
+        "Name": "BUUO 20/1 TMS Black Marble",
+        "Producer": "WMG Pharma",
+        "MinPrice": 3.19,
+        "Available": true,
+        "Url": "https://flowzz.com/product/buuo-20-1-tms-black-marble"
+      },
+      "Old": 3.2,
+      "New": 3.19
+    },
+    {
+      "P": {
+        "Id": 3496,
+        "Name": "NOC SE 19 Scoop of Chem x Early Orange",
+        "Producer": "Noc Pharma",
+        "MinPrice": 2.88,
+        "Available": true,
+        "Url": "https://flowzz.com/product/noc-se-19-scoop-of-chem-early-orange"
+      },
+      "Old": 3.14,
+      "New": 2.88
+    },
+    {
+      "P": {
+        "Id": 3071,
+        "Name": "Green Karat SD 26/1 Supreme Diesel",
+        "Producer": "Cantourage",
+        "MinPrice": 5.69,
+        "Available": true,
+        "Url": "https://flowzz.com/product/green-karat-sd-26-1-supreme-diesel"
+      },
+      "Old": 5.79,
+      "New": 5.69
+    },
+    {
+      "P": {
+        "Id": 2956,
+        "Name": "avaay 26/1 MCO Mac’s Cookies",
+        "Producer": "avaay",
+        "MinPrice": 4.49,
+        "Available": true,
+        "Url": "https://flowzz.com/product/avaay-26-1-mco-macs-cookies"
+      },
+      "Old": 4.7,
+      "New": 4.49
+    },
+    {
+      "P": {
+        "Id": 2937,
+        "Name": "Remexian 27/1 CRX SMO Sherb Master OG",
+        "Producer": "Remexian Pharma",
+        "MinPrice": 3.88,
+        "Available": true,
+        "Url": "https://flowzz.com/product/remexian-27-1-crx-smo-sherb-master-og"
+      },
+      "Old": 3.89,
+      "New": 3.88
+    },
+    {
+      "P": {
+        "Id": 2846,
+        "Name": "Demecan Craft Magister 26/1 BM Black Marker",
+        "Producer": "Demecan",
+        "MinPrice": 6.03,
+        "Available": true,
+        "Url": "https://flowzz.com/product/demecan-craft-magister-26-1-bm-black-marker"
+      },
+      "Old": 6.04,
+      "New": 6.03
+    },
+    {
+      "P": {
+        "Id": 2709,
+        "Name": "BOTANICS Purple Cream 26/1 Purple Ice Water",
+        "Producer": "Nimbus Health",
+        "MinPrice": 3.69,
+        "Available": true,
+        "Url": "https://flowzz.com/product/botanics-purple-cream-26-1-purple-ice-water"
+      },
+      "Old": 4.77,
+      "New": 3.69
     }
   ]
 }
