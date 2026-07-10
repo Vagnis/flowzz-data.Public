@@ -1,26 +1,22 @@
 {
-  "ScrapedAt": "2026-07-10T04:59:30.682015+02:00",
+  "ScrapedAt": "2026-07-10T06:05:33.621547+02:00",
   "NewStrains": [],
   "RemovedCount": 0,
   "BackInStock": [],
-  "OutOfStock": [
-    {
-      "Id": 3951,
-      "Name": "MGF 200 26/1 Purple Milk",
-      "Producer": "AMP",
-      "MinPrice": null,
-      "Available": false,
-      "Url": "https://flowzz.com/product/mgf-200-26-1-purple-milk"
-    },
-    {
-      "Id": 3887,
-      "Name": "NERO 21/1 BIZ GGE Green Gelato",
-      "Producer": "Remexian Pharma",
-      "MinPrice": null,
-      "Available": false,
-      "Url": "https://flowzz.com/product/nero-21-1-biz-gge-green-gelato"
-    }
-  ],
+  "OutOfStock": [],
   "PriceUp": [],
-  "PriceDown": []
+  "PriceDown": [
+    {
+      "P": {
+        "Id": 3332,
+        "Name": "Demecan PS Strong Drop Animal Cookies x SinMint Cookies",
+        "Producer": "Demecan",
+        "MinPrice": 3.75,
+        "Available": true,
+        "Url": "https://flowzz.com/product/demecan-ps-strong-drop-animal-cookies-x-sinmint-cookies"
+      },
+      "Old": 4.0,
+      "New": 3.75
+    }
+  ]
 }
