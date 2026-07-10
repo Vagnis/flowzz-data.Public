@@ -1,9 +1,92 @@
 {
-  "ScrapedAt": "2026-07-10T07:11:00.502428+02:00",
+  "ScrapedAt": "2026-07-10T08:31:31.270334+02:00",
   "NewStrains": [],
   "RemovedCount": 0,
-  "BackInStock": [],
+  "BackInStock": [
+    {
+      "Id": 1712,
+      "Name": "avaay 34/1 SCP Sour Cherry Punch",
+      "Producer": "avaay",
+      "MinPrice": 17.0,
+      "Available": true,
+      "Url": "https://flowzz.com/product/avaay-34-1-scp-sour-cherry-punch"
+    }
+  ],
   "OutOfStock": [],
-  "PriceUp": [],
-  "PriceDown": []
+  "PriceUp": [
+    {
+      "P": {
+        "Id": 1960,
+        "Name": "Huala 22/1 CA GRF Grape Face",
+        "Producer": "Four 20 Pharma",
+        "MinPrice": 3.79,
+        "Available": true,
+        "Url": "https://flowzz.com/product/huala-22-1-ca-grf-grape-face"
+      },
+      "Old": 3.65,
+      "New": 3.79
+    }
+  ],
+  "PriceDown": [
+    {
+      "P": {
+        "Id": 2648,
+        "Name": "ZOIKS 31/1 BB Ben & Berries",
+        "Producer": "avaay",
+        "MinPrice": 5.79,
+        "Available": true,
+        "Url": "https://flowzz.com/product/zoiks-31-1-bb-ben-berries"
+      },
+      "Old": 5.95,
+      "New": 5.79
+    },
+    {
+      "P": {
+        "Id": 648,
+        "Name": "420 Compound 27/1 GAP Gastro Pop",
+        "Producer": "Four 20 Pharma",
+        "MinPrice": 6.49,
+        "Available": true,
+        "Url": "https://flowzz.com/product/420-compound-27-1-gap-gastro-pop"
+      },
+      "Old": 6.85,
+      "New": 6.49
+    },
+    {
+      "P": {
+        "Id": 3390,
+        "Name": "NERO 18/1 BIZ GGE Green Gelato",
+        "Producer": "Remexian Pharma",
+        "MinPrice": 3.99,
+        "Available": true,
+        "Url": "https://flowzz.com/product/nero-18-1-biz-gge-green-gelato"
+      },
+      "Old": 5.2,
+      "New": 3.99
+    },
+    {
+      "P": {
+        "Id": 3100,
+        "Name": "IMC Token SPC THC26 Sour Beach Purple Cake",
+        "Producer": "IMC",
+        "MinPrice": 4.95,
+        "Available": true,
+        "Url": "https://flowzz.com/product/imc-spc-thc26-sour-beach-purple-punch-cake"
+      },
+      "Old": 5.5,
+      "New": 4.95
+    },
+    {
+      "P": {
+        "Id": 2988,
+        "Name": "NICE 18/1 SER Seriotica",
+        "Producer": "Cansativa",
+        "MinPrice": 3.69,
+        "Available": true,
+        "Url": "https://flowzz.com/product/nice-18-1-ser-seriotica"
+      },
+      "Old": 3.93,
+      "New": 3.69
+    }
+  ]
 }
