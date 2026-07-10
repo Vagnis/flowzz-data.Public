@@ -1,145 +1,26 @@
 {
-  "ScrapedAt": "2026-07-10T03:25:51.797382+02:00",
+  "ScrapedAt": "2026-07-10T04:59:30.682015+02:00",
   "NewStrains": [],
   "RemovedCount": 0,
-  "BackInStock": [
+  "BackInStock": [],
+  "OutOfStock": [
     {
       "Id": 3951,
       "Name": "MGF 200 26/1 Purple Milk",
       "Producer": "AMP",
-      "MinPrice": 4.27,
-      "Available": true,
+      "MinPrice": null,
+      "Available": false,
       "Url": "https://flowzz.com/product/mgf-200-26-1-purple-milk"
     },
     {
       "Id": 3887,
       "Name": "NERO 21/1 BIZ GGE Green Gelato",
       "Producer": "Remexian Pharma",
-      "MinPrice": 4.2,
-      "Available": true,
+      "MinPrice": null,
+      "Available": false,
       "Url": "https://flowzz.com/product/nero-21-1-biz-gge-green-gelato"
     }
   ],
-  "OutOfStock": [
-    {
-      "Id": 3324,
-      "Name": "Cannamedical Sativa forte Zkittlez Mintz",
-      "Producer": "Cannamedical",
-      "MinPrice": null,
-      "Available": false,
-      "Url": "https://flowzz.com/product/cannamedical-sativa-forte-zkittlez-mintz"
-    }
-  ],
-  "PriceUp": [
-    {
-      "P": {
-        "Id": 3756,
-        "Name": "Herbasana Medellin Midnight 20:01 El Patron",
-        "Producer": "Herbasana",
-        "MinPrice": 3.73,
-        "Available": true,
-        "Url": "https://flowzz.com/product/herbasana-medellin-midnight-20-01-el-patron"
-      },
-      "Old": 3.72,
-      "New": 3.73
-    },
-    {
-      "P": {
-        "Id": 2866,
-        "Name": "Eufloria 27/1 MOG  Marshmallow OG",
-        "Producer": "Remexian Pharma",
-        "MinPrice": 4.99,
-        "Available": true,
-        "Url": "https://flowzz.com/product/eufloria-27-1-mog-marshmallow-og"
-      },
-      "Old": 4.98,
-      "New": 4.99
-    }
-  ],
-  "PriceDown": [
-    {
-      "P": {
-        "Id": 1758,
-        "Name": "Sibanax Hybrid MCF 28/1 Mac Fem",
-        "Producer": "Heyday",
-        "MinPrice": 5.45,
-        "Available": true,
-        "Url": "https://flowzz.com/product/sibanax-hybrid-mcf-28-1"
-      },
-      "Old": 5.9,
-      "New": 5.45
-    },
-    {
-      "P": {
-        "Id": 247,
-        "Name": "Canopy AKH 22/1 Afghan Kush",
-        "Producer": "Canopy Medical",
-        "MinPrice": 4.41,
-        "Available": true,
-        "Url": "https://flowzz.com/product/canopy-akh-22-afghan-kush"
-      },
-      "Old": 4.42,
-      "New": 4.41
-    },
-    {
-      "P": {
-        "Id": 116,
-        "Name": "IMC THC22 T01 Hindu Kush",
-        "Producer": "IMC",
-        "MinPrice": 4.23,
-        "Available": true,
-        "Url": "https://flowzz.com/product/imc-thc-22-t01-hindu-kush"
-      },
-      "Old": 4.24,
-      "New": 4.23
-    },
-    {
-      "P": {
-        "Id": 3720,
-        "Name": "BUUO 20/1 TMS Black Marble",
-        "Producer": "WMG Pharma",
-        "MinPrice": 3.18,
-        "Available": true,
-        "Url": "https://flowzz.com/product/buuo-20-1-tms-black-marble"
-      },
-      "Old": 3.19,
-      "New": 3.18
-    },
-    {
-      "P": {
-        "Id": 3557,
-        "Name": "Apollo 24/1 HLS Honey Suckle",
-        "Producer": "Cannprisma",
-        "MinPrice": 4.03,
-        "Available": true,
-        "Url": "https://flowzz.com/product/apollo-24-1-hls-honey-suckle"
-      },
-      "Old": 4.04,
-      "New": 4.03
-    },
-    {
-      "P": {
-        "Id": 3089,
-        "Name": "avaay 24/1 CP Candy Pavé",
-        "Producer": "avaay",
-        "MinPrice": 6.02,
-        "Available": true,
-        "Url": "https://flowzz.com/product/avaay-24-1-cp-candy-pave"
-      },
-      "Old": 6.03,
-      "New": 6.02
-    },
-    {
-      "P": {
-        "Id": 3004,
-        "Name": "Materia AND 18/1 Andes",
-        "Producer": "Materia",
-        "MinPrice": 3.15,
-        "Available": true,
-        "Url": "https://flowzz.com/product/materia-and-18-1-andes"
-      },
-      "Old": 3.16,
-      "New": 3.15
-    }
-  ]
+  "PriceUp": [],
+  "PriceDown": []
 }
