@@ -1,18 +1,59 @@
 {
-  "ScrapedAt": "2026-07-11T06:19:51.165276+02:00",
+  "ScrapedAt": "2026-07-11T08:20:33.461922+02:00",
   "NewStrains": [],
   "RemovedCount": 0,
   "BackInStock": [],
-  "OutOfStock": [
+  "OutOfStock": [],
+  "PriceUp": [
     {
-      "Id": 2726,
-      "Name": "Cookies 2.0 Apples & Bananas 26/1  CAN",
-      "Producer": "Cansativa",
-      "MinPrice": null,
-      "Available": false,
-      "Url": "https://flowzz.com/product/cookies-2-0-apples-and-bananas-26-1-can"
+      "P": {
+        "Id": 3009,
+        "Name": "Slouu 25/1 PS3 CA OGK OG Kush",
+        "Producer": "enua Pharma",
+        "MinPrice": 3.93,
+        "Available": true,
+        "Url": "https://flowzz.com/product/slouu-25-1-ps3-ca-ogk-og-kush"
+      },
+      "Old": 3.92,
+      "New": 3.93
     }
   ],
-  "PriceUp": [],
-  "PriceDown": []
+  "PriceDown": [
+    {
+      "P": {
+        "Id": 2252,
+        "Name": "Cannamedical Indica Ultra SM Sunset Serenity",
+        "Producer": "Cannamedical",
+        "MinPrice": 4.28,
+        "Available": true,
+        "Url": "https://flowzz.com/product/cannamedical-indica-ultra-sunset-serenity"
+      },
+      "Old": 4.98,
+      "New": 4.28
+    },
+    {
+      "P": {
+        "Id": 3980,
+        "Name": "24/1 IUVO OC Selene",
+        "Producer": "IUVO Therapeutics",
+        "MinPrice": 8.99,
+        "Available": true,
+        "Url": "https://flowzz.com/product/24-1-iuvo-oc-selene"
+      },
+      "Old": 9.19,
+      "New": 8.99
+    },
+    {
+      "P": {
+        "Id": 3816,
+        "Name": "San Raf 25/1 PNK Pink OG Kush",
+        "Producer": "Aurora",
+        "MinPrice": 5.65,
+        "Available": true,
+        "Url": "https://flowzz.com/product/san-raf-25-1-pnk-pink-og-kush"
+      },
+      "Old": 5.7,
+      "New": 5.65
+    }
+  ]
 }
