@@ -1,59 +1,328 @@
 {
-  "ScrapedAt": "2026-07-11T08:20:33.461922+02:00",
+  "ScrapedAt": "2026-07-11T09:43:21.571749+02:00",
   "NewStrains": [],
   "RemovedCount": 0,
   "BackInStock": [],
-  "OutOfStock": [],
+  "OutOfStock": [
+    {
+      "Id": 1761,
+      "Name": "Remexian 30/1 MTL JUC",
+      "Producer": "Remexian Pharma",
+      "MinPrice": null,
+      "Available": false,
+      "Url": "https://flowzz.com/product/remexian-30-1-mtl-juc"
+    },
+    {
+      "Id": 1762,
+      "Name": "Sibanax Crescendo Cookies 20/1",
+      "Producer": "Heyday",
+      "MinPrice": null,
+      "Available": false,
+      "Url": "https://flowzz.com/product/sibanax-crescendo-20-1"
+    },
+    {
+      "Id": 1759,
+      "Name": "enua 22/1 EG CA Electric Grapefruit",
+      "Producer": "enua Pharma",
+      "MinPrice": null,
+      "Available": false,
+      "Url": "https://flowzz.com/product/enua-22-1-eg-ca-electric-grapefruit"
+    },
+    {
+      "Id": 1758,
+      "Name": "Sibanax Hybrid MCF 28/1 Mac Fem",
+      "Producer": "Heyday",
+      "MinPrice": null,
+      "Available": false,
+      "Url": "https://flowzz.com/product/sibanax-hybrid-mcf-28-1"
+    },
+    {
+      "Id": 1757,
+      "Name": "enua 27/1 GPP CA Gelly Popper",
+      "Producer": "enua Pharma",
+      "MinPrice": null,
+      "Available": false,
+      "Url": "https://flowzz.com/product/enua-27-1-gpp-ca-gelly-popper"
+    },
+    {
+      "Id": 1756,
+      "Name": "Cannamedical Hybrid forte DK Fullgas",
+      "Producer": "Cannamedical",
+      "MinPrice": null,
+      "Available": false,
+      "Url": "https://flowzz.com/product/cannamedical-hybrid-forte-dk-fullgas"
+    },
+    {
+      "Id": 1755,
+      "Name": "Tilray THC22 Sportlight Porto Beach Crasher",
+      "Producer": "Tilray",
+      "MinPrice": null,
+      "Available": false,
+      "Url": "https://flowzz.com/product/tilray-thc22-spotlight-port-beach-crasher"
+    },
+    {
+      "Id": 1734,
+      "Name": "Tilray Craft Cannabisblüten THC25 PPV Platinum Pave",
+      "Producer": "Tilray",
+      "MinPrice": null,
+      "Available": false,
+      "Url": "https://flowzz.com/product/tilray-craft-thc25-ppv-platinum-pave"
+    },
+    {
+      "Id": 1741,
+      "Name": "NEDCANN GHC 22/01 Chemical Bride",
+      "Producer": "Nedcann",
+      "MinPrice": null,
+      "Available": false,
+      "Url": "https://flowzz.com/product/nedcann-ghc-22-1-chemical-bride"
+    },
+    {
+      "Id": 1751,
+      "Name": "Craft Botanics 25/1 Georgia Pie",
+      "Producer": "Montu Group",
+      "MinPrice": null,
+      "Available": false,
+      "Url": "https://flowzz.com/product/craft-botanics-25-1-georgia-pie"
+    },
+    {
+      "Id": 1747,
+      "Name": "Canify Cannabis Flos 27/1 CDA Ku. Pink Slurricane",
+      "Producer": "Canify",
+      "MinPrice": null,
+      "Available": false,
+      "Url": "https://flowzz.com/product/canify-27-1-cda-ku-pink-slurricane"
+    },
+    {
+      "Id": 1752,
+      "Name": "Demecan Core Cros 29:01 Crossbow",
+      "Producer": "Demecan",
+      "MinPrice": null,
+      "Available": false,
+      "Url": "https://flowzz.com/product/demecan-core-cros-29-01-crossbow"
+    },
+    {
+      "Id": 1753,
+      "Name": "MGF J03 26 Jokerz #53",
+      "Producer": "MGF Via Medical",
+      "MinPrice": null,
+      "Available": false,
+      "Url": "https://flowzz.com/product/mgf-jo3-26-jokerz-53"
+    },
+    {
+      "Id": 1733,
+      "Name": "Demecan Craft Rocket 31:01 Pave x Gastro Pop",
+      "Producer": "Demecan",
+      "MinPrice": null,
+      "Available": false,
+      "Url": "https://flowzz.com/product/demecan-craft-rocket-31-01-pave-gastro-pop"
+    }
+  ],
   "PriceUp": [
     {
       "P": {
-        "Id": 3009,
-        "Name": "Slouu 25/1 PS3 CA OGK OG Kush",
-        "Producer": "enua Pharma",
-        "MinPrice": 3.93,
+        "Id": 1347,
+        "Name": "Tikun Midnight 10/14",
+        "Producer": "Dopiopharm",
+        "MinPrice": 7.45,
         "Available": true,
-        "Url": "https://flowzz.com/product/slouu-25-1-ps3-ca-ogk-og-kush"
+        "Url": "https://flowzz.com/product/tikun-midnight-10-14"
       },
-      "Old": 3.92,
-      "New": 3.93
+      "Old": 7.42,
+      "New": 7.45
+    },
+    {
+      "P": {
+        "Id": 3242,
+        "Name": "ZOIKS 22/1 PD Platin Driver",
+        "Producer": "Vayamed",
+        "MinPrice": 3.75,
+        "Available": true,
+        "Url": "https://flowzz.com/product/zoiks-22-1-pd-platin-driver"
+      },
+      "Old": 3.5,
+      "New": 3.75
+    },
+    {
+      "P": {
+        "Id": 2049,
+        "Name": "Weeco 22/1 KIKU Kings Kush",
+        "Producer": "Weeco",
+        "MinPrice": 5.99,
+        "Available": true,
+        "Url": "https://flowzz.com/product/weeco-22-1-kiku-kings-kush"
+      },
+      "Old": 4.25,
+      "New": 5.99
     }
   ],
   "PriceDown": [
     {
       "P": {
-        "Id": 2252,
-        "Name": "Cannamedical Indica Ultra SM Sunset Serenity",
+        "Id": 2222,
+        "Name": "TRUU GT 30:01 Cookies OG",
+        "Producer": "Demecan",
+        "MinPrice": 4.73,
+        "Available": true,
+        "Url": "https://flowzz.com/product/truu-gt-30-01-cookies-og"
+      },
+      "Old": 4.74,
+      "New": 4.73
+    },
+    {
+      "P": {
+        "Id": 2032,
+        "Name": "Tannenbusch 31/1 TF Tubitti Frubitti",
+        "Producer": "Vayamed",
+        "MinPrice": 7.4,
+        "Available": true,
+        "Url": "https://flowzz.com/product/tannenbusch-31-1-tf-tubitti-frubitti"
+      },
+      "Old": 7.45,
+      "New": 7.4
+    },
+    {
+      "P": {
+        "Id": 845,
+        "Name": "Demecan Craft Cali 29:01 Hawaiian Rain X Permanent Marker",
+        "Producer": "Demecan",
+        "MinPrice": 6.89,
+        "Available": true,
+        "Url": "https://flowzz.com/product/demecan-craft-cali-29-01-hawaiian_rain-x-permanent-marker"
+      },
+      "Old": 6.9,
+      "New": 6.89
+    },
+    {
+      "P": {
+        "Id": 667,
+        "Name": "Cannamedical Sativa Ultra NM Polar Cookies",
         "Producer": "Cannamedical",
-        "MinPrice": 4.28,
+        "MinPrice": 6.83,
         "Available": true,
-        "Url": "https://flowzz.com/product/cannamedical-indica-ultra-sunset-serenity"
+        "Url": "https://flowzz.com/product/cannamedical-sativa-ultra-nm-polar-cookies"
       },
-      "Old": 4.98,
-      "New": 4.28
+      "Old": 6.84,
+      "New": 6.83
     },
     {
       "P": {
-        "Id": 3980,
-        "Name": "24/1 IUVO OC Selene",
+        "Id": 3872,
+        "Name": "Siggis KBLT 18:1 Siggis Kirschblüte",
+        "Producer": "Demecan",
+        "MinPrice": 6.95,
+        "Available": true,
+        "Url": "https://flowzz.com/product/siggis-kblt-18-1-siggis-kirschbluete"
+      },
+      "Old": 6.99,
+      "New": 6.95
+    },
+    {
+      "P": {
+        "Id": 3866,
+        "Name": "Medical Saints 24/1 MC1 MAC 1",
+        "Producer": "Medical Saints",
+        "MinPrice": 3.43,
+        "Available": true,
+        "Url": "https://flowzz.com/product/medical-saints-24-1-mc1-mac1"
+      },
+      "Old": 3.44,
+      "New": 3.43
+    },
+    {
+      "P": {
+        "Id": 3674,
+        "Name": "APEX MTF 32/1 Mutant Tire Fire",
+        "Producer": "Cannovum",
+        "MinPrice": 5.99,
+        "Available": true,
+        "Url": "https://flowzz.com/product/apex-mtf-32-1-mutant-tire-fire"
+      },
+      "Old": 6.45,
+      "New": 5.99
+    },
+    {
+      "P": {
+        "Id": 3671,
+        "Name": "CannXChange CC 25/1 Cheddar Cheeze",
+        "Producer": "Cantourage",
+        "MinPrice": 3.78,
+        "Available": true,
+        "Url": "https://flowzz.com/product/cannxchange-cc-25-1-cheddar-cheeze"
+      },
+      "Old": 3.79,
+      "New": 3.78
+    },
+    {
+      "P": {
+        "Id": 3625,
+        "Name": "30/1 Amici SLH Super Lemon Haze",
+        "Producer": "Cansativa",
+        "MinPrice": 4.99,
+        "Available": true,
+        "Url": "https://flowzz.com/product/30-1-amici-slh-super-lemon-haze"
+      },
+      "Old": 5.18,
+      "New": 4.99
+    },
+    {
+      "P": {
+        "Id": 3530,
+        "Name": "28/1 IUVO OC Neutronium",
         "Producer": "IUVO Therapeutics",
-        "MinPrice": 8.99,
+        "MinPrice": 6.91,
         "Available": true,
-        "Url": "https://flowzz.com/product/24-1-iuvo-oc-selene"
+        "Url": "https://flowzz.com/product/28-1-iuvo-oc-neutronium"
       },
-      "Old": 9.19,
-      "New": 8.99
+      "Old": 6.92,
+      "New": 6.91
     },
     {
       "P": {
-        "Id": 3816,
-        "Name": "San Raf 25/1 PNK Pink OG Kush",
-        "Producer": "Aurora",
-        "MinPrice": 5.65,
+        "Id": 3398,
+        "Name": "enua 27/1 Blue L CA Blue Lobster",
+        "Producer": "enua Pharma",
+        "MinPrice": 6.62,
         "Available": true,
-        "Url": "https://flowzz.com/product/san-raf-25-1-pnk-pink-og-kush"
+        "Url": "https://flowzz.com/product/enua-27-1-blue-l-ca-blue-lobster"
       },
-      "Old": 5.7,
-      "New": 5.65
+      "Old": 6.63,
+      "New": 6.62
+    },
+    {
+      "P": {
+        "Id": 3338,
+        "Name": "Demecan Craft Aloha 34/1 98 Aloha White Widow x Trainwreck",
+        "Producer": "Demecan",
+        "MinPrice": 7.63,
+        "Available": true,
+        "Url": "https://flowzz.com/product/demecan-craft-aloha-34-1-98-aloha-white-widow-x-trainwreck"
+      },
+      "Old": 7.64,
+      "New": 7.63
+    },
+    {
+      "P": {
+        "Id": 3254,
+        "Name": "KHIRON SP 28/1 Sugar Punch",
+        "Producer": "KHIRON Europe",
+        "MinPrice": 4.65,
+        "Available": true,
+        "Url": "https://flowzz.com/product/khiron-sp-28-1-sugar-punch"
+      },
+      "Old": 4.93,
+      "New": 4.65
+    },
+    {
+      "P": {
+        "Id": 2042,
+        "Name": "LOT 420 - Greyscales FJ 26/1 Flapjacks",
+        "Producer": "Cantourage",
+        "MinPrice": 5.8,
+        "Available": true,
+        "Url": "https://flowzz.com/product/cantourage-26-1-greyscales-fj-flapjacks"
+      },
+      "Old": 5.9,
+      "New": 5.8
     }
   ]
 }
