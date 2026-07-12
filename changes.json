@@ -1,1124 +1,829 @@
 {
-  "ScrapedAt": "2026-07-13T00:01:29.111769+02:00",
+  "ScrapedAt": "2026-07-13T01:47:28.248891+02:00",
   "NewStrains": [],
   "RemovedCount": 0,
-  "BackInStock": [],
-  "OutOfStock": [
+  "BackInStock": [
     {
       "Id": 474,
       "Name": "Cannamedical Hybrid Forte NM Critical Bilbo",
       "Producer": "Cannamedical",
-      "MinPrice": null,
-      "Available": false,
+      "MinPrice": 7.99,
+      "Available": true,
       "Url": "https://flowzz.com/product/cannamedical-hybrid-forte-nm-critical-bilbo"
-    },
-    {
-      "Id": 3951,
-      "Name": "MGF 200 26/1 Purple Milk",
-      "Producer": "AMP",
-      "MinPrice": null,
-      "Available": false,
-      "Url": "https://flowzz.com/product/mgf-200-26-1-purple-milk"
     },
     {
       "Id": 3655,
       "Name": "HiDealz 15/1 MS BTU Black Tuna smalls",
       "Producer": "Remexian Pharma",
-      "MinPrice": null,
-      "Available": false,
+      "MinPrice": 2.85,
+      "Available": true,
       "Url": "https://flowzz.com/product/hidealz-15-1-ms-btu-black-tuna-smalls"
-    },
+    }
+  ],
+  "OutOfStock": [
     {
-      "Id": 0,
-      "Name": "ANIMAL COOKIES × SINMINT COOKIES",
-      "Producer": "Demecan",
+      "Id": 3924,
+      "Name": "MGF Pop up No. 21 Candy Pave",
+      "Producer": "MGF Via Medical",
       "MinPrice": null,
       "Available": false,
-      "Url": "https://shop.dransay.com/product/animal-cookies-sinmint-cookies/5548558"
-    },
-    {
-      "Id": 0,
-      "Name": "Triangle Mints",
-      "Producer": "Tilray",
-      "MinPrice": null,
-      "Available": false,
-      "Url": "https://shop.dransay.com/product/triangle-mints/4621059"
-    },
-    {
-      "Id": 0,
-      "Name": "Jack Black",
-      "Producer": "Cantourage",
-      "MinPrice": null,
-      "Available": false,
-      "Url": "https://shop.dransay.com/product/jack-black/5273065"
-    },
-    {
-      "Id": 0,
-      "Name": "Doug's Varin",
-      "Producer": "Remexian/Madrecan",
-      "MinPrice": null,
-      "Available": false,
-      "Url": "https://shop.dransay.com/product/doug-s-varin/173015"
-    },
-    {
-      "Id": 0,
-      "Name": "Pavé Runtz",
-      "Producer": "Cantourage",
-      "MinPrice": null,
-      "Available": false,
-      "Url": "https://shop.dransay.com/product/pav-runtz/894"
-    },
-    {
-      "Id": 0,
-      "Name": "LA Kush Cake",
-      "Producer": "Cannamedical",
-      "MinPrice": null,
-      "Available": false,
-      "Url": "https://shop.dransay.com/product/la-kush-cake/5224000"
-    },
-    {
-      "Id": 0,
-      "Name": "Platinum Girl Scout Cookies",
-      "Producer": "Bathera",
-      "MinPrice": null,
-      "Available": false,
-      "Url": "https://shop.dransay.com/product/platinum-girl-scout-cookies/2372957"
+      "Url": "https://flowzz.com/product/mgf-pop-up-no-21-candy-pave"
     }
   ],
   "PriceUp": [
     {
       "P": {
-        "Id": 2681,
-        "Name": "MC Regular Drop GMO x Jet Fuel Gelato",
-        "Producer": "Demecan",
-        "MinPrice": 5.15,
+        "Id": 1734,
+        "Name": "Tilray Craft Cannabisblüten THC25 PPV Platinum Pave",
+        "Producer": "Tilray",
+        "MinPrice": 6.99,
         "Available": true,
-        "Url": "https://flowzz.com/product/mc-regular-drop-gmo-x-jet-fuel-gelato"
+        "Url": "https://flowzz.com/product/tilray-craft-thc25-ppv-platinum-pave"
       },
-      "Old": 4.99,
-      "New": 5.15
-    },
-    {
-      "P": {
-        "Id": 2348,
-        "Name": "Demecan CR Lean Drop 22/1 White Fondant",
-        "Producer": "Demecan",
-        "MinPrice": 4.65,
-        "Available": true,
-        "Url": "https://flowzz.com/product/demecan-cr-lean-drop-27-1-white-fondant"
-      },
-      "Old": 3.57,
-      "New": 4.65
-    },
-    {
-      "P": {
-        "Id": 2168,
-        "Name": "Cannamedical Hybrid Forte BC Lemon Cookies",
-        "Producer": "Cannamedical",
-        "MinPrice": 6.45,
-        "Available": true,
-        "Url": "https://flowzz.com/product/cannameidcal-hybrid-forte-bc-lemon-cookies"
-      },
-      "Old": 5.99,
-      "New": 6.45
-    },
-    {
-      "P": {
-        "Id": 370,
-        "Name": "Cannamedical Sativa classic NM Gelato Dream",
-        "Producer": "Cannamedical",
-        "MinPrice": 7.59,
-        "Available": true,
-        "Url": "https://flowzz.com/product/cannamedical-sativa-classic-nm-gelato-dream"
-      },
-      "Old": 6.99,
-      "New": 7.59
-    },
-    {
-      "P": {
-        "Id": 137,
-        "Name": "Sinceritas 10/10",
-        "Producer": "Sinceritas",
-        "MinPrice": 2.95,
-        "Available": true,
-        "Url": "https://flowzz.com/product/sinceritas-10-10"
-      },
-      "Old": 2.94,
-      "New": 2.95
-    },
-    {
-      "P": {
-        "Id": 3909,
-        "Name": "HiDealz 24/1 MS Honeydew Haze Smalls",
-        "Producer": "Remexian Pharma",
-        "MinPrice": 3.15,
-        "Available": true,
-        "Url": "https://flowzz.com/product/hidealz-24-1-ms-honeydew-haze"
-      },
-      "Old": 2.99,
-      "New": 3.15
-    },
-    {
-      "P": {
-        "Id": 3836,
-        "Name": "Hollymood 30/1 SR Sunset Runtz",
-        "Producer": "Bathera",
-        "MinPrice": 4.97,
-        "Available": true,
-        "Url": "https://flowzz.com/product/hollymood-30-1-sr-sunset-runtz"
-      },
-      "Old": 4.89,
-      "New": 4.97
-    },
-    {
-      "P": {
-        "Id": 3734,
-        "Name": "Slouu 33/1 COZ CA Cookies OZ",
-        "Producer": "enua Pharma",
-        "MinPrice": 4.99,
-        "Available": true,
-        "Url": "https://flowzz.com/product/slouu-33-1-coz-ca-cookies-oz"
-      },
-      "Old": 4.95,
-      "New": 4.99
-    },
-    {
-      "P": {
-        "Id": 3622,
-        "Name": "Remexian 33/1 BBR HOT High Octane 94",
-        "Producer": "Remexian Pharma",
-        "MinPrice": 4.99,
-        "Available": true,
-        "Url": "https://flowzz.com/product/remexian-33-1-bbr-hot-high-octane-94"
-      },
-      "Old": 4.39,
-      "New": 4.99
-    },
-    {
-      "P": {
-        "Id": 3614,
-        "Name": "THC AKUT OHS 20 NP Neon Princess",
-        "Producer": "Bathera",
-        "MinPrice": 3.45,
-        "Available": true,
-        "Url": "https://flowzz.com/product/thc-akut-ohs-20-np-neon-princess"
-      },
-      "Old": 3.29,
-      "New": 3.45
-    },
-    {
-      "P": {
-        "Id": 3605,
-        "Name": "Canify 22/1 CZE Ku. Mochi",
-        "Producer": "Canify",
-        "MinPrice": 4.35,
-        "Available": true,
-        "Url": "https://flowzz.com/product/canify-22-1-cze-ku-mochi"
-      },
-      "Old": 3.99,
-      "New": 4.35
-    },
-    {
-      "P": {
-        "Id": 3147,
-        "Name": "Drapalin 28/1 Bliss",
-        "Producer": "Drapalin Pharmaceuticals",
-        "MinPrice": 4.25,
-        "Available": true,
-        "Url": "https://flowzz.com/product/drapalin-28-1-bliss"
-      },
-      "Old": 4.19,
-      "New": 4.25
-    },
-    {
-      "P": {
-        "Id": 2986,
-        "Name": "Cannabis flos 22/1 CZE Ku. Ultra Sour",
-        "Producer": "Canify",
-        "MinPrice": 4.24,
-        "Available": true,
-        "Url": "https://flowzz.com/product/cannabis-flos-22-1-cze-ku-ultra-sour"
-      },
-      "Old": 4.2,
-      "New": 4.24
-    },
-    {
-      "P": {
-        "Id": 2781,
-        "Name": "Remexian 33/1 MTL DIN Dantez Inferno",
-        "Producer": "Remexian Pharma",
-        "MinPrice": 4.98,
-        "Available": true,
-        "Url": "https://flowzz.com/product/remexian-33-1-mtl-din-dantez-inferno"
-      },
-      "Old": 4.88,
-      "New": 4.98
-    },
-    {
-      "P": {
-        "Id": 2757,
-        "Name": "NICE 29/1 MOS Morning Sun",
-        "Producer": "Cansativa",
-        "MinPrice": 4.9,
-        "Available": true,
-        "Url": "https://flowzz.com/product/nice-29-1-mos-morning-sun"
-      },
-      "Old": 4.65,
-      "New": 4.9
-    },
-    {
-      "P": {
-        "Id": 0,
-        "Name": "Durban Poison",
-        "Producer": "Cannamedical",
-        "MinPrice": 0.05,
-        "Available": true,
-        "Url": "https://shop.dransay.com/product/durban-poison/6031478"
-      },
-      "Old": 0.04,
-      "New": 0.05
-    },
-    {
-      "P": {
-        "Id": 0,
-        "Name": "Pink Diesel",
-        "Producer": "Aurora Cannabis",
-        "MinPrice": 58335.07,
-        "Available": true,
-        "Url": "https://shop.dransay.com/product/pink-diesel/237"
-      },
-      "Old": 5.23,
-      "New": 58335.07
-    },
-    {
-      "P": {
-        "Id": 0,
-        "Name": "Electric Honey Dew",
-        "Producer": "Aurora Cannabis",
-        "MinPrice": 57641.26,
-        "Available": true,
-        "Url": "https://shop.dransay.com/product/electric-honey-dew/559"
-      },
-      "Old": 3.02,
-      "New": 57641.26
-    },
-    {
-      "P": {
-        "Id": 0,
-        "Name": "Chemango Kush",
-        "Producer": "Aurora Cannabis",
-        "MinPrice": 103.94,
-        "Available": true,
-        "Url": "https://shop.dransay.com/product/chemango-kush/953"
-      },
-      "Old": 0.04,
-      "New": 103.94
-    },
-    {
-      "P": {
-        "Id": 0,
-        "Name": "Funky Zkittlez",
-        "Producer": "Cantourage",
-        "MinPrice": 45757.17,
-        "Available": true,
-        "Url": "https://shop.dransay.com/product/funky-zkittlez/5735083"
-      },
-      "Old": 0.04,
-      "New": 45757.17
-    },
-    {
-      "P": {
-        "Id": 0,
-        "Name": "Moby Dick",
-        "Producer": "Remexian/Madrecan",
-        "MinPrice": 46556.88,
-        "Available": true,
-        "Url": "https://shop.dransay.com/product/moby-dick/6422338"
-      },
-      "Old": 0.29,
-      "New": 46556.88
-    },
-    {
-      "P": {
-        "Id": 0,
-        "Name": "MAC 2",
-        "Producer": "Cannamedical",
-        "MinPrice": 42519.42,
-        "Available": true,
-        "Url": "https://shop.dransay.com/product/mac-2/6338229"
-      },
-      "Old": 0.04,
-      "New": 42519.42
-    },
-    {
-      "P": {
-        "Id": 0,
-        "Name": "Forbidden Punch",
-        "Producer": "AMP",
-        "MinPrice": 68494.18,
-        "Available": true,
-        "Url": "https://shop.dransay.com/product/forbidden-punch/4325218"
-      },
-      "Old": 45217.38,
-      "New": 68494.18
-    },
-    {
-      "P": {
-        "Id": 0,
-        "Name": "Sour Cherry Punch",
-        "Producer": "Avaay/Vayamed",
-        "MinPrice": 25.29,
-        "Available": false,
-        "Url": "https://shop.dransay.com/product/sour-cherry-punch/164"
-      },
-      "Old": 0.04,
-      "New": 25.29
-    },
-    {
-      "P": {
-        "Id": 0,
-        "Name": "Sunset Strudel",
-        "Producer": "Barongo/buuo - WMG",
-        "MinPrice": 0.04,
-        "Available": false,
-        "Url": "https://shop.dransay.com/product/sunset-strudel/533908"
-      },
-      "Old": 0.0,
-      "New": 0.04
-    },
-    {
-      "P": {
-        "Id": 0,
-        "Name": "Pineapple Cherry Punch",
-        "Producer": "enua Pharma",
-        "MinPrice": 43.98,
-        "Available": false,
-        "Url": "https://shop.dransay.com/product/pineapple-cherry-punch/5778323"
-      },
-      "Old": 0.0,
-      "New": 43.98
-    },
-    {
-      "P": {
-        "Id": 0,
-        "Name": "Space Rider",
-        "Producer": "Avaay/Vayamed",
-        "MinPrice": 39412.12,
-        "Available": false,
-        "Url": "https://shop.dransay.com/product/space-rider/3627622"
-      },
-      "Old": 43.98,
-      "New": 39412.12
-    },
-    {
-      "P": {
-        "Id": 0,
-        "Name": "Sour Sundae",
-        "Producer": "Cannamedical",
-        "MinPrice": 52722.03,
-        "Available": false,
-        "Url": "https://shop.dransay.com/product/sour-sundae/2297720"
-      },
-      "Old": 0.0,
-      "New": 52722.03
-    },
-    {
-      "P": {
-        "Id": 0,
-        "Name": "Lemon Viper Mimosa",
-        "Producer": "Barongo/buuo - WMG",
-        "MinPrice": 49389.57,
-        "Available": false,
-        "Url": "https://shop.dransay.com/product/lemon-viper-mimosa/4301322"
-      },
-      "Old": 0.04,
-      "New": 49389.57
-    },
-    {
-      "P": {
-        "Id": 0,
-        "Name": "Crumbled Lime",
-        "Producer": "Demecan",
-        "MinPrice": 49389.57,
-        "Available": false,
-        "Url": "https://shop.dransay.com/product/crumbled-lime/3482366"
-      },
-      "Old": 25.29,
-      "New": 49389.57
-    },
-    {
-      "P": {
-        "Id": 0,
-        "Name": "Strawberry OG",
-        "Producer": "Cannamedical",
-        "MinPrice": 55499.19,
-        "Available": false,
-        "Url": "https://shop.dransay.com/product/strawberry-og/382"
-      },
-      "Old": 53355.35,
-      "New": 55499.19
-    },
-    {
-      "P": {
-        "Id": 0,
-        "Name": "Crossbow",
-        "Producer": "Demecan",
-        "MinPrice": 30067.48,
-        "Available": false,
-        "Url": "https://shop.dransay.com/product/crossbow/2065545"
-      },
-      "Old": 0.04,
-      "New": 30067.48
-    },
-    {
-      "P": {
-        "Id": 0,
-        "Name": "Mac Deluxe",
-        "Producer": "Remexian/Madrecan",
-        "MinPrice": 20962.01,
-        "Available": false,
-        "Url": "https://shop.dransay.com/product/mac-deluxe/137401"
-      },
-      "Old": 0.04,
-      "New": 20962.01
-    },
-    {
-      "P": {
-        "Id": 0,
-        "Name": "Gorilla Glue",
-        "Producer": "Four 20 Pharma",
-        "MinPrice": 20962.01,
-        "Available": false,
-        "Url": "https://shop.dransay.com/product/gorilla-glue/70"
-      },
-      "Old": 0.04,
-      "New": 20962.01
-    },
-    {
-      "P": {
-        "Id": 0,
-        "Name": "Lemon Cookie",
-        "Producer": "Cannamedical",
-        "MinPrice": 0.22,
-        "Available": false,
-        "Url": "https://shop.dransay.com/product/lemon-cookie/3611337"
-      },
-      "Old": 0.04,
-      "New": 0.22
-    },
-    {
-      "P": {
-        "Id": 0,
-        "Name": "Orange Z",
-        "Producer": "IUVO Therapeutics",
-        "MinPrice": 0.22,
-        "Available": false,
-        "Url": "https://shop.dransay.com/product/orange-z/3902113"
-      },
-      "Old": 0.0,
-      "New": 0.22
-    },
-    {
-      "P": {
-        "Id": 0,
-        "Name": "Mega Breath",
-        "Producer": "enua Pharma",
-        "MinPrice": 0.04,
-        "Available": false,
-        "Url": "https://shop.dransay.com/product/mega-breath/699"
-      },
-      "Old": 0.0,
-      "New": 0.04
-    },
-    {
-      "P": {
-        "Id": 0,
-        "Name": "Mint Chocolate Chip",
-        "Producer": "Cantourage",
-        "MinPrice": 33241.59,
-        "Available": false,
-        "Url": "https://shop.dransay.com/product/mint-chocolate-chip/988274"
-      },
-      "Old": 33181.13,
-      "New": 33241.59
-    },
-    {
-      "P": {
-        "Id": 0,
-        "Name": "Amnesia Lemon",
-        "Producer": "Remexian/Madrecan",
-        "MinPrice": 100.0,
-        "Available": false,
-        "Url": "https://shop.dransay.com/product/amnesia-lemon/141"
-      },
-      "Old": 0.16,
-      "New": 100.0
-    },
-    {
-      "P": {
-        "Id": 0,
-        "Name": "Critical Kush",
-        "Producer": "Avaay/Vayamed",
-        "MinPrice": 30655.33,
-        "Available": false,
-        "Url": "https://shop.dransay.com/product/critical-kush/1054"
-      },
-      "Old": 4.0,
-      "New": 30655.33
-    },
-    {
-      "P": {
-        "Id": 0,
-        "Name": "Frosted Cookies",
-        "Producer": "Cantourage",
-        "MinPrice": 30655.33,
-        "Available": false,
-        "Url": "https://shop.dransay.com/product/frosted-cookies/179"
-      },
-      "Old": 4.0,
-      "New": 30655.33
-    },
-    {
-      "P": {
-        "Id": 0,
-        "Name": "Scoops",
-        "Producer": "Four 20 Pharma",
-        "MinPrice": 40348.06,
-        "Available": false,
-        "Url": "https://shop.dransay.com/product/scoops/3175903"
-      },
-      "Old": 0.04,
-      "New": 40348.06
-    },
-    {
-      "P": {
-        "Id": 0,
-        "Name": "Animal Face Sherb Crasher",
-        "Producer": "enua Pharma",
-        "MinPrice": 48618.16,
-        "Available": false,
-        "Url": "https://shop.dransay.com/product/animal-face-sherb-crasher/1008"
-      },
-      "Old": 0.04,
-      "New": 48618.16
-    },
-    {
-      "P": {
-        "Id": 0,
-        "Name": "Sweet San Valley",
-        "Producer": "enua Pharma",
-        "MinPrice": 27154.45,
-        "Available": false,
-        "Url": "https://shop.dransay.com/product/sweet-san-valley/859"
-      },
-      "Old": 25.29,
-      "New": 27154.45
-    },
-    {
-      "P": {
-        "Id": 0,
-        "Name": "Mokum's Tulip (zerkleinert)",
-        "Producer": "Remexian/Madrecan",
-        "MinPrice": 2.96,
-        "Available": false,
-        "Url": "https://shop.dransay.com/product/mokum-s-tulip-zerkleinert/669"
-      },
-      "Old": 0.04,
-      "New": 2.96
-    },
-    {
-      "P": {
-        "Id": 0,
-        "Name": "Titanimal",
-        "Producer": "enua Pharma",
-        "MinPrice": 3.96,
-        "Available": false,
-        "Url": "https://shop.dransay.com/product/titanimal/978"
-      },
-      "Old": 2.29,
-      "New": 3.96
-    },
-    {
-      "P": {
-        "Id": 0,
-        "Name": "LA Confidential",
-        "Producer": "Aurora Cannabis",
-        "MinPrice": 28251.12,
-        "Available": false,
-        "Url": "https://shop.dransay.com/product/la-confidential/492"
-      },
-      "Old": 2.58,
-      "New": 28251.12
-    },
-    {
-      "P": {
-        "Id": 0,
-        "Name": "Wicked Frosted Mintz",
-        "Producer": "Remexian/Madrecan",
-        "MinPrice": 18943.14,
-        "Available": false,
-        "Url": "https://shop.dransay.com/product/wicked-frosted-mintz/2830479"
-      },
-      "Old": 2.27,
-      "New": 18943.14
-    },
-    {
-      "P": {
-        "Id": 0,
-        "Name": "Peanut Butter Breath",
-        "Producer": "Remexian/Madrecan",
-        "MinPrice": 0.04,
-        "Available": false,
-        "Url": "https://shop.dransay.com/product/peanut-butter-breath/912"
-      },
-      "Old": 0.03,
-      "New": 0.04
-    }
-  ],
-  "PriceDown": [
-    {
-      "P": {
-        "Id": 3870,
-        "Name": "Bathera 25/1 GMO smalls",
-        "Producer": "Bathera",
-        "MinPrice": 3.98,
-        "Available": true,
-        "Url": "https://flowzz.com/product/bathera-25-1-gmo-smalls"
-      },
-      "Old": 4.27,
-      "New": 3.98
-    },
-    {
-      "P": {
-        "Id": 3868,
-        "Name": "Craft Kings 24/1 APS Apes in Space smalls",
-        "Producer": "Remexian Pharma",
-        "MinPrice": 3.78,
-        "Available": true,
-        "Url": "https://flowzz.com/product/craft-kings-24-1-aps-apes-in-space-smalls"
-      },
-      "Old": 3.98,
-      "New": 3.78
-    },
-    {
-      "P": {
-        "Id": 3727,
-        "Name": "PhCann Exotics 32/1 Spritzer",
-        "Producer": "Nimbus Health",
-        "MinPrice": 5.44,
-        "Available": true,
-        "Url": "https://flowzz.com/product/phcann-exotics-32-1-spritzer"
-      },
-      "Old": 5.45,
-      "New": 5.44
-    },
-    {
-      "P": {
-        "Id": 3680,
-        "Name": "Beacon T30 Lavender Haze",
-        "Producer": "Beacon Medical Germany",
-        "MinPrice": 4.95,
-        "Available": true,
-        "Url": "https://flowzz.com/product/beacon-lh-t30-lavender-haze"
-      },
-      "Old": 4.98,
-      "New": 4.95
-    },
-    {
-      "P": {
-        "Id": 3522,
-        "Name": "enua 30/1 AT2 CA MAM Miracle Alien Mintz",
-        "Producer": "enua Pharma",
-        "MinPrice": 3.99,
-        "Available": true,
-        "Url": "https://flowzz.com/product/enua-30-1-at2-ca-mam-miracle-alien-mintz"
-      },
-      "Old": 4.0,
-      "New": 3.99
-    },
-    {
-      "P": {
-        "Id": 2748,
-        "Name": "GT Strong Drop 27/1 Citron Cookies x Biker Kush",
-        "Producer": "Demecan",
-        "MinPrice": 3.98,
-        "Available": true,
-        "Url": "https://flowzz.com/product/gt-strong-drop-27-1-citron-cookies-x-biker-kush"
-      },
-      "Old": 3.99,
-      "New": 3.98
+      "Old": 3.89,
+      "New": 6.99
     },
     {
       "P": {
         "Id": 0,
         "Name": "Sky Berry Kush",
         "Producer": "Cannamedical",
-        "MinPrice": 0.04,
+        "MinPrice": 100.0,
         "Available": true,
         "Url": "https://shop.dransay.com/product/sky-berry-kush/404"
       },
-      "Old": 0.05,
-      "New": 0.04
+      "Old": 0.04,
+      "New": 100.0
     },
     {
       "P": {
         "Id": 0,
-        "Name": "Minty Cookies",
-        "Producer": "enua Pharma",
-        "MinPrice": 0.04,
+        "Name": "Tricho Jordan",
+        "Producer": "alephSana",
+        "MinPrice": 63279.25,
         "Available": true,
-        "Url": "https://shop.dransay.com/product/minty-cookies/5427433"
+        "Url": "https://shop.dransay.com/product/tricho-jordan/4450789"
       },
       "Old": 0.05,
-      "New": 0.04
+      "New": 63279.25
     },
     {
       "P": {
         "Id": 0,
-        "Name": "Pink Kush",
-        "Producer": "enua Pharma",
-        "MinPrice": 0.04,
-        "Available": true,
-        "Url": "https://shop.dransay.com/product/pink-kush/5220703"
-      },
-      "Old": 0.05,
-      "New": 0.04
-    },
-    {
-      "P": {
-        "Id": 0,
-        "Name": "Super Citra G.",
-        "Producer": "Avaay/Vayamed",
-        "MinPrice": 0.04,
-        "Available": true,
-        "Url": "https://shop.dransay.com/product/super-citra-g/302"
-      },
-      "Old": 0.05,
-      "New": 0.04
-    },
-    {
-      "P": {
-        "Id": 0,
-        "Name": "Space Cake",
-        "Producer": "Cansativa",
-        "MinPrice": 139.59,
-        "Available": true,
-        "Url": "https://shop.dransay.com/product/space-cake/608"
-      },
-      "Old": 52435.64,
-      "New": 139.59
-    },
-    {
-      "P": {
-        "Id": 0,
-        "Name": "Sonic Lemon Fuel",
-        "Producer": "Peace Naturals",
-        "MinPrice": 45757.17,
-        "Available": true,
-        "Url": "https://shop.dransay.com/product/sonic-lemon-fuel/3810398"
-      },
-      "Old": 53640.4,
-      "New": 45757.17
-    },
-    {
-      "P": {
-        "Id": 0,
-        "Name": "Ultra Limelight",
-        "Producer": "Cansativa",
-        "MinPrice": 0.04,
-        "Available": true,
-        "Url": "https://shop.dransay.com/product/ultra-limelight/448714"
-      },
-      "Old": 53640.4,
-      "New": 0.04
-    },
-    {
-      "P": {
-        "Id": 0,
-        "Name": "Diablo’s Dream",
-        "Producer": "Cantourage",
-        "MinPrice": 36640.5,
-        "Available": true,
-        "Url": "https://shop.dransay.com/product/diablo-s-dream/5923174"
-      },
-      "Old": 53640.4,
-      "New": 36640.5
-    },
-    {
-      "P": {
-        "Id": 0,
-        "Name": "Ghost Train Haze",
-        "Producer": "Aurora Cannabis",
-        "MinPrice": 36640.5,
-        "Available": true,
-        "Url": "https://shop.dransay.com/product/ghost-train-haze/934"
-      },
-      "Old": 58283.03,
-      "New": 36640.5
-    },
-    {
-      "P": {
-        "Id": 0,
-        "Name": "Killer Cupcake",
-        "Producer": "IUVO Therapeutics",
-        "MinPrice": 55657.02,
-        "Available": true,
-        "Url": "https://shop.dransay.com/product/killer-cupcake/4230542"
-      },
-      "Old": 59593.92,
-      "New": 55657.02
-    },
-    {
-      "P": {
-        "Id": 0,
-        "Name": "Petrol Cookies",
-        "Producer": "Cantourage",
-        "MinPrice": 0.04,
-        "Available": true,
-        "Url": "https://shop.dransay.com/product/petrol-cookies/4101470"
-      },
-      "Old": 13072.55,
-      "New": 0.04
-    },
-    {
-      "P": {
-        "Id": 0,
-        "Name": "Lemon Sorbet",
-        "Producer": "Aurora Cannabis",
-        "MinPrice": 43.98,
-        "Available": true,
-        "Url": "https://shop.dransay.com/product/lemon-sorbet/6306742"
-      },
-      "Old": 13072.55,
-      "New": 43.98
-    },
-    {
-      "P": {
-        "Id": 0,
-        "Name": "Gas Cake",
-        "Producer": "Cantourage",
-        "MinPrice": 7.72,
-        "Available": true,
-        "Url": "https://shop.dransay.com/product/gas-cake/578"
-      },
-      "Old": 33.75,
-      "New": 7.72
-    },
-    {
-      "P": {
-        "Id": 0,
-        "Name": "Gelato Lemon",
-        "Producer": "Cannamedical",
-        "MinPrice": 50.01,
-        "Available": true,
-        "Url": "https://shop.dransay.com/product/gelato-lemon/6337160"
-      },
-      "Old": 60026.71,
-      "New": 50.01
-    },
-    {
-      "P": {
-        "Id": 0,
-        "Name": "Apples & Bananas",
-        "Producer": "Cansativa",
-        "MinPrice": 28.95,
-        "Available": true,
-        "Url": "https://shop.dransay.com/product/apples-bananas/4521738"
-      },
-      "Old": 63279.33,
-      "New": 28.95
-    },
-    {
-      "P": {
-        "Id": 0,
-        "Name": "Citron Cookies",
+        "Name": "Hawaiian Rain X Permanent Marker",
         "Producer": "Demecan",
-        "MinPrice": 52722.03,
-        "Available": false,
-        "Url": "https://shop.dransay.com/product/citron-cookies/1617345"
+        "MinPrice": 58885.94,
+        "Available": true,
+        "Url": "https://shop.dransay.com/product/hawaiian-rain-x-permanent-marker/3441520"
       },
-      "Old": 55835.0,
-      "New": 52722.03
+      "Old": 10.5,
+      "New": 58885.94
     },
     {
       "P": {
         "Id": 0,
-        "Name": "Gelato33",
-        "Producer": "Cantourage",
-        "MinPrice": 0.04,
-        "Available": false,
-        "Url": "https://shop.dransay.com/product/gelato33/154"
+        "Name": "Don Zour",
+        "Producer": "Avaay/Vayamed",
+        "MinPrice": 2377.2,
+        "Available": true,
+        "Url": "https://shop.dransay.com/product/don-zour/4736062"
       },
-      "Old": 0.05,
-      "New": 0.04
+      "Old": 2377.0,
+      "New": 2377.2
     },
     {
       "P": {
         "Id": 0,
-        "Name": "Waffle Truffle",
-        "Producer": "Four 20 Pharma",
-        "MinPrice": 0.03,
+        "Name": "Sunset Strudel",
+        "Producer": "Barongo/buuo - WMG",
+        "MinPrice": 55485.58,
         "Available": false,
-        "Url": "https://shop.dransay.com/product/waffle-truffle/4224582"
+        "Url": "https://shop.dransay.com/product/sunset-strudel/533908"
       },
       "Old": 0.04,
-      "New": 0.03
+      "New": 55485.58
     },
     {
       "P": {
         "Id": 0,
-        "Name": "Cinderella Kush",
+        "Name": "Gorilla Glue",
         "Producer": "Four 20 Pharma",
-        "MinPrice": 0.03,
+        "MinPrice": 39880.63,
         "Available": false,
-        "Url": "https://shop.dransay.com/product/cinderella-kush/18181"
+        "Url": "https://shop.dransay.com/product/gorilla-glue/70"
+      },
+      "Old": 20962.01,
+      "New": 39880.63
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Mega Breath",
+        "Producer": "enua Pharma",
+        "MinPrice": 100.0,
+        "Available": false,
+        "Url": "https://shop.dransay.com/product/mega-breath/699"
       },
       "Old": 0.04,
-      "New": 0.03
+      "New": 100.0
     },
     {
       "P": {
         "Id": 0,
-        "Name": "Pink Kitty",
-        "Producer": "Cansativa",
-        "MinPrice": 0.03,
+        "Name": "Frosted Lemon Angel",
+        "Producer": "Weeco Pharma",
+        "MinPrice": 33241.59,
         "Available": false,
-        "Url": "https://shop.dransay.com/product/pink-kitty/4959859"
+        "Url": "https://shop.dransay.com/product/frosted-lemon-angel/240"
       },
-      "Old": 33459.57,
-      "New": 0.03
+      "Old": 0.04,
+      "New": 33241.59
     },
     {
       "P": {
         "Id": 0,
-        "Name": "Haymaker Haze",
-        "Producer": "Green Success",
-        "MinPrice": 1.18,
-        "Available": false,
-        "Url": "https://shop.dransay.com/product/haymaker-haze/853"
-      },
-      "Old": 10.18,
-      "New": 1.18
-    },
-    {
-      "P": {
-        "Id": 0,
-        "Name": "Black Cookies",
+        "Name": "Frosted Gelato",
         "Producer": "Cantourage",
-        "MinPrice": 0.04,
+        "MinPrice": 11.31,
         "Available": false,
-        "Url": "https://shop.dransay.com/product/black-cookies/736"
+        "Url": "https://shop.dransay.com/product/frosted-gelato/279"
       },
-      "Old": 35891.25,
-      "New": 0.04
+      "Old": 0.04,
+      "New": 11.31
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Big Buddha",
+        "Producer": "Canify",
+        "MinPrice": 37602.83,
+        "Available": false,
+        "Url": "https://shop.dransay.com/product/big-buddha/656"
+      },
+      "Old": 0.04,
+      "New": 37602.83
     },
     {
       "P": {
         "Id": 0,
         "Name": "Permanent Marker",
-        "Producer": "Bathera",
-        "MinPrice": 0.03,
+        "Producer": "Cannovum Health GmbH",
+        "MinPrice": 37602.83,
         "Available": false,
-        "Url": "https://shop.dransay.com/product/permanent-marker/956"
+        "Url": "https://shop.dransay.com/product/permanent-marker/3840082"
       },
-      "Old": 4.0,
-      "New": 0.03
+      "Old": 0.04,
+      "New": 37602.83
     },
     {
       "P": {
         "Id": 0,
-        "Name": "Cocoa Bomba",
-        "Producer": "Cansativa",
-        "MinPrice": 0.14,
+        "Name": "Purple Churro",
+        "Producer": "Remexian/Madrecan",
+        "MinPrice": 37602.83,
         "Available": false,
-        "Url": "https://shop.dransay.com/product/cocoa-bomba/2828476"
+        "Url": "https://shop.dransay.com/product/purple-churro/4386973"
       },
-      "Old": 6.37,
-      "New": 0.14
+      "Old": 0.04,
+      "New": 37602.83
     },
     {
       "P": {
         "Id": 0,
-        "Name": "Glueberry OG",
-        "Producer": "Cantourage",
-        "MinPrice": 0.14,
+        "Name": "Clownz",
+        "Producer": "IMC",
+        "MinPrice": 37602.83,
         "Available": false,
-        "Url": "https://shop.dransay.com/product/glueberry-og/671"
+        "Url": "https://shop.dransay.com/product/clownz/3456445"
       },
-      "Old": 6.37,
-      "New": 0.14
-    },
-    {
-      "P": {
-        "Id": 0,
-        "Name": "Blue Z",
-        "Producer": "Bathera",
-        "MinPrice": 13348.23,
-        "Available": false,
-        "Url": "https://shop.dransay.com/product/blue-z/2436462"
-      },
-      "Old": 34067.24,
-      "New": 13348.23
-    },
-    {
-      "P": {
-        "Id": 0,
-        "Name": "Fine Cookies",
-        "Producer": "Bathera",
-        "MinPrice": 0.03,
-        "Available": false,
-        "Url": "https://shop.dransay.com/product/fine-cookies/602"
-      },
-      "Old": 0.26,
-      "New": 0.03
+      "Old": 0.04,
+      "New": 37602.83
     },
     {
       "P": {
         "Id": 0,
         "Name": "Space Dust",
         "Producer": "Cantourage",
-        "MinPrice": 0.26,
+        "MinPrice": 100.0,
         "Available": false,
         "Url": "https://shop.dransay.com/product/space-dust/875"
       },
-      "Old": 100.0,
-      "New": 0.26
+      "Old": 0.26,
+      "New": 100.0
     },
     {
       "P": {
         "Id": 0,
-        "Name": "Hawaiian Rain",
-        "Producer": "Cansativa",
-        "MinPrice": 0.04,
+        "Name": "Bucket List",
+        "Producer": "Four 20 Pharma",
+        "MinPrice": 3.2,
         "Available": false,
-        "Url": "https://shop.dransay.com/product/hawaiian-rain/720"
+        "Url": "https://shop.dransay.com/product/bucket-list/189"
       },
-      "Old": 0.26,
+      "Old": 0.04,
+      "New": 3.2
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Mac Daddy",
+        "Producer": "Cantourage",
+        "MinPrice": 1.06,
+        "Available": false,
+        "Url": "https://shop.dransay.com/product/mac-daddy/880"
+      },
+      "Old": 0.04,
+      "New": 1.06
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Permanent Marker",
+        "Producer": "Canapac Lda.",
+        "MinPrice": 4.29,
+        "Available": false,
+        "Url": "https://shop.dransay.com/product/permanent-marker/140"
+      },
+      "Old": 0.04,
+      "New": 4.29
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Rainbow Amnesia",
+        "Producer": "Cansativa",
+        "MinPrice": 2.66,
+        "Available": false,
+        "Url": "https://shop.dransay.com/product/rainbow-amnesia/467789"
+      },
+      "Old": 0.01,
+      "New": 2.66
+    }
+  ],
+  "PriceDown": [
+    {
+      "P": {
+        "Id": 2681,
+        "Name": "MC Regular Drop GMO x Jet Fuel Gelato",
+        "Producer": "Demecan",
+        "MinPrice": 4.99,
+        "Available": true,
+        "Url": "https://flowzz.com/product/mc-regular-drop-gmo-x-jet-fuel-gelato"
+      },
+      "Old": 5.15,
+      "New": 4.99
+    },
+    {
+      "P": {
+        "Id": 2168,
+        "Name": "Cannamedical Hybrid Forte BC Lemon Cookies",
+        "Producer": "Cannamedical",
+        "MinPrice": 5.99,
+        "Available": true,
+        "Url": "https://flowzz.com/product/cannameidcal-hybrid-forte-bc-lemon-cookies"
+      },
+      "Old": 6.45,
+      "New": 5.99
+    },
+    {
+      "P": {
+        "Id": 370,
+        "Name": "Cannamedical Sativa classic NM Gelato Dream",
+        "Producer": "Cannamedical",
+        "MinPrice": 6.99,
+        "Available": true,
+        "Url": "https://flowzz.com/product/cannamedical-sativa-classic-nm-gelato-dream"
+      },
+      "Old": 7.59,
+      "New": 6.99
+    },
+    {
+      "P": {
+        "Id": 3909,
+        "Name": "HiDealz 24/1 MS Honeydew Haze Smalls",
+        "Producer": "Remexian Pharma",
+        "MinPrice": 2.99,
+        "Available": true,
+        "Url": "https://flowzz.com/product/hidealz-24-1-ms-honeydew-haze"
+      },
+      "Old": 3.15,
+      "New": 2.99
+    },
+    {
+      "P": {
+        "Id": 3836,
+        "Name": "Hollymood 30/1 SR Sunset Runtz",
+        "Producer": "Bathera",
+        "MinPrice": 4.89,
+        "Available": true,
+        "Url": "https://flowzz.com/product/hollymood-30-1-sr-sunset-runtz"
+      },
+      "Old": 4.97,
+      "New": 4.89
+    },
+    {
+      "P": {
+        "Id": 3734,
+        "Name": "Slouu 33/1 COZ CA Cookies OZ",
+        "Producer": "enua Pharma",
+        "MinPrice": 4.95,
+        "Available": true,
+        "Url": "https://flowzz.com/product/slouu-33-1-coz-ca-cookies-oz"
+      },
+      "Old": 4.99,
+      "New": 4.95
+    },
+    {
+      "P": {
+        "Id": 3622,
+        "Name": "Remexian 33/1 BBR HOT High Octane 94",
+        "Producer": "Remexian Pharma",
+        "MinPrice": 4.39,
+        "Available": true,
+        "Url": "https://flowzz.com/product/remexian-33-1-bbr-hot-high-octane-94"
+      },
+      "Old": 4.99,
+      "New": 4.39
+    },
+    {
+      "P": {
+        "Id": 3614,
+        "Name": "THC AKUT OHS 20 NP Neon Princess",
+        "Producer": "Bathera",
+        "MinPrice": 3.29,
+        "Available": true,
+        "Url": "https://flowzz.com/product/thc-akut-ohs-20-np-neon-princess"
+      },
+      "Old": 3.45,
+      "New": 3.29
+    },
+    {
+      "P": {
+        "Id": 3605,
+        "Name": "Canify 22/1 CZE Ku. Mochi",
+        "Producer": "Canify",
+        "MinPrice": 3.99,
+        "Available": true,
+        "Url": "https://flowzz.com/product/canify-22-1-cze-ku-mochi"
+      },
+      "Old": 4.35,
+      "New": 3.99
+    },
+    {
+      "P": {
+        "Id": 3147,
+        "Name": "Drapalin 28/1 Bliss",
+        "Producer": "Drapalin Pharmaceuticals",
+        "MinPrice": 4.19,
+        "Available": true,
+        "Url": "https://flowzz.com/product/drapalin-28-1-bliss"
+      },
+      "Old": 4.25,
+      "New": 4.19
+    },
+    {
+      "P": {
+        "Id": 2986,
+        "Name": "Cannabis flos 22/1 CZE Ku. Ultra Sour",
+        "Producer": "Canify",
+        "MinPrice": 4.2,
+        "Available": true,
+        "Url": "https://flowzz.com/product/cannabis-flos-22-1-cze-ku-ultra-sour"
+      },
+      "Old": 4.24,
+      "New": 4.2
+    },
+    {
+      "P": {
+        "Id": 2757,
+        "Name": "NICE 29/1 MOS Morning Sun",
+        "Producer": "Cansativa",
+        "MinPrice": 4.65,
+        "Available": true,
+        "Url": "https://flowzz.com/product/nice-29-1-mos-morning-sun"
+      },
+      "Old": 4.9,
+      "New": 4.65
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Pink Diesel",
+        "Producer": "Aurora Cannabis",
+        "MinPrice": 139.59,
+        "Available": true,
+        "Url": "https://shop.dransay.com/product/pink-diesel/237"
+      },
+      "Old": 58335.07,
+      "New": 139.59
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Electric Honey Dew",
+        "Producer": "Aurora Cannabis",
+        "MinPrice": 3.02,
+        "Available": true,
+        "Url": "https://shop.dransay.com/product/electric-honey-dew/559"
+      },
+      "Old": 57641.26,
+      "New": 3.02
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Georgia Pie",
+        "Producer": "Cansativa",
+        "MinPrice": 43.98,
+        "Available": true,
+        "Url": "https://shop.dransay.com/product/georgia-pie/5633997"
+      },
+      "Old": 64223.32,
+      "New": 43.98
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Mac Deluxe",
+        "Producer": "Cantourage",
+        "MinPrice": 0.04,
+        "Available": true,
+        "Url": "https://shop.dransay.com/product/mac-deluxe/4764988"
+      },
+      "Old": 43.98,
       "New": 0.04
     },
     {
       "P": {
         "Id": 0,
-        "Name": "Gelly Popper",
-        "Producer": "enua Pharma",
-        "MinPrice": 3.96,
-        "Available": false,
-        "Url": "https://shop.dransay.com/product/gelly-popper/803"
+        "Name": "Garlic Mushroom Onion",
+        "Producer": "Aurora Cannabis",
+        "MinPrice": 0.04,
+        "Available": true,
+        "Url": "https://shop.dransay.com/product/garlic-mushroom-onion/4894166"
       },
-      "Old": 8.71,
-      "New": 3.96
+      "Old": 54117.11,
+      "New": 0.04
     },
     {
       "P": {
         "Id": 0,
-        "Name": "Ghost Train Haze",
-        "Producer": "Remexian/Madrecan",
+        "Name": "Lemonatti",
+        "Producer": "Cantourage",
+        "MinPrice": 0.04,
+        "Available": true,
+        "Url": "https://shop.dransay.com/product/lemonatti/610"
+      },
+      "Old": 7.43,
+      "New": 0.04
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Sour Cherry Punch",
+        "Producer": "Avaay/Vayamed",
+        "MinPrice": 0.04,
+        "Available": false,
+        "Url": "https://shop.dransay.com/product/sour-cherry-punch/164"
+      },
+      "Old": 25.29,
+      "New": 0.04
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Citron Cookies",
+        "Producer": "Demecan",
+        "MinPrice": 139.59,
+        "Available": false,
+        "Url": "https://shop.dransay.com/product/citron-cookies/1617345"
+      },
+      "Old": 52722.03,
+      "New": 139.59
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Ultra Jack",
+        "Producer": "Cantourage",
+        "MinPrice": 0.04,
+        "Available": false,
+        "Url": "https://shop.dransay.com/product/ultra-jack/5330767"
+      },
+      "Old": 28.55,
+      "New": 0.04
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Space Rider",
+        "Producer": "Avaay/Vayamed",
+        "MinPrice": 43.98,
+        "Available": false,
+        "Url": "https://shop.dransay.com/product/space-rider/3627622"
+      },
+      "Old": 39412.12,
+      "New": 43.98
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Sour Sundae",
+        "Producer": "Cannamedical",
+        "MinPrice": 43.98,
+        "Available": false,
+        "Url": "https://shop.dransay.com/product/sour-sundae/2297720"
+      },
+      "Old": 52722.03,
+      "New": 43.98
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Facetz",
+        "Producer": "Bathera",
+        "MinPrice": 0.04,
+        "Available": false,
+        "Url": "https://shop.dransay.com/product/facetz/597"
+      },
+      "Old": 44206.95,
+      "New": 0.04
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Pink OG Kush",
+        "Producer": "Aurora Cannabis",
+        "MinPrice": 0.04,
+        "Available": false,
+        "Url": "https://shop.dransay.com/product/pink-og-kush/5421880"
+      },
+      "Old": 0.05,
+      "New": 0.04
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Lemonade Haze",
+        "Producer": "enua Pharma",
+        "MinPrice": 0.04,
+        "Available": false,
+        "Url": "https://shop.dransay.com/product/lemonade-haze/5353555"
+      },
+      "Old": 0.05,
+      "New": 0.04
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Oz Melon Jam",
+        "Producer": "enua Pharma",
+        "MinPrice": 3460.91,
+        "Available": false,
+        "Url": "https://shop.dransay.com/product/oz-melon-jam/5761885"
+      },
+      "Old": 49389.57,
+      "New": 3460.91
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Crumbled Lime",
+        "Producer": "Demecan",
+        "MinPrice": 0.04,
+        "Available": false,
+        "Url": "https://shop.dransay.com/product/crumbled-lime/3482366"
+      },
+      "Old": 49389.57,
+      "New": 0.04
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Strawberry OG",
+        "Producer": "Cannamedical",
+        "MinPrice": 0.05,
+        "Available": false,
+        "Url": "https://shop.dransay.com/product/strawberry-og/382"
+      },
+      "Old": 55499.19,
+      "New": 0.05
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Haymaker Haze",
+        "Producer": "Green Success",
+        "MinPrice": 0.04,
+        "Available": false,
+        "Url": "https://shop.dransay.com/product/haymaker-haze/853"
+      },
+      "Old": 1.18,
+      "New": 0.04
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Critical Kush",
+        "Producer": "Avaay/Vayamed",
+        "MinPrice": 0.04,
+        "Available": false,
+        "Url": "https://shop.dransay.com/product/critical-kush/1054"
+      },
+      "Old": 30655.33,
+      "New": 0.04
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Cocoa Bomba",
+        "Producer": "Cansativa",
+        "MinPrice": 0.0,
+        "Available": false,
+        "Url": "https://shop.dransay.com/product/cocoa-bomba/2828476"
+      },
+      "Old": 0.14,
+      "New": 0.0
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Glueberry OG",
+        "Producer": "Cantourage",
+        "MinPrice": 0.0,
+        "Available": false,
+        "Url": "https://shop.dransay.com/product/glueberry-og/671"
+      },
+      "Old": 0.14,
+      "New": 0.0
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Animal Face Sherb Crasher",
+        "Producer": "enua Pharma",
+        "MinPrice": 42553.28,
+        "Available": false,
+        "Url": "https://shop.dransay.com/product/animal-face-sherb-crasher/1008"
+      },
+      "Old": 48618.16,
+      "New": 42553.28
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Ice Cream Cake x Kush Mints",
+        "Producer": "Four 20 Pharma",
+        "MinPrice": 5.88,
+        "Available": false,
+        "Url": "https://shop.dransay.com/product/ice-cream-cake-x-kush-mints/360"
+      },
+      "Old": 11.24,
+      "New": 5.88
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Polar Pop",
+        "Producer": "Bathera",
         "MinPrice": 0.03,
         "Available": false,
-        "Url": "https://shop.dransay.com/product/ghost-train-haze/2439379"
+        "Url": "https://shop.dransay.com/product/polar-pop/591960"
       },
       "Old": 0.04,
       "New": 0.03
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Original Blitz",
+        "Producer": "bavamedical",
+        "MinPrice": 0.04,
+        "Available": false,
+        "Url": "https://shop.dransay.com/product/original-blitz/241535"
+      },
+      "Old": 31761.42,
+      "New": 0.04
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "MAC 1",
+        "Producer": "Cannamedical",
+        "MinPrice": 0.03,
+        "Available": false,
+        "Url": "https://shop.dransay.com/product/mac-1/318"
+      },
+      "Old": 100.0,
+      "New": 0.03
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Long Valley Legend",
+        "Producer": "Cantourage",
+        "MinPrice": 5.19,
+        "Available": false,
+        "Url": "https://shop.dransay.com/product/long-valley-legend/694"
+      },
+      "Old": 100.0,
+      "New": 5.19
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Wicked Frosted Mintz",
+        "Producer": "Remexian/Madrecan",
+        "MinPrice": 2.27,
+        "Available": false,
+        "Url": "https://shop.dransay.com/product/wicked-frosted-mintz/2830479"
+      },
+      "Old": 18943.14,
+      "New": 2.27
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Peanut Butter Breath",
+        "Producer": "Remexian/Madrecan",
+        "MinPrice": 0.03,
+        "Available": false,
+        "Url": "https://shop.dransay.com/product/peanut-butter-breath/912"
+      },
+      "Old": 0.04,
+      "New": 0.03
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Black Kyber Crystal",
+        "Producer": "Remexian/Madrecan",
+        "MinPrice": 0.04,
+        "Available": false,
+        "Url": "https://shop.dransay.com/product/black-kyber-crystal/19"
+      },
+      "Old": 11054.27,
+      "New": 0.04
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Blue Mountain Side",
+        "Producer": "Remexian/Madrecan",
+        "MinPrice": 0.04,
+        "Available": false,
+        "Url": "https://shop.dransay.com/product/blue-mountain-side/47"
+      },
+      "Old": 11054.27,
+      "New": 0.04
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Grape Gasoline",
+        "Producer": "Remexian/Madrecan",
+        "MinPrice": 0.04,
+        "Available": false,
+        "Url": "https://shop.dransay.com/product/grape-gasoline/939"
+      },
+      "Old": 11054.27,
+      "New": 0.04
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Think Fast",
+        "Producer": "Remexian/Madrecan",
+        "MinPrice": 0.04,
+        "Available": false,
+        "Url": "https://shop.dransay.com/product/think-fast/219"
+      },
+      "Old": 11054.27,
+      "New": 0.04
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Tingle Mint",
+        "Producer": "Remexian/Madrecan",
+        "MinPrice": 0.04,
+        "Available": false,
+        "Url": "https://shop.dransay.com/product/tingle-mint/1111076"
+      },
+      "Old": 11054.27,
+      "New": 0.04
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Banana Sorbet",
+        "Producer": "Cantourage",
+        "MinPrice": 0.04,
+        "Available": false,
+        "Url": "https://shop.dransay.com/product/banana-sorbet/707"
+      },
+      "Old": 11054.27,
+      "New": 0.04
     }
   ]
 }
