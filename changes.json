@@ -1,31 +1,43 @@
 {
-  "ScrapedAt": "2026-07-14T06:37:11.424123+02:00",
+  "ScrapedAt": "2026-07-14T07:44:50.000860+02:00",
   "NewStrains": [],
-  "RemovedCount": 0,
-  "BackInStock": [
+  "RemovedCount": 7,
+  "BackInStock": [],
+  "OutOfStock": [
     {
       "Id": 3324,
       "Name": "Cannamedical Sativa forte Zkittlez Mintz",
       "Producer": "Cannamedical",
-      "MinPrice": 4.32,
-      "Available": true,
+      "MinPrice": null,
+      "Available": false,
       "Url": "https://flowzz.com/product/cannamedical-sativa-forte-zkittlez-mintz"
     }
   ],
-  "OutOfStock": [],
   "PriceUp": [],
   "PriceDown": [
+    {
+      "P": {
+        "Id": 3904,
+        "Name": "Beacon CC T30 Cosmic Cookies",
+        "Producer": "Beacon Medical Germany",
+        "MinPrice": 4.83,
+        "Available": true,
+        "Url": "https://flowzz.com/product/beacon-cc-t30-cosmic-cookies"
+      },
+      "Old": 4.89,
+      "New": 4.83
+    },
     {
       "P": {
         "Id": 0,
         "Name": "Cheddar Cheeze",
         "Producer": "Cantourage",
-        "MinPrice": 4.53,
+        "MinPrice": 4.52,
         "Available": true,
         "Url": "https://shop.dransay.com/product/cheddar-cheeze/6102221"
       },
-      "Old": 4.55,
-      "New": 4.53
+      "Old": 4.53,
+      "New": 4.52
     }
   ]
 }
