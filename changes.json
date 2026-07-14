@@ -1,217 +1,285 @@
 {
-  "ScrapedAt": "2026-07-14T01:37:19.155602+02:00",
+  "ScrapedAt": "2026-07-14T03:13:20.202431+02:00",
   "NewStrains": [
     {
       "Id": 0,
-      "Name": "Frozen Lemon Mints",
-      "Producer": "Four 20 Pharma",
-      "MinPrice": 7.99,
+      "Name": "Super Lemon Haze",
+      "Producer": "Cannamedical",
+      "MinPrice": 10.03,
       "Available": true,
-      "Url": "https://shop.dransay.com/product/frozen-lemon-mints/139"
+      "Url": "https://shop.dransay.com/product/super-lemon-haze/5606866"
+    },
+    {
+      "Id": 0,
+      "Name": "Bunatic",
+      "Producer": "Cannamedical",
+      "MinPrice": 8.87,
+      "Available": true,
+      "Url": "https://shop.dransay.com/product/bunatic/4420695"
+    },
+    {
+      "Id": 0,
+      "Name": "Zour Apple",
+      "Producer": "Four 20 Pharma",
+      "MinPrice": 9.04,
+      "Available": true,
+      "Url": "https://shop.dransay.com/product/zour-apple/3761825"
     }
   ],
   "RemovedCount": 1,
-  "BackInStock": [
+  "BackInStock": [],
+  "OutOfStock": [
+    {
+      "Id": 1730,
+      "Name": "Demecan Core ICC 22:01 Ice Cream Cake",
+      "Producer": "Demecan",
+      "MinPrice": null,
+      "Available": false,
+      "Url": "https://flowzz.com/product/demecan-core-icc-22-01-ice-cream-cake"
+    },
+    {
+      "Id": 739,
+      "Name": "420 Compound 22/1 CA MWZ Mellowz",
+      "Producer": "Four 20 Pharma",
+      "MinPrice": null,
+      "Available": false,
+      "Url": "https://flowzz.com/product/420-compound-22-1-ca-mwz-mellowz"
+    },
+    {
+      "Id": 736,
+      "Name": "Materia GH 27/1 Grape Haze",
+      "Producer": "Materia",
+      "MinPrice": null,
+      "Available": false,
+      "Url": "https://flowzz.com/product/materia-gh-27-1-grape-haze"
+    },
+    {
+      "Id": 733,
+      "Name": "Remexian 27/1 Eco MYZ Munyunz",
+      "Producer": "Remexian Pharma",
+      "MinPrice": null,
+      "Available": false,
+      "Url": "https://flowzz.com/product/remexian-27-1-eco-munyunz"
+    },
+    {
+      "Id": 731,
+      "Name": "Remexian 27/1 GJY PSL Pink Slurricane",
+      "Producer": "Remexian Pharma",
+      "MinPrice": null,
+      "Available": false,
+      "Url": "https://flowzz.com/product/remexian-27-1-psl-pink-slurricane"
+    },
+    {
+      "Id": 729,
+      "Name": "Canify 22/1 Purple Dog Bud",
+      "Producer": "Canify",
+      "MinPrice": null,
+      "Available": false,
+      "Url": "https://flowzz.com/product/canify-flos-22-1-pdb-purple-dog-bud"
+    },
+    {
+      "Id": 725,
+      "Name": "enua 25/1 DSH CA Dark Shadow Haze",
+      "Producer": "enua Pharma",
+      "MinPrice": null,
+      "Available": false,
+      "Url": "https://flowzz.com/product/enua-25-1-dsh-ca-dark-shadow-haze"
+    },
+    {
+      "Id": 724,
+      "Name": "avaay 28/1 AHC Amnesia Haze Cake",
+      "Producer": "avaay",
+      "MinPrice": null,
+      "Available": false,
+      "Url": "https://flowzz.com/product/avaay-28-1-ahc-amnesia-haze-cake"
+    },
+    {
+      "Id": 721,
+      "Name": "420 Compound 25/1 PT TGY Tigerz Eye",
+      "Producer": "Four 20 Pharma",
+      "MinPrice": null,
+      "Available": false,
+      "Url": "https://flowzz.com/product/420-compound-25-1-pt-tgy"
+    },
+    {
+      "Id": 719,
+      "Name": "BC Green 33/1 Tiger Cake",
+      "Producer": "BC Green",
+      "MinPrice": null,
+      "Available": false,
+      "Url": "https://flowzz.com/product/bc-33-1-tiger-cake"
+    },
+    {
+      "Id": 718,
+      "Name": "420 Evolution 25/1 CA BUL Bucket List",
+      "Producer": "Four 20 Pharma",
+      "MinPrice": null,
+      "Available": false,
+      "Url": "https://flowzz.com/product/420-evolution-25-1-ca-bul-bucket-list"
+    },
+    {
+      "Id": 717,
+      "Name": "Vasco PR PT Pave Runtz",
+      "Producer": "Cantourage",
+      "MinPrice": null,
+      "Available": false,
+      "Url": "https://flowzz.com/product/vasco-pr-pt-pave-runtz"
+    },
     {
       "Id": 3914,
       "Name": "Pop up No. 20 21/1 Rich Hindu Kush Zkittlez",
       "Producer": "MGF Via Medical",
-      "MinPrice": 4.19,
-      "Available": true,
+      "MinPrice": null,
+      "Available": false,
       "Url": "https://flowzz.com/product/pop-up-no-20-21-1-rich-hindu-kush-zkittlez"
     }
   ],
-  "OutOfStock": [
-    {
-      "Id": 3456,
-      "Name": "Demecan PS Strong Drop Fruit Punch",
-      "Producer": "Demecan",
-      "MinPrice": null,
-      "Available": false,
-      "Url": "https://flowzz.com/product/demecan-ps-strong-drop-fruit-punch"
-    }
-  ],
-  "PriceUp": [],
-  "PriceDown": [
+  "PriceUp": [
     {
       "P": {
-        "Id": 2356,
-        "Name": "Canopy JHA 21/1 Jack Haze",
-        "Producer": "Canopy Medical",
-        "MinPrice": 3.35,
-        "Available": true,
-        "Url": "https://flowzz.com/product/canopy-jh-21-1-jack-haze"
-      },
-      "Old": 3.39,
-      "New": 3.35
-    },
-    {
-      "P": {
-        "Id": 856,
-        "Name": "Canopy Bakerstreet 22/1 Hindu Kush",
-        "Producer": "Canopy Medical",
-        "MinPrice": 5.12,
-        "Available": true,
-        "Url": "https://flowzz.com/product/bakerstreet-22-hindu-kush"
-      },
-      "Old": 5.9,
-      "New": 5.12
-    },
-    {
-      "P": {
-        "Id": 782,
-        "Name": "Cannamedical CM 24/1 OG Kush",
-        "Producer": "Cannamedical",
-        "MinPrice": 4.69,
-        "Available": true,
-        "Url": "https://flowzz.com/product/cannamedical-cm-24-1-og-kush"
-      },
-      "Old": 4.7,
-      "New": 4.69
-    },
-    {
-      "P": {
-        "Id": 3750,
-        "Name": "Remexian 27/1 GJY GRY Grape Yogurt",
+        "Id": 2217,
+        "Name": "Medicus 21/1 YAR ADI Astral Drift",
         "Producer": "Remexian Pharma",
-        "MinPrice": 4.14,
-        "Available": true,
-        "Url": "https://flowzz.com/product/remexian-27-1-gjy-gry-grape-yogurt"
-      },
-      "Old": 4.19,
-      "New": 4.14
-    },
-    {
-      "P": {
-        "Id": 3690,
-        "Name": "Demecan Core 21:01 LimeZ",
-        "Producer": "Demecan",
-        "MinPrice": 3.98,
-        "Available": true,
-        "Url": "https://flowzz.com/product/demecan-core-21-01-limez"
-      },
-      "Old": 3.99,
-      "New": 3.98
-    },
-    {
-      "P": {
-        "Id": 3709,
-        "Name": "Weeco Duke 30/1 DK Duke Purple Rain",
-        "Producer": "Weeco",
-        "MinPrice": 3.88,
-        "Available": true,
-        "Url": "https://flowzz.com/product/weeco-duke-30-1-dk-duke-purple-rain"
-      },
-      "Old": 3.98,
-      "New": 3.88
-    },
-    {
-      "P": {
-        "Id": 3628,
-        "Name": "NICE 33/1 LP Lotus Punch",
-        "Producer": "Cansativa",
-        "MinPrice": 4.84,
-        "Available": true,
-        "Url": "https://flowzz.com/product/nice-33-1-lp-lotus-punch"
-      },
-      "Old": 4.85,
-      "New": 4.84
-    },
-    {
-      "P": {
-        "Id": 3575,
-        "Name": "Buuo 24/1 BBB Banana Bonbon",
-        "Producer": "WMG Pharma",
-        "MinPrice": 3.89,
-        "Available": true,
-        "Url": "https://flowzz.com/product/buuo-24-1-bbb-banana-bonbon"
-      },
-      "Old": 3.9,
-      "New": 3.89
-    },
-    {
-      "P": {
-        "Id": 3536,
-        "Name": "enua 18/1 GPU CA Gastro Pop Ultra",
-        "Producer": "enua Pharma",
         "MinPrice": 3.69,
         "Available": true,
-        "Url": "https://flowzz.com/product/enua-18-1-gpu-ca-gastro-pop-ultra"
+        "Url": "https://flowzz.com/product/medicus-21-1-yar-astral-drift"
       },
-      "Old": 3.79,
+      "Old": 3.56,
       "New": 3.69
     },
     {
       "P": {
-        "Id": 3257,
-        "Name": "Balancial 22/1 PT S1 JH Jack Herer",
-        "Producer": "Balancial",
-        "MinPrice": 3.78,
+        "Id": 321,
+        "Name": "Tilray THC 25 Spotlight Porto Purps",
+        "Producer": "Tilray",
+        "MinPrice": 9.5,
         "Available": true,
-        "Url": "https://flowzz.com/product/balancial-22-1-pt-s1-jh-jack-herer"
+        "Url": "https://flowzz.com/product/tilray-thc-25-spotlight-porto-purps"
       },
-      "Old": 3.84,
-      "New": 3.78
+      "Old": 3.49,
+      "New": 9.5
     },
     {
       "P": {
-        "Id": 3237,
-        "Name": "Huala 22/1 CA SCO Scoops",
-        "Producer": "Four 20 Pharma",
-        "MinPrice": 2.99,
+        "Id": 3556,
+        "Name": "Apollo 28/1 MID Marmalade",
+        "Producer": "Cannprisma",
+        "MinPrice": 4.49,
         "Available": true,
-        "Url": "https://flowzz.com/product/huala-22-1-ca-sco-scoops"
+        "Url": "https://flowzz.com/product/apollo-28-1-mid-marmalade"
       },
-      "Old": 3.74,
-      "New": 2.99
+      "Old": 4.48,
+      "New": 4.49
+    }
+  ],
+  "PriceDown": [
+    {
+      "P": {
+        "Id": 1758,
+        "Name": "Sibanax Hybrid MCF 28/1 Mac Fem",
+        "Producer": "Heyday",
+        "MinPrice": 5.45,
+        "Available": true,
+        "Url": "https://flowzz.com/product/sibanax-hybrid-mcf-28-1"
+      },
+      "Old": 5.9,
+      "New": 5.45
     },
     {
       "P": {
-        "Id": 0,
-        "Name": "Polar Cookies",
-        "Producer": "Cannamedical",
-        "MinPrice": 7.08,
+        "Id": 3891,
+        "Name": "Demecan HS Low Drop 17/01 Burmese Mimosa × Athene",
+        "Producer": "Demecan",
+        "MinPrice": 4.2,
         "Available": true,
-        "Url": "https://shop.dransay.com/product/polar-cookies/91"
+        "Url": "https://flowzz.com/product/demecan-hs-low-drop-17-1-burmese-mimosa-x-athene"
       },
-      "Old": 7.09,
-      "New": 7.08
+      "Old": 5.39,
+      "New": 4.2
     },
     {
       "P": {
-        "Id": 0,
-        "Name": "Needle Point",
-        "Producer": "Barongo/buuo - WMG",
-        "MinPrice": 2.97,
+        "Id": 3714,
+        "Name": "Buuo 30/1 BDC Birthday Cake",
+        "Producer": "WMG Pharma",
+        "MinPrice": 4.25,
         "Available": true,
-        "Url": "https://shop.dransay.com/product/needle-point/6093800"
+        "Url": "https://flowzz.com/product/buuo-30-1-bdc-birthday-cake"
       },
-      "Old": 2.99,
-      "New": 2.97
+      "Old": 4.26,
+      "New": 4.25
+    },
+    {
+      "P": {
+        "Id": 3720,
+        "Name": "BUUO 20/1 TMS Black Marble",
+        "Producer": "WMG Pharma",
+        "MinPrice": 3.08,
+        "Available": true,
+        "Url": "https://flowzz.com/product/buuo-20-1-tms-black-marble"
+      },
+      "Old": 3.09,
+      "New": 3.08
+    },
+    {
+      "P": {
+        "Id": 3557,
+        "Name": "Apollo 24/1 HLS Honey Suckle",
+        "Producer": "Cannprisma",
+        "MinPrice": 3.94,
+        "Available": true,
+        "Url": "https://flowzz.com/product/apollo-24-1-hls-honey-suckle"
+      },
+      "Old": 3.95,
+      "New": 3.94
+    },
+    {
+      "P": {
+        "Id": 3089,
+        "Name": "avaay 24/1 CP Candy Pavé",
+        "Producer": "avaay",
+        "MinPrice": 5.93,
+        "Available": true,
+        "Url": "https://flowzz.com/product/avaay-24-1-cp-candy-pave"
+      },
+      "Old": 5.94,
+      "New": 5.93
+    },
+    {
+      "P": {
+        "Id": 3004,
+        "Name": "Materia AND 18/1 Andes",
+        "Producer": "Materia",
+        "MinPrice": 3.07,
+        "Available": true,
+        "Url": "https://flowzz.com/product/materia-and-18-1-andes"
+      },
+      "Old": 3.08,
+      "New": 3.07
+    },
+    {
+      "P": {
+        "Id": 3000,
+        "Name": "BUUO 23/1 BV Boom Voyage",
+        "Producer": "WMG Pharma",
+        "MinPrice": 3.46,
+        "Available": true,
+        "Url": "https://flowzz.com/product/buuo-23-1-bv-boom-voyage"
+      },
+      "Old": 3.47,
+      "New": 3.46
     },
     {
       "P": {
         "Id": 0,
         "Name": "Cheddar Cheeze",
         "Producer": "Cantourage",
-        "MinPrice": 4.58,
+        "MinPrice": 4.56,
         "Available": true,
         "Url": "https://shop.dransay.com/product/cheddar-cheeze/6102221"
       },
-      "Old": 4.6,
-      "New": 4.58
-    },
-    {
-      "P": {
-        "Id": 0,
-        "Name": "Space Cake",
-        "Producer": "Avaay/Vayamed",
-        "MinPrice": 8.9,
-        "Available": true,
-        "Url": "https://shop.dransay.com/product/space-cake/6668328"
-      },
-      "Old": 8.94,
-      "New": 8.9
+      "Old": 4.58,
+      "New": 4.56
     }
   ]
 }
