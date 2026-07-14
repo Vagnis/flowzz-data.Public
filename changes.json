@@ -1,111 +1,203 @@
 {
-  "ScrapedAt": "2026-07-14T22:54:14.016459+02:00",
-  "NewStrains": [
-    {
-      "Id": 0,
-      "Name": "ANIMAL COOKIES × SINMINT COOKIES",
-      "Producer": "Demecan",
-      "MinPrice": 5.39,
-      "Available": true,
-      "Url": "https://shop.dransay.com/product/animal-cookies-sinmint-cookies/5548558"
-    },
-    {
-      "Id": 0,
-      "Name": "Triangle Mints",
-      "Producer": "Tilray",
-      "MinPrice": 3.69,
-      "Available": true,
-      "Url": "https://shop.dransay.com/product/triangle-mints/4621059"
-    },
-    {
-      "Id": 0,
-      "Name": "Jack Black",
-      "Producer": "Cantourage",
-      "MinPrice": 5.98,
-      "Available": true,
-      "Url": "https://shop.dransay.com/product/jack-black/5273065"
-    },
-    {
-      "Id": 0,
-      "Name": "Pavé Runtz",
-      "Producer": "Cantourage",
-      "MinPrice": 8.99,
-      "Available": true,
-      "Url": "https://shop.dransay.com/product/pav-runtz/894"
-    },
-    {
-      "Id": 0,
-      "Name": "Platinum Girl Scout Cookies",
-      "Producer": "Bathera",
-      "MinPrice": 5.94,
-      "Available": true,
-      "Url": "https://shop.dransay.com/product/platinum-girl-scout-cookies/2372957"
-    }
-  ],
+  "ScrapedAt": "2026-07-15T00:48:13.427646+02:00",
+  "NewStrains": [],
   "RemovedCount": 0,
   "BackInStock": [],
   "OutOfStock": [],
-  "PriceUp": [],
+  "PriceUp": [
+    {
+      "P": {
+        "Id": 3184,
+        "Name": "BG 15 PBH COL Panama Haze",
+        "Producer": "ADREXpharma",
+        "MinPrice": 3.9,
+        "Available": true,
+        "Url": "https://flowzz.com/product/bg-15-pbh-col-panama-haze"
+      },
+      "Old": 2.39,
+      "New": 3.9
+    },
+    {
+      "P": {
+        "Id": 3145,
+        "Name": "enua 27/1 PS3 PNK Pink Kush",
+        "Producer": "enua Pharma",
+        "MinPrice": 3.48,
+        "Available": true,
+        "Url": "https://flowzz.com/product/enua-27-1-ps3-pk-pink-kush"
+      },
+      "Old": 3.45,
+      "New": 3.48
+    }
+  ],
   "PriceDown": [
+    {
+      "P": {
+        "Id": 2563,
+        "Name": "28/1 IUVO KC OJ Zainbow",
+        "Producer": "IUVO Therapeutics",
+        "MinPrice": 5.98,
+        "Available": true,
+        "Url": "https://flowzz.com/product/28-1-iuvo-kc-oj-zainbow"
+      },
+      "Old": 6.19,
+      "New": 5.98
+    },
+    {
+      "P": {
+        "Id": 2194,
+        "Name": "Cannamedical Hybrid classic DK Ghost Train Haze",
+        "Producer": "Cannamedical",
+        "MinPrice": 3.25,
+        "Available": true,
+        "Url": "https://flowzz.com/product/cannamedical-hybrid-classic-dk-ghost-train-haze"
+      },
+      "Old": 3.29,
+      "New": 3.25
+    },
+    {
+      "P": {
+        "Id": 3956,
+        "Name": "TRUU GT 26:01 Prime Lime",
+        "Producer": "Demecan",
+        "MinPrice": 4.79,
+        "Available": true,
+        "Url": "https://flowzz.com/product/truu-gt-26-1-prime-lime"
+      },
+      "Old": 4.8,
+      "New": 4.79
+    },
     {
       "P": {
         "Id": 3809,
         "Name": "Daily Special 23/1 LES Lemon Sorbet",
         "Producer": "Aurora",
-        "MinPrice": 4.78,
+        "MinPrice": 4.76,
         "Available": true,
         "Url": "https://flowzz.com/product/daily-special-23-1-les-lemon-sorbet"
       },
-      "Old": 4.8,
-      "New": 4.78
+      "Old": 4.78,
+      "New": 4.76
     },
     {
       "P": {
-        "Id": 3389,
-        "Name": "Cannamedical Indica Light ZAF Strawberry Lemonade",
-        "Producer": "Cannamedical",
-        "MinPrice": 3.48,
+        "Id": 3769,
+        "Name": "enua 30/1 GKM Gelatti Kush Mints",
+        "Producer": "enua Pharma",
+        "MinPrice": 5.15,
         "Available": true,
-        "Url": "https://flowzz.com/product/cannamedical-indica-light-zaf-strawberry-lemonade"
+        "Url": "https://flowzz.com/product/enua-30-1-gkm-ca-gelatti-kush-mints"
       },
-      "Old": 3.49,
-      "New": 3.48
+      "Old": 5.24,
+      "New": 5.15
+    },
+    {
+      "P": {
+        "Id": 3472,
+        "Name": "Wildlife 30 AC CAN Animal Crackers",
+        "Producer": "ADREXpharma",
+        "MinPrice": 4.48,
+        "Available": true,
+        "Url": "https://flowzz.com/product/wildlife-30-ac-can-animal-crackers"
+      },
+      "Old": 4.49,
+      "New": 4.48
+    },
+    {
+      "P": {
+        "Id": 3423,
+        "Name": "Cannamedical Indica classic AU London Pound Cake",
+        "Producer": "Cannamedical",
+        "MinPrice": 4.79,
+        "Available": true,
+        "Url": "https://flowzz.com/product/cannamedical-indica-classic-au-london-pound-cake"
+      },
+      "Old": 4.8,
+      "New": 4.79
+    },
+    {
+      "P": {
+        "Id": 3298,
+        "Name": "enua 30/1 PS3 JFG CA Jet Fuel Gelato",
+        "Producer": "enua Pharma",
+        "MinPrice": 3.85,
+        "Available": true,
+        "Url": "https://flowzz.com/product/enua-30-1-ps3-jfg-ca-jet-fuel-gelato"
+      },
+      "Old": 3.89,
+      "New": 3.85
+    },
+    {
+      "P": {
+        "Id": 3162,
+        "Name": "Luana 27/1 Donny B Bunatic",
+        "Producer": "Cannamedical",
+        "MinPrice": 3.99,
+        "Available": true,
+        "Url": "https://flowzz.com/product/luana-27-1-donny-b-bunatic"
+      },
+      "Old": 4.14,
+      "New": 3.99
+    },
+    {
+      "P": {
+        "Id": 3057,
+        "Name": "Cannamedical CM 28/1 PODDY Poddy Mouth",
+        "Producer": "Cannamedical",
+        "MinPrice": 5.4,
+        "Available": true,
+        "Url": "https://flowzz.com/product/cannamedical-cm-28-1-poddy-mouth"
+      },
+      "Old": 5.99,
+      "New": 5.4
+    },
+    {
+      "P": {
+        "Id": 2994,
+        "Name": "enua 27/1 PS3 CA BCP Black Cherry Punch",
+        "Producer": "enua Pharma",
+        "MinPrice": 4.2,
+        "Available": true,
+        "Url": "https://flowzz.com/product/enua-27-1-ps3-black-cherry-punch"
+      },
+      "Old": 4.24,
+      "New": 4.2
+    },
+    {
+      "P": {
+        "Id": 2898,
+        "Name": "DrWatson 24 LG AUS London Gelatti",
+        "Producer": "ADREXpharma",
+        "MinPrice": 4.29,
+        "Available": true,
+        "Url": "https://flowzz.com/product/drwatson-24-lg-aus-london-gelatti"
+      },
+      "Old": 4.33,
+      "New": 4.29
     },
     {
       "P": {
         "Id": 0,
         "Name": "Cheddar Cheeze",
         "Producer": "Cantourage",
-        "MinPrice": 4.38,
+        "MinPrice": 4.36,
         "Available": true,
         "Url": "https://shop.dransay.com/product/cheddar-cheeze/6102221"
       },
-      "Old": 4.39,
-      "New": 4.38
-    },
-    {
-      "P": {
-        "Id": 0,
-        "Name": "Black Marble",
-        "Producer": "Barongo/buuo - WMG",
-        "MinPrice": 3.65,
-        "Available": true,
-        "Url": "https://shop.dransay.com/product/black-marble/5932035"
-      },
-      "Old": 3.79,
-      "New": 3.65
+      "Old": 4.38,
+      "New": 4.36
     },
     {
       "P": {
         "Id": 0,
         "Name": "Lemon Sorbet",
         "Producer": "Aurora Cannabis",
-        "MinPrice": 4.79,
+        "MinPrice": 4.77,
         "Available": true,
         "Url": "https://shop.dransay.com/product/lemon-sorbet/6306742"
       },
-      "Old": 4.8,
-      "New": 4.79
+      "Old": 4.79,
+      "New": 4.77
     }
   ]
 }
