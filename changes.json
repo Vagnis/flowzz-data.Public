@@ -1,140 +1,277 @@
 {
-  "ScrapedAt": "2026-07-15T07:06:22.625314+02:00",
-  "NewStrains": [],
-  "RemovedCount": 1,
+  "ScrapedAt": "2026-07-15T08:18:12.865661+02:00",
+  "NewStrains": [
+    {
+      "Id": 0,
+      "Name": "Jack Flash 5",
+      "Producer": "ADREXpharma",
+      "MinPrice": 2.99,
+      "Available": true,
+      "Url": "https://shop.dransay.com/product/jack-flash-5/5583500"
+    },
+    {
+      "Id": 0,
+      "Name": "Honeydew Haze",
+      "Producer": "Remexian/Madrecan",
+      "MinPrice": 4.79,
+      "Available": true,
+      "Url": "https://shop.dransay.com/product/honeydew-haze/6700791"
+    },
+    {
+      "Id": 0,
+      "Name": "Pavé Runtz",
+      "Producer": "Cantourage",
+      "MinPrice": 8.99,
+      "Available": true,
+      "Url": "https://shop.dransay.com/product/pav-runtz/894"
+    }
+  ],
+  "RemovedCount": 0,
   "BackInStock": [],
   "OutOfStock": [
     {
-      "Id": 3924,
-      "Name": "MGF Pop up No. 21 Candy Pave",
-      "Producer": "MGF Via Medical",
+      "Id": 2087,
+      "Name": "Cannabis flos 20/1 ES Ku. Dos Y Dos",
+      "Producer": "Canify",
       "MinPrice": null,
       "Available": false,
-      "Url": "https://flowzz.com/product/mgf-pop-up-no-21-candy-pave"
+      "Url": "https://flowzz.com/product/cannabis-flos-20-1-es-ku-dos-y-dos"
+    },
+    {
+      "Id": 1964,
+      "Name": "Demecan BB Regular Drop 25/1 Prodigy",
+      "Producer": "Demecan",
+      "MinPrice": null,
+      "Available": false,
+      "Url": "https://flowzz.com/product/demecan-cc-regular-drop-25-1-prodigy"
+    },
+    {
+      "Id": 1924,
+      "Name": "Therismos 33/1 PKM Pink Kush Mints",
+      "Producer": "Therismos",
+      "MinPrice": null,
+      "Available": false,
+      "Url": "https://flowzz.com/product/therismos-33-1-pkm-pink-kush-mints"
+    },
+    {
+      "Id": 3821,
+      "Name": "Demecan CRAFT FCF 26:01 First Class Funk",
+      "Producer": "Demecan",
+      "MinPrice": null,
+      "Available": false,
+      "Url": "https://flowzz.com/product/demecan-craft-26-01-first-class-funk"
+    },
+    {
+      "Id": 3357,
+      "Name": "CANVAS SBF THC 27 Super Boof",
+      "Producer": "AMP",
+      "MinPrice": null,
+      "Available": false,
+      "Url": "https://flowzz.com/product/canvas-sbf-thc-27-super-boof"
+    },
+    {
+      "Id": 2857,
+      "Name": "Cannabis flos 22/1 CL Ku. Tropicana Cookies",
+      "Producer": "Canify",
+      "MinPrice": null,
+      "Available": false,
+      "Url": "https://flowzz.com/product/cannabis-flos-22-1-cl-ku-tropicana-cookies"
     }
   ],
   "PriceUp": [
     {
       "P": {
-        "Id": 625,
-        "Name": "Cannamedical Sativa forte Venomz Eve",
-        "Producer": "Cannamedical",
-        "MinPrice": 8.35,
-        "Available": true,
-        "Url": "https://flowzz.com/product/cannamedical-sativa-forte-venomz-eve"
-      },
-      "Old": 5.4,
-      "New": 8.35
-    },
-    {
-      "P": {
-        "Id": 3064,
-        "Name": "IMC THC24 GGA Purple Grape",
-        "Producer": "IMC",
-        "MinPrice": 8.0,
-        "Available": true,
-        "Url": "https://flowzz.com/product/imc-24-1-gga-purple-grape"
-      },
-      "Old": 4.9,
-      "New": 8.0
-    },
-    {
-      "P": {
-        "Id": 2981,
-        "Name": "SafriCanna CK 24 Creamy Kee's No.5",
-        "Producer": "SafriCanna",
-        "MinPrice": 4.4,
-        "Available": true,
-        "Url": "https://flowzz.com/product/safricanna-ck-24-creamy-kees-no5"
-      },
-      "Old": 4.3,
-      "New": 4.4
-    },
-    {
-      "P": {
-        "Id": 2896,
-        "Name": "NICE 31/1 GSC Girl Scout Cookies",
-        "Producer": "Cansativa",
-        "MinPrice": 5.79,
-        "Available": true,
-        "Url": "https://flowzz.com/product/nice-31-1-gsc-girl-scout-cookies"
-      },
-      "Old": 5.45,
-      "New": 5.79
-    }
-  ],
-  "PriceDown": [
-    {
-      "P": {
         "Id": 2252,
         "Name": "Cannamedical Indica Ultra SM Sunset Serenity",
         "Producer": "Cannamedical",
-        "MinPrice": 4.28,
+        "MinPrice": 4.98,
         "Available": true,
         "Url": "https://flowzz.com/product/cannamedical-indica-ultra-sunset-serenity"
       },
-      "Old": 4.98,
-      "New": 4.28
+      "Old": 4.28,
+      "New": 4.98
     },
     {
       "P": {
-        "Id": 382,
-        "Name": "Sibanax MCF 23/1 Mac Fem",
-        "Producer": "Heyday",
-        "MinPrice": 2.9,
+        "Id": 2614,
+        "Name": "enua 27/1 PSZ CA Zainbow",
+        "Producer": "enua Pharma",
+        "MinPrice": 9.4,
         "Available": true,
-        "Url": "https://flowzz.com/product/sibanax-hybrid-mcf-23-1-mac-fem"
+        "Url": "https://flowzz.com/product/enua-27-1-psz-ca-zainbow"
       },
-      "Old": 3.29,
-      "New": 2.9
+      "Old": 7.69,
+      "New": 9.4
     },
     {
       "P": {
-        "Id": 3809,
-        "Name": "Daily Special 23/1 LES Lemon Sorbet",
-        "Producer": "Aurora",
-        "MinPrice": 4.7,
+        "Id": 2456,
+        "Name": "Remexian 30/1 PGF WRZ White Runtz",
+        "Producer": "Remexian Pharma",
+        "MinPrice": 9.5,
         "Available": true,
-        "Url": "https://flowzz.com/product/daily-special-23-1-les-lemon-sorbet"
+        "Url": "https://flowzz.com/product/remexian-30-1-pgf-wrz-white-runtz"
       },
-      "Old": 4.72,
-      "New": 4.7
+      "Old": 6.39,
+      "New": 9.5
+    },
+    {
+      "P": {
+        "Id": 1129,
+        "Name": "avaay 30/1 MIM Midnight Mimosa",
+        "Producer": "avaay",
+        "MinPrice": 8.57,
+        "Available": true,
+        "Url": "https://flowzz.com/product/avaay-30-1-mim-midnight-mimosa"
+      },
+      "Old": 5.9,
+      "New": 8.57
+    },
+    {
+      "P": {
+        "Id": 972,
+        "Name": "Roxton Air BD 24/1 Flap Jacks",
+        "Producer": "Cantourage",
+        "MinPrice": 9.0,
+        "Available": true,
+        "Url": "https://flowzz.com/product/roxton-air-bd-24-1-flap-jacks"
+      },
+      "Old": 7.15,
+      "New": 9.0
+    },
+    {
+      "P": {
+        "Id": 829,
+        "Name": "Wellford Aquaponic 23/1 PIK Pink Kush",
+        "Producer": "Therismos",
+        "MinPrice": 5.9,
+        "Available": true,
+        "Url": "https://flowzz.com/product/wellford-23-1-pik-pink-kush"
+      },
+      "Old": 5.35,
+      "New": 5.9
+    },
+    {
+      "P": {
+        "Id": 806,
+        "Name": "LOT 420 LEM PT Lemonatti",
+        "Producer": "Cantourage",
+        "MinPrice": 8.89,
+        "Available": true,
+        "Url": "https://flowzz.com/product/lot-420-lem-pt"
+      },
+      "Old": 8.85,
+      "New": 8.89
+    },
+    {
+      "P": {
+        "Id": 3854,
+        "Name": "MGF GP4 26/1 Spritzer",
+        "Producer": "MGF Via Medical",
+        "MinPrice": 3.99,
+        "Available": true,
+        "Url": "https://flowzz.com/product/mgf-gp4-26-1-spritzer"
+      },
+      "Old": 2.94,
+      "New": 3.99
     },
     {
       "P": {
         "Id": 3029,
         "Name": "Cannamedical Indica Ultra SM Pineapple Express",
         "Producer": "Cannamedical",
-        "MinPrice": 4.13,
+        "MinPrice": 5.14,
         "Available": true,
         "Url": "https://flowzz.com/product/cannamedical-indica-ultra-sm-pineapple-express"
       },
-      "Old": 5.14,
-      "New": 4.13
+      "Old": 4.13,
+      "New": 5.14
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Black Marble",
+        "Producer": "Barongo/buuo - WMG",
+        "MinPrice": 3.79,
+        "Available": true,
+        "Url": "https://shop.dransay.com/product/black-marble/5932035"
+      },
+      "Old": 3.65,
+      "New": 3.79
+    }
+  ],
+  "PriceDown": [
+    {
+      "P": {
+        "Id": 2194,
+        "Name": "Cannamedical Hybrid classic DK Ghost Train Haze",
+        "Producer": "Cannamedical",
+        "MinPrice": 3.24,
+        "Available": true,
+        "Url": "https://flowzz.com/product/cannamedical-hybrid-classic-dk-ghost-train-haze"
+      },
+      "Old": 3.25,
+      "New": 3.24
+    },
+    {
+      "P": {
+        "Id": 3769,
+        "Name": "enua 30/1 GKM Gelatti Kush Mints",
+        "Producer": "enua Pharma",
+        "MinPrice": 5.14,
+        "Available": true,
+        "Url": "https://flowzz.com/product/enua-30-1-gkm-ca-gelatti-kush-mints"
+      },
+      "Old": 5.15,
+      "New": 5.14
+    },
+    {
+      "P": {
+        "Id": 3524,
+        "Name": "Slouu 22/1 AGM CA SBH Strawberry Haze",
+        "Producer": "enua Pharma",
+        "MinPrice": 2.99,
+        "Available": true,
+        "Url": "https://flowzz.com/product/slouu-22-1-agm-ca-sbh-strawberry-haze"
+      },
+      "Old": 3.45,
+      "New": 2.99
+    },
+    {
+      "P": {
+        "Id": 3298,
+        "Name": "enua 30/1 PS3 JFG CA Jet Fuel Gelato",
+        "Producer": "enua Pharma",
+        "MinPrice": 3.84,
+        "Available": true,
+        "Url": "https://flowzz.com/product/enua-30-1-ps3-jfg-ca-jet-fuel-gelato"
+      },
+      "Old": 3.85,
+      "New": 3.84
     },
     {
       "P": {
         "Id": 0,
         "Name": "Cheddar Cheeze",
         "Producer": "Cantourage",
-        "MinPrice": 4.3,
+        "MinPrice": 4.28,
         "Available": true,
         "Url": "https://shop.dransay.com/product/cheddar-cheeze/6102221"
       },
-      "Old": 4.32,
-      "New": 4.3
+      "Old": 4.3,
+      "New": 4.28
     },
     {
       "P": {
         "Id": 0,
         "Name": "Lemon Sorbet",
         "Producer": "Aurora Cannabis",
-        "MinPrice": 4.71,
+        "MinPrice": 4.69,
         "Available": true,
         "Url": "https://shop.dransay.com/product/lemon-sorbet/6306742"
       },
-      "Old": 4.73,
-      "New": 4.71
+      "Old": 4.71,
+      "New": 4.69
     }
   ]
 }
