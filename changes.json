@@ -1,44 +1,140 @@
 {
-  "ScrapedAt": "2026-07-15T22:04:57.567082+02:00",
+  "ScrapedAt": "2026-07-15T23:32:23.429623+02:00",
   "NewStrains": [],
-  "RemovedCount": 1,
-  "BackInStock": [
+  "RemovedCount": 0,
+  "BackInStock": [],
+  "OutOfStock": [
     {
       "Id": 3951,
       "Name": "MGF 200 26/1 Purple Milk",
       "Producer": "AMP",
-      "MinPrice": 4.5,
-      "Available": true,
+      "MinPrice": null,
+      "Available": false,
       "Url": "https://flowzz.com/product/mgf-200-26-1-purple-milk"
     }
   ],
-  "OutOfStock": [],
   "PriceUp": [
     {
       "P": {
-        "Id": 3842,
-        "Name": "SKK MZ 30/1 Milkshake Zheetos",
-        "Producer": "Natural Pharma",
-        "MinPrice": 4.99,
+        "Id": 1038,
+        "Name": "BC Green 17/1 A&B Apples & Bananas",
+        "Producer": "BC Green",
+        "MinPrice": 5.9,
         "Available": true,
-        "Url": "https://flowzz.com/product/skk-mz-30-1-milkshake-zheetos"
+        "Url": "https://flowzz.com/product/bc-green-17-1-ab-apples-and-bananas"
       },
-      "Old": 4.79,
-      "New": 4.99
+      "Old": 3.97,
+      "New": 5.9
+    },
+    {
+      "P": {
+        "Id": 4008,
+        "Name": "Koots Canna 30/1 KCC Kc Crush",
+        "Producer": "Remexian Pharma",
+        "MinPrice": 5.7,
+        "Available": true,
+        "Url": "https://flowzz.com/product/koots-canna-30-1-kcc-kc-crush"
+      },
+      "Old": 3.96,
+      "New": 5.7
     }
   ],
   "PriceDown": [
     {
       "P": {
-        "Id": 3980,
-        "Name": "24/1 IUVO OC Selene",
-        "Producer": "IUVO Therapeutics",
-        "MinPrice": 7.99,
+        "Id": 3982,
+        "Name": "Hempstedt-Börnsen 27/1",
+        "Producer": "medizinalhanf",
+        "MinPrice": 3.89,
         "Available": true,
-        "Url": "https://flowzz.com/product/24-1-iuvo-oc-selene"
+        "Url": "https://flowzz.com/product/hempstedt-boernsen-27-1"
       },
-      "Old": 8.88,
-      "New": 7.99
+      "Old": 3.9,
+      "New": 3.89
+    },
+    {
+      "P": {
+        "Id": 3809,
+        "Name": "Daily Special 23/1 LES Lemon Sorbet",
+        "Producer": "Aurora",
+        "MinPrice": 4.56,
+        "Available": true,
+        "Url": "https://flowzz.com/product/daily-special-23-1-les-lemon-sorbet"
+      },
+      "Old": 4.58,
+      "New": 4.56
+    },
+    {
+      "P": {
+        "Id": 3768,
+        "Name": "enua 30/1 SJ CA Splitter Jelato",
+        "Producer": "enua Pharma",
+        "MinPrice": 3.95,
+        "Available": true,
+        "Url": "https://flowzz.com/product/enua-30-1-sj-ca-splitter-gelato"
+      },
+      "Old": 3.98,
+      "New": 3.95
+    },
+    {
+      "P": {
+        "Id": 3639,
+        "Name": "Hexa 18/1 STO Studio 54",
+        "Producer": "medizinalhanf",
+        "MinPrice": 2.78,
+        "Available": true,
+        "Url": "https://flowzz.com/product/hexa-18-1-sto-studio-54"
+      },
+      "Old": 2.79,
+      "New": 2.78
+    },
+    {
+      "P": {
+        "Id": 3529,
+        "Name": "stabil. JTK-COL 20/1 Jack Attack",
+        "Producer": "Cannovum",
+        "MinPrice": 2.98,
+        "Available": true,
+        "Url": "https://flowzz.com/product/stabil-jtk-col-20-1-jack-attack"
+      },
+      "Old": 3.9,
+      "New": 2.98
+    },
+    {
+      "P": {
+        "Id": 3298,
+        "Name": "enua 30/1 PS3 JFG CA Jet Fuel Gelato",
+        "Producer": "enua Pharma",
+        "MinPrice": 3.74,
+        "Available": true,
+        "Url": "https://flowzz.com/product/enua-30-1-ps3-jfg-ca-jet-fuel-gelato"
+      },
+      "Old": 3.75,
+      "New": 3.74
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Chemango Kush",
+        "Producer": "Aurora Cannabis",
+        "MinPrice": 6.68,
+        "Available": true,
+        "Url": "https://shop.dransay.com/product/chemango-kush/953"
+      },
+      "Old": 6.69,
+      "New": 6.68
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Lemon Sorbet",
+        "Producer": "Aurora Cannabis",
+        "MinPrice": 4.56,
+        "Available": true,
+        "Url": "https://shop.dransay.com/product/lemon-sorbet/6306742"
+      },
+      "Old": 4.58,
+      "New": 4.56
     }
   ]
 }
