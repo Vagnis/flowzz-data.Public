@@ -1,232 +1,137 @@
 {
-  "ScrapedAt": "2026-07-15T01:53:02.941440+02:00",
-  "NewStrains": [],
-  "RemovedCount": 6,
-  "BackInStock": [],
-  "OutOfStock": [
+  "ScrapedAt": "2026-07-15T03:49:33.513168+02:00",
+  "NewStrains": [
     {
-      "Id": 474,
-      "Name": "Cannamedical Hybrid Forte NM Critical Bilbo",
-      "Producer": "Cannamedical",
-      "MinPrice": null,
-      "Available": false,
-      "Url": "https://flowzz.com/product/cannamedical-hybrid-forte-nm-critical-bilbo"
-    },
-    {
-      "Id": 3655,
-      "Name": "HiDealz 15/1 MS BTU Black Tuna smalls",
-      "Producer": "Remexian Pharma",
-      "MinPrice": null,
-      "Available": false,
-      "Url": "https://flowzz.com/product/hidealz-15-1-ms-btu-black-tuna-smalls"
+      "Id": 0,
+      "Name": "OG Cheese",
+      "Producer": "IMC",
+      "MinPrice": 6.99,
+      "Available": true,
+      "Url": "https://shop.dransay.com/product/og-cheese/3396921"
     }
   ],
+  "RemovedCount": 0,
+  "BackInStock": [
+    {
+      "Id": 1974,
+      "Name": "IMC THC25 Token OGC OG Cheese",
+      "Producer": "IMC",
+      "MinPrice": 6.99,
+      "Available": true,
+      "Url": "https://flowzz.com/product/imc-thc-25-ogc-og-cheese"
+    }
+  ],
+  "OutOfStock": [],
   "PriceUp": [
     {
       "P": {
-        "Id": 2681,
-        "Name": "MC Regular Drop GMO x Jet Fuel Gelato",
-        "Producer": "Demecan",
-        "MinPrice": 5.15,
-        "Available": true,
-        "Url": "https://flowzz.com/product/mc-regular-drop-gmo-x-jet-fuel-gelato"
-      },
-      "Old": 4.99,
-      "New": 5.15
-    },
-    {
-      "P": {
-        "Id": 1686,
-        "Name": "Cannamedical Indica Forte BC Tangerine Boost",
+        "Id": 3057,
+        "Name": "Cannamedical CM 28/1 PODDY Poddy Mouth",
         "Producer": "Cannamedical",
-        "MinPrice": 4.8,
+        "MinPrice": 5.99,
         "Available": true,
-        "Url": "https://flowzz.com/product/cannamedical-indica-forte-bc-tangerine-boost"
+        "Url": "https://flowzz.com/product/cannamedical-cm-28-1-poddy-mouth"
       },
-      "Old": 4.79,
-      "New": 4.8
-    },
-    {
-      "P": {
-        "Id": 370,
-        "Name": "Cannamedical Sativa classic NM Gelato Dream",
-        "Producer": "Cannamedical",
-        "MinPrice": 7.59,
-        "Available": true,
-        "Url": "https://flowzz.com/product/cannamedical-sativa-classic-nm-gelato-dream"
-      },
-      "Old": 6.99,
-      "New": 7.59
-    },
-    {
-      "P": {
-        "Id": 4007,
-        "Name": "Remexian VCC 36/1 GWA GWagon",
-        "Producer": "Remexian Pharma",
-        "MinPrice": 6.75,
-        "Available": true,
-        "Url": "https://flowzz.com/product/remexian-vcc-36-1-gwa-gwagon"
-      },
-      "Old": 6.49,
-      "New": 6.75
-    },
-    {
-      "P": {
-        "Id": 3836,
-        "Name": "Hollymood 30/1 SR Sunset Runtz",
-        "Producer": "Bathera",
-        "MinPrice": 5.39,
-        "Available": true,
-        "Url": "https://flowzz.com/product/hollymood-30-1-sr-sunset-runtz"
-      },
-      "Old": 4.89,
-      "New": 5.39
-    },
-    {
-      "P": {
-        "Id": 3734,
-        "Name": "Slouu 33/1 COZ CA Cookies OZ",
-        "Producer": "enua Pharma",
-        "MinPrice": 4.99,
-        "Available": true,
-        "Url": "https://flowzz.com/product/slouu-33-1-coz-ca-cookies-oz"
-      },
-      "Old": 4.95,
-      "New": 4.99
-    },
-    {
-      "P": {
-        "Id": 3605,
-        "Name": "Canify 22/1 CZE Ku. Mochi",
-        "Producer": "Canify",
-        "MinPrice": 4.35,
-        "Available": true,
-        "Url": "https://flowzz.com/product/canify-22-1-cze-ku-mochi"
-      },
-      "Old": 3.99,
-      "New": 4.35
-    },
-    {
-      "P": {
-        "Id": 3189,
-        "Name": "28/1 IUVO OC Killer Cupcake",
-        "Producer": "IUVO Therapeutics",
-        "MinPrice": 7.19,
-        "Available": true,
-        "Url": "https://flowzz.com/product/28-1-iuvo-oc-killer-cupcake"
-      },
-      "Old": 6.49,
-      "New": 7.19
-    },
-    {
-      "P": {
-        "Id": 3147,
-        "Name": "Drapalin 28/1 Bliss",
-        "Producer": "Drapalin Pharmaceuticals",
-        "MinPrice": 4.25,
-        "Available": true,
-        "Url": "https://flowzz.com/product/drapalin-28-1-bliss"
-      },
-      "Old": 4.19,
-      "New": 4.25
-    },
-    {
-      "P": {
-        "Id": 3098,
-        "Name": "GhostDrops 30/1 CGD Rainbow Pavé",
-        "Producer": "Canify",
-        "MinPrice": 4.99,
-        "Available": true,
-        "Url": "https://flowzz.com/product/ghostdrops-30-1-cgd-rainbow-pave"
-      },
-      "Old": 3.99,
-      "New": 4.99
-    },
-    {
-      "P": {
-        "Id": 2986,
-        "Name": "Cannabis flos 22/1 CZE Ku. Ultra Sour",
-        "Producer": "Canify",
-        "MinPrice": 4.24,
-        "Available": true,
-        "Url": "https://flowzz.com/product/cannabis-flos-22-1-cze-ku-ultra-sour"
-      },
-      "Old": 4.2,
-      "New": 4.24
-    },
-    {
-      "P": {
-        "Id": 2757,
-        "Name": "NICE 29/1 MOS Morning Sun",
-        "Producer": "Cansativa",
-        "MinPrice": 4.9,
-        "Available": true,
-        "Url": "https://flowzz.com/product/nice-29-1-mos-morning-sun"
-      },
-      "Old": 4.65,
-      "New": 4.9
-    },
-    {
-      "P": {
-        "Id": 0,
-        "Name": "Needle Point",
-        "Producer": "Barongo/buuo - WMG",
-        "MinPrice": 2.99,
-        "Available": true,
-        "Url": "https://shop.dransay.com/product/needle-point/6093800"
-      },
-      "Old": 2.97,
-      "New": 2.99
-    },
-    {
-      "P": {
-        "Id": 0,
-        "Name": "Black Marble",
-        "Producer": "Barongo/buuo - WMG",
-        "MinPrice": 3.79,
-        "Available": true,
-        "Url": "https://shop.dransay.com/product/black-marble/5932035"
-      },
-      "Old": 3.65,
-      "New": 3.79
+      "Old": 5.4,
+      "New": 5.99
     }
   ],
   "PriceDown": [
     {
       "P": {
-        "Id": 3237,
-        "Name": "Huala 22/1 CA SCO Scoops",
-        "Producer": "Four 20 Pharma",
-        "MinPrice": 2.99,
+        "Id": 3809,
+        "Name": "Daily Special 23/1 LES Lemon Sorbet",
+        "Producer": "Aurora",
+        "MinPrice": 4.74,
         "Available": true,
-        "Url": "https://flowzz.com/product/huala-22-1-ca-sco-scoops"
+        "Url": "https://flowzz.com/product/daily-special-23-1-les-lemon-sorbet"
       },
-      "Old": 3.74,
-      "New": 2.99
+      "Old": 4.76,
+      "New": 4.74
+    },
+    {
+      "P": {
+        "Id": 3798,
+        "Name": "Slouu 22/1 AGM CA CDW Chem Dawg",
+        "Producer": "enua Pharma",
+        "MinPrice": 3.56,
+        "Available": true,
+        "Url": "https://flowzz.com/product/slouu-22-1-agm-ca-cdw-chem-dawg"
+      },
+      "Old": 3.57,
+      "New": 3.56
+    },
+    {
+      "P": {
+        "Id": 3714,
+        "Name": "Buuo 30/1 BDC Birthday Cake",
+        "Producer": "WMG Pharma",
+        "MinPrice": 4.22,
+        "Available": true,
+        "Url": "https://flowzz.com/product/buuo-30-1-bdc-birthday-cake"
+      },
+      "Old": 4.23,
+      "New": 4.22
+    },
+    {
+      "P": {
+        "Id": 3720,
+        "Name": "BUUO 20/1 TMS Black Marble",
+        "Producer": "WMG Pharma",
+        "MinPrice": 3.05,
+        "Available": true,
+        "Url": "https://flowzz.com/product/buuo-20-1-tms-black-marble"
+      },
+      "Old": 3.06,
+      "New": 3.05
+    },
+    {
+      "P": {
+        "Id": 3556,
+        "Name": "Apollo 28/1 MID Marmalade",
+        "Producer": "Cannprisma",
+        "MinPrice": 4.46,
+        "Available": true,
+        "Url": "https://flowzz.com/product/apollo-28-1-mid-marmalade"
+      },
+      "Old": 4.47,
+      "New": 4.46
+    },
+    {
+      "P": {
+        "Id": 3000,
+        "Name": "BUUO 23/1 BV Boom Voyage",
+        "Producer": "WMG Pharma",
+        "MinPrice": 3.43,
+        "Available": true,
+        "Url": "https://flowzz.com/product/buuo-23-1-bv-boom-voyage"
+      },
+      "Old": 3.44,
+      "New": 3.43
     },
     {
       "P": {
         "Id": 0,
         "Name": "Cheddar Cheeze",
         "Producer": "Cantourage",
-        "MinPrice": 4.35,
+        "MinPrice": 4.33,
         "Available": true,
         "Url": "https://shop.dransay.com/product/cheddar-cheeze/6102221"
       },
-      "Old": 4.36,
-      "New": 4.35
+      "Old": 4.35,
+      "New": 4.33
     },
     {
       "P": {
         "Id": 0,
         "Name": "Lemon Sorbet",
         "Producer": "Aurora Cannabis",
-        "MinPrice": 4.76,
+        "MinPrice": 4.74,
         "Available": true,
         "Url": "https://shop.dransay.com/product/lemon-sorbet/6306742"
       },
-      "Old": 4.77,
-      "New": 4.76
+      "Old": 4.76,
+      "New": 4.74
     }
   ]
 }
