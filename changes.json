@@ -1,219 +1,140 @@
 {
-  "ScrapedAt": "2026-07-16T02:43:49.805913+02:00",
-  "NewStrains": [],
-  "RemovedCount": 0,
-  "BackInStock": [
+  "ScrapedAt": "2026-07-16T04:15:19.736425+02:00",
+  "NewStrains": [
     {
-      "Id": 474,
-      "Name": "Cannamedical Hybrid Forte NM Critical Bilbo",
+      "Id": 0,
+      "Name": "OG Kush",
       "Producer": "Cannamedical",
-      "MinPrice": 7.99,
+      "MinPrice": 6.99,
       "Available": true,
-      "Url": "https://flowzz.com/product/cannamedical-hybrid-forte-nm-critical-bilbo"
-    },
-    {
-      "Id": 3655,
-      "Name": "HiDealz 15/1 MS BTU Black Tuna smalls",
-      "Producer": "Remexian Pharma",
-      "MinPrice": 2.85,
-      "Available": true,
-      "Url": "https://flowzz.com/product/hidealz-15-1-ms-btu-black-tuna-smalls"
+      "Url": "https://shop.dransay.com/product/og-kush/4664407"
     }
   ],
+  "RemovedCount": 5,
+  "BackInStock": [],
   "OutOfStock": [],
-  "PriceUp": [],
+  "PriceUp": [
+    {
+      "P": {
+        "Id": 1710,
+        "Name": "Remexian 24/1 PRT MCR Motor Crasher",
+        "Producer": "Remexian Pharma",
+        "MinPrice": 8.38,
+        "Available": true,
+        "Url": "https://flowzz.com/product/remexian-24-1-prt-mcr-motor-crasher"
+      },
+      "Old": 3.56,
+      "New": 8.38
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Black Marble",
+        "Producer": "Barongo/buuo - WMG",
+        "MinPrice": 3.79,
+        "Available": true,
+        "Url": "https://shop.dransay.com/product/black-marble/5932035"
+      },
+      "Old": 3.65,
+      "New": 3.79
+    }
+  ],
   "PriceDown": [
     {
       "P": {
-        "Id": 2681,
-        "Name": "MC Regular Drop GMO x Jet Fuel Gelato",
-        "Producer": "Demecan",
-        "MinPrice": 4.99,
-        "Available": true,
-        "Url": "https://flowzz.com/product/mc-regular-drop-gmo-x-jet-fuel-gelato"
-      },
-      "Old": 5.15,
-      "New": 4.99
-    },
-    {
-      "P": {
-        "Id": 1686,
-        "Name": "Cannamedical Indica Forte BC Tangerine Boost",
-        "Producer": "Cannamedical",
-        "MinPrice": 4.79,
-        "Available": true,
-        "Url": "https://flowzz.com/product/cannamedical-indica-forte-bc-tangerine-boost"
-      },
-      "Old": 4.8,
-      "New": 4.79
-    },
-    {
-      "P": {
-        "Id": 370,
-        "Name": "Cannamedical Sativa classic NM Gelato Dream",
-        "Producer": "Cannamedical",
-        "MinPrice": 6.99,
-        "Available": true,
-        "Url": "https://flowzz.com/product/cannamedical-sativa-classic-nm-gelato-dream"
-      },
-      "Old": 7.59,
-      "New": 6.99
-    },
-    {
-      "P": {
-        "Id": 4007,
-        "Name": "Remexian VCC 36/1 GWA GWagon",
-        "Producer": "Remexian Pharma",
-        "MinPrice": 6.49,
-        "Available": true,
-        "Url": "https://flowzz.com/product/remexian-vcc-36-1-gwa-gwagon"
-      },
-      "Old": 6.73,
-      "New": 6.49
-    },
-    {
-      "P": {
-        "Id": 3836,
-        "Name": "Hollymood 30/1 SR Sunset Runtz",
-        "Producer": "Bathera",
-        "MinPrice": 4.89,
-        "Available": true,
-        "Url": "https://flowzz.com/product/hollymood-30-1-sr-sunset-runtz"
-      },
-      "Old": 5.39,
-      "New": 4.89
-    },
-    {
-      "P": {
-        "Id": 3809,
-        "Name": "Daily Special 23/1 LES Lemon Sorbet",
-        "Producer": "Aurora",
-        "MinPrice": 4.52,
-        "Available": true,
-        "Url": "https://flowzz.com/product/daily-special-23-1-les-lemon-sorbet"
-      },
-      "Old": 4.54,
-      "New": 4.52
-    },
-    {
-      "P": {
-        "Id": 3734,
-        "Name": "Slouu 33/1 COZ CA Cookies OZ",
+        "Id": 3798,
+        "Name": "Slouu 22/1 AGM CA CDW Chem Dawg",
         "Producer": "enua Pharma",
-        "MinPrice": 4.95,
+        "MinPrice": 3.55,
         "Available": true,
-        "Url": "https://flowzz.com/product/slouu-33-1-coz-ca-cookies-oz"
+        "Url": "https://flowzz.com/product/slouu-22-1-agm-ca-cdw-chem-dawg"
       },
-      "Old": 4.99,
-      "New": 4.95
+      "Old": 3.56,
+      "New": 3.55
     },
     {
       "P": {
-        "Id": 3605,
-        "Name": "Canify 22/1 CZE Ku. Mochi",
-        "Producer": "Canify",
-        "MinPrice": 3.99,
-        "Available": true,
-        "Url": "https://flowzz.com/product/canify-22-1-cze-ku-mochi"
-      },
-      "Old": 4.35,
-      "New": 3.99
-    },
-    {
-      "P": {
-        "Id": 3389,
-        "Name": "Cannamedical Indica Light ZAF Strawberry Lemonade",
-        "Producer": "Cannamedical",
-        "MinPrice": 3.49,
-        "Available": true,
-        "Url": "https://flowzz.com/product/cannamedical-indica-light-zaf-strawberry-lemonade"
-      },
-      "Old": 3.79,
-      "New": 3.49
-    },
-    {
-      "P": {
-        "Id": 3318,
-        "Name": "Luana 24/1 GSC Girl Scout Cookies",
-        "Producer": "Cannamedical",
-        "MinPrice": 3.49,
-        "Available": true,
-        "Url": "https://flowzz.com/product/luana-24-1-gsc-girl-scout-cookies"
-      },
-      "Old": 3.95,
-      "New": 3.49
-    },
-    {
-      "P": {
-        "Id": 3286,
-        "Name": "Remexian 27/1 PRT MTP Mokum's Tulip",
-        "Producer": "Remexian Pharma",
-        "MinPrice": 3.99,
-        "Available": true,
-        "Url": "https://flowzz.com/product/remexian-27-1-prt-mtp-mokums-tulip"
-      },
-      "Old": 4.09,
-      "New": 3.99
-    },
-    {
-      "P": {
-        "Id": 3189,
-        "Name": "28/1 IUVO OC Killer Cupcake",
-        "Producer": "IUVO Therapeutics",
-        "MinPrice": 6.49,
-        "Available": true,
-        "Url": "https://flowzz.com/product/28-1-iuvo-oc-killer-cupcake"
-      },
-      "Old": 7.19,
-      "New": 6.49
-    },
-    {
-      "P": {
-        "Id": 3147,
-        "Name": "Drapalin 28/1 Bliss",
-        "Producer": "Drapalin Pharmaceuticals",
+        "Id": 3714,
+        "Name": "Buuo 30/1 BDC Birthday Cake",
+        "Producer": "WMG Pharma",
         "MinPrice": 4.19,
         "Available": true,
-        "Url": "https://flowzz.com/product/drapalin-28-1-bliss"
+        "Url": "https://flowzz.com/product/buuo-30-1-bdc-birthday-cake"
       },
-      "Old": 4.25,
+      "Old": 4.2,
       "New": 4.19
     },
     {
       "P": {
-        "Id": 2986,
-        "Name": "Cannabis flos 22/1 CZE Ku. Ultra Sour",
-        "Producer": "Canify",
-        "MinPrice": 4.2,
+        "Id": 3720,
+        "Name": "BUUO 20/1 TMS Black Marble",
+        "Producer": "WMG Pharma",
+        "MinPrice": 3.0,
         "Available": true,
-        "Url": "https://flowzz.com/product/cannabis-flos-22-1-cze-ku-ultra-sour"
+        "Url": "https://flowzz.com/product/buuo-20-1-tms-black-marble"
       },
-      "Old": 4.24,
-      "New": 4.2
+      "Old": 3.01,
+      "New": 3.0
     },
     {
       "P": {
-        "Id": 2757,
-        "Name": "NICE 29/1 MOS Morning Sun",
-        "Producer": "Cansativa",
-        "MinPrice": 4.65,
+        "Id": 3556,
+        "Name": "Apollo 28/1 MID Marmalade",
+        "Producer": "Cannprisma",
+        "MinPrice": 4.44,
         "Available": true,
-        "Url": "https://flowzz.com/product/nice-29-1-mos-morning-sun"
+        "Url": "https://flowzz.com/product/apollo-28-1-mid-marmalade"
       },
-      "Old": 4.9,
-      "New": 4.65
+      "Old": 4.45,
+      "New": 4.44
+    },
+    {
+      "P": {
+        "Id": 3089,
+        "Name": "avaay 24/1 CP Candy Pavé",
+        "Producer": "avaay",
+        "MinPrice": 5.91,
+        "Available": true,
+        "Url": "https://flowzz.com/product/avaay-24-1-cp-candy-pave"
+      },
+      "Old": 5.92,
+      "New": 5.91
+    },
+    {
+      "P": {
+        "Id": 3004,
+        "Name": "Materia AND 18/1 Andes",
+        "Producer": "Materia",
+        "MinPrice": 3.02,
+        "Available": true,
+        "Url": "https://flowzz.com/product/materia-and-18-1-andes"
+      },
+      "Old": 3.03,
+      "New": 3.02
+    },
+    {
+      "P": {
+        "Id": 3000,
+        "Name": "BUUO 23/1 BV Boom Voyage",
+        "Producer": "WMG Pharma",
+        "MinPrice": 3.39,
+        "Available": true,
+        "Url": "https://flowzz.com/product/buuo-23-1-bv-boom-voyage"
+      },
+      "Old": 3.4,
+      "New": 3.39
     },
     {
       "P": {
         "Id": 0,
         "Name": "Lemon Sorbet",
         "Producer": "Aurora Cannabis",
-        "MinPrice": 4.53,
+        "MinPrice": 4.52,
         "Available": true,
         "Url": "https://shop.dransay.com/product/lemon-sorbet/6306742"
       },
-      "Old": 4.55,
-      "New": 4.53
+      "Old": 4.53,
+      "New": 4.52
     }
   ]
 }
