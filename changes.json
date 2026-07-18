@@ -1,104 +1,169 @@
 {
-  "ScrapedAt": "2026-07-18T22:26:20.825327+02:00",
-  "NewStrains": [],
-  "RemovedCount": 0,
+  "ScrapedAt": "2026-07-18T23:59:15.900635+02:00",
+  "NewStrains": [
+    {
+      "Id": 0,
+      "Name": "ANIMAL COOKIES × SINMINT COOKIES",
+      "Producer": "Demecan",
+      "MinPrice": 5.39,
+      "Available": true,
+      "Url": "https://shop.dransay.com/product/animal-cookies-sinmint-cookies/5548558"
+    },
+    {
+      "Id": 0,
+      "Name": "Triangle Mints",
+      "Producer": "Tilray",
+      "MinPrice": 3.69,
+      "Available": true,
+      "Url": "https://shop.dransay.com/product/triangle-mints/4621059"
+    },
+    {
+      "Id": 0,
+      "Name": "Jack Black",
+      "Producer": "Cantourage",
+      "MinPrice": 5.98,
+      "Available": true,
+      "Url": "https://shop.dransay.com/product/jack-black/5273065"
+    },
+    {
+      "Id": 0,
+      "Name": "Pavé Runtz",
+      "Producer": "Cantourage",
+      "MinPrice": 8.99,
+      "Available": true,
+      "Url": "https://shop.dransay.com/product/pav-runtz/894"
+    },
+    {
+      "Id": 0,
+      "Name": "LA Kush Cake",
+      "Producer": "Cannamedical",
+      "MinPrice": 4.49,
+      "Available": true,
+      "Url": "https://shop.dransay.com/product/la-kush-cake/5224000"
+    },
+    {
+      "Id": 0,
+      "Name": "Platinum Girl Scout Cookies",
+      "Producer": "Bathera",
+      "MinPrice": 5.94,
+      "Available": true,
+      "Url": "https://shop.dransay.com/product/platinum-girl-scout-cookies/2372957"
+    }
+  ],
+  "RemovedCount": 1,
   "BackInStock": [],
   "OutOfStock": [
     {
-      "Id": 3592,
-      "Name": "MGF 50 24/1 Kween’s Kush",
-      "Producer": "MGF Via Medical",
+      "Id": 2521,
+      "Name": "NICE 18/1 MM Mango Mints",
+      "Producer": "Cansativa",
       "MinPrice": null,
       "Available": false,
-      "Url": "https://flowzz.com/product/mgf-50-24-1-kweens-kush"
+      "Url": "https://flowzz.com/product/nice-18-1-mm-mango-mints"
+    },
+    {
+      "Id": 2270,
+      "Name": "Remexian 33/1 MHI MYW Mystic Wonder",
+      "Producer": "Remexian Pharma",
+      "MinPrice": null,
+      "Available": false,
+      "Url": "https://flowzz.com/product/remexian-33-1-mhi-myw-mystic-wonder"
+    },
+    {
+      "Id": 3049,
+      "Name": "enua 25/1 WPP PT Wedding Pop",
+      "Producer": "enua Pharma",
+      "MinPrice": null,
+      "Available": false,
+      "Url": "https://flowzz.com/product/enua-25-1-wpp-pt-wedding-pop"
     }
   ],
   "PriceUp": [
     {
       "P": {
-        "Id": 3695,
-        "Name": "Greenseal 33/1 SGU Strawberry Guava",
-        "Producer": "Remexian Pharma",
-        "MinPrice": 5.65,
+        "Id": 2621,
+        "Name": "187 Cannabisflower FBP THC25 Forbidden Punch",
+        "Producer": "AMP",
+        "MinPrice": 5.59,
         "Available": true,
-        "Url": "https://flowzz.com/product/greenseal-33-1-sgu-strawberry-guava"
+        "Url": "https://flowzz.com/product/187-cannabisflower-fbp-thc-25-forbidden-punch"
       },
-      "Old": 5.6,
-      "New": 5.65
+      "Old": 5.5,
+      "New": 5.59
     },
     {
       "P": {
-        "Id": 3389,
-        "Name": "Cannamedical Indica Light ZAF Strawberry Lemonade",
-        "Producer": "Cannamedical",
-        "MinPrice": 3.82,
+        "Id": 0,
+        "Name": "Gelato x Orange Cake",
+        "Producer": "Cantourage",
+        "MinPrice": 8.99,
         "Available": true,
-        "Url": "https://flowzz.com/product/cannamedical-indica-light-zaf-strawberry-lemonade"
+        "Url": "https://shop.dransay.com/product/gelato-x-orange-cake/3576347"
       },
-      "Old": 3.48,
-      "New": 3.82
+      "Old": 8.92,
+      "New": 8.99
     },
     {
       "P": {
-        "Id": 3268,
-        "Name": "Pop Up No. 14 26/1 BC",
-        "Producer": "MGF Via Medical",
-        "MinPrice": 4.49,
+        "Id": 0,
+        "Name": "Black Marble",
+        "Producer": "Barongo/buuo - WMG",
+        "MinPrice": 3.79,
         "Available": true,
-        "Url": "https://flowzz.com/product/pop-up-no-14-26-1-bc"
+        "Url": "https://shop.dransay.com/product/black-marble/5932035"
       },
-      "Old": 4.35,
-      "New": 4.49
+      "Old": 3.65,
+      "New": 3.79
     }
   ],
   "PriceDown": [
     {
       "P": {
-        "Id": 2569,
-        "Name": "Huala 30/1 CA POG Pineapple God",
-        "Producer": "Four 20 Pharma",
-        "MinPrice": 4.18,
+        "Id": 3952,
+        "Name": "Buuo 18/1 BDC Forbidden Lolly",
+        "Producer": "WMG Pharma",
+        "MinPrice": 2.73,
         "Available": true,
-        "Url": "https://flowzz.com/product/huala-30-1-ca-pog-pineapple-god"
+        "Url": "https://flowzz.com/product/buuo-18-1-bdc-forbidden-lolly"
       },
-      "Old": 4.19,
-      "New": 4.18
+      "Old": 2.83,
+      "New": 2.73
     },
     {
       "P": {
-        "Id": 951,
-        "Name": "avaay 28/1 GNC Grapes and Cream",
-        "Producer": "avaay",
-        "MinPrice": 6.45,
+        "Id": 3566,
+        "Name": "NOC AS 25 ARG Amnesia kush x Sherbet Shocker",
+        "Producer": "Noc Pharma",
+        "MinPrice": 3.78,
         "Available": true,
-        "Url": "https://flowzz.com/product/avaay-28-1-gnc-grapes-and-cream"
+        "Url": "https://flowzz.com/product/noc-as-25-arg-amnesia-kush-x-sherbet-shocker"
       },
-      "Old": 6.48,
-      "New": 6.45
+      "Old": 3.98,
+      "New": 3.78
     },
     {
       "P": {
-        "Id": 798,
-        "Name": "KHIRON SCD 25/1 Sour Chocolate Diesel",
-        "Producer": "KHIRON Europe",
-        "MinPrice": 7.9,
+        "Id": 3554,
+        "Name": "mediproCan Frosty Peaks 26/1 The Soap",
+        "Producer": "mediproCan Pharma",
+        "MinPrice": 3.29,
         "Available": true,
-        "Url": "https://flowzz.com/product/khiron-scd-25-1-sour-chocolate-diesel"
+        "Url": "https://flowzz.com/product/mediprocan-frosty-peaks-26-1-the-soap"
       },
-      "Old": 7.95,
-      "New": 7.9
+      "Old": 3.39,
+      "New": 3.29
     },
     {
       "P": {
-        "Id": 3892,
-        "Name": "Apollo 22/1 RKS Honey Suckle",
-        "Producer": "Cannprisma",
-        "MinPrice": 4.22,
+        "Id": 3266,
+        "Name": "enua 25/1 COZ CA Cookies OZ",
+        "Producer": "enua Pharma",
+        "MinPrice": 3.29,
         "Available": true,
-        "Url": "https://flowzz.com/product/apollo-22-1-rks-honey-suckle"
+        "Url": "https://flowzz.com/product/enua-25-1-coz-ca-cookies-oz"
       },
-      "Old": 4.23,
-      "New": 4.22
+      "Old": 3.33,
+      "New": 3.29
     }
   ]
 }
