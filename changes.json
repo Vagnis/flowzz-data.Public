@@ -1,21 +1,115 @@
 {
-  "ScrapedAt": "2026-07-19T08:28:48.901839+02:00",
-  "NewStrains": [],
+  "ScrapedAt": "2026-07-19T09:54:11.207861+02:00",
+  "NewStrains": [
+    {
+      "Id": 0,
+      "Name": "ANIMAL COOKIES × SINMINT COOKIES",
+      "Producer": "Demecan",
+      "MinPrice": 5.39,
+      "Available": true,
+      "Url": "https://shop.dransay.com/product/animal-cookies-sinmint-cookies/5548558"
+    },
+    {
+      "Id": 0,
+      "Name": "Triangle Mints",
+      "Producer": "Tilray",
+      "MinPrice": 3.69,
+      "Available": true,
+      "Url": "https://shop.dransay.com/product/triangle-mints/4621059"
+    },
+    {
+      "Id": 0,
+      "Name": "Jack Black",
+      "Producer": "Cantourage",
+      "MinPrice": 5.98,
+      "Available": true,
+      "Url": "https://shop.dransay.com/product/jack-black/5273065"
+    },
+    {
+      "Id": 0,
+      "Name": "Pavé Runtz",
+      "Producer": "Cantourage",
+      "MinPrice": 8.99,
+      "Available": true,
+      "Url": "https://shop.dransay.com/product/pav-runtz/894"
+    },
+    {
+      "Id": 0,
+      "Name": "LA Kush Cake",
+      "Producer": "Cannamedical",
+      "MinPrice": 4.49,
+      "Available": true,
+      "Url": "https://shop.dransay.com/product/la-kush-cake/5224000"
+    },
+    {
+      "Id": 0,
+      "Name": "Platinum Girl Scout Cookies",
+      "Producer": "Bathera",
+      "MinPrice": 5.94,
+      "Available": true,
+      "Url": "https://shop.dransay.com/product/platinum-girl-scout-cookies/2372957"
+    }
+  ],
   "RemovedCount": 0,
   "BackInStock": [],
-  "OutOfStock": [],
+  "OutOfStock": [
+    {
+      "Id": 3981,
+      "Name": "MGF 100 THC Rich Gastro Pop",
+      "Producer": "MGF Via Medical",
+      "MinPrice": null,
+      "Available": false,
+      "Url": "https://flowzz.com/product/mgf-100-thc-rich-gastro-pop"
+    }
+  ],
   "PriceUp": [
     {
       "P": {
-        "Id": 3166,
-        "Name": "Good Supply THC10:CBD9 WLC Warlock CBD",
-        "Producer": "Tilray",
-        "MinPrice": 5.99,
+        "Id": 1339,
+        "Name": "enua 30/1 LHZ CA Lemonade Haze",
+        "Producer": "enua Pharma",
+        "MinPrice": 5.95,
         "Available": true,
-        "Url": "https://flowzz.com/product/good-supply-thc10-cbd9-wlc-warlock-cbd"
+        "Url": "https://flowzz.com/product/enua-30-1-lhz-ca-lemonade-haze"
       },
-      "Old": 2.99,
-      "New": 5.99
+      "Old": 4.99,
+      "New": 5.95
+    },
+    {
+      "P": {
+        "Id": 3268,
+        "Name": "Pop Up No. 14 26/1 BC",
+        "Producer": "MGF Via Medical",
+        "MinPrice": 4.59,
+        "Available": true,
+        "Url": "https://flowzz.com/product/pop-up-no-14-26-1-bc"
+      },
+      "Old": 4.49,
+      "New": 4.59
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Gelato x Orange Cake",
+        "Producer": "Cantourage",
+        "MinPrice": 8.99,
+        "Available": true,
+        "Url": "https://shop.dransay.com/product/gelato-x-orange-cake/3576347"
+      },
+      "Old": 8.92,
+      "New": 8.99
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Black Marble",
+        "Producer": "Barongo/buuo - WMG",
+        "MinPrice": 3.79,
+        "Available": true,
+        "Url": "https://shop.dransay.com/product/black-marble/5932035"
+      },
+      "Old": 3.65,
+      "New": 3.79
     }
   ],
   "PriceDown": []
