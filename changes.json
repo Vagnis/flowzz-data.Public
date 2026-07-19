@@ -1,76 +1,34 @@
 {
-  "ScrapedAt": "2026-07-20T00:00:21.437827+02:00",
-  "NewStrains": [
-    {
-      "Id": 0,
-      "Name": "ANIMAL COOKIES × SINMINT COOKIES",
-      "Producer": "Demecan",
-      "MinPrice": 5.39,
-      "Available": true,
-      "Url": "https://shop.dransay.com/product/animal-cookies-sinmint-cookies/5548558"
-    },
-    {
-      "Id": 0,
-      "Name": "Platinum Girl Scout Cookies",
-      "Producer": "Bathera",
-      "MinPrice": 5.94,
-      "Available": true,
-      "Url": "https://shop.dransay.com/product/platinum-girl-scout-cookies/2372957"
-    }
-  ],
-  "RemovedCount": 0,
+  "ScrapedAt": "2026-07-20T00:37:50.459067+02:00",
+  "NewStrains": [],
+  "RemovedCount": 6,
   "BackInStock": [],
   "OutOfStock": [],
-  "PriceUp": [
-    {
-      "P": {
-        "Id": 3028,
-        "Name": "420 evolution 27/1 CA RZY Red Rozay",
-        "Producer": "Four 20 Pharma",
-        "MinPrice": 6.19,
-        "Available": true,
-        "Url": "https://flowzz.com/product/420-evolution-27-1-ca-rzy-red-rozay"
-      },
-      "Old": 5.99,
-      "New": 6.19
-    },
+  "PriceUp": [],
+  "PriceDown": [
     {
       "P": {
         "Id": 0,
         "Name": "Gelato x Orange Cake",
         "Producer": "Cantourage",
-        "MinPrice": 8.99,
+        "MinPrice": 8.92,
         "Available": true,
         "Url": "https://shop.dransay.com/product/gelato-x-orange-cake/3576347"
       },
-      "Old": 8.92,
-      "New": 8.99
+      "Old": 8.99,
+      "New": 8.92
     },
     {
       "P": {
         "Id": 0,
         "Name": "Black Marble",
         "Producer": "Barongo/buuo - WMG",
-        "MinPrice": 3.79,
+        "MinPrice": 3.65,
         "Available": true,
         "Url": "https://shop.dransay.com/product/black-marble/5932035"
       },
-      "Old": 3.65,
-      "New": 3.79
-    }
-  ],
-  "PriceDown": [
-    {
-      "P": {
-        "Id": 0,
-        "Name": "Jack Black",
-        "Producer": "Cantourage",
-        "MinPrice": 5.98,
-        "Available": true,
-        "Url": "https://shop.dransay.com/product/jack-black/5273065"
-      },
-      "Old": 6.71,
-      "New": 5.98
+      "Old": 3.79,
+      "New": 3.65
     }
   ]
 }
