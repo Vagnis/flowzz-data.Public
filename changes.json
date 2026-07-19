@@ -1,72 +1,59 @@
 {
-  "ScrapedAt": "2026-07-19T04:12:48.782319+02:00",
+  "ScrapedAt": "2026-07-19T05:14:19.506230+02:00",
   "NewStrains": [
     {
       "Id": 0,
-      "Name": "Jack Black",
+      "Name": "ANIMAL COOKIES × SINMINT COOKIES",
+      "Producer": "Demecan",
+      "MinPrice": 5.39,
+      "Available": true,
+      "Url": "https://shop.dransay.com/product/animal-cookies-sinmint-cookies/5548558"
+    },
+    {
+      "Id": 0,
+      "Name": "Triangle Mints",
+      "Producer": "Tilray",
+      "MinPrice": 3.69,
+      "Available": true,
+      "Url": "https://shop.dransay.com/product/triangle-mints/4621059"
+    },
+    {
+      "Id": 0,
+      "Name": "Pavé Runtz",
       "Producer": "Cantourage",
-      "MinPrice": 5.98,
+      "MinPrice": 8.99,
       "Available": true,
-      "Url": "https://shop.dransay.com/product/jack-black/5273065"
-    },
-    {
-      "Id": 0,
-      "Name": "LA Kush Cake",
-      "Producer": "Cannamedical",
-      "MinPrice": 4.49,
-      "Available": true,
-      "Url": "https://shop.dransay.com/product/la-kush-cake/5224000"
-    },
-    {
-      "Id": 0,
-      "Name": "Platinum Girl Scout Cookies",
-      "Producer": "Bathera",
-      "MinPrice": 5.94,
-      "Available": true,
-      "Url": "https://shop.dransay.com/product/platinum-girl-scout-cookies/2372957"
+      "Url": "https://shop.dransay.com/product/pav-runtz/894"
     }
   ],
   "RemovedCount": 0,
   "BackInStock": [],
   "OutOfStock": [],
-  "PriceUp": [
+  "PriceUp": [],
+  "PriceDown": [
     {
       "P": {
-        "Id": 0,
-        "Name": "Gelato x Orange Cake",
-        "Producer": "Cantourage",
-        "MinPrice": 8.99,
+        "Id": 3892,
+        "Name": "Apollo 22/1 RKS Honey Suckle",
+        "Producer": "Cannprisma",
+        "MinPrice": 4.21,
         "Available": true,
-        "Url": "https://shop.dransay.com/product/gelato-x-orange-cake/3576347"
+        "Url": "https://flowzz.com/product/apollo-22-1-rks-honey-suckle"
       },
-      "Old": 8.92,
-      "New": 8.99
+      "Old": 4.22,
+      "New": 4.21
     },
     {
       "P": {
         "Id": 0,
         "Name": "Black Marble",
         "Producer": "Barongo/buuo - WMG",
-        "MinPrice": 3.79,
+        "MinPrice": 3.65,
         "Available": true,
         "Url": "https://shop.dransay.com/product/black-marble/5932035"
       },
-      "Old": 3.65,
-      "New": 3.79
-    }
-  ],
-  "PriceDown": [
-    {
-      "P": {
-        "Id": 3000,
-        "Name": "BUUO 23/1 BV Boom Voyage",
-        "Producer": "WMG Pharma",
-        "MinPrice": 3.05,
-        "Available": true,
-        "Url": "https://flowzz.com/product/buuo-23-1-bv-boom-voyage"
-      },
-      "Old": 3.06,
-      "New": 3.05
+      "Old": 3.79,
+      "New": 3.65
     }
   ]
 }
