@@ -1,177 +1,140 @@
 {
-  "ScrapedAt": "2026-07-19T21:40:24.344906+02:00",
-  "NewStrains": [
-    {
-      "Id": 0,
-      "Name": "ANIMAL COOKIES × SINMINT COOKIES",
-      "Producer": "Demecan",
-      "MinPrice": 5.39,
-      "Available": true,
-      "Url": "https://shop.dransay.com/product/animal-cookies-sinmint-cookies/5548558"
-    },
-    {
-      "Id": 0,
-      "Name": "Platinum Girl Scout Cookies",
-      "Producer": "Bathera",
-      "MinPrice": 5.94,
-      "Available": true,
-      "Url": "https://shop.dransay.com/product/platinum-girl-scout-cookies/2372957"
-    }
-  ],
-  "RemovedCount": 1,
+  "ScrapedAt": "2026-07-19T22:24:52.320626+02:00",
+  "NewStrains": [],
+  "RemovedCount": 6,
   "BackInStock": [
     {
-      "Id": 4033,
-      "Name": "Topz & Popz 28/1 24 Karatz",
-      "Producer": "Nimbus Health",
-      "MinPrice": 4.75,
+      "Id": 4058,
+      "Name": "MGF 22/1 Ash Gray",
+      "Producer": "MGF Via Medical",
+      "MinPrice": 4.37,
       "Available": true,
-      "Url": "https://flowzz.com/product/topz-popz-28-1-24-karatz"
+      "Url": "https://flowzz.com/product/mgf-22-1-ash-gray"
     },
     {
-      "Id": 4016,
-      "Name": "MGF Pop Up No. 7 Rich King's Kush",
-      "Producer": "MGF Via Medical",
-      "MinPrice": 4.45,
+      "Id": 4057,
+      "Name": "Remexian 24/1 CRN PCO Pink Cookies",
+      "Producer": "Remexian Pharma",
+      "MinPrice": 4.62,
       "Available": true,
-      "Url": "https://flowzz.com/product/mgf-pop-up-no-7-rich-kings-kush"
+      "Url": "https://flowzz.com/product/remexian-24-1-crn-pco-pink-cookies"
+    },
+    {
+      "Id": 4053,
+      "Name": "MGF 80 Rose Gold Runtz",
+      "Producer": "MGF Via Medical",
+      "MinPrice": 5.07,
+      "Available": true,
+      "Url": "https://flowzz.com/product/mgf-80-rose-gold-runtz"
+    },
+    {
+      "Id": 4034,
+      "Name": "NICE 29/1 GT Garlic Truffle",
+      "Producer": "Cansativa",
+      "MinPrice": 5.29,
+      "Available": true,
+      "Url": "https://flowzz.com/product/nice-29-1-gt-garlic-truffle"
     }
   ],
   "OutOfStock": [],
   "PriceUp": [
     {
       "P": {
-        "Id": 3941,
-        "Name": "Firegold 33/1 WCR Wedding Crasher",
+        "Id": 0,
+        "Name": "Citrus Slap",
+        "Producer": "enua Pharma",
+        "MinPrice": 6.48,
+        "Available": true,
+        "Url": "https://shop.dransay.com/product/citrus-slap/6455186"
+      },
+      "Old": 6.39,
+      "New": 6.48
+    }
+  ],
+  "PriceDown": [
+    {
+      "P": {
+        "Id": 3935,
+        "Name": "Luana 20/1 Mochi",
+        "Producer": "Cannamedical",
+        "MinPrice": 3.85,
+        "Available": true,
+        "Url": "https://flowzz.com/product/luana-20-1-mochi"
+      },
+      "Old": 3.88,
+      "New": 3.85
+    },
+    {
+      "P": {
+        "Id": 3829,
+        "Name": "Origine Nature OC 32/1 Orange Cream",
+        "Producer": "Cantourage",
+        "MinPrice": 5.98,
+        "Available": true,
+        "Url": "https://flowzz.com/product/origine-nature-oc-32-1-orange-cream"
+      },
+      "Old": 5.99,
+      "New": 5.98
+    },
+    {
+      "P": {
+        "Id": 3737,
+        "Name": "Remexian 30/1 BBR HOT High Octane 94",
         "Producer": "Remexian Pharma",
-        "MinPrice": 5.99,
+        "MinPrice": 5.24,
         "Available": true,
-        "Url": "https://flowzz.com/product/firegold-33-1-wcr-wedding-crasher"
+        "Url": "https://flowzz.com/product/remexian-30-1-bbr-hot-high-octane-94"
       },
-      "Old": 5.86,
-      "New": 5.99
+      "Old": 5.25,
+      "New": 5.24
     },
     {
       "P": {
-        "Id": 3695,
-        "Name": "Greenseal 33/1 SGU Strawberry Guava",
-        "Producer": "Remexian Pharma",
-        "MinPrice": 5.65,
+        "Id": 3674,
+        "Name": "APEX MTF 32/1 Mutant Tire Fire",
+        "Producer": "Cannovum",
+        "MinPrice": 5.84,
         "Available": true,
-        "Url": "https://flowzz.com/product/greenseal-33-1-sgu-strawberry-guava"
+        "Url": "https://flowzz.com/product/apex-mtf-32-1-mutant-tire-fire"
       },
-      "Old": 5.6,
-      "New": 5.65
+      "Old": 5.85,
+      "New": 5.84
     },
     {
       "P": {
-        "Id": 3055,
-        "Name": "NICE 20/1 DD Do-Si-Dos",
-        "Producer": "Cansativa",
-        "MinPrice": 3.6,
+        "Id": 0,
+        "Name": "Campfire Kush",
+        "Producer": "Aurora Cannabis",
+        "MinPrice": 5.17,
         "Available": true,
-        "Url": "https://flowzz.com/product/nice-20-1-dd-do-si-dos"
+        "Url": "https://shop.dransay.com/product/campfire-kush/6580437"
       },
-      "Old": 2.99,
-      "New": 3.6
-    },
-    {
-      "P": {
-        "Id": 2863,
-        "Name": "Wildlife 23 MC CAN Mandarin Cookies",
-        "Producer": "ADREXpharma",
-        "MinPrice": 9.98,
-        "Available": true,
-        "Url": "https://flowzz.com/product/wildlife-23-mc-can-mandarin-cookies"
-      },
-      "Old": 2.99,
-      "New": 9.98
+      "Old": 5.18,
+      "New": 5.17
     },
     {
       "P": {
         "Id": 0,
         "Name": "Gelato x Orange Cake",
         "Producer": "Cantourage",
-        "MinPrice": 8.99,
+        "MinPrice": 8.92,
         "Available": true,
         "Url": "https://shop.dransay.com/product/gelato-x-orange-cake/3576347"
       },
-      "Old": 8.92,
-      "New": 8.99
+      "Old": 8.99,
+      "New": 8.92
     },
     {
       "P": {
         "Id": 0,
         "Name": "Black Marble",
         "Producer": "Barongo/buuo - WMG",
-        "MinPrice": 3.79,
+        "MinPrice": 3.65,
         "Available": true,
         "Url": "https://shop.dransay.com/product/black-marble/5932035"
       },
-      "Old": 3.65,
-      "New": 3.79
-    }
-  ],
-  "PriceDown": [
-    {
-      "P": {
-        "Id": 3891,
-        "Name": "Demecan HS Low Drop 17/01 Burmese Mimosa × Athene",
-        "Producer": "Demecan",
-        "MinPrice": 4.2,
-        "Available": true,
-        "Url": "https://flowzz.com/product/demecan-hs-low-drop-17-1-burmese-mimosa-x-athene"
-      },
-      "Old": 5.39,
-      "New": 4.2
-    },
-    {
-      "P": {
-        "Id": 3474,
-        "Name": "ZOIKS 31/1 SR Space Rider",
-        "Producer": "avaay",
-        "MinPrice": 4.35,
-        "Available": true,
-        "Url": "https://flowzz.com/product/zoiks-31-1-sr-space-rider"
-      },
-      "Old": 4.39,
-      "New": 4.35
-    },
-    {
-      "P": {
-        "Id": 0,
-        "Name": "Chemdawg OG",
-        "Producer": "Cantourage",
-        "MinPrice": 5.27,
-        "Available": true,
-        "Url": "https://shop.dransay.com/product/chemdawg-og/541"
-      },
-      "Old": 5.28,
-      "New": 5.27
-    },
-    {
-      "P": {
-        "Id": 0,
-        "Name": "Blueberry Banana",
-        "Producer": "Cantourage",
-        "MinPrice": 8.86,
-        "Available": true,
-        "Url": "https://shop.dransay.com/product/blueberry-banana/5893267"
-      },
-      "Old": 8.88,
-      "New": 8.86
-    },
-    {
-      "P": {
-        "Id": 0,
-        "Name": "Jack Black",
-        "Producer": "Cantourage",
-        "MinPrice": 5.98,
-        "Available": true,
-        "Url": "https://shop.dransay.com/product/jack-black/5273065"
-      },
-      "Old": 6.71,
-      "New": 5.98
+      "Old": 3.79,
+      "New": 3.65
     }
   ]
 }
