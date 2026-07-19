@@ -1,116 +1,128 @@
 {
-  "ScrapedAt": "2026-07-19T09:54:11.207861+02:00",
-  "NewStrains": [
-    {
-      "Id": 0,
-      "Name": "ANIMAL COOKIES × SINMINT COOKIES",
-      "Producer": "Demecan",
-      "MinPrice": 5.39,
-      "Available": true,
-      "Url": "https://shop.dransay.com/product/animal-cookies-sinmint-cookies/5548558"
-    },
-    {
-      "Id": 0,
-      "Name": "Triangle Mints",
-      "Producer": "Tilray",
-      "MinPrice": 3.69,
-      "Available": true,
-      "Url": "https://shop.dransay.com/product/triangle-mints/4621059"
-    },
-    {
-      "Id": 0,
-      "Name": "Jack Black",
-      "Producer": "Cantourage",
-      "MinPrice": 5.98,
-      "Available": true,
-      "Url": "https://shop.dransay.com/product/jack-black/5273065"
-    },
-    {
-      "Id": 0,
-      "Name": "Pavé Runtz",
-      "Producer": "Cantourage",
-      "MinPrice": 8.99,
-      "Available": true,
-      "Url": "https://shop.dransay.com/product/pav-runtz/894"
-    },
-    {
-      "Id": 0,
-      "Name": "LA Kush Cake",
-      "Producer": "Cannamedical",
-      "MinPrice": 4.49,
-      "Available": true,
-      "Url": "https://shop.dransay.com/product/la-kush-cake/5224000"
-    },
-    {
-      "Id": 0,
-      "Name": "Platinum Girl Scout Cookies",
-      "Producer": "Bathera",
-      "MinPrice": 5.94,
-      "Available": true,
-      "Url": "https://shop.dransay.com/product/platinum-girl-scout-cookies/2372957"
-    }
-  ],
+  "ScrapedAt": "2026-07-19T11:54:51.423081+02:00",
+  "NewStrains": [],
   "RemovedCount": 0,
-  "BackInStock": [],
-  "OutOfStock": [
+  "BackInStock": [
     {
       "Id": 3981,
       "Name": "MGF 100 THC Rich Gastro Pop",
       "Producer": "MGF Via Medical",
-      "MinPrice": null,
-      "Available": false,
+      "MinPrice": 4.77,
+      "Available": true,
       "Url": "https://flowzz.com/product/mgf-100-thc-rich-gastro-pop"
     }
   ],
+  "OutOfStock": [],
   "PriceUp": [
     {
       "P": {
-        "Id": 1339,
-        "Name": "enua 30/1 LHZ CA Lemonade Haze",
-        "Producer": "enua Pharma",
-        "MinPrice": 5.95,
-        "Available": true,
-        "Url": "https://flowzz.com/product/enua-30-1-lhz-ca-lemonade-haze"
-      },
-      "Old": 4.99,
-      "New": 5.95
-    },
-    {
-      "P": {
-        "Id": 3268,
-        "Name": "Pop Up No. 14 26/1 BC",
-        "Producer": "MGF Via Medical",
-        "MinPrice": 4.59,
-        "Available": true,
-        "Url": "https://flowzz.com/product/pop-up-no-14-26-1-bc"
-      },
-      "Old": 4.49,
-      "New": 4.59
-    },
-    {
-      "P": {
         "Id": 0,
-        "Name": "Gelato x Orange Cake",
-        "Producer": "Cantourage",
-        "MinPrice": 8.99,
+        "Name": "Atomic Sour Grapefruit",
+        "Producer": "Cansativa",
+        "MinPrice": 5.99,
         "Available": true,
-        "Url": "https://shop.dransay.com/product/gelato-x-orange-cake/3576347"
+        "Url": "https://shop.dransay.com/product/atomic-sour-grapefruit/3905925"
       },
-      "Old": 8.92,
-      "New": 8.99
-    },
-    {
-      "P": {
-        "Id": 0,
-        "Name": "Black Marble",
-        "Producer": "Barongo/buuo - WMG",
-        "MinPrice": 3.79,
-        "Available": true,
-        "Url": "https://shop.dransay.com/product/black-marble/5932035"
-      },
-      "Old": 3.65,
-      "New": 3.79
+      "Old": 5.92,
+      "New": 5.99
     }
   ],
-  "PriceDown": []
+  "PriceDown": [
+    {
+      "P": {
+        "Id": 2664,
+        "Name": "420 Compound 27/1 CA PPE Platinum Pavé",
+        "Producer": "Four 20 Pharma",
+        "MinPrice": 4.8,
+        "Available": true,
+        "Url": "https://flowzz.com/product/420-compound-27-1-ca-ppe-platinum-pave"
+      },
+      "Old": 4.81,
+      "New": 4.8
+    },
+    {
+      "P": {
+        "Id": 2400,
+        "Name": "Luana 16/1 MAC",
+        "Producer": "Cannamedical",
+        "MinPrice": 3.94,
+        "Available": true,
+        "Url": "https://flowzz.com/product/luana-16-1-mac"
+      },
+      "Old": 3.95,
+      "New": 3.94
+    },
+    {
+      "P": {
+        "Id": 3798,
+        "Name": "Slouu 22/1 AGM CA CDW Chem Dawg",
+        "Producer": "enua Pharma",
+        "MinPrice": 3.49,
+        "Available": true,
+        "Url": "https://flowzz.com/product/slouu-22-1-agm-ca-cdw-chem-dawg"
+      },
+      "Old": 3.5,
+      "New": 3.49
+    },
+    {
+      "P": {
+        "Id": 3714,
+        "Name": "Buuo 30/1 BDC Birthday Cake",
+        "Producer": "WMG Pharma",
+        "MinPrice": 4.14,
+        "Available": true,
+        "Url": "https://flowzz.com/product/buuo-30-1-bdc-birthday-cake"
+      },
+      "Old": 4.15,
+      "New": 4.14
+    },
+    {
+      "P": {
+        "Id": 3668,
+        "Name": "Legend's RP 34/1 Rainbow Pavé",
+        "Producer": "Cantourage",
+        "MinPrice": 6.65,
+        "Available": true,
+        "Url": "https://flowzz.com/product/legends-rp-34-1-rainbow-pave"
+      },
+      "Old": 6.66,
+      "New": 6.65
+    },
+    {
+      "P": {
+        "Id": 3556,
+        "Name": "Apollo 28/1 MID Marmalade",
+        "Producer": "Cannprisma",
+        "MinPrice": 4.4,
+        "Available": true,
+        "Url": "https://flowzz.com/product/apollo-28-1-mid-marmalade"
+      },
+      "Old": 4.41,
+      "New": 4.4
+    },
+    {
+      "P": {
+        "Id": 3089,
+        "Name": "avaay 24/1 CP Candy Pavé",
+        "Producer": "avaay",
+        "MinPrice": 5.84,
+        "Available": true,
+        "Url": "https://flowzz.com/product/avaay-24-1-cp-candy-pave"
+      },
+      "Old": 5.85,
+      "New": 5.84
+    },
+    {
+      "P": {
+        "Id": 3000,
+        "Name": "BUUO 23/1 BV Boom Voyage",
+        "Producer": "WMG Pharma",
+        "MinPrice": 3.04,
+        "Available": true,
+        "Url": "https://flowzz.com/product/buuo-23-1-bv-boom-voyage"
+      },
+      "Old": 3.05,
+      "New": 3.04
+    }
+  ]
 }
