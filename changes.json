@@ -1,162 +1,234 @@
 {
-  "ScrapedAt": "2026-07-20T14:05:26.151442+02:00",
+  "ScrapedAt": "2026-07-20T14:55:44.202779+02:00",
   "NewStrains": [
     {
-      "Id": 4068,
-      "Name": "HiDealz 21/1 MS MC1 Mac 1 smalls",
-      "Producer": "Remexian Pharma",
-      "MinPrice": null,
-      "Available": false,
-      "Url": "https://flowzz.com/product/hidealz-21-1-ms-mc1-mac-smalls"
+      "Id": 0,
+      "Name": "Frosted Lemon Angel",
+      "Producer": "Weeco Pharma",
+      "MinPrice": 6.49,
+      "Available": true,
+      "Url": "https://shop.dransay.com/product/frosted-lemon-angel/770"
     },
     {
-      "Id": 4067,
-      "Name": "Suprobion PC 18/1 Purple Cookie",
-      "Producer": "Suprobion",
-      "MinPrice": null,
-      "Available": false,
-      "Url": "https://flowzz.com/product/suprobion-pc-18-1-purple-cookie"
-    },
-    {
-      "Id": 4066,
-      "Name": "Suprobion LJ 18/1 Lemon Jazz",
-      "Producer": "Suprobion",
-      "MinPrice": null,
-      "Available": false,
-      "Url": "https://flowzz.com/product/suprobion-lj-18-1-lemon-jazz"
-    },
+      "Id": 0,
+      "Name": "Platinum Girl Scout Cookies",
+      "Producer": "Bathera",
+      "MinPrice": 5.94,
+      "Available": true,
+      "Url": "https://shop.dransay.com/product/platinum-girl-scout-cookies/2372957"
+    }
+  ],
+  "RemovedCount": 5,
+  "BackInStock": [
     {
       "Id": 4069,
       "Name": "Demecan PS Lean Drop 22/1 Turbo Berry",
       "Producer": "Demecan",
-      "MinPrice": null,
-      "Available": false,
+      "MinPrice": 3.99,
+      "Available": true,
       "Url": "https://flowzz.com/product/demecan-ps-lean-drop-22-1-turbo-berry"
     },
     {
-      "Id": 4070,
-      "Name": "Galaxia Organic Living Soil GB 19/1 Garlic Budder",
-      "Producer": "Cannaflos",
-      "MinPrice": null,
-      "Available": false,
-      "Url": "https://flowzz.com/product/galaxia-organic-living-soil-gb-19-1-garlic-budder"
-    },
-    {
-      "Id": 4071,
-      "Name": "Galaxia Organic Living Soil WRM 15/1 White Runtz x Mintz",
-      "Producer": "Cannaflos",
-      "MinPrice": null,
-      "Available": false,
-      "Url": "https://flowzz.com/product/galaxia-organic-living-soil-wrm-15-1-white-runtz-x-mintz"
-    }
-  ],
-  "RemovedCount": 2,
-  "BackInStock": [
-    {
-      "Id": 2903,
-      "Name": "NICE 20/1 VC Vanilla Cake",
-      "Producer": "Cansativa",
-      "MinPrice": 3.29,
+      "Id": 4005,
+      "Name": "Remexian 24/1 OGN SNS Sage 'n' Sour",
+      "Producer": "Remexian Pharma",
+      "MinPrice": 4.53,
       "Available": true,
-      "Url": "https://flowzz.com/product/nice-20-1-vc-vanilla-cake"
+      "Url": "https://flowzz.com/product/remexian-24-1-ogn-sns-sage-n-sour"
     }
   ],
   "OutOfStock": [
     {
-      "Id": 3395,
-      "Name": "NERO 27/1 BIZ RGO Royal Gorilla",
-      "Producer": "Remexian Pharma",
+      "Id": 3978,
+      "Name": "Demecan Regular Drop 25:01 Super Silver Haze x Lemon Skunk x Ethos Cookies",
+      "Producer": "Demecan",
       "MinPrice": null,
       "Available": false,
-      "Url": "https://flowzz.com/product/nero-27-1-biz-rgo-royal-gorilla"
+      "Url": "https://flowzz.com/product/demecan-regular-drop-25-1-super-silver-haze-x-lemon-skunk-x-ethos-cookies"
     }
   ],
   "PriceUp": [
     {
       "P": {
-        "Id": 0,
-        "Name": "Black Marble",
-        "Producer": "Barongo/buuo - WMG",
-        "MinPrice": 3.79,
+        "Id": 2357,
+        "Name": "enua 36/1 JGF CA Jungle Fumes",
+        "Producer": "enua Pharma",
+        "MinPrice": 6.19,
         "Available": true,
-        "Url": "https://shop.dransay.com/product/black-marble/5932035"
+        "Url": "https://flowzz.com/product/enua-36-1-jgf-jungle-fumes"
       },
-      "Old": 3.65,
-      "New": 3.79
+      "Old": 6.0,
+      "New": 6.19
+    },
+    {
+      "P": {
+        "Id": 1870,
+        "Name": "avaay 34/1 JFP Jet Fuel Pie",
+        "Producer": "avaay",
+        "MinPrice": 7.98,
+        "Available": true,
+        "Url": "https://flowzz.com/product/avaay-34-1-jfp-jet-fuel-pie"
+      },
+      "Old": 7.95,
+      "New": 7.98
+    },
+    {
+      "P": {
+        "Id": 3164,
+        "Name": "Tilray CRAFT THC20 SNS Sunset Sherbet",
+        "Producer": "Tilray",
+        "MinPrice": 6.45,
+        "Available": true,
+        "Url": "https://flowzz.com/product/tilray-craft-thc20-sns-sunset-sherbet"
+      },
+      "Old": 2.99,
+      "New": 6.45
+    },
+    {
+      "P": {
+        "Id": 2776,
+        "Name": "Cannamedical CM 28/1 OG Kush",
+        "Producer": "Cannamedical",
+        "MinPrice": 4.99,
+        "Available": true,
+        "Url": "https://flowzz.com/product/cannamedical-cm-28-1-og-kush"
+      },
+      "Old": 4.64,
+      "New": 4.99
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Citrus Slap",
+        "Producer": "enua Pharma",
+        "MinPrice": 6.75,
+        "Available": true,
+        "Url": "https://shop.dransay.com/product/citrus-slap/6455186"
+      },
+      "Old": 6.74,
+      "New": 6.75
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Gelato x Orange Cake",
+        "Producer": "Cantourage",
+        "MinPrice": 8.99,
+        "Available": true,
+        "Url": "https://shop.dransay.com/product/gelato-x-orange-cake/3576347"
+      },
+      "Old": 8.92,
+      "New": 8.99
     }
   ],
   "PriceDown": [
     {
       "P": {
-        "Id": 2402,
-        "Name": "Cookies 2.0 Cereal Milk 26/1 CAN CM",
+        "Id": 2252,
+        "Name": "Cannamedical Indica Ultra SM Sunset Serenity",
+        "Producer": "Cannamedical",
+        "MinPrice": 4.28,
+        "Available": true,
+        "Url": "https://flowzz.com/product/cannamedical-indica-ultra-sunset-serenity"
+      },
+      "Old": 4.98,
+      "New": 4.28
+    },
+    {
+      "P": {
+        "Id": 2173,
+        "Name": "Amici 26/1 UL Ultra Limelight",
         "Producer": "Cansativa",
-        "MinPrice": 6.49,
+        "MinPrice": 4.6,
         "Available": true,
-        "Url": "https://flowzz.com/product/cookies-2-0-cereal-milk-26-1-can-cm"
+        "Url": "https://flowzz.com/product/amici-26-1-ul-ultra-limelight"
       },
-      "Old": 6.99,
-      "New": 6.49
+      "Old": 4.7,
+      "New": 4.6
     },
     {
       "P": {
-        "Id": 283,
-        "Name": "Demecan FE 800 No. 3",
-        "Producer": "Demecan",
-        "MinPrice": 89.98,
+        "Id": 1089,
+        "Name": "Nimbus easy 30/1 French Cookies",
+        "Producer": "Nimbus Health",
+        "MinPrice": 4.8,
         "Available": true,
-        "Url": "https://flowzz.com/extract/demecan-fe-800-no-3"
+        "Url": "https://flowzz.com/product/nimbus-easy-30-1-french-cookies"
       },
-      "Old": 94.9,
-      "New": 89.98
+      "Old": 5.85,
+      "New": 4.8
     },
     {
       "P": {
-        "Id": 3903,
-        "Name": "Beacon SC T30 Space Cowboy",
-        "Producer": "Beacon Medical Germany",
-        "MinPrice": 4.39,
+        "Id": 3648,
+        "Name": "Remexian 21/1 TCG JCK Jack Herer",
+        "Producer": "Remexian Pharma",
+        "MinPrice": 3.95,
         "Available": true,
-        "Url": "https://flowzz.com/product/beacon-sc-t30-space-cowboy"
+        "Url": "https://flowzz.com/product/remexian-21-1-tcg-jck-jack-herer"
       },
-      "Old": 4.4,
-      "New": 4.39
+      "Old": 3.99,
+      "New": 3.95
     },
     {
       "P": {
-        "Id": 3904,
-        "Name": "Beacon CC T30 Cosmic Cookies",
-        "Producer": "Beacon Medical Germany",
-        "MinPrice": 4.39,
+        "Id": 3569,
+        "Name": "DrWatson 26 AUS Rainbow Pavé",
+        "Producer": "ADREXpharma",
+        "MinPrice": 4.44,
         "Available": true,
-        "Url": "https://flowzz.com/product/beacon-cc-t30-cosmic-cookies"
+        "Url": "https://flowzz.com/product/drwatson-26-aus-rainbow-pav"
       },
-      "Old": 4.4,
-      "New": 4.39
-    },
-    {
-      "P": {
-        "Id": 3340,
-        "Name": "Apollo 33/1 EUF Delicata Cookies",
-        "Producer": "Cannprisma",
-        "MinPrice": 5.45,
-        "Available": true,
-        "Url": "https://flowzz.com/product/apollo-33-1-euf-delicata-cookies"
-      },
-      "Old": 5.5,
-      "New": 5.45
+      "Old": 4.49,
+      "New": 4.44
     },
     {
       "P": {
         "Id": 0,
-        "Name": "SFV OG x Candy Rain",
-        "Producer": "Barongo/buuo - WMG",
-        "MinPrice": 6.99,
+        "Name": "Meringue",
+        "Producer": "Avaay/Vayamed",
+        "MinPrice": 3.95,
         "Available": true,
-        "Url": "https://shop.dransay.com/product/sfv-og-x-candy-rain/5894129"
+        "Url": "https://shop.dransay.com/product/meringue/5949181"
       },
-      "Old": 7.99,
-      "New": 6.99
+      "Old": 3.96,
+      "New": 3.95
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Black Marble",
+        "Producer": "Barongo/buuo - WMG",
+        "MinPrice": 3.65,
+        "Available": true,
+        "Url": "https://shop.dransay.com/product/black-marble/5932035"
+      },
+      "Old": 3.79,
+      "New": 3.65
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Jack Black",
+        "Producer": "Cantourage",
+        "MinPrice": 5.98,
+        "Available": true,
+        "Url": "https://shop.dransay.com/product/jack-black/5273065"
+      },
+      "Old": 6.71,
+      "New": 5.98
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Cap Junky",
+        "Producer": "Dopiopharm",
+        "MinPrice": 5.77,
+        "Available": true,
+        "Url": "https://shop.dransay.com/product/cap-junky/3386139"
+      },
+      "Old": 6.69,
+      "New": 5.77
     }
   ]
 }
