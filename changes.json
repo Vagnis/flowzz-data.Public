@@ -1,56 +1,107 @@
 {
-  "ScrapedAt": "2026-07-20T08:13:48.780743+02:00",
+  "ScrapedAt": "2026-07-20T08:54:15.225693+02:00",
   "NewStrains": [],
-  "RemovedCount": 5,
-  "BackInStock": [
-    {
-      "Id": 4065,
-      "Name": "HiDealz 27/1 MS LFO Lemon Fuel OG smalls",
-      "Producer": "Remexian Pharma",
-      "MinPrice": 3.99,
-      "Available": true,
-      "Url": "https://flowzz.com/product/hidealz-27-1-ms-lfo-lemon-fuel-og-smalls"
-    }
-  ],
+  "RemovedCount": 2,
+  "BackInStock": [],
   "OutOfStock": [],
   "PriceUp": [
     {
       "P": {
-        "Id": 610,
-        "Name": "31/1 Amici AS Atomic Sour Grapefruit",
-        "Producer": "Cansativa",
-        "MinPrice": 9.52,
+        "Id": 2460,
+        "Name": "Vayamed Night 19/1 PYC Peyote Critical",
+        "Producer": "Vayamed",
+        "MinPrice": 3.5,
         "Available": true,
-        "Url": "https://flowzz.com/product/31-1-amici-as-atomic-sour-grapefruit"
+        "Url": "https://flowzz.com/product/vayamend-night-19-1-pyc-peyote-critical"
       },
-      "Old": 7.29,
-      "New": 9.52
-    }
-  ],
-  "PriceDown": [
+      "Old": 3.45,
+      "New": 3.5
+    },
+    {
+      "P": {
+        "Id": 1075,
+        "Name": "enua 25/1 TTA CA Titanimal",
+        "Producer": "enua Pharma",
+        "MinPrice": 8.92,
+        "Available": true,
+        "Url": "https://flowzz.com/product/enua-25-1-tta-ca-titanimal"
+      },
+      "Old": 6.0,
+      "New": 8.92
+    },
+    {
+      "P": {
+        "Id": 1047,
+        "Name": "avaay 29/1 SCP Sour Cherry Punch",
+        "Producer": "avaay",
+        "MinPrice": 8.13,
+        "Available": true,
+        "Url": "https://flowzz.com/product/avaay-29-1-scp-sour-cherry-punch"
+      },
+      "Old": 7.49,
+      "New": 8.13
+    },
     {
       "P": {
         "Id": 3941,
         "Name": "Firegold 33/1 WCR Wedding Crasher",
         "Producer": "Remexian Pharma",
-        "MinPrice": 5.86,
+        "MinPrice": 5.99,
         "Available": true,
         "Url": "https://flowzz.com/product/firegold-33-1-wcr-wedding-crasher"
       },
-      "Old": 5.99,
-      "New": 5.86
+      "Old": 5.86,
+      "New": 5.99
+    },
+    {
+      "P": {
+        "Id": 3428,
+        "Name": "slouu 20/1 MAC Master AC",
+        "Producer": "enua Pharma",
+        "MinPrice": 3.29,
+        "Available": true,
+        "Url": "https://flowzz.com/product/slouu-20-1-mac-master-ac"
+      },
+      "Old": 2.99,
+      "New": 3.29
+    },
+    {
+      "P": {
+        "Id": 3409,
+        "Name": "MH MEDPLANT Wedding Cake 15/1",
+        "Producer": "medizinalhanf",
+        "MinPrice": 3.5,
+        "Available": true,
+        "Url": "https://flowzz.com/product/mh-medplant-wedding-cake-15-1"
+      },
+      "Old": 3.0,
+      "New": 3.5
+    }
+  ],
+  "PriceDown": [
+    {
+      "P": {
+        "Id": 3525,
+        "Name": "NICE 30/1 GBA Guava Barz",
+        "Producer": "Cansativa",
+        "MinPrice": 4.2,
+        "Available": true,
+        "Url": "https://flowzz.com/product/nice-30-1-gba-guava-barz"
+      },
+      "Old": 4.21,
+      "New": 4.2
     },
     {
       "P": {
         "Id": 0,
-        "Name": "Gelato x Orange Cake",
-        "Producer": "Cantourage",
-        "MinPrice": 8.92,
+        "Name": "Black Marble",
+        "Producer": "Barongo/buuo - WMG",
+        "MinPrice": 3.65,
         "Available": true,
-        "Url": "https://shop.dransay.com/product/gelato-x-orange-cake/3576347"
+        "Url": "https://shop.dransay.com/product/black-marble/5932035"
       },
-      "Old": 8.99,
-      "New": 8.92
+      "Old": 3.79,
+      "New": 3.65
     }
   ]
 }
