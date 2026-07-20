@@ -1,31 +1,77 @@
 {
-  "ScrapedAt": "2026-07-20T05:51:49.508724+02:00",
+  "ScrapedAt": "2026-07-20T06:54:10.694493+02:00",
   "NewStrains": [],
-  "RemovedCount": 0,
-  "BackInStock": [],
+  "RemovedCount": 6,
+  "BackInStock": [
+    {
+      "Id": 4064,
+      "Name": "Sundaze 27/1 VBV Vector Berry Voltage",
+      "Producer": "",
+      "MinPrice": 4.75,
+      "Available": true,
+      "Url": "https://flowzz.com/product/sundaze-27-1-vbv-vector-berry-voltage"
+    }
+  ],
   "OutOfStock": [
     {
-      "Id": 3924,
-      "Name": "MGF Pop up No. 21 Candy Pave",
+      "Id": 3849,
+      "Name": "MGF 30 25/1 Facade",
       "Producer": "MGF Via Medical",
       "MinPrice": null,
       "Available": false,
-      "Url": "https://flowzz.com/product/mgf-pop-up-no-21-candy-pave"
+      "Url": "https://flowzz.com/product/mgf-30-25-1-facade"
     }
   ],
   "PriceUp": [
     {
       "P": {
+        "Id": 2252,
+        "Name": "Cannamedical Indica Ultra SM Sunset Serenity",
+        "Producer": "Cannamedical",
+        "MinPrice": 4.98,
+        "Available": true,
+        "Url": "https://flowzz.com/product/cannamedical-indica-ultra-sunset-serenity"
+      },
+      "Old": 4.28,
+      "New": 4.98
+    },
+    {
+      "P": {
+        "Id": 3029,
+        "Name": "Cannamedical Indica Ultra SM Pineapple Express",
+        "Producer": "Cannamedical",
+        "MinPrice": 5.14,
+        "Available": true,
+        "Url": "https://flowzz.com/product/cannamedical-indica-ultra-sm-pineapple-express"
+      },
+      "Old": 4.13,
+      "New": 5.14
+    }
+  ],
+  "PriceDown": [
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Gelato x Orange Cake",
+        "Producer": "Cantourage",
+        "MinPrice": 8.92,
+        "Available": true,
+        "Url": "https://shop.dransay.com/product/gelato-x-orange-cake/3576347"
+      },
+      "Old": 8.99,
+      "New": 8.92
+    },
+    {
+      "P": {
         "Id": 0,
         "Name": "Black Marble",
         "Producer": "Barongo/buuo - WMG",
-        "MinPrice": 3.79,
+        "MinPrice": 3.65,
         "Available": true,
         "Url": "https://shop.dransay.com/product/black-marble/5932035"
       },
-      "Old": 3.65,
-      "New": 3.79
+      "Old": 3.79,
+      "New": 3.65
     }
-  ],
-  "PriceDown": []
+  ]
 }
