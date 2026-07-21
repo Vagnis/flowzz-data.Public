@@ -1,47 +1,180 @@
 {
-  "ScrapedAt": "2026-07-22T00:51:30.691930+02:00",
-  "NewStrains": [],
-  "RemovedCount": 6,
+  "ScrapedAt": "2026-07-22T01:36:51.494569+02:00",
+  "NewStrains": [
+    {
+      "Id": 0,
+      "Name": "ANIMAL COOKIES × SINMINT COOKIES",
+      "Producer": "Demecan",
+      "MinPrice": 5.39,
+      "Available": true,
+      "Url": "https://shop.dransay.com/product/animal-cookies-sinmint-cookies/5548558"
+    },
+    {
+      "Id": 0,
+      "Name": "Triangle Mints",
+      "Producer": "Tilray",
+      "MinPrice": 3.69,
+      "Available": true,
+      "Url": "https://shop.dransay.com/product/triangle-mints/4621059"
+    },
+    {
+      "Id": 0,
+      "Name": "Jack Black",
+      "Producer": "Cantourage",
+      "MinPrice": 5.98,
+      "Available": true,
+      "Url": "https://shop.dransay.com/product/jack-black/5273065"
+    },
+    {
+      "Id": 0,
+      "Name": "LA Kush Cake",
+      "Producer": "Cannamedical",
+      "MinPrice": 4.49,
+      "Available": true,
+      "Url": "https://shop.dransay.com/product/la-kush-cake/5224000"
+    },
+    {
+      "Id": 0,
+      "Name": "Pavé Runtz",
+      "Producer": "Cantourage",
+      "MinPrice": 8.99,
+      "Available": true,
+      "Url": "https://shop.dransay.com/product/pav-runtz/894"
+    },
+    {
+      "Id": 0,
+      "Name": "Platinum Girl Scout Cookies",
+      "Producer": "Bathera",
+      "MinPrice": 5.94,
+      "Available": true,
+      "Url": "https://shop.dransay.com/product/platinum-girl-scout-cookies/2372957"
+    }
+  ],
+  "RemovedCount": 0,
   "BackInStock": [],
   "OutOfStock": [],
   "PriceUp": [
     {
       "P": {
-        "Id": 0,
-        "Name": "Black Marble",
-        "Producer": "Barongo/buuo - WMG",
-        "MinPrice": 3.79,
+        "Id": 3813,
+        "Name": "HiDealz 21/1 MS CTC Ceremony Tart C smalls",
+        "Producer": "Remexian Pharma",
+        "MinPrice": 2.98,
         "Available": true,
-        "Url": "https://shop.dransay.com/product/black-marble/5932035"
+        "Url": "https://flowzz.com/product/hidealz-21-1-ms-ctc-ceremony-tart-c-smalls"
       },
-      "Old": 3.65,
-      "New": 3.79
-    }
-  ],
-  "PriceDown": [
+      "Old": 2.92,
+      "New": 2.98
+    },
+    {
+      "P": {
+        "Id": 3439,
+        "Name": "THC AKUT 23 BF Blunicorn",
+        "Producer": "Bathera",
+        "MinPrice": 3.25,
+        "Available": true,
+        "Url": "https://flowzz.com/product/thc-akut-23-bf-blunicorn"
+      },
+      "Old": 3.19,
+      "New": 3.25
+    },
+    {
+      "P": {
+        "Id": 3000,
+        "Name": "BUUO 23/1 BV Boom Voyage",
+        "Producer": "WMG Pharma",
+        "MinPrice": 3.45,
+        "Available": true,
+        "Url": "https://flowzz.com/product/buuo-23-1-bv-boom-voyage"
+      },
+      "Old": 3.38,
+      "New": 3.45
+    },
     {
       "P": {
         "Id": 0,
         "Name": "Gelato x Orange Cake",
         "Producer": "Cantourage",
-        "MinPrice": 8.92,
+        "MinPrice": 8.99,
         "Available": true,
         "Url": "https://shop.dransay.com/product/gelato-x-orange-cake/3576347"
       },
-      "Old": 8.99,
-      "New": 8.92
+      "Old": 8.92,
+      "New": 8.99
+    }
+  ],
+  "PriceDown": [
+    {
+      "P": {
+        "Id": 2530,
+        "Name": "Gestion Cannabec PC 21/1 Petrol Cookies",
+        "Producer": "Cantourage",
+        "MinPrice": 5.2,
+        "Available": true,
+        "Url": "https://flowzz.com/product/gestion-cannabec-pc-21-1-petrol-cookies"
+      },
+      "Old": 5.95,
+      "New": 5.2
+    },
+    {
+      "P": {
+        "Id": 574,
+        "Name": "Sibanax MCF 20/1 Mac Fem",
+        "Producer": "Heyday",
+        "MinPrice": 3.17,
+        "Available": true,
+        "Url": "https://flowzz.com/product/sibanax-hybrid-mcf-20-1-mac-fem"
+      },
+      "Old": 3.18,
+      "New": 3.17
+    },
+    {
+      "P": {
+        "Id": 3575,
+        "Name": "Buuo 24/1 BBB Banana Bonbon",
+        "Producer": "WMG Pharma",
+        "MinPrice": 3.86,
+        "Available": true,
+        "Url": "https://flowzz.com/product/buuo-24-1-bbb-banana-bonbon"
+      },
+      "Old": 3.87,
+      "New": 3.86
+    },
+    {
+      "P": {
+        "Id": 3536,
+        "Name": "enua 18/1 GPU CA Gastro Pop Ultra",
+        "Producer": "enua Pharma",
+        "MinPrice": 2.93,
+        "Available": true,
+        "Url": "https://flowzz.com/product/enua-18-1-gpu-ca-gastro-pop-ultra"
+      },
+      "Old": 3.19,
+      "New": 2.93
+    },
+    {
+      "P": {
+        "Id": 2781,
+        "Name": "Remexian 33/1 MTL DIN Dantez Inferno",
+        "Producer": "Remexian Pharma",
+        "MinPrice": 4.95,
+        "Available": true,
+        "Url": "https://flowzz.com/product/remexian-33-1-mtl-din-dantez-inferno"
+      },
+      "Old": 4.98,
+      "New": 4.95
     },
     {
       "P": {
         "Id": 0,
-        "Name": "God Cherry Gusher",
-        "Producer": "Cannamedical",
-        "MinPrice": 4.89,
+        "Name": "Black Marble",
+        "Producer": "Barongo/buuo - WMG",
+        "MinPrice": 3.65,
         "Available": true,
-        "Url": "https://shop.dransay.com/product/god-cherry-gusher/6831085"
+        "Url": "https://shop.dransay.com/product/black-marble/5932035"
       },
-      "Old": 4.9,
-      "New": 4.89
+      "Old": 3.79,
+      "New": 3.65
     }
   ]
 }
