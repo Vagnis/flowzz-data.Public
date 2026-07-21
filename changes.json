@@ -1,56 +1,40 @@
 {
-  "ScrapedAt": "2026-07-21T06:22:49.563813+02:00",
+  "ScrapedAt": "2026-07-21T07:05:50.374781+02:00",
   "NewStrains": [
     {
       "Id": 0,
-      "Name": "Platinum Girl Scout Cookies",
-      "Producer": "Bathera",
-      "MinPrice": 5.94,
+      "Name": "Pavé Runtz",
+      "Producer": "Cantourage",
+      "MinPrice": 8.99,
       "Available": true,
-      "Url": "https://shop.dransay.com/product/platinum-girl-scout-cookies/2372957"
+      "Url": "https://shop.dransay.com/product/pav-runtz/894"
     }
   ],
-  "RemovedCount": 4,
+  "RemovedCount": 0,
   "BackInStock": [],
-  "OutOfStock": [],
-  "PriceUp": [
+  "OutOfStock": [
     {
-      "P": {
-        "Id": 0,
-        "Name": "Gelato x Orange Cake",
-        "Producer": "Cantourage",
-        "MinPrice": 8.99,
-        "Available": true,
-        "Url": "https://shop.dransay.com/product/gelato-x-orange-cake/3576347"
-      },
-      "Old": 8.92,
-      "New": 8.99
+      "Id": 1120,
+      "Name": "enua 27/1 SBD CA Strawberry Diesel",
+      "Producer": "enua Pharma",
+      "MinPrice": null,
+      "Available": false,
+      "Url": "https://flowzz.com/product/enua-27-1-sbd-ca-strawberry-diesel"
     }
   ],
+  "PriceUp": [],
   "PriceDown": [
     {
       "P": {
-        "Id": 0,
-        "Name": "Black Marble",
-        "Producer": "Barongo/buuo - WMG",
-        "MinPrice": 3.65,
+        "Id": 3892,
+        "Name": "Apollo 22/1 RKS Honey Suckle",
+        "Producer": "Cannprisma",
+        "MinPrice": 4.16,
         "Available": true,
-        "Url": "https://shop.dransay.com/product/black-marble/5932035"
+        "Url": "https://flowzz.com/product/apollo-22-1-rks-honey-suckle"
       },
-      "Old": 3.79,
-      "New": 3.65
-    },
-    {
-      "P": {
-        "Id": 0,
-        "Name": "Jack Black",
-        "Producer": "Cantourage",
-        "MinPrice": 5.98,
-        "Available": true,
-        "Url": "https://shop.dransay.com/product/jack-black/5273065"
-      },
-      "Old": 6.71,
-      "New": 5.98
+      "Old": 4.17,
+      "New": 4.16
     }
   ]
 }
