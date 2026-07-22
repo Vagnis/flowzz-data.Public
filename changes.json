@@ -1,125 +1,92 @@
 {
-  "ScrapedAt": "2026-07-22T23:57:11.370861+02:00",
-  "NewStrains": [
-    {
-      "Id": 0,
-      "Name": "ANIMAL COOKIES × SINMINT COOKIES",
-      "Producer": "Demecan",
-      "MinPrice": 5.39,
-      "Available": true,
-      "Url": "https://shop.dransay.com/product/animal-cookies-sinmint-cookies/5548558"
-    },
-    {
-      "Id": 0,
-      "Name": "Triangle Mints",
-      "Producer": "Tilray",
-      "MinPrice": 3.69,
-      "Available": true,
-      "Url": "https://shop.dransay.com/product/triangle-mints/4621059"
-    },
-    {
-      "Id": 0,
-      "Name": "LA Kush Cake",
-      "Producer": "Cannamedical",
-      "MinPrice": 4.49,
-      "Available": true,
-      "Url": "https://shop.dransay.com/product/la-kush-cake/5224000"
-    },
-    {
-      "Id": 0,
-      "Name": "Platinum Girl Scout Cookies",
-      "Producer": "Bathera",
-      "MinPrice": 5.94,
-      "Available": true,
-      "Url": "https://shop.dransay.com/product/platinum-girl-scout-cookies/2372957"
-    }
-  ],
-  "RemovedCount": 0,
-  "BackInStock": [],
-  "OutOfStock": [
+  "ScrapedAt": "2026-07-23T00:52:22.229374+02:00",
+  "NewStrains": [],
+  "RemovedCount": 6,
+  "BackInStock": [
     {
       "Id": 1333,
       "Name": "enua 27/1 GTHZ Ghost Train Haze",
       "Producer": "enua Pharma",
-      "MinPrice": null,
-      "Available": false,
+      "MinPrice": 6.49,
+      "Available": true,
       "Url": "https://flowzz.com/product/enua-27-1-ghost-train-haze"
     }
   ],
+  "OutOfStock": [],
   "PriceUp": [
     {
       "P": {
-        "Id": 3383,
-        "Name": "Soma OG 30/1 BCP Black Cherry Punch",
-        "Producer": "Remexian Pharma",
-        "MinPrice": 4.28,
-        "Available": true,
-        "Url": "https://flowzz.com/product/soma-og-30-1-bcp-black-cherry-punch"
-      },
-      "Old": 4.24,
-      "New": 4.28
-    },
-    {
-      "P": {
         "Id": 0,
-        "Name": "Gelato x Orange Cake",
-        "Producer": "Cantourage",
-        "MinPrice": 8.99,
+        "Name": "Strawberry Lemonade",
+        "Producer": "Cannamedical",
+        "MinPrice": 8.87,
         "Available": true,
-        "Url": "https://shop.dransay.com/product/gelato-x-orange-cake/3576347"
+        "Url": "https://shop.dransay.com/product/strawberry-lemonade/5694344"
       },
-      "Old": 8.92,
-      "New": 8.99
-    }
-  ],
-  "PriceDown": [
-    {
-      "P": {
-        "Id": 2057,
-        "Name": "Demecan Core Horizon 27:01 Lava Cake",
-        "Producer": "Demecan",
-        "MinPrice": 5.45,
-        "Available": true,
-        "Url": "https://flowzz.com/product/demecan-core-horizon-27-01-lava-cake"
-      },
-      "Old": 7.74,
-      "New": 5.45
-    },
-    {
-      "P": {
-        "Id": 1879,
-        "Name": "IMC RWT THC27 Token White Rhino",
-        "Producer": "IMC",
-        "MinPrice": 3.65,
-        "Available": true,
-        "Url": "https://flowzz.com/product/imc-thc-27-rtw-white-rhino"
-      },
-      "Old": 3.7,
-      "New": 3.65
+      "Old": 4.98,
+      "New": 8.87
     },
     {
       "P": {
         "Id": 0,
         "Name": "Black Marble",
         "Producer": "Barongo/buuo - WMG",
-        "MinPrice": 3.65,
+        "MinPrice": 3.79,
         "Available": true,
         "Url": "https://shop.dransay.com/product/black-marble/5932035"
       },
-      "Old": 3.79,
-      "New": 3.65
+      "Old": 3.65,
+      "New": 3.79
     },
     {
       "P": {
         "Id": 0,
-        "Name": "Jack Black",
-        "Producer": "Cantourage",
-        "MinPrice": 5.98,
+        "Name": "Melon Pounder",
+        "Producer": "ADREXpharma",
+        "MinPrice": 5.49,
         "Available": true,
-        "Url": "https://shop.dransay.com/product/jack-black/5273065"
+        "Url": "https://shop.dransay.com/product/melon-pounder/6422380"
       },
-      "Old": 6.71,
-      "New": 5.98
+      "Old": 5.29,
+      "New": 5.49
+    }
+  ],
+  "PriceDown": [
+    {
+      "P": {
+        "Id": 1345,
+        "Name": "enua 25/1 GPU CA Gastro Pop Ultra",
+        "Producer": "enua Pharma",
+        "MinPrice": 3.99,
+        "Available": true,
+        "Url": "https://flowzz.com/product/enua-25-1-gpu-gastro-pop-ultra"
+      },
+      "Old": 4.45,
+      "New": 3.99
+    },
+    {
+      "P": {
+        "Id": 3580,
+        "Name": "Barongo 26/1 JEA Banana Candy",
+        "Producer": "WMG Pharma",
+        "MinPrice": 5.95,
+        "Available": true,
+        "Url": "https://flowzz.com/product/barongo-26-1-jea-banana-candy"
+      },
+      "Old": 5.98,
+      "New": 5.95
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Gelato x Orange Cake",
+        "Producer": "Cantourage",
+        "MinPrice": 8.92,
+        "Available": true,
+        "Url": "https://shop.dransay.com/product/gelato-x-orange-cake/3576347"
+      },
+      "Old": 8.99,
+      "New": 8.92
     }
   ]
 }
