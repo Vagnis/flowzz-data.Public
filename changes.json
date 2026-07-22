@@ -1,34 +1,270 @@
 {
-  "ScrapedAt": "2026-07-22T20:51:13.342980+02:00",
-  "NewStrains": [],
-  "RemovedCount": 0,
-  "BackInStock": [],
-  "OutOfStock": [],
+  "ScrapedAt": "2026-07-22T21:52:40.539329+02:00",
+  "NewStrains": [
+    {
+      "Id": 0,
+      "Name": "ANIMAL COOKIES × SINMINT COOKIES",
+      "Producer": "Demecan",
+      "MinPrice": 5.39,
+      "Available": true,
+      "Url": "https://shop.dransay.com/product/animal-cookies-sinmint-cookies/5548558"
+    },
+    {
+      "Id": 0,
+      "Name": "Triangle Mints",
+      "Producer": "Tilray",
+      "MinPrice": 3.69,
+      "Available": true,
+      "Url": "https://shop.dransay.com/product/triangle-mints/4621059"
+    },
+    {
+      "Id": 0,
+      "Name": "Jack Black",
+      "Producer": "Cantourage",
+      "MinPrice": 5.98,
+      "Available": true,
+      "Url": "https://shop.dransay.com/product/jack-black/5273065"
+    },
+    {
+      "Id": 0,
+      "Name": "LA Kush Cake",
+      "Producer": "Cannamedical",
+      "MinPrice": 4.49,
+      "Available": true,
+      "Url": "https://shop.dransay.com/product/la-kush-cake/5224000"
+    },
+    {
+      "Id": 0,
+      "Name": "Pavé Runtz",
+      "Producer": "Cantourage",
+      "MinPrice": 8.99,
+      "Available": true,
+      "Url": "https://shop.dransay.com/product/pav-runtz/894"
+    },
+    {
+      "Id": 0,
+      "Name": "Platinum Girl Scout Cookies",
+      "Producer": "Bathera",
+      "MinPrice": 5.94,
+      "Available": true,
+      "Url": "https://shop.dransay.com/product/platinum-girl-scout-cookies/2372957"
+    }
+  ],
+  "RemovedCount": 1,
+  "BackInStock": [
+    {
+      "Id": 3456,
+      "Name": "Demecan PS Strong Drop Fruit Punch",
+      "Producer": "Demecan",
+      "MinPrice": 3.99,
+      "Available": true,
+      "Url": "https://flowzz.com/product/demecan-ps-strong-drop-fruit-punch"
+    }
+  ],
+  "OutOfStock": [
+    {
+      "Id": 3887,
+      "Name": "NERO 21/1 BIZ GGE Green Gelato",
+      "Producer": "Remexian Pharma",
+      "MinPrice": null,
+      "Available": false,
+      "Url": "https://flowzz.com/product/nero-21-1-biz-gge-green-gelato"
+    }
+  ],
   "PriceUp": [
     {
       "P": {
-        "Id": 1274,
-        "Name": "Huala 22/1 UK CIN Cinderella Kush",
-        "Producer": "Four 20 Pharma",
-        "MinPrice": 5.95,
+        "Id": 592,
+        "Name": "Remexian 30/1 GJY LPP Lemon Pepper Punch",
+        "Producer": "Remexian Pharma",
+        "MinPrice": 5.45,
         "Available": true,
-        "Url": "https://flowzz.com/product/huala-22-1-uk-cin-cinderella-kush"
+        "Url": "https://flowzz.com/product/remexian-30-1-lpp-lemon-pepper-punch"
       },
-      "Old": 4.8,
-      "New": 5.95
+      "Old": 5.39,
+      "New": 5.45
+    },
+    {
+      "P": {
+        "Id": 4059,
+        "Name": "Luana 28/1 GCG God Cherry Gusher",
+        "Producer": "Cannamedical",
+        "MinPrice": 4.91,
+        "Available": true,
+        "Url": "https://flowzz.com/product/luana-28-1-gcg-god-cherry-gusher"
+      },
+      "Old": 4.89,
+      "New": 4.91
+    },
+    {
+      "P": {
+        "Id": 3266,
+        "Name": "enua 25/1 COZ CA Cookies OZ",
+        "Producer": "enua Pharma",
+        "MinPrice": 3.33,
+        "Available": true,
+        "Url": "https://flowzz.com/product/enua-25-1-coz-ca-cookies-oz"
+      },
+      "Old": 3.18,
+      "New": 3.33
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Gelato x Orange Cake",
+        "Producer": "Cantourage",
+        "MinPrice": 8.99,
+        "Available": true,
+        "Url": "https://shop.dransay.com/product/gelato-x-orange-cake/3576347"
+      },
+      "Old": 8.92,
+      "New": 8.99
+    }
+  ],
+  "PriceDown": [
+    {
+      "P": {
+        "Id": 3604,
+        "Name": "Remexian 27/1 CRN VTD Ventura Dawg",
+        "Producer": "Remexian Pharma",
+        "MinPrice": 3.99,
+        "Available": true,
+        "Url": "https://flowzz.com/product/remexian-27-1-crn-vtd-ventura-dawg"
+      },
+      "Old": 4.65,
+      "New": 3.99
+    },
+    {
+      "P": {
+        "Id": 574,
+        "Name": "Sibanax MCF 20/1 Mac Fem",
+        "Producer": "Heyday",
+        "MinPrice": 3.13,
+        "Available": true,
+        "Url": "https://flowzz.com/product/sibanax-hybrid-mcf-20-1-mac-fem"
+      },
+      "Old": 3.14,
+      "New": 3.13
+    },
+    {
+      "P": {
+        "Id": 4056,
+        "Name": "NICE 29/1 TMI Triangle Mints",
+        "Producer": "Cansativa",
+        "MinPrice": 3.85,
+        "Available": true,
+        "Url": "https://flowzz.com/product/nice-29-1-tmi-triangle-mints"
+      },
+      "Old": 3.89,
+      "New": 3.85
+    },
+    {
+      "P": {
+        "Id": 3858,
+        "Name": "Remexian 27/1 SGL CJU Cap Junky",
+        "Producer": "Remexian Pharma",
+        "MinPrice": 3.25,
+        "Available": true,
+        "Url": "https://flowzz.com/product/remexian-27-1-sgl-cju-cap-junky"
+      },
+      "Old": 5.98,
+      "New": 3.25
+    },
+    {
+      "P": {
+        "Id": 3857,
+        "Name": "Remexian 27/1 QUI FCF Fight Club Flower",
+        "Producer": "Remexian Pharma",
+        "MinPrice": 3.25,
+        "Available": true,
+        "Url": "https://flowzz.com/product/rexexian-27-1-qui-fcf-fight-club-flower"
+      },
+      "Old": 4.49,
+      "New": 3.25
+    },
+    {
+      "P": {
+        "Id": 3845,
+        "Name": "Apollo 30/1 EUF Delicata Cookies",
+        "Producer": "Cannprisma",
+        "MinPrice": 5.5,
+        "Available": true,
+        "Url": "https://flowzz.com/product/apollo-30-1-euf-delicata-cookies"
+      },
+      "Old": 6.66,
+      "New": 5.5
+    },
+    {
+      "P": {
+        "Id": 3067,
+        "Name": "Remexian 27/1 PGF GLN Gelonade",
+        "Producer": "Remexian Pharma",
+        "MinPrice": 6.89,
+        "Available": true,
+        "Url": "https://flowzz.com/product/remexian-27-1-pgf-gln-gelonade"
+      },
+      "Old": 7.2,
+      "New": 6.89
+    },
+    {
+      "P": {
+        "Id": 2994,
+        "Name": "enua 27/1 PS3 CA BCP Black Cherry Punch",
+        "Producer": "enua Pharma",
+        "MinPrice": 3.95,
+        "Available": true,
+        "Url": "https://flowzz.com/product/enua-27-1-ps3-black-cherry-punch"
+      },
+      "Old": 3.96,
+      "New": 3.95
+    },
+    {
+      "P": {
+        "Id": 2985,
+        "Name": "Slouu 22/1 PS3 CA GCB God Cherry Bud",
+        "Producer": "enua Pharma",
+        "MinPrice": 3.49,
+        "Available": true,
+        "Url": "https://flowzz.com/product/slouu-22-1-ps3-ca-gcb-god-cherry-bud"
+      },
+      "Old": 3.99,
+      "New": 3.49
+    },
+    {
+      "P": {
+        "Id": 781,
+        "Name": "Cannamedical CM 24/1 BRY Strawberry OG",
+        "Producer": "Cannamedical",
+        "MinPrice": 4.46,
+        "Available": true,
+        "Url": "https://flowzz.com/product/cannamedical-cm-24-1-bry-strawberry-og"
+      },
+      "Old": 4.7,
+      "New": 4.46
+    },
+    {
+      "P": {
+        "Id": 140,
+        "Name": "Somai Cannabisextrakt Mint 10/10",
+        "Producer": "SOMAÍ Pharmaceuticals",
+        "MinPrice": 0.79,
+        "Available": true,
+        "Url": "https://flowzz.com/extract/somai-mint-10-10"
+      },
+      "Old": 0.99,
+      "New": 0.79
     },
     {
       "P": {
         "Id": 0,
         "Name": "Black Marble",
         "Producer": "Barongo/buuo - WMG",
-        "MinPrice": 3.79,
+        "MinPrice": 3.65,
         "Available": true,
         "Url": "https://shop.dransay.com/product/black-marble/5932035"
       },
-      "Old": 3.65,
-      "New": 3.79
+      "Old": 3.79,
+      "New": 3.65
     }
-  ],
-  "PriceDown": []
+  ]
 }
