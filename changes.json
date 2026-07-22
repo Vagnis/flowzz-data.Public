@@ -1,68 +1,333 @@
 {
-  "ScrapedAt": "2026-07-22T18:32:52.854511+02:00",
-  "NewStrains": [],
-  "RemovedCount": 6,
+  "ScrapedAt": "2026-07-22T19:19:21.933553+02:00",
+  "NewStrains": [
+    {
+      "Id": 0,
+      "Name": "ANIMAL COOKIES × SINMINT COOKIES",
+      "Producer": "Demecan",
+      "MinPrice": 5.39,
+      "Available": true,
+      "Url": "https://shop.dransay.com/product/animal-cookies-sinmint-cookies/5548558"
+    },
+    {
+      "Id": 0,
+      "Name": "Triangle Mints",
+      "Producer": "Tilray",
+      "MinPrice": 3.69,
+      "Available": true,
+      "Url": "https://shop.dransay.com/product/triangle-mints/4621059"
+    },
+    {
+      "Id": 0,
+      "Name": "Jack Black",
+      "Producer": "Cantourage",
+      "MinPrice": 5.98,
+      "Available": true,
+      "Url": "https://shop.dransay.com/product/jack-black/5273065"
+    },
+    {
+      "Id": 0,
+      "Name": "LA Kush Cake",
+      "Producer": "Cannamedical",
+      "MinPrice": 4.49,
+      "Available": true,
+      "Url": "https://shop.dransay.com/product/la-kush-cake/5224000"
+    },
+    {
+      "Id": 0,
+      "Name": "Pavé Runtz",
+      "Producer": "Cantourage",
+      "MinPrice": 8.99,
+      "Available": true,
+      "Url": "https://shop.dransay.com/product/pav-runtz/894"
+    },
+    {
+      "Id": 0,
+      "Name": "Platinum Girl Scout Cookies",
+      "Producer": "Bathera",
+      "MinPrice": 5.94,
+      "Available": true,
+      "Url": "https://shop.dransay.com/product/platinum-girl-scout-cookies/2372957"
+    }
+  ],
+  "RemovedCount": 0,
   "BackInStock": [],
   "OutOfStock": [
     {
-      "Id": 3922,
-      "Name": "MGF Pop up No. 16 Kween’s Krown",
-      "Producer": "MGF Via Medical",
+      "Id": 474,
+      "Name": "Cannamedical Hybrid Forte NM Critical Bilbo",
+      "Producer": "Cannamedical",
       "MinPrice": null,
       "Available": false,
-      "Url": "https://flowzz.com/product/mgf-pop-up-no-16-kweens-krown"
+      "Url": "https://flowzz.com/product/cannamedical-hybrid-forte-nm-critical-bilbo"
     }
   ],
   "PriceUp": [
     {
       "P": {
-        "Id": 562,
-        "Name": "IMC THC27 T03 GG4 Gorilla Glue",
-        "Producer": "IMC",
-        "MinPrice": 3.99,
+        "Id": 2182,
+        "Name": "Canopy KMI 30/1 Kush Mints",
+        "Producer": "Canopy Medical",
+        "MinPrice": 4.08,
         "Available": true,
-        "Url": "https://flowzz.com/product/imc-thc-27-t03-gg-4-gorilla-glue-4"
+        "Url": "https://flowzz.com/product/canopy-kmi-30"
       },
-      "Old": 3.97,
-      "New": 3.99
+      "Old": 3.99,
+      "New": 4.08
+    },
+    {
+      "P": {
+        "Id": 2681,
+        "Name": "MC Regular Drop GMO x Jet Fuel Gelato",
+        "Producer": "Demecan",
+        "MinPrice": 5.1,
+        "Available": true,
+        "Url": "https://flowzz.com/product/mc-regular-drop-gmo-x-jet-fuel-gelato"
+      },
+      "Old": 4.99,
+      "New": 5.1
+    },
+    {
+      "P": {
+        "Id": 1835,
+        "Name": "Demecan Craft Cali 26:01 Hawaiian Rain X Permanent Marker",
+        "Producer": "Demecan",
+        "MinPrice": 7.0,
+        "Available": true,
+        "Url": "https://flowzz.com/product/demecan-craft-cali-26-01-hawaiian_rain-x-permanent-marker"
+      },
+      "Old": 6.99,
+      "New": 7.0
+    },
+    {
+      "P": {
+        "Id": 1686,
+        "Name": "Cannamedical Indica Forte BC Tangerine Boost",
+        "Producer": "Cannamedical",
+        "MinPrice": 4.8,
+        "Available": true,
+        "Url": "https://flowzz.com/product/cannamedical-indica-forte-bc-tangerine-boost"
+      },
+      "Old": 4.79,
+      "New": 4.8
+    },
+    {
+      "P": {
+        "Id": 370,
+        "Name": "Cannamedical Sativa classic NM Gelato Dream",
+        "Producer": "Cannamedical",
+        "MinPrice": 7.58,
+        "Available": true,
+        "Url": "https://flowzz.com/product/cannamedical-sativa-classic-nm-gelato-dream"
+      },
+      "Old": 6.99,
+      "New": 7.58
+    },
+    {
+      "P": {
+        "Id": 74,
+        "Name": "Pedanios 22/1 Ghost Train Haze",
+        "Producer": "Aurora",
+        "MinPrice": 7.8,
+        "Available": true,
+        "Url": "https://flowzz.com/product/pedanios-22-1-dnk-ghost-train-haze"
+      },
+      "Old": 7.49,
+      "New": 7.8
+    },
+    {
+      "P": {
+        "Id": 4055,
+        "Name": "Luana 24/1 OG Watermelon",
+        "Producer": "Cannamedical",
+        "MinPrice": 4.99,
+        "Available": true,
+        "Url": "https://flowzz.com/product/luana-24-1-og-watermelon"
+      },
+      "Old": 4.45,
+      "New": 4.99
+    },
+    {
+      "P": {
+        "Id": 3962,
+        "Name": "Canify 20/1 CZE Ku. MAC 1",
+        "Producer": "Canify",
+        "MinPrice": 4.9,
+        "Available": true,
+        "Url": "https://flowzz.com/product/canify-20-1-cze-ku-mac-1"
+      },
+      "Old": 4.2,
+      "New": 4.9
+    },
+    {
+      "P": {
+        "Id": 3655,
+        "Name": "HiDealz 15/1 MS BTU Black Tuna smalls",
+        "Producer": "Remexian Pharma",
+        "MinPrice": 5.75,
+        "Available": true,
+        "Url": "https://flowzz.com/product/hidealz-15-1-ms-btu-black-tuna-smalls"
+      },
+      "Old": 2.85,
+      "New": 5.75
+    },
+    {
+      "P": {
+        "Id": 3605,
+        "Name": "Canify 22/1 CZE Ku. Mochi",
+        "Producer": "Canify",
+        "MinPrice": 4.35,
+        "Available": true,
+        "Url": "https://flowzz.com/product/canify-22-1-cze-ku-mochi"
+      },
+      "Old": 3.99,
+      "New": 4.35
+    },
+    {
+      "P": {
+        "Id": 3471,
+        "Name": "Slouu 30/1 OMJ CA Oz Melon Jam",
+        "Producer": "enua Pharma",
+        "MinPrice": 4.99,
+        "Available": true,
+        "Url": "https://flowzz.com/product/slouu-30-1-omj-ca-oz-melon-jam"
+      },
+      "Old": 4.75,
+      "New": 4.99
+    },
+    {
+      "P": {
+        "Id": 3389,
+        "Name": "Cannamedical Indica Light ZAF Strawberry Lemonade",
+        "Producer": "Cannamedical",
+        "MinPrice": 3.82,
+        "Available": true,
+        "Url": "https://flowzz.com/product/cannamedical-indica-light-zaf-strawberry-lemonade"
+      },
+      "Old": 3.49,
+      "New": 3.82
+    },
+    {
+      "P": {
+        "Id": 3189,
+        "Name": "28/1 IUVO OC Killer Cupcake",
+        "Producer": "IUVO Therapeutics",
+        "MinPrice": 7.19,
+        "Available": true,
+        "Url": "https://flowzz.com/product/28-1-iuvo-oc-killer-cupcake"
+      },
+      "Old": 6.49,
+      "New": 7.19
+    },
+    {
+      "P": {
+        "Id": 2986,
+        "Name": "Cannabis flos 22/1 CZE Ku. Ultra Sour",
+        "Producer": "Canify",
+        "MinPrice": 4.24,
+        "Available": true,
+        "Url": "https://flowzz.com/product/cannabis-flos-22-1-cze-ku-ultra-sour"
+      },
+      "Old": 4.2,
+      "New": 4.24
     },
     {
       "P": {
         "Id": 0,
-        "Name": "Black Marble",
-        "Producer": "Barongo/buuo - WMG",
-        "MinPrice": 3.79,
+        "Name": "Bashengo",
+        "Producer": "Cannamedical",
+        "MinPrice": 5.5,
         "Available": true,
-        "Url": "https://shop.dransay.com/product/black-marble/5932035"
+        "Url": "https://shop.dransay.com/product/bashengo/3453686"
       },
-      "Old": 3.65,
-      "New": 3.79
-    }
-  ],
-  "PriceDown": [
-    {
-      "P": {
-        "Id": 1466,
-        "Name": "madrecan 24/1 MDR MAC Driver",
-        "Producer": "Remexian Pharma",
-        "MinPrice": 3.99,
-        "Available": true,
-        "Url": "https://flowzz.com/product/madrecan-24-1-mac-driver"
-      },
-      "Old": 4.1,
-      "New": 3.99
+      "Old": 5.49,
+      "New": 5.5
     },
     {
       "P": {
         "Id": 0,
         "Name": "Gelato x Orange Cake",
         "Producer": "Cantourage",
-        "MinPrice": 8.92,
+        "MinPrice": 8.99,
         "Available": true,
         "Url": "https://shop.dransay.com/product/gelato-x-orange-cake/3576347"
       },
-      "Old": 8.99,
-      "New": 8.92
+      "Old": 8.92,
+      "New": 8.99
+    }
+  ],
+  "PriceDown": [
+    {
+      "P": {
+        "Id": 2517,
+        "Name": "Vasco PR 27/1 Pave Runtz",
+        "Producer": "Cantourage",
+        "MinPrice": 6.32,
+        "Available": true,
+        "Url": "https://flowzz.com/product/vasco-pr-27-1-pave-runtz"
+      },
+      "Old": 6.33,
+      "New": 6.32
+    },
+    {
+      "P": {
+        "Id": 3907,
+        "Name": "avaay SIGNATURE 28/1 BA Black Amber",
+        "Producer": "avaay",
+        "MinPrice": 8.77,
+        "Available": true,
+        "Url": "https://flowzz.com/product/avaay-signature-28-1-ba-black-amber"
+      },
+      "Old": 8.78,
+      "New": 8.77
+    },
+    {
+      "P": {
+        "Id": 3883,
+        "Name": "Apollo Aurora 30/1 Cream Cake 22",
+        "Producer": "Cannprisma",
+        "MinPrice": 4.29,
+        "Available": true,
+        "Url": "https://flowzz.com/product/apollo-aurora-30-1-cream-cake-22"
+      },
+      "Old": 4.3,
+      "New": 4.29
+    },
+    {
+      "P": {
+        "Id": 3842,
+        "Name": "SKK MZ 30/1 Milkshake Zheetos",
+        "Producer": "Natural Pharma",
+        "MinPrice": 4.94,
+        "Available": true,
+        "Url": "https://flowzz.com/product/skk-mz-30-1-milkshake-zheetos"
+      },
+      "Old": 4.95,
+      "New": 4.94
+    },
+    {
+      "P": {
+        "Id": 3383,
+        "Name": "Soma OG 30/1 BCP Black Cherry Punch",
+        "Producer": "Remexian Pharma",
+        "MinPrice": 4.24,
+        "Available": true,
+        "Url": "https://flowzz.com/product/soma-og-30-1-bcp-black-cherry-punch"
+      },
+      "Old": 4.28,
+      "New": 4.24
+    },
+    {
+      "P": {
+        "Id": 3309,
+        "Name": "TRUU LX 24:01 GMO Cookies x Kush Mintz",
+        "Producer": "Demecan",
+        "MinPrice": 3.19,
+        "Available": true,
+        "Url": "https://flowzz.com/product/truu-lx-2401-gmo-cookies-x-kush-mintz"
+      },
+      "Old": 3.3,
+      "New": 3.19
     }
   ]
 }
