@@ -1,149 +1,169 @@
 {
-  "ScrapedAt": "2026-07-22T14:04:54.299203+02:00",
-  "NewStrains": [],
-  "RemovedCount": 0,
+  "ScrapedAt": "2026-07-22T14:37:52.244696+02:00",
+  "NewStrains": [
+    {
+      "Id": 0,
+      "Name": "Grape Haze",
+      "Producer": "Materia",
+      "MinPrice": 4.99,
+      "Available": true,
+      "Url": "https://shop.dransay.com/product/grape-haze/1063"
+    },
+    {
+      "Id": 0,
+      "Name": "Andes",
+      "Producer": "Materia",
+      "MinPrice": 3.48,
+      "Available": true,
+      "Url": "https://shop.dransay.com/product/andes/4310101"
+    }
+  ],
+  "RemovedCount": 7,
   "BackInStock": [
     {
-      "Id": 3394,
-      "Name": "NERO 24/1 BIZ RGO Royal Gorilla",
-      "Producer": "Remexian Pharma",
-      "MinPrice": 4.76,
+      "Id": 3282,
+      "Name": "Slouu 27/1 CBC CA Citron Biker Cookies",
+      "Producer": "enua Pharma",
+      "MinPrice": 4.99,
       "Available": true,
-      "Url": "https://flowzz.com/product/nero-24-1-biz-rgo-royal-gorilla"
+      "Url": "https://flowzz.com/product/slouu-27-1-cbc-ca-citron-biker-cookies"
     }
   ],
-  "OutOfStock": [
-    {
-      "Id": 2314,
-      "Name": "Beacon WP T24 Blueberry Pancakes",
-      "Producer": "ADREXpharma",
-      "MinPrice": null,
-      "Available": false,
-      "Url": "https://flowzz.com/product/beacon-wp-24-1-blueberry-pancakes"
-    }
-  ],
+  "OutOfStock": [],
   "PriceUp": [
     {
       "P": {
-        "Id": 3883,
-        "Name": "Apollo Aurora 30/1 Cream Cake 22",
-        "Producer": "Cannprisma",
-        "MinPrice": 4.3,
+        "Id": 0,
+        "Name": "Black Marble",
+        "Producer": "Barongo/buuo - WMG",
+        "MinPrice": 3.79,
         "Available": true,
-        "Url": "https://flowzz.com/product/apollo-aurora-30-1-cream-cake-22"
+        "Url": "https://shop.dransay.com/product/black-marble/5932035"
       },
-      "Old": 3.3,
-      "New": 4.3
-    },
-    {
-      "P": {
-        "Id": 3882,
-        "Name": "Apollo Picasso 30/1 Spritzer",
-        "Producer": "Cannprisma",
-        "MinPrice": 4.35,
-        "Available": true,
-        "Url": "https://flowzz.com/product/apollo-picasso-30-1-spritzer"
-      },
-      "Old": 3.1,
-      "New": 4.35
-    },
-    {
-      "P": {
-        "Id": 3878,
-        "Name": "Apollo 24/1 RKS Chocolate Mint OG 2.0",
-        "Producer": "Cannprisma",
-        "MinPrice": 3.96,
-        "Available": true,
-        "Url": "https://flowzz.com/product/apollo-24-1-rks-chocolate-mint-og-2-0"
-      },
-      "Old": 3.1,
-      "New": 3.96
-    },
-    {
-      "P": {
-        "Id": 3332,
-        "Name": "Demecan PS Strong Drop Animal Cookies x SinMint Cookies",
-        "Producer": "Demecan",
-        "MinPrice": 4.18,
-        "Available": true,
-        "Url": "https://flowzz.com/product/demecan-ps-strong-drop-animal-cookies-x-sinmint-cookies"
-      },
-      "Old": 3.79,
-      "New": 4.18
+      "Old": 3.65,
+      "New": 3.79
     }
   ],
   "PriceDown": [
     {
       "P": {
-        "Id": 3885,
-        "Name": "KHIRON SP 25/1 Sugar Punch",
-        "Producer": "KHIRON Europe",
-        "MinPrice": 4.74,
+        "Id": 2619,
+        "Name": "187 Cannabisflower PPP THC22 classics Phantasia Purp",
+        "Producer": "AMP",
+        "MinPrice": 3.99,
         "Available": true,
-        "Url": "https://flowzz.com/product/khiron-sp-25-1-sugar-punch"
+        "Url": "https://flowzz.com/product/187-cannabisflower-ppp-thc22-classics-phantasia-purp"
       },
-      "Old": 4.95,
-      "New": 4.74
+      "Old": 4.89,
+      "New": 3.99
     },
     {
       "P": {
-        "Id": 2258,
-        "Name": "Enua 25/1 EJZ CA El Jefe Zoap",
-        "Producer": "enua Pharma",
-        "MinPrice": 6.2,
+        "Id": 2376,
+        "Name": "Materia AND 16/1 Andes",
+        "Producer": "Materia",
+        "MinPrice": 3.48,
         "Available": true,
-        "Url": "https://flowzz.com/product/enua-25-1-ejz-ca-el-jefe-zoap"
+        "Url": "https://flowzz.com/product/materia-and-16-1-andes"
       },
-      "Old": 6.5,
-      "New": 6.2
+      "Old": 3.49,
+      "New": 3.48
     },
     {
       "P": {
-        "Id": 1490,
-        "Name": "Cannamedical Indica classic DK Lemon Krash",
-        "Producer": "Cannamedical",
-        "MinPrice": 5.5,
+        "Id": 2312,
+        "Name": "Cannabis flos 30/1 CNDA Ku. Purple Churro",
+        "Producer": "Canify",
+        "MinPrice": 5.99,
         "Available": true,
-        "Url": "https://flowzz.com/product/cannamedical-indica-classic-dk-lemon-krash"
+        "Url": "https://flowzz.com/product/cannabis-flos-30-1-cnda-ku-purple-churro"
       },
-      "Old": 5.99,
-      "New": 5.5
+      "Old": 6.94,
+      "New": 5.99
     },
     {
       "P": {
-        "Id": 0,
-        "Name": "Cherry Gelatti Gushers",
-        "Producer": "enua Pharma",
-        "MinPrice": 4.75,
+        "Id": 2239,
+        "Name": "Wellford Luma 26/1 ZA SOC Sour OG Cheese",
+        "Producer": "Therismos",
+        "MinPrice": 4.29,
         "Available": true,
-        "Url": "https://shop.dransay.com/product/cherry-gelatti-gushers/6163391"
+        "Url": "https://flowzz.com/product/wellford-luma-26-1-za-soc-sour-og-cheese"
       },
-      "Old": 4.76,
-      "New": 4.75
+      "Old": 4.3,
+      "New": 4.29
     },
     {
       "P": {
-        "Id": 0,
-        "Name": "Han Solo Burger",
-        "Producer": "enua Pharma",
-        "MinPrice": 4.44,
+        "Id": 3929,
+        "Name": "MGF 22/1 Barbie Punch",
+        "Producer": "MGF Via Medical",
+        "MinPrice": 4.45,
         "Available": true,
-        "Url": "https://shop.dransay.com/product/han-solo-burger/6310741"
+        "Url": "https://flowzz.com/product/mgf-22-1-barbie-punch"
       },
-      "Old": 4.45,
-      "New": 4.44
+      "Old": 4.57,
+      "New": 4.45
+    },
+    {
+      "P": {
+        "Id": 3685,
+        "Name": "Remexian 27/1 JOI MTC Mojito Cookies",
+        "Producer": "Remexian Pharma",
+        "MinPrice": 5.27,
+        "Available": true,
+        "Url": "https://flowzz.com/product/remexian-27-1-joi-mtc-mojito-cookies"
+      },
+      "Old": 5.46,
+      "New": 5.27
     },
     {
       "P": {
         "Id": 0,
         "Name": "Mac Doughnut",
         "Producer": "Cantourage",
-        "MinPrice": 5.66,
+        "MinPrice": 5.65,
         "Available": true,
         "Url": "https://shop.dransay.com/product/mac-doughnut/817"
       },
-      "Old": 5.67,
-      "New": 5.66
+      "Old": 5.66,
+      "New": 5.65
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Citrus Slap",
+        "Producer": "enua Pharma",
+        "MinPrice": 6.38,
+        "Available": true,
+        "Url": "https://shop.dransay.com/product/citrus-slap/6455186"
+      },
+      "Old": 6.39,
+      "New": 6.38
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Gelato x Orange Cake",
+        "Producer": "Cantourage",
+        "MinPrice": 8.92,
+        "Available": true,
+        "Url": "https://shop.dransay.com/product/gelato-x-orange-cake/3576347"
+      },
+      "Old": 8.99,
+      "New": 8.92
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Frosted Lemon Angel",
+        "Producer": "Weeco Pharma",
+        "MinPrice": 5.99,
+        "Available": true,
+        "Url": "https://shop.dransay.com/product/frosted-lemon-angel/770"
+      },
+      "Old": 6.49,
+      "New": 5.99
     }
   ]
 }
