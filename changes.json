@@ -1,9 +1,95 @@
 {
-  "ScrapedAt": "2026-07-22T06:06:31.421867+02:00",
+  "ScrapedAt": "2026-07-22T07:04:51.090509+02:00",
   "NewStrains": [],
-  "RemovedCount": 1,
+  "RemovedCount": 5,
   "BackInStock": [],
   "OutOfStock": [],
-  "PriceUp": [],
-  "PriceDown": []
+  "PriceUp": [
+    {
+      "P": {
+        "Id": 3931,
+        "Name": "Apollo 22/1 RKS Chocolate Mint OG 2.0",
+        "Producer": "Cannprisma",
+        "MinPrice": 3.99,
+        "Available": true,
+        "Url": "https://flowzz.com/product/apollo-22-1-rks-chocolate-mint-og-2-0"
+      },
+      "Old": 3.49,
+      "New": 3.99
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Hokuzai",
+        "Producer": "alephSana",
+        "MinPrice": 8.49,
+        "Available": true,
+        "Url": "https://shop.dransay.com/product/hokuzai/113757"
+      },
+      "Old": 7.62,
+      "New": 8.49
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Black Marble",
+        "Producer": "Barongo/buuo - WMG",
+        "MinPrice": 3.79,
+        "Available": true,
+        "Url": "https://shop.dransay.com/product/black-marble/5932035"
+      },
+      "Old": 3.65,
+      "New": 3.79
+    }
+  ],
+  "PriceDown": [
+    {
+      "P": {
+        "Id": 2252,
+        "Name": "Cannamedical Indica Ultra SM Sunset Serenity",
+        "Producer": "Cannamedical",
+        "MinPrice": 4.28,
+        "Available": true,
+        "Url": "https://flowzz.com/product/cannamedical-indica-ultra-sunset-serenity"
+      },
+      "Old": 4.98,
+      "New": 4.28
+    },
+    {
+      "P": {
+        "Id": 3892,
+        "Name": "Apollo 22/1 RKS Honey Suckle",
+        "Producer": "Cannprisma",
+        "MinPrice": 4.13,
+        "Available": true,
+        "Url": "https://flowzz.com/product/apollo-22-1-rks-honey-suckle"
+      },
+      "Old": 4.14,
+      "New": 4.13
+    },
+    {
+      "P": {
+        "Id": 3029,
+        "Name": "Cannamedical Indica Ultra SM Pineapple Express",
+        "Producer": "Cannamedical",
+        "MinPrice": 4.13,
+        "Available": true,
+        "Url": "https://flowzz.com/product/cannamedical-indica-ultra-sm-pineapple-express"
+      },
+      "Old": 5.14,
+      "New": 4.13
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Gelato x Orange Cake",
+        "Producer": "Cantourage",
+        "MinPrice": 8.92,
+        "Available": true,
+        "Url": "https://shop.dransay.com/product/gelato-x-orange-cake/3576347"
+      },
+      "Old": 8.99,
+      "New": 8.92
+    }
+  ]
 }
