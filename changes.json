@@ -1,35 +1,192 @@
 {
-  "ScrapedAt": "2026-07-23T20:56:52.200168+02:00",
-  "NewStrains": [],
-  "RemovedCount": 1,
+  "ScrapedAt": "2026-07-23T21:31:54.528291+02:00",
+  "NewStrains": [
+    {
+      "Id": 0,
+      "Name": "ANIMAL COOKIES × SINMINT COOKIES",
+      "Producer": "Demecan",
+      "MinPrice": 5.39,
+      "Available": true,
+      "Url": "https://shop.dransay.com/product/animal-cookies-sinmint-cookies/5548558"
+    },
+    {
+      "Id": 0,
+      "Name": "Triangle Mints",
+      "Producer": "Tilray",
+      "MinPrice": 3.69,
+      "Available": true,
+      "Url": "https://shop.dransay.com/product/triangle-mints/4621059"
+    },
+    {
+      "Id": 0,
+      "Name": "Jack Black",
+      "Producer": "Cantourage",
+      "MinPrice": 5.98,
+      "Available": true,
+      "Url": "https://shop.dransay.com/product/jack-black/5273065"
+    },
+    {
+      "Id": 0,
+      "Name": "LA Kush Cake",
+      "Producer": "Cannamedical",
+      "MinPrice": 4.49,
+      "Available": true,
+      "Url": "https://shop.dransay.com/product/la-kush-cake/5224000"
+    },
+    {
+      "Id": 0,
+      "Name": "Pavé Runtz",
+      "Producer": "Cantourage",
+      "MinPrice": 8.99,
+      "Available": true,
+      "Url": "https://shop.dransay.com/product/pav-runtz/894"
+    },
+    {
+      "Id": 0,
+      "Name": "Platinum Girl Scout Cookies",
+      "Producer": "Bathera",
+      "MinPrice": 5.94,
+      "Available": true,
+      "Url": "https://shop.dransay.com/product/platinum-girl-scout-cookies/2372957"
+    }
+  ],
+  "RemovedCount": 0,
   "BackInStock": [],
   "OutOfStock": [],
   "PriceUp": [
     {
       "P": {
-        "Id": 0,
-        "Name": "Black Marble",
-        "Producer": "Barongo/buuo - WMG",
-        "MinPrice": 3.79,
+        "Id": 2676,
+        "Name": "Luana 28/1 Durban Poison",
+        "Producer": "Cannamedical",
+        "MinPrice": 4.99,
         "Available": true,
-        "Url": "https://shop.dransay.com/product/black-marble/5932035"
+        "Url": "https://flowzz.com/product/luana-28-1-durban-poison"
       },
-      "Old": 3.65,
-      "New": 3.79
+      "Old": 4.98,
+      "New": 4.99
+    },
+    {
+      "P": {
+        "Id": 275,
+        "Name": "420 Evolution 25/1 CA STR Star Struck",
+        "Producer": "Four 20 Pharma",
+        "MinPrice": 5.9,
+        "Available": true,
+        "Url": "https://flowzz.com/product/420-evolution-25-1-ca-str-star-struck"
+      },
+      "Old": 4.99,
+      "New": 5.9
+    },
+    {
+      "P": {
+        "Id": 3148,
+        "Name": "V-LUE FaZ9 30/1 FalconZ",
+        "Producer": "ROOBS",
+        "MinPrice": 4.73,
+        "Available": true,
+        "Url": "https://flowzz.com/product/v-lue-faz9-30-1-falconz"
+      },
+      "Old": 4.29,
+      "New": 4.73
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "MAC 1",
+        "Producer": "Cantourage",
+        "MinPrice": 5.99,
+        "Available": true,
+        "Url": "https://shop.dransay.com/product/mac-1/64"
+      },
+      "Old": 5.98,
+      "New": 5.99
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Gelato x Orange Cake",
+        "Producer": "Cantourage",
+        "MinPrice": 8.99,
+        "Available": true,
+        "Url": "https://shop.dransay.com/product/gelato-x-orange-cake/3576347"
+      },
+      "Old": 8.92,
+      "New": 8.99
     }
   ],
   "PriceDown": [
     {
       "P": {
-        "Id": 3634,
-        "Name": "Casper’s No. 69 LGBTQ",
-        "Producer": "medizinalhanf",
-        "MinPrice": 9.49,
+        "Id": 2402,
+        "Name": "Cookies 2.0 Cereal Milk 26/1 CAN CM",
+        "Producer": "Cansativa",
+        "MinPrice": 4.99,
         "Available": true,
-        "Url": "https://flowzz.com/product/caspers-no-69-lgbtq"
+        "Url": "https://flowzz.com/product/cookies-2-0-cereal-milk-26-1-can-cm"
       },
-      "Old": 9.5,
-      "New": 9.49
+      "Old": 6.49,
+      "New": 4.99
+    },
+    {
+      "P": {
+        "Id": 3763,
+        "Name": "CRQSH GAPs 30/1 Gas Pack smalls",
+        "Producer": "ROOBS",
+        "MinPrice": 5.49,
+        "Available": true,
+        "Url": "https://flowzz.com/product/crqsh-gaps-30-1-gas-pack-smalls"
+      },
+      "Old": 5.51,
+      "New": 5.49
+    },
+    {
+      "P": {
+        "Id": 3451,
+        "Name": "Cookies 2.0 31/1 Heavy Eyes",
+        "Producer": "SOMAÍ Pharmaceuticals",
+        "MinPrice": 6.49,
+        "Available": true,
+        "Url": "https://flowzz.com/product/cookies-20-31-1-heavy-eyes"
+      },
+      "Old": 6.95,
+      "New": 6.49
+    },
+    {
+      "P": {
+        "Id": 3361,
+        "Name": "Slouu 27/1 PS3 CA GCB God Cherry Bud",
+        "Producer": "enua Pharma",
+        "MinPrice": 3.9,
+        "Available": true,
+        "Url": "https://flowzz.com/product/slouu-27-1-ps3-ca-gcb-god-cherry-bud"
+      },
+      "Old": 3.92,
+      "New": 3.9
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Cheddar Cheeze",
+        "Producer": "Cantourage",
+        "MinPrice": 4.19,
+        "Available": true,
+        "Url": "https://shop.dransay.com/product/cheddar-cheeze/6102221"
+      },
+      "Old": 4.2,
+      "New": 4.19
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Black Marble",
+        "Producer": "Barongo/buuo - WMG",
+        "MinPrice": 3.65,
+        "Available": true,
+        "Url": "https://shop.dransay.com/product/black-marble/5932035"
+      },
+      "Old": 3.79,
+      "New": 3.65
     }
   ]
 }
