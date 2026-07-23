@@ -1,55 +1,63 @@
 {
-  "ScrapedAt": "2026-07-23T02:16:50.199232+02:00",
-  "NewStrains": [],
-  "RemovedCount": 7,
-  "BackInStock": [],
-  "OutOfStock": [
+  "ScrapedAt": "2026-07-23T03:09:51.169044+02:00",
+  "NewStrains": [
     {
-      "Id": 1333,
-      "Name": "enua 27/1 GTHZ Ghost Train Haze",
-      "Producer": "enua Pharma",
-      "MinPrice": null,
-      "Available": false,
-      "Url": "https://flowzz.com/product/enua-27-1-ghost-train-haze"
+      "Id": 0,
+      "Name": "Triangle Mints",
+      "Producer": "Tilray",
+      "MinPrice": 3.69,
+      "Available": true,
+      "Url": "https://shop.dransay.com/product/triangle-mints/4621059"
+    },
+    {
+      "Id": 0,
+      "Name": "Jack Black",
+      "Producer": "Cantourage",
+      "MinPrice": 6.71,
+      "Available": true,
+      "Url": "https://shop.dransay.com/product/jack-black/5273065"
+    },
+    {
+      "Id": 0,
+      "Name": "LA Kush Cake",
+      "Producer": "Cannamedical",
+      "MinPrice": 4.49,
+      "Available": true,
+      "Url": "https://shop.dransay.com/product/la-kush-cake/5224000"
+    },
+    {
+      "Id": 0,
+      "Name": "Pavé Runtz",
+      "Producer": "Cantourage",
+      "MinPrice": 8.99,
+      "Available": true,
+      "Url": "https://shop.dransay.com/product/pav-runtz/894"
+    },
+    {
+      "Id": 0,
+      "Name": "Sour Cherry Diesel",
+      "Producer": "Remexian/Madrecan",
+      "MinPrice": 4.99,
+      "Available": true,
+      "Url": "https://shop.dransay.com/product/sour-cherry-diesel/2675208"
     }
   ],
-  "PriceUp": [],
-  "PriceDown": [
+  "RemovedCount": 0,
+  "BackInStock": [],
+  "OutOfStock": [],
+  "PriceUp": [
     {
       "P": {
         "Id": 0,
-        "Name": "Gelato x Orange Cake",
-        "Producer": "Cantourage",
-        "MinPrice": 8.92,
+        "Name": "Black Marble",
+        "Producer": "Barongo/buuo - WMG",
+        "MinPrice": 3.79,
         "Available": true,
-        "Url": "https://shop.dransay.com/product/gelato-x-orange-cake/3576347"
+        "Url": "https://shop.dransay.com/product/black-marble/5932035"
       },
-      "Old": 8.99,
-      "New": 8.92
-    },
-    {
-      "P": {
-        "Id": 0,
-        "Name": "Melon Pounder",
-        "Producer": "ADREXpharma",
-        "MinPrice": 5.29,
-        "Available": true,
-        "Url": "https://shop.dransay.com/product/melon-pounder/6422380"
-      },
-      "Old": 5.49,
-      "New": 5.29
-    },
-    {
-      "P": {
-        "Id": 0,
-        "Name": "God Cherry Gusher",
-        "Producer": "Cannamedical",
-        "MinPrice": 4.88,
-        "Available": true,
-        "Url": "https://shop.dransay.com/product/god-cherry-gusher/6831085"
-      },
-      "Old": 4.89,
-      "New": 4.88
+      "Old": 3.65,
+      "New": 3.79
     }
-  ]
+  ],
+  "PriceDown": []
 }
