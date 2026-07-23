@@ -1,91 +1,181 @@
 {
-  "ScrapedAt": "2026-07-23T17:56:21.593765+02:00",
+  "ScrapedAt": "2026-07-23T18:52:12.306366+02:00",
   "NewStrains": [],
-  "RemovedCount": 0,
-  "BackInStock": [],
-  "OutOfStock": [
+  "RemovedCount": 6,
+  "BackInStock": [
     {
       "Id": 3394,
       "Name": "NERO 24/1 BIZ RGO Royal Gorilla",
       "Producer": "Remexian Pharma",
-      "MinPrice": null,
-      "Available": false,
+      "MinPrice": 4.76,
+      "Available": true,
       "Url": "https://flowzz.com/product/nero-24-1-biz-rgo-royal-gorilla"
     }
   ],
-  "PriceUp": [],
-  "PriceDown": [
+  "OutOfStock": [
+    {
+      "Id": 1772,
+      "Name": "Soma OG 24/1 CC Black Cherry Punch",
+      "Producer": "canymed",
+      "MinPrice": null,
+      "Available": false,
+      "Url": "https://flowzz.com/product/soma-og-24-1-black-cherry-punch"
+    },
+    {
+      "Id": 878,
+      "Name": "Bathera 25/1 Permanent Marker",
+      "Producer": "Bathera",
+      "MinPrice": null,
+      "Available": false,
+      "Url": "https://flowzz.com/product/bathera-25-1-permanent-marker"
+    }
+  ],
+  "PriceUp": [
     {
       "P": {
         "Id": 2263,
         "Name": "Demecan CRAFT D-Jungle 28:01 Purple Punch x Jungle Cake",
         "Producer": "Demecan",
-        "MinPrice": 4.49,
+        "MinPrice": 4.99,
         "Available": true,
         "Url": "https://flowzz.com/product/demecan-craft-d-jungle-28-1-purple-punch-x-jungle-cake"
       },
-      "Old": 4.99,
-      "New": 4.49
-    },
-    {
-      "P": {
-        "Id": 2009,
-        "Name": "Luana 28/1 Pine Solpina Magic",
-        "Producer": "Cannamedical",
-        "MinPrice": 4.99,
-        "Available": true,
-        "Url": "https://flowzz.com/product/luana-28-1-pine-solpina-magic"
-      },
-      "Old": 5.34,
+      "Old": 4.49,
       "New": 4.99
     },
     {
       "P": {
-        "Id": 3308,
-        "Name": "AAYRA 25/1 TSH Triangle Silver Haze",
-        "Producer": "ROOBS",
-        "MinPrice": 3.99,
+        "Id": 856,
+        "Name": "Canopy Bakerstreet 22/1 Hindu Kush",
+        "Producer": "Canopy Medical",
+        "MinPrice": 9.99,
         "Available": true,
-        "Url": "https://flowzz.com/product/aayra-25-1-tsh-triangle-silver-haze"
+        "Url": "https://flowzz.com/product/bakerstreet-22-hindu-kush"
       },
-      "Old": 4.99,
-      "New": 3.99
+      "Old": 7.15,
+      "New": 9.99
     },
     {
       "P": {
-        "Id": 3162,
-        "Name": "Luana 27/1 Donny B Bunatic",
-        "Producer": "Cannamedical",
-        "MinPrice": 3.95,
+        "Id": 0,
+        "Name": "Lemon Sorbet",
+        "Producer": "Aurora Cannabis",
+        "MinPrice": 4.65,
         "Available": true,
-        "Url": "https://flowzz.com/product/luana-27-1-donny-b-bunatic"
+        "Url": "https://shop.dransay.com/product/lemon-sorbet/6307255"
       },
-      "Old": 3.96,
-      "New": 3.95
-    },
-    {
-      "P": {
-        "Id": 3148,
-        "Name": "V-LUE FaZ9 30/1 FalconZ",
-        "Producer": "ROOBS",
-        "MinPrice": 4.29,
-        "Available": true,
-        "Url": "https://flowzz.com/product/v-lue-faz9-30-1-falconz"
-      },
-      "Old": 4.73,
-      "New": 4.29
+      "Old": 4.45,
+      "New": 4.65
     },
     {
       "P": {
         "Id": 0,
         "Name": "Black Marble",
         "Producer": "Barongo/buuo - WMG",
-        "MinPrice": 3.65,
+        "MinPrice": 3.79,
         "Available": true,
         "Url": "https://shop.dransay.com/product/black-marble/5932035"
       },
-      "Old": 3.79,
-      "New": 3.65
+      "Old": 3.65,
+      "New": 3.79
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Triangle Mints",
+        "Producer": "Cansativa",
+        "MinPrice": 3.99,
+        "Available": true,
+        "Url": "https://shop.dransay.com/product/triangle-mints/7129704"
+      },
+      "Old": 3.89,
+      "New": 3.99
+    }
+  ],
+  "PriceDown": [
+    {
+      "P": {
+        "Id": 1222,
+        "Name": "avaay 32/1 AHC Amnesia Haze Cake",
+        "Producer": "avaay",
+        "MinPrice": 8.19,
+        "Available": true,
+        "Url": "https://flowzz.com/product/avaay-32-1-ahc-amnesia-haze-cake"
+      },
+      "Old": 8.2,
+      "New": 8.19
+    },
+    {
+      "P": {
+        "Id": 3389,
+        "Name": "Cannamedical Indica Light ZAF Strawberry Lemonade",
+        "Producer": "Cannamedical",
+        "MinPrice": 3.48,
+        "Available": true,
+        "Url": "https://flowzz.com/product/cannamedical-indica-light-zaf-strawberry-lemonade"
+      },
+      "Old": 3.49,
+      "New": 3.48
+    },
+    {
+      "P": {
+        "Id": 2994,
+        "Name": "enua 27/1 PS3 CA BCP Black Cherry Punch",
+        "Producer": "enua Pharma",
+        "MinPrice": 3.93,
+        "Available": true,
+        "Url": "https://flowzz.com/product/enua-27-1-ps3-black-cherry-punch"
+      },
+      "Old": 3.94,
+      "New": 3.93
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Pink Diesel",
+        "Producer": "Aurora Cannabis",
+        "MinPrice": 7.43,
+        "Available": true,
+        "Url": "https://shop.dransay.com/product/pink-diesel/237"
+      },
+      "Old": 7.44,
+      "New": 7.43
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Cheddar Cheeze",
+        "Producer": "Cantourage",
+        "MinPrice": 4.22,
+        "Available": true,
+        "Url": "https://shop.dransay.com/product/cheddar-cheeze/6102221"
+      },
+      "Old": 4.23,
+      "New": 4.22
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Gelato x Orange Cake",
+        "Producer": "Cantourage",
+        "MinPrice": 8.92,
+        "Available": true,
+        "Url": "https://shop.dransay.com/product/gelato-x-orange-cake/3576347"
+      },
+      "Old": 8.99,
+      "New": 8.92
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Melon Pounder",
+        "Producer": "ADREXpharma",
+        "MinPrice": 5.29,
+        "Available": true,
+        "Url": "https://shop.dransay.com/product/melon-pounder/6422380"
+      },
+      "Old": 5.49,
+      "New": 5.29
     }
   ]
 }
