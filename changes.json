@@ -1,192 +1,395 @@
 {
-  "ScrapedAt": "2026-07-23T21:31:54.528291+02:00",
-  "NewStrains": [
-    {
-      "Id": 0,
-      "Name": "ANIMAL COOKIES × SINMINT COOKIES",
-      "Producer": "Demecan",
-      "MinPrice": 5.39,
-      "Available": true,
-      "Url": "https://shop.dransay.com/product/animal-cookies-sinmint-cookies/5548558"
-    },
-    {
-      "Id": 0,
-      "Name": "Triangle Mints",
-      "Producer": "Tilray",
-      "MinPrice": 3.69,
-      "Available": true,
-      "Url": "https://shop.dransay.com/product/triangle-mints/4621059"
-    },
-    {
-      "Id": 0,
-      "Name": "Jack Black",
-      "Producer": "Cantourage",
-      "MinPrice": 5.98,
-      "Available": true,
-      "Url": "https://shop.dransay.com/product/jack-black/5273065"
-    },
-    {
-      "Id": 0,
-      "Name": "LA Kush Cake",
-      "Producer": "Cannamedical",
-      "MinPrice": 4.49,
-      "Available": true,
-      "Url": "https://shop.dransay.com/product/la-kush-cake/5224000"
-    },
-    {
-      "Id": 0,
-      "Name": "Pavé Runtz",
-      "Producer": "Cantourage",
-      "MinPrice": 8.99,
-      "Available": true,
-      "Url": "https://shop.dransay.com/product/pav-runtz/894"
-    },
-    {
-      "Id": 0,
-      "Name": "Platinum Girl Scout Cookies",
-      "Producer": "Bathera",
-      "MinPrice": 5.94,
-      "Available": true,
-      "Url": "https://shop.dransay.com/product/platinum-girl-scout-cookies/2372957"
-    }
-  ],
-  "RemovedCount": 0,
+  "ScrapedAt": "2026-07-23T22:35:27.903158+02:00",
+  "NewStrains": [],
+  "RemovedCount": 6,
   "BackInStock": [],
   "OutOfStock": [],
   "PriceUp": [
     {
       "P": {
-        "Id": 2676,
-        "Name": "Luana 28/1 Durban Poison",
-        "Producer": "Cannamedical",
-        "MinPrice": 4.99,
-        "Available": true,
-        "Url": "https://flowzz.com/product/luana-28-1-durban-poison"
-      },
-      "Old": 4.98,
-      "New": 4.99
-    },
-    {
-      "P": {
-        "Id": 275,
-        "Name": "420 Evolution 25/1 CA STR Star Struck",
-        "Producer": "Four 20 Pharma",
-        "MinPrice": 5.9,
-        "Available": true,
-        "Url": "https://flowzz.com/product/420-evolution-25-1-ca-str-star-struck"
-      },
-      "Old": 4.99,
-      "New": 5.9
-    },
-    {
-      "P": {
-        "Id": 3148,
-        "Name": "V-LUE FaZ9 30/1 FalconZ",
-        "Producer": "ROOBS",
-        "MinPrice": 4.73,
-        "Available": true,
-        "Url": "https://flowzz.com/product/v-lue-faz9-30-1-falconz"
-      },
-      "Old": 4.29,
-      "New": 4.73
-    },
-    {
-      "P": {
         "Id": 0,
-        "Name": "MAC 1",
-        "Producer": "Cantourage",
-        "MinPrice": 5.99,
-        "Available": true,
-        "Url": "https://shop.dransay.com/product/mac-1/64"
-      },
-      "Old": 5.98,
-      "New": 5.99
-    },
-    {
-      "P": {
-        "Id": 0,
-        "Name": "Gelato x Orange Cake",
-        "Producer": "Cantourage",
-        "MinPrice": 8.99,
-        "Available": true,
-        "Url": "https://shop.dransay.com/product/gelato-x-orange-cake/3576347"
-      },
-      "Old": 8.92,
-      "New": 8.99
-    }
-  ],
-  "PriceDown": [
-    {
-      "P": {
-        "Id": 2402,
-        "Name": "Cookies 2.0 Cereal Milk 26/1 CAN CM",
-        "Producer": "Cansativa",
-        "MinPrice": 4.99,
-        "Available": true,
-        "Url": "https://flowzz.com/product/cookies-2-0-cereal-milk-26-1-can-cm"
-      },
-      "Old": 6.49,
-      "New": 4.99
-    },
-    {
-      "P": {
-        "Id": 3763,
-        "Name": "CRQSH GAPs 30/1 Gas Pack smalls",
-        "Producer": "ROOBS",
-        "MinPrice": 5.49,
-        "Available": true,
-        "Url": "https://flowzz.com/product/crqsh-gaps-30-1-gas-pack-smalls"
-      },
-      "Old": 5.51,
-      "New": 5.49
-    },
-    {
-      "P": {
-        "Id": 3451,
-        "Name": "Cookies 2.0 31/1 Heavy Eyes",
-        "Producer": "SOMAÍ Pharmaceuticals",
-        "MinPrice": 6.49,
-        "Available": true,
-        "Url": "https://flowzz.com/product/cookies-20-31-1-heavy-eyes"
-      },
-      "Old": 6.95,
-      "New": 6.49
-    },
-    {
-      "P": {
-        "Id": 3361,
-        "Name": "Slouu 27/1 PS3 CA GCB God Cherry Bud",
+        "Name": "Cookies OZ",
         "Producer": "enua Pharma",
-        "MinPrice": 3.9,
+        "MinPrice": 3.98,
         "Available": true,
-        "Url": "https://flowzz.com/product/slouu-27-1-ps3-ca-gcb-god-cherry-bud"
+        "Url": "https://shop.dransay.com/product/cookies-oz/6162627"
       },
-      "Old": 3.92,
-      "New": 3.9
-    },
-    {
-      "P": {
-        "Id": 0,
-        "Name": "Cheddar Cheeze",
-        "Producer": "Cantourage",
-        "MinPrice": 4.19,
-        "Available": true,
-        "Url": "https://shop.dransay.com/product/cheddar-cheeze/6102221"
-      },
-      "Old": 4.2,
-      "New": 4.19
+      "Old": 3.95,
+      "New": 3.98
     },
     {
       "P": {
         "Id": 0,
         "Name": "Black Marble",
         "Producer": "Barongo/buuo - WMG",
-        "MinPrice": 3.65,
+        "MinPrice": 3.79,
         "Available": true,
         "Url": "https://shop.dransay.com/product/black-marble/5932035"
       },
+      "Old": 3.65,
+      "New": 3.79
+    }
+  ],
+  "PriceDown": [
+    {
+      "P": {
+        "Id": 3347,
+        "Name": "NICE 32/1 MS Munson",
+        "Producer": "Cansativa",
+        "MinPrice": 4.99,
+        "Available": true,
+        "Url": "https://flowzz.com/product/nice-32-1-ms-munson"
+      },
+      "Old": 5.28,
+      "New": 4.99
+    },
+    {
+      "P": {
+        "Id": 2277,
+        "Name": "29/1 Amici AS Atomic Sour Grapefruit",
+        "Producer": "Cansativa",
+        "MinPrice": 5.39,
+        "Available": true,
+        "Url": "https://flowzz.com/product/29-1-amici-as-atomic-sour-grapefruit"
+      },
+      "Old": 5.46,
+      "New": 5.39
+    },
+    {
+      "P": {
+        "Id": 2680,
+        "Name": "Eufloria 27/1 KUM Kush Mints",
+        "Producer": "Remexian Pharma",
+        "MinPrice": 4.99,
+        "Available": true,
+        "Url": "https://flowzz.com/product/eufloria-27-1-kum-kush-mints"
+      },
+      "Old": 5.19,
+      "New": 4.99
+    },
+    {
+      "P": {
+        "Id": 2286,
+        "Name": "Remexian 27/1 NXN SPZ Spritzer",
+        "Producer": "Remexian Pharma",
+        "MinPrice": 3.99,
+        "Available": true,
+        "Url": "https://flowzz.com/product/remexian-27-1-nxn-spz"
+      },
+      "Old": 4.4,
+      "New": 3.99
+    },
+    {
+      "P": {
+        "Id": 1643,
+        "Name": "Green Karat MG 29/1 Modified Gas",
+        "Producer": "Cantourage",
+        "MinPrice": 4.39,
+        "Available": true,
+        "Url": "https://flowzz.com/product/green-karat-mg-29-1-modified-gas"
+      },
+      "Old": 4.44,
+      "New": 4.39
+    },
+    {
+      "P": {
+        "Id": 1469,
+        "Name": "Remexian 30/1 JOI OKC Orange Kush Cake",
+        "Producer": "Remexian Pharma",
+        "MinPrice": 4.79,
+        "Available": true,
+        "Url": "https://flowzz.com/product/remexian-30-1-joi-okc-orange-kush-cake"
+      },
+      "Old": 4.89,
+      "New": 4.79
+    },
+    {
+      "P": {
+        "Id": 4024,
+        "Name": "Uncle Bob GD 27/1 Granddaddy",
+        "Producer": "Cantourage",
+        "MinPrice": 4.39,
+        "Available": true,
+        "Url": "https://flowzz.com/product/uncle-bob-gd-27-1-granddaddy"
+      },
+      "Old": 4.49,
+      "New": 4.39
+    },
+    {
+      "P": {
+        "Id": 4020,
+        "Name": "All Nations LT 30/1 Lemon Tartz",
+        "Producer": "Cantourage",
+        "MinPrice": 5.49,
+        "Available": true,
+        "Url": "https://flowzz.com/product/all-nations-lt-30-1-pt-lemon-tartz"
+      },
+      "Old": 5.54,
+      "New": 5.49
+    },
+    {
+      "P": {
+        "Id": 4021,
+        "Name": "All Nations GM 29/1 Mac Doughnut",
+        "Producer": "Cantourage",
+        "MinPrice": 5.39,
+        "Available": true,
+        "Url": "https://flowzz.com/product/all-nations-gm-29-1-mac-doughnut"
+      },
+      "Old": 5.49,
+      "New": 5.39
+    },
+    {
+      "P": {
+        "Id": 3939,
+        "Name": "Firegold 30/1 LED Lemon Diesel",
+        "Producer": "Remexian Pharma",
+        "MinPrice": 5.59,
+        "Available": true,
+        "Url": "https://flowzz.com/product/firegold-30-1-led-lemon-diesel"
+      },
+      "Old": 5.65,
+      "New": 5.59
+    },
+    {
+      "P": {
+        "Id": 3735,
+        "Name": "Origine Nature CHEM 29/1 Chemdawg OG",
+        "Producer": "Cantourage",
+        "MinPrice": 4.79,
+        "Available": true,
+        "Url": "https://flowzz.com/product/origine-nature-chem-29-1-chemdawg-og"
+      },
+      "Old": 4.85,
+      "New": 4.79
+    },
+    {
+      "P": {
+        "Id": 3672,
+        "Name": "High Greens PS 30/1 Pink Slurricane",
+        "Producer": "Cantourage",
+        "MinPrice": 4.79,
+        "Available": true,
+        "Url": "https://flowzz.com/product/high-greens-ps-30-1-pink-slurricane"
+      },
+      "Old": 4.89,
+      "New": 4.79
+    },
+    {
+      "P": {
+        "Id": 3659,
+        "Name": "Remexian 33/1 GCC SGU Strawberry Guava",
+        "Producer": "Remexian Pharma",
+        "MinPrice": 5.29,
+        "Available": true,
+        "Url": "https://flowzz.com/product/remexian-33-1-gcc-sgu-strawberry-guava"
+      },
+      "Old": 5.35,
+      "New": 5.29
+    },
+    {
+      "P": {
+        "Id": 3628,
+        "Name": "NICE 33/1 LP Lotus Punch",
+        "Producer": "Cansativa",
+        "MinPrice": 4.59,
+        "Available": true,
+        "Url": "https://flowzz.com/product/nice-33-1-lp-lotus-punch"
+      },
+      "Old": 4.6,
+      "New": 4.59
+    },
+    {
+      "P": {
+        "Id": 3608,
+        "Name": "Cresco RST 30/1 Diablo’s Dream",
+        "Producer": "Cantourage",
+        "MinPrice": 5.39,
+        "Available": true,
+        "Url": "https://flowzz.com/product/cresco-rst-30-1-diablos-dream"
+      },
+      "Old": 5.44,
+      "New": 5.39
+    },
+    {
+      "P": {
+        "Id": 3600,
+        "Name": "Buuo 22/1 WHG White Gelato",
+        "Producer": "WMG Pharma",
+        "MinPrice": 3.89,
+        "Available": true,
+        "Url": "https://flowzz.com/product/buuo-22-1-whg-white-gelato"
+      },
+      "Old": 3.97,
+      "New": 3.89
+    },
+    {
+      "P": {
+        "Id": 3525,
+        "Name": "NICE 30/1 GBA Guava Barz",
+        "Producer": "Cansativa",
+        "MinPrice": 4.19,
+        "Available": true,
+        "Url": "https://flowzz.com/product/nice-30-1-gba-guava-barz"
+      },
+      "Old": 4.2,
+      "New": 4.19
+    },
+    {
+      "P": {
+        "Id": 3506,
+        "Name": "CRF TO 28/1 Triangle Octane",
+        "Producer": "Remexian Pharma",
+        "MinPrice": 3.39,
+        "Available": true,
+        "Url": "https://flowzz.com/product/remexian-28-1-crf-to-triangle-octane"
+      },
+      "Old": 3.49,
+      "New": 3.39
+    },
+    {
+      "P": {
+        "Id": 3507,
+        "Name": "CRF GBRC  26/1 Glitterbomb x Rainbow Cheddar",
+        "Producer": "Remexian Pharma",
+        "MinPrice": 3.89,
+        "Available": true,
+        "Url": "https://flowzz.com/product/remexian-26-1-crf-gbrc-glitterbomb-x-rainbow-cheddar"
+      },
+      "Old": 3.96,
+      "New": 3.89
+    },
+    {
+      "P": {
+        "Id": 3509,
+        "Name": "CRF MG 27/1 Modified Grapes",
+        "Producer": "Remexian Pharma",
+        "MinPrice": 3.89,
+        "Available": true,
+        "Url": "https://flowzz.com/product/remexian-27-1-crf-mg-modified-grapes"
+      },
+      "Old": 3.99,
+      "New": 3.89
+    },
+    {
+      "P": {
+        "Id": 3499,
+        "Name": "gramz. 002 RC 30/1 Rainbow Cake",
+        "Producer": "Cantourage",
+        "MinPrice": 5.59,
+        "Available": true,
+        "Url": "https://flowzz.com/product/gramz-002-rc-30-1-rainbow-cake"
+      },
+      "Old": 5.65,
+      "New": 5.59
+    },
+    {
+      "P": {
+        "Id": 3495,
+        "Name": "madrecan 27/1 MDR MAC Driver",
+        "Producer": "Remexian Pharma",
+        "MinPrice": 3.69,
+        "Available": true,
+        "Url": "https://flowzz.com/product/madrecan-27-1-mac-driver"
+      },
       "Old": 3.79,
-      "New": 3.65
+      "New": 3.69
+    },
+    {
+      "P": {
+        "Id": 3446,
+        "Name": "Social Choice 27/1 ALB MKU Mountain Kush",
+        "Producer": "Remexian Pharma",
+        "MinPrice": 3.59,
+        "Available": true,
+        "Url": "https://flowzz.com/product/social-choice-27-1-alb-mku-mountain-kush"
+      },
+      "Old": 3.65,
+      "New": 3.59
+    },
+    {
+      "P": {
+        "Id": 3359,
+        "Name": "Eufloria 30/1 GSZ Garlic Z",
+        "Producer": "Remexian Pharma",
+        "MinPrice": 4.49,
+        "Available": true,
+        "Url": "https://flowzz.com/product/eufloria-30-1-gsz-garlic-skittlez"
+      },
+      "Old": 4.59,
+      "New": 4.49
+    },
+    {
+      "P": {
+        "Id": 3360,
+        "Name": "Eufloria 30/1 CLG Cool Grapes",
+        "Producer": "Remexian Pharma",
+        "MinPrice": 4.69,
+        "Available": true,
+        "Url": "https://flowzz.com/product/eufloria-30-1-clg-cool-grapes"
+      },
+      "Old": 4.75,
+      "New": 4.69
+    },
+    {
+      "P": {
+        "Id": 3310,
+        "Name": "CannGo 26/1 WG Vegas Wedding Cake",
+        "Producer": "WMG Pharma",
+        "MinPrice": 4.89,
+        "Available": true,
+        "Url": "https://flowzz.com/product/canngo-26-1-wg-vegas-wedding-cake"
+      },
+      "Old": 4.99,
+      "New": 4.89
+    },
+    {
+      "P": {
+        "Id": 3118,
+        "Name": "Remexian 27/1 GJY MUN Munyunz",
+        "Producer": "Remexian Pharma",
+        "MinPrice": 3.89,
+        "Available": true,
+        "Url": "https://flowzz.com/product/remexian-27-1-gjy-mun-munyunz"
+      },
+      "Old": 3.97,
+      "New": 3.89
+    },
+    {
+      "P": {
+        "Id": 3110,
+        "Name": "Remexian 27/1 GJY CHO Chocolate Kush",
+        "Producer": "Remexian Pharma",
+        "MinPrice": 3.79,
+        "Available": true,
+        "Url": "https://flowzz.com/product/remexian-27-1-gjy-cho-chocolate-kush"
+      },
+      "Old": 3.98,
+      "New": 3.79
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Cheddar Cheeze",
+        "Producer": "Cantourage",
+        "MinPrice": 4.18,
+        "Available": true,
+        "Url": "https://shop.dransay.com/product/cheddar-cheeze/6102221"
+      },
+      "Old": 4.19,
+      "New": 4.18
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Gelato x Orange Cake",
+        "Producer": "Cantourage",
+        "MinPrice": 8.92,
+        "Available": true,
+        "Url": "https://shop.dransay.com/product/gelato-x-orange-cake/3576347"
+      },
+      "Old": 8.99,
+      "New": 8.92
     }
   ]
 }
