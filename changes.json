@@ -1,164 +1,225 @@
 {
-  "ScrapedAt": "2026-07-24T00:18:30.465006+02:00",
-  "NewStrains": [],
-  "RemovedCount": 6,
-  "BackInStock": [],
-  "OutOfStock": [
+  "ScrapedAt": "2026-07-24T01:17:39.375997+02:00",
+  "NewStrains": [
+    {
+      "Id": 0,
+      "Name": "ANIMAL COOKIES × SINMINT COOKIES",
+      "Producer": "Demecan",
+      "MinPrice": 5.39,
+      "Available": true,
+      "Url": "https://shop.dransay.com/product/animal-cookies-sinmint-cookies/5548558"
+    },
+    {
+      "Id": 0,
+      "Name": "Triangle Mints",
+      "Producer": "Tilray",
+      "MinPrice": 3.69,
+      "Available": true,
+      "Url": "https://shop.dransay.com/product/triangle-mints/4621059"
+    },
+    {
+      "Id": 0,
+      "Name": "Jack Black",
+      "Producer": "Cantourage",
+      "MinPrice": 5.98,
+      "Available": true,
+      "Url": "https://shop.dransay.com/product/jack-black/5273065"
+    },
+    {
+      "Id": 0,
+      "Name": "LA Kush Cake",
+      "Producer": "Cannamedical",
+      "MinPrice": 4.49,
+      "Available": true,
+      "Url": "https://shop.dransay.com/product/la-kush-cake/5224000"
+    },
+    {
+      "Id": 0,
+      "Name": "Pavé Runtz",
+      "Producer": "Cantourage",
+      "MinPrice": 8.99,
+      "Available": true,
+      "Url": "https://shop.dransay.com/product/pav-runtz/894"
+    },
+    {
+      "Id": 0,
+      "Name": "Platinum Girl Scout Cookies",
+      "Producer": "Bathera",
+      "MinPrice": 5.94,
+      "Available": true,
+      "Url": "https://shop.dransay.com/product/platinum-girl-scout-cookies/2372957"
+    }
+  ],
+  "RemovedCount": 0,
+  "BackInStock": [
     {
       "Id": 1458,
       "Name": "madrecan 24/1 GDY Granddaddy OG",
       "Producer": "Remexian Pharma",
-      "MinPrice": null,
-      "Available": false,
+      "MinPrice": 4.74,
+      "Available": true,
       "Url": "https://flowzz.com/product/madrecan-24-1-granddaddy-og"
     },
     {
       "Id": 1451,
       "Name": "Canify Cannabis flos 23/1 CND Pink Kush",
       "Producer": "Canify",
-      "MinPrice": null,
-      "Available": false,
+      "MinPrice": 6.45,
+      "Available": true,
       "Url": "https://flowzz.com/product/cannabis-flos-23-1-cnd-pink-kush-pink-kush"
     },
     {
       "Id": 1448,
       "Name": "avaay SIGNATURE 28/1 HYP Hyperion",
       "Producer": "avaay",
-      "MinPrice": null,
-      "Available": false,
+      "MinPrice": 7.99,
+      "Available": true,
       "Url": "https://flowzz.com/product/avaay-signature-28-1-hyp-hyperion"
     },
     {
       "Id": 1446,
       "Name": "Oceanic BL 21/1 Black Lavender",
       "Producer": "Cantourage",
-      "MinPrice": null,
-      "Available": false,
+      "MinPrice": 5.4,
+      "Available": true,
       "Url": "https://flowzz.com/product/oceanic-bl-21-1-black-lavender"
     },
     {
       "Id": 1455,
       "Name": "Sumo Canada Craft No.3 23/1 Garlic Chem",
       "Producer": "Cantourage",
-      "MinPrice": null,
-      "Available": false,
+      "MinPrice": 5.9,
+      "Available": true,
       "Url": "https://flowzz.com/product/sumo-canada-craft-no3-23-1-garlic-chem"
     },
     {
       "Id": 1454,
       "Name": "Canify Cannabis flos 20/1 UY Ku. Chem Dawg",
       "Producer": "Canify",
-      "MinPrice": null,
-      "Available": false,
+      "MinPrice": 6.99,
+      "Available": true,
       "Url": "https://flowzz.com/product/canify-20-1-chemdawg"
     },
     {
       "Id": 1437,
       "Name": "Mother 24 KI-Z CAN King Z",
       "Producer": "ADREXpharma",
-      "MinPrice": null,
-      "Available": false,
+      "MinPrice": 6.29,
+      "Available": true,
       "Url": "https://flowzz.com/product/mother-24-ki-z-can-king-z"
     },
     {
       "Id": 1436,
       "Name": "Costa Canna Dynamics Crescendo 25/1 Pucker Up",
       "Producer": "Cantourage",
-      "MinPrice": null,
-      "Available": false,
+      "MinPrice": 6.6,
+      "Available": true,
       "Url": "https://flowzz.com/product/costa-canna-dynamics-crescendo-25-1-pucker-up"
     },
     {
       "Id": 1442,
       "Name": "Cantourage Pink D1 30/1",
       "Producer": "Cantourage",
-      "MinPrice": null,
-      "Available": false,
+      "MinPrice": 9.0,
+      "Available": true,
       "Url": "https://flowzz.com/product/cantourage-pink-d1-30-1"
     },
     {
       "Id": 1440,
       "Name": "Mother AIS CAN 22/1 Apes in Space",
       "Producer": "ADREXpharma",
-      "MinPrice": null,
-      "Available": false,
+      "MinPrice": 4.59,
+      "Available": true,
       "Url": "https://flowzz.com/product/adrex-mother-22-ais-can-22-1-apes-in-space"
     }
   ],
+  "OutOfStock": [],
   "PriceUp": [
     {
       "P": {
-        "Id": 3389,
-        "Name": "Cannamedical Indica Light ZAF Strawberry Lemonade",
-        "Producer": "Cannamedical",
-        "MinPrice": 3.81,
+        "Id": 1530,
+        "Name": "Cookies 29/1 MD Medellin",
+        "Producer": "Cansativa",
+        "MinPrice": 8.9,
         "Available": true,
-        "Url": "https://flowzz.com/product/cannamedical-indica-light-zaf-strawberry-lemonade"
+        "Url": "https://flowzz.com/product/cookies-29-1-md-medellin"
       },
-      "Old": 3.48,
-      "New": 3.81
+      "Old": 6.89,
+      "New": 8.9
     },
     {
       "P": {
-        "Id": 0,
-        "Name": "Cherry Mints",
+        "Id": 3162,
+        "Name": "Luana 27/1 Donny B Bunatic",
         "Producer": "Cannamedical",
-        "MinPrice": 4.72,
+        "MinPrice": 3.95,
         "Available": true,
-        "Url": "https://shop.dransay.com/product/cherry-mints/6336949"
-      },
-      "Old": 4.71,
-      "New": 4.72
-    }
-  ],
-  "PriceDown": [
-    {
-      "P": {
-        "Id": 3861,
-        "Name": "Nice 26/1 M Mont Blanc",
-        "Producer": "Cansativa",
-        "MinPrice": 3.93,
-        "Available": true,
-        "Url": "https://flowzz.com/product/nice-26-1-m-mont-blanc"
+        "Url": "https://flowzz.com/product/luana-27-1-donny-b-bunatic"
       },
       "Old": 3.94,
-      "New": 3.93
+      "New": 3.95
     },
     {
       "P": {
-        "Id": 3580,
-        "Name": "Barongo 26/1 JEA Banana Candy",
-        "Producer": "WMG Pharma",
-        "MinPrice": 5.93,
+        "Id": 2994,
+        "Name": "enua 27/1 PS3 CA BCP Black Cherry Punch",
+        "Producer": "enua Pharma",
+        "MinPrice": 3.94,
         "Available": true,
-        "Url": "https://flowzz.com/product/barongo-26-1-jea-banana-candy"
+        "Url": "https://flowzz.com/product/enua-27-1-ps3-black-cherry-punch"
       },
-      "Old": 5.94,
-      "New": 5.93
+      "Old": 3.93,
+      "New": 3.94
     },
     {
       "P": {
         "Id": 0,
-        "Name": "Cheddar Cheeze",
-        "Producer": "Cantourage",
-        "MinPrice": 4.16,
+        "Name": "Black Marble",
+        "Producer": "Barongo/buuo - WMG",
+        "MinPrice": 3.79,
         "Available": true,
-        "Url": "https://shop.dransay.com/product/cheddar-cheeze/6102221"
+        "Url": "https://shop.dransay.com/product/black-marble/5932035"
       },
-      "Old": 4.17,
-      "New": 4.16
+      "Old": 3.65,
+      "New": 3.79
     },
     {
       "P": {
         "Id": 0,
         "Name": "Gelato x Orange Cake",
         "Producer": "Cantourage",
-        "MinPrice": 8.92,
+        "MinPrice": 8.99,
         "Available": true,
         "Url": "https://shop.dransay.com/product/gelato-x-orange-cake/3576347"
       },
-      "Old": 8.99,
-      "New": 8.92
+      "Old": 8.92,
+      "New": 8.99
+    }
+  ],
+  "PriceDown": [
+    {
+      "P": {
+        "Id": 3647,
+        "Name": "Bathera 23/1 BZ Blue Z",
+        "Producer": "Bathera",
+        "MinPrice": 5.95,
+        "Available": true,
+        "Url": "https://flowzz.com/product/bathera-23-1-bz-zkittlez-x-kush-mints"
+      },
+      "Old": 5.98,
+      "New": 5.95
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Cheddar Cheeze",
+        "Producer": "Cantourage",
+        "MinPrice": 4.15,
+        "Available": true,
+        "Url": "https://shop.dransay.com/product/cheddar-cheeze/6102221"
+      },
+      "Old": 4.16,
+      "New": 4.15
     }
   ]
 }
