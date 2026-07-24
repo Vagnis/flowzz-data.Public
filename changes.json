@@ -1,227 +1,193 @@
 {
-  "ScrapedAt": "2026-07-24T10:28:51.901222+02:00",
-  "NewStrains": [],
-  "RemovedCount": 9,
-  "BackInStock": [],
+  "ScrapedAt": "2026-07-24T11:07:21.918955+02:00",
+  "NewStrains": [
+    {
+      "Id": 0,
+      "Name": "Jack Black",
+      "Producer": "Cantourage",
+      "MinPrice": 6.71,
+      "Available": true,
+      "Url": "https://shop.dransay.com/product/jack-black/5273065"
+    },
+    {
+      "Id": 0,
+      "Name": "Pavé Runtz",
+      "Producer": "Cantourage",
+      "MinPrice": 8.99,
+      "Available": true,
+      "Url": "https://shop.dransay.com/product/pav-runtz/894"
+    }
+  ],
+  "RemovedCount": 0,
+  "BackInStock": [
+    {
+      "Id": 3996,
+      "Name": "OMG! 24/1 IML DIN Dante‘z Inferno",
+      "Producer": "Remexian Pharma",
+      "MinPrice": 4.99,
+      "Available": true,
+      "Url": "https://flowzz.com/product/omg-24-1-iml-din-dantez-inferno"
+    }
+  ],
   "OutOfStock": [],
   "PriceUp": [
     {
       "P": {
-        "Id": 1973,
-        "Name": "Remexian 22/1 BPD Big Purple Dragon",
+        "Id": 936,
+        "Name": "Social Choice 18/1 FLX MTS Manantiales",
         "Producer": "Remexian Pharma",
-        "MinPrice": 5.8,
+        "MinPrice": 5.2,
         "Available": true,
-        "Url": "https://flowzz.com/product/remexian-22-1-bdp-big-purple-dragon"
+        "Url": "https://flowzz.com/product/social-choice-18-1-flx-mts-manantiales"
       },
-      "Old": 3.75,
-      "New": 5.8
+      "Old": 3.99,
+      "New": 5.2
     },
     {
       "P": {
-        "Id": 1340,
-        "Name": "Eufloria 30/1 KUM Kush Mints",
-        "Producer": "Remexian Pharma",
-        "MinPrice": 4.95,
+        "Id": 3280,
+        "Name": "Buuo 30/1 MW Kalifornia",
+        "Producer": "WMG Pharma",
+        "MinPrice": 5.49,
         "Available": true,
-        "Url": "https://flowzz.com/product/eufloria-30-1-kum-kush-mints"
+        "Url": "https://flowzz.com/product/buuo-30-1-mw-kalifornia"
       },
-      "Old": 3.99,
-      "New": 4.95
+      "Old": 5.2,
+      "New": 5.49
+    },
+    {
+      "P": {
+        "Id": 3185,
+        "Name": "NICE 32/1 CHM GMO Chem Mintz",
+        "Producer": "Cansativa",
+        "MinPrice": 5.99,
+        "Available": true,
+        "Url": "https://flowzz.com/product/nice-32-1-chm-gmo-chem-mintz"
+      },
+      "Old": 5.58,
+      "New": 5.99
+    },
+    {
+      "P": {
+        "Id": 42,
+        "Name": "GROW 10:15 CAN (Cannabisextrakt)",
+        "Producer": "GROW",
+        "MinPrice": 4.99,
+        "Available": true,
+        "Url": "https://flowzz.com/extract/grow-10-15-can"
+      },
+      "Old": 3.5,
+      "New": 4.99
     },
     {
       "P": {
         "Id": 0,
-        "Name": "Black Marble",
-        "Producer": "Barongo/buuo - WMG",
-        "MinPrice": 3.79,
+        "Name": "God Cherry Gusher",
+        "Producer": "Cannamedical",
+        "MinPrice": 4.96,
         "Available": true,
-        "Url": "https://shop.dransay.com/product/black-marble/5932035"
+        "Url": "https://shop.dransay.com/product/god-cherry-gusher/6831085"
       },
-      "Old": 3.65,
-      "New": 3.79
+      "Old": 4.89,
+      "New": 4.96
     }
   ],
   "PriceDown": [
     {
       "P": {
-        "Id": 1067,
-        "Name": "Canify Cannabis flos 1/14 LS Ku Maluti CBD",
-        "Producer": "Canify",
-        "MinPrice": 6.8,
+        "Id": 2252,
+        "Name": "Cannamedical Indica Ultra SM Sunset Serenity",
+        "Producer": "Cannamedical",
+        "MinPrice": 4.28,
         "Available": true,
-        "Url": "https://flowzz.com/product/canify-cannabis-flos-1-14-ls-ku"
+        "Url": "https://flowzz.com/product/cannamedical-indica-ultra-sunset-serenity"
       },
-      "Old": 6.89,
-      "New": 6.8
+      "Old": 4.98,
+      "New": 4.28
     },
     {
       "P": {
-        "Id": 239,
-        "Name": "aleph amber 22/1 Mango Kush",
-        "Producer": "alephSana",
-        "MinPrice": 4.99,
-        "Available": true,
-        "Url": "https://flowzz.com/product/aleph-amber-22-1-mango-kush"
-      },
-      "Old": 5.2,
-      "New": 4.99
-    },
-    {
-      "P": {
-        "Id": 4082,
-        "Name": "AphriaRX THC25 AMH Amnesia Haze",
-        "Producer": "Tilray",
-        "MinPrice": 6.5,
-        "Available": true,
-        "Url": "https://flowzz.com/product/aphriarx-thc25-amh-amnesia-haze"
-      },
-      "Old": 6.85,
-      "New": 6.5
-    },
-    {
-      "P": {
-        "Id": 3962,
-        "Name": "Canify 20/1 CZE Ku. MAC 1",
-        "Producer": "Canify",
-        "MinPrice": 4.5,
-        "Available": true,
-        "Url": "https://flowzz.com/product/canify-20-1-cze-ku-mac-1"
-      },
-      "Old": 4.9,
-      "New": 4.5
-    },
-    {
-      "P": {
-        "Id": 3964,
-        "Name": "Canify 14/1 CL Ku. Doug's Varin",
-        "Producer": "Canify",
-        "MinPrice": 3.6,
-        "Available": true,
-        "Url": "https://flowzz.com/product/canify-cannabis-flos-14-1-cl-ku-dougs-varin"
-      },
-      "Old": 3.95,
-      "New": 3.6
-    },
-    {
-      "P": {
-        "Id": 3870,
-        "Name": "Bathera 25/1 GMO smalls",
-        "Producer": "Bathera",
-        "MinPrice": 3.33,
-        "Available": true,
-        "Url": "https://flowzz.com/product/bathera-25-1-gmo-smalls"
-      },
-      "Old": 3.48,
-      "New": 3.33
-    },
-    {
-      "P": {
-        "Id": 2831,
-        "Name": "IMC MK THC25 Token Thai Kush",
-        "Producer": "IMC",
+        "Id": 1643,
+        "Name": "Green Karat MG 29/1 Modified Gas",
+        "Producer": "Cantourage",
         "MinPrice": 4.35,
         "Available": true,
-        "Url": "https://flowzz.com/product/imc-mk-thc25-thai-kush"
+        "Url": "https://flowzz.com/product/green-karat-mg-29-1-modified-gas"
       },
-      "Old": 4.9,
+      "Old": 4.39,
       "New": 4.35
     },
     {
       "P": {
-        "Id": 229,
-        "Name": "Demecan One Concentrate 850",
-        "Producer": "Demecan",
-        "MinPrice": 69.0,
-        "Available": true,
-        "Url": "https://flowzz.com/extract/demecan-one-concentrate-850-85-01"
-      },
-      "Old": 79.0,
-      "New": 69.0
-    },
-    {
-      "P": {
-        "Id": 0,
-        "Name": "Glitterbomb",
-        "Producer": "alephSana",
-        "MinPrice": 6.79,
-        "Available": true,
-        "Url": "https://shop.dransay.com/product/glitterbomb/5973316"
-      },
-      "Old": 6.8,
-      "New": 6.79
-    },
-    {
-      "P": {
-        "Id": 0,
-        "Name": "Mac Doughnut",
+        "Id": 3672,
+        "Name": "High Greens PS 30/1 Pink Slurricane",
         "Producer": "Cantourage",
-        "MinPrice": 5.63,
+        "MinPrice": 4.75,
         "Available": true,
-        "Url": "https://shop.dransay.com/product/mac-doughnut/817"
+        "Url": "https://flowzz.com/product/high-greens-ps-30-1-pink-slurricane"
       },
-      "Old": 5.65,
-      "New": 5.63
+      "Old": 4.79,
+      "New": 4.75
     },
     {
       "P": {
-        "Id": 0,
-        "Name": "Cheddar Cheeze",
-        "Producer": "Cantourage",
-        "MinPrice": 4.07,
+        "Id": 3029,
+        "Name": "Cannamedical Indica Ultra SM Pineapple Express",
+        "Producer": "Cannamedical",
+        "MinPrice": 4.13,
         "Available": true,
-        "Url": "https://shop.dransay.com/product/cheddar-cheeze/6102221"
+        "Url": "https://flowzz.com/product/cannamedical-indica-ultra-sm-pineapple-express"
       },
-      "Old": 4.08,
-      "New": 4.07
+      "Old": 5.3,
+      "New": 4.13
     },
     {
       "P": {
-        "Id": 0,
-        "Name": "Maple",
-        "Producer": "Barongo/buuo - WMG",
-        "MinPrice": 3.39,
-        "Available": true,
-        "Url": "https://shop.dransay.com/product/maple/6176175"
-      },
-      "Old": 3.49,
-      "New": 3.39
-    },
-    {
-      "P": {
-        "Id": 0,
-        "Name": "Purple Rain",
-        "Producer": "Weeco Pharma",
+        "Id": 3022,
+        "Name": "NICE 27/1 GT Garlic Truffle",
+        "Producer": "Cansativa",
         "MinPrice": 3.99,
         "Available": true,
-        "Url": "https://shop.dransay.com/product/purple-rain/6155485"
+        "Url": "https://flowzz.com/product/nice-27-1-gt-garlic-truffle"
       },
-      "Old": 4.39,
+      "Old": 4.69,
       "New": 3.99
     },
     {
       "P": {
-        "Id": 0,
-        "Name": "Platinum Pave",
-        "Producer": "Tilray",
-        "MinPrice": 4.85,
+        "Id": 69,
+        "Name": "Khiriox 12/14 (Cannabisextrakt)",
+        "Producer": "KHIRON Europe",
+        "MinPrice": 4.8,
         "Available": true,
-        "Url": "https://shop.dransay.com/product/platinum-pave/6132546"
+        "Url": "https://flowzz.com/extract/khiriox-12-14"
       },
-      "Old": 4.95,
-      "New": 4.85
+      "Old": 6.5,
+      "New": 4.8
     },
     {
       "P": {
         "Id": 0,
-        "Name": "Gelato x Orange Cake",
-        "Producer": "Cantourage",
-        "MinPrice": 8.92,
+        "Name": "Polar Cookies",
+        "Producer": "Cannamedical",
+        "MinPrice": 7.13,
         "Available": true,
-        "Url": "https://shop.dransay.com/product/gelato-x-orange-cake/3576347"
+        "Url": "https://shop.dransay.com/product/polar-cookies/91"
       },
-      "Old": 8.99,
-      "New": 8.92
+      "Old": 7.14,
+      "New": 7.13
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Banana Cream Cake",
+        "Producer": "Cannamedical",
+        "MinPrice": 5.14,
+        "Available": true,
+        "Url": "https://shop.dransay.com/product/banana-cream-cake/5107112"
+      },
+      "Old": 5.15,
+      "New": 5.14
     }
   ]
 }
