@@ -1,113 +1,55 @@
 {
-  "ScrapedAt": "2026-07-24T21:15:11.030072+02:00",
-  "NewStrains": [
+  "ScrapedAt": "2026-07-24T22:12:11.482251+02:00",
+  "NewStrains": [],
+  "RemovedCount": 3,
+  "BackInStock": [],
+  "OutOfStock": [
     {
-      "Id": 0,
-      "Name": "ANIMAL COOKIES × SINMINT COOKIES",
-      "Producer": "Demecan",
-      "MinPrice": 5.39,
-      "Available": true,
-      "Url": "https://shop.dransay.com/product/animal-cookies-sinmint-cookies/5548558"
-    },
-    {
-      "Id": 0,
-      "Name": "Triangle Mints",
-      "Producer": "Tilray",
-      "MinPrice": 3.69,
-      "Available": true,
-      "Url": "https://shop.dransay.com/product/triangle-mints/4621059"
-    },
-    {
-      "Id": 0,
-      "Name": "Jack Black",
-      "Producer": "Cantourage",
-      "MinPrice": 5.98,
-      "Available": true,
-      "Url": "https://shop.dransay.com/product/jack-black/5273065"
-    },
-    {
-      "Id": 0,
-      "Name": "Siggis Waldmeister",
-      "Producer": "Demecan",
-      "MinPrice": 8.99,
-      "Available": true,
-      "Url": "https://shop.dransay.com/product/siggis-waldmeister/6307253"
-    },
-    {
-      "Id": 0,
-      "Name": "LA Kush Cake",
-      "Producer": "Cannamedical",
-      "MinPrice": 4.49,
-      "Available": true,
-      "Url": "https://shop.dransay.com/product/la-kush-cake/5224000"
-    },
-    {
-      "Id": 0,
-      "Name": "Pavé Runtz",
-      "Producer": "Cantourage",
-      "MinPrice": 8.99,
-      "Available": true,
-      "Url": "https://shop.dransay.com/product/pav-runtz/894"
-    },
-    {
-      "Id": 0,
-      "Name": "Platinum Girl Scout Cookies",
-      "Producer": "Bathera",
-      "MinPrice": 5.94,
-      "Available": true,
-      "Url": "https://shop.dransay.com/product/platinum-girl-scout-cookies/2372957"
-    }
-  ],
-  "RemovedCount": 0,
-  "BackInStock": [
-    {
-      "Id": 3395,
-      "Name": "NERO 27/1 BIZ RGO Royal Gorilla",
+      "Id": 3887,
+      "Name": "NERO 21/1 BIZ GGE Green Gelato",
       "Producer": "Remexian Pharma",
-      "MinPrice": 4.98,
-      "Available": true,
-      "Url": "https://flowzz.com/product/nero-27-1-biz-rgo-royal-gorilla"
+      "MinPrice": null,
+      "Available": false,
+      "Url": "https://flowzz.com/product/nero-21-1-biz-gge-green-gelato"
     }
   ],
-  "OutOfStock": [],
-  "PriceUp": [
+  "PriceUp": [],
+  "PriceDown": [
     {
       "P": {
-        "Id": 781,
-        "Name": "Cannamedical CM 24/1 BRY Strawberry OG",
+        "Id": 1405,
+        "Name": "Cannamedical Hybrid Forte DK 24/1 Ghost Train Haze",
         "Producer": "Cannamedical",
-        "MinPrice": 4.7,
+        "MinPrice": 4.34,
         "Available": true,
-        "Url": "https://flowzz.com/product/cannamedical-cm-24-1-bry-strawberry-og"
+        "Url": "https://flowzz.com/product/cannamedical-hybridforte-dk-24-1-ghost-train-haze"
       },
-      "Old": 4.46,
-      "New": 4.7
+      "Old": 4.47,
+      "New": 4.34
+    },
+    {
+      "P": {
+        "Id": 3601,
+        "Name": "Barongo 22/1 CDR Candy Rain",
+        "Producer": "WMG Pharma",
+        "MinPrice": 5.69,
+        "Available": true,
+        "Url": "https://flowzz.com/product/barongo-22-1-cdr-candy-rain"
+      },
+      "Old": 5.77,
+      "New": 5.69
     },
     {
       "P": {
         "Id": 0,
-        "Name": "Gelato x Orange Cake",
-        "Producer": "Cantourage",
-        "MinPrice": 8.99,
+        "Name": "Black Marble",
+        "Producer": "Barongo/buuo - WMG",
+        "MinPrice": 3.65,
         "Available": true,
-        "Url": "https://shop.dransay.com/product/gelato-x-orange-cake/3576347"
+        "Url": "https://shop.dransay.com/product/black-marble/5932035"
       },
-      "Old": 8.92,
-      "New": 8.99
-    }
-  ],
-  "PriceDown": [
-    {
-      "P": {
-        "Id": 3110,
-        "Name": "Remexian 27/1 GJY CHO Chocolate Kush",
-        "Producer": "Remexian Pharma",
-        "MinPrice": 3.79,
-        "Available": true,
-        "Url": "https://flowzz.com/product/remexian-27-1-gjy-cho-chocolate-kush"
-      },
-      "Old": 3.98,
-      "New": 3.79
+      "Old": 3.79,
+      "New": 3.65
     }
   ]
 }
