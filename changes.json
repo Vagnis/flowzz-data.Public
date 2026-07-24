@@ -1,108 +1,76 @@
 {
-  "ScrapedAt": "2026-07-24T07:21:51.398438+02:00",
-  "NewStrains": [
-    {
-      "Id": 0,
-      "Name": "ANIMAL COOKIES × SINMINT COOKIES",
-      "Producer": "Demecan",
-      "MinPrice": 5.39,
-      "Available": true,
-      "Url": "https://shop.dransay.com/product/animal-cookies-sinmint-cookies/5548558"
-    },
-    {
-      "Id": 0,
-      "Name": "Triangle Mints",
-      "Producer": "Tilray",
-      "MinPrice": 3.69,
-      "Available": true,
-      "Url": "https://shop.dransay.com/product/triangle-mints/4621059"
-    },
-    {
-      "Id": 0,
-      "Name": "Jack Black",
-      "Producer": "Cantourage",
-      "MinPrice": 5.98,
-      "Available": true,
-      "Url": "https://shop.dransay.com/product/jack-black/5273065"
-    },
-    {
-      "Id": 0,
-      "Name": "LA Kush Cake",
-      "Producer": "Cannamedical",
-      "MinPrice": 4.49,
-      "Available": true,
-      "Url": "https://shop.dransay.com/product/la-kush-cake/5224000"
-    },
-    {
-      "Id": 0,
-      "Name": "Pavé Runtz",
-      "Producer": "Cantourage",
-      "MinPrice": 8.99,
-      "Available": true,
-      "Url": "https://shop.dransay.com/product/pav-runtz/894"
-    },
-    {
-      "Id": 0,
-      "Name": "Platinum Girl Scout Cookies",
-      "Producer": "Bathera",
-      "MinPrice": 5.94,
-      "Available": true,
-      "Url": "https://shop.dransay.com/product/platinum-girl-scout-cookies/2372957"
-    }
-  ],
-  "RemovedCount": 0,
+  "ScrapedAt": "2026-07-24T08:07:51.717003+02:00",
+  "NewStrains": [],
+  "RemovedCount": 3,
   "BackInStock": [],
-  "OutOfStock": [],
-  "PriceUp": [
+  "OutOfStock": [
     {
-      "P": {
-        "Id": 0,
-        "Name": "Gelato x Orange Cake",
-        "Producer": "Cantourage",
-        "MinPrice": 8.99,
-        "Available": true,
-        "Url": "https://shop.dransay.com/product/gelato-x-orange-cake/3576347"
-      },
-      "Old": 8.92,
-      "New": 8.99
+      "Id": 3395,
+      "Name": "NERO 27/1 BIZ RGO Royal Gorilla",
+      "Producer": "Remexian Pharma",
+      "MinPrice": null,
+      "Available": false,
+      "Url": "https://flowzz.com/product/nero-27-1-biz-rgo-royal-gorilla"
+    },
+    {
+      "Id": 3249,
+      "Name": "Social Choice 21/1 FLX MTS Manantiales",
+      "Producer": "Remexian Pharma",
+      "MinPrice": null,
+      "Available": false,
+      "Url": "https://flowzz.com/product/social-choice-21-1-flx-mts-manantiales"
     }
   ],
-  "PriceDown": [
+  "PriceUp": [
     {
       "P": {
         "Id": 2252,
         "Name": "Cannamedical Indica Ultra SM Sunset Serenity",
         "Producer": "Cannamedical",
-        "MinPrice": 4.28,
+        "MinPrice": 4.98,
         "Available": true,
         "Url": "https://flowzz.com/product/cannamedical-indica-ultra-sunset-serenity"
       },
-      "Old": 4.98,
-      "New": 4.28
+      "Old": 4.28,
+      "New": 4.98
     },
     {
       "P": {
         "Id": 3029,
         "Name": "Cannamedical Indica Ultra SM Pineapple Express",
         "Producer": "Cannamedical",
-        "MinPrice": 4.13,
+        "MinPrice": 5.3,
         "Available": true,
         "Url": "https://flowzz.com/product/cannamedical-indica-ultra-sm-pineapple-express"
       },
-      "Old": 5.3,
-      "New": 4.13
-    },
+      "Old": 4.13,
+      "New": 5.3
+    }
+  ],
+  "PriceDown": [
     {
       "P": {
         "Id": 0,
         "Name": "Cheddar Cheeze",
         "Producer": "Cantourage",
-        "MinPrice": 4.1,
+        "MinPrice": 4.09,
         "Available": true,
         "Url": "https://shop.dransay.com/product/cheddar-cheeze/6102221"
       },
-      "Old": 4.11,
-      "New": 4.1
+      "Old": 4.1,
+      "New": 4.09
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Black Marble",
+        "Producer": "Barongo/buuo - WMG",
+        "MinPrice": 3.65,
+        "Available": true,
+        "Url": "https://shop.dransay.com/product/black-marble/5932035"
+      },
+      "Old": 3.79,
+      "New": 3.65
     }
   ]
 }
