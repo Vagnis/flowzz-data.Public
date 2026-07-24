@@ -1,47 +1,177 @@
 {
-  "ScrapedAt": "2026-07-24T18:25:41.997043+02:00",
-  "NewStrains": [],
-  "RemovedCount": 6,
+  "ScrapedAt": "2026-07-24T19:14:50.995164+02:00",
+  "NewStrains": [
+    {
+      "Id": 0,
+      "Name": "ANIMAL COOKIES × SINMINT COOKIES",
+      "Producer": "Demecan",
+      "MinPrice": 5.39,
+      "Available": true,
+      "Url": "https://shop.dransay.com/product/animal-cookies-sinmint-cookies/5548558"
+    },
+    {
+      "Id": 0,
+      "Name": "Triangle Mints",
+      "Producer": "Tilray",
+      "MinPrice": 3.69,
+      "Available": true,
+      "Url": "https://shop.dransay.com/product/triangle-mints/4621059"
+    },
+    {
+      "Id": 0,
+      "Name": "Jack Black",
+      "Producer": "Cantourage",
+      "MinPrice": 5.98,
+      "Available": true,
+      "Url": "https://shop.dransay.com/product/jack-black/5273065"
+    },
+    {
+      "Id": 0,
+      "Name": "LA Kush Cake",
+      "Producer": "Cannamedical",
+      "MinPrice": 4.49,
+      "Available": true,
+      "Url": "https://shop.dransay.com/product/la-kush-cake/5224000"
+    },
+    {
+      "Id": 0,
+      "Name": "Pavé Runtz",
+      "Producer": "Cantourage",
+      "MinPrice": 8.99,
+      "Available": true,
+      "Url": "https://shop.dransay.com/product/pav-runtz/894"
+    },
+    {
+      "Id": 0,
+      "Name": "Platinum Girl Scout Cookies",
+      "Producer": "Bathera",
+      "MinPrice": 5.94,
+      "Available": true,
+      "Url": "https://shop.dransay.com/product/platinum-girl-scout-cookies/2372957"
+    }
+  ],
+  "RemovedCount": 0,
   "BackInStock": [],
-  "OutOfStock": [],
+  "OutOfStock": [
+    {
+      "Id": 3394,
+      "Name": "NERO 24/1 BIZ RGO Royal Gorilla",
+      "Producer": "Remexian Pharma",
+      "MinPrice": null,
+      "Available": false,
+      "Url": "https://flowzz.com/product/nero-24-1-biz-rgo-royal-gorilla"
+    }
+  ],
   "PriceUp": [
     {
       "P": {
-        "Id": 2169,
-        "Name": "Demecan Core JM7 31/1 Jelly Mints",
-        "Producer": "Demecan",
-        "MinPrice": 5.74,
+        "Id": 3447,
+        "Name": "A+ KINEO SPIRIT NO.1 27/1 Muel Fuel",
+        "Producer": "Kineo Medical",
+        "MinPrice": 4.53,
         "Available": true,
-        "Url": "https://flowzz.com/product/demecan-core-jm7-31-1-jelly-mints"
+        "Url": "https://flowzz.com/product/a-kineo-spirit-no-1-27-1-muel-fuel"
       },
-      "Old": 5.73,
-      "New": 5.74
+      "Old": 3.99,
+      "New": 4.53
     },
     {
       "P": {
-        "Id": 0,
-        "Name": "Black Marble",
-        "Producer": "Barongo/buuo - WMG",
-        "MinPrice": 3.79,
+        "Id": 1720,
+        "Name": "Demecan Core PULSE 27:01 Zativa: Tangelo Boost",
+        "Producer": "Demecan",
+        "MinPrice": 5.7,
         "Available": true,
-        "Url": "https://shop.dransay.com/product/black-marble/5932035"
+        "Url": "https://flowzz.com/product/demecan-core-pulse-27-01-zativa-tangelo-boost"
       },
-      "Old": 3.65,
-      "New": 3.79
-    }
-  ],
-  "PriceDown": [
+      "Old": 3.99,
+      "New": 5.7
+    },
+    {
+      "P": {
+        "Id": 3973,
+        "Name": "AMP ACT-GM THC 27 OMG",
+        "Producer": "AMP",
+        "MinPrice": 4.41,
+        "Available": true,
+        "Url": "https://flowzz.com/product/amp-act-gm-thc-27-omg"
+      },
+      "Old": 4.22,
+      "New": 4.41
+    },
     {
       "P": {
         "Id": 0,
         "Name": "Gelato x Orange Cake",
         "Producer": "Cantourage",
-        "MinPrice": 8.92,
+        "MinPrice": 8.99,
         "Available": true,
         "Url": "https://shop.dransay.com/product/gelato-x-orange-cake/3576347"
       },
-      "Old": 8.99,
-      "New": 8.92
+      "Old": 8.92,
+      "New": 8.99
+    }
+  ],
+  "PriceDown": [
+    {
+      "P": {
+        "Id": 1466,
+        "Name": "madrecan 24/1 MDR MAC Driver",
+        "Producer": "Remexian Pharma",
+        "MinPrice": 3.79,
+        "Available": true,
+        "Url": "https://flowzz.com/product/madrecan-24-1-mac-driver"
+      },
+      "Old": 3.99,
+      "New": 3.79
+    },
+    {
+      "P": {
+        "Id": 3870,
+        "Name": "Bathera 25/1 GMO smalls",
+        "Producer": "Bathera",
+        "MinPrice": 3.31,
+        "Available": true,
+        "Url": "https://flowzz.com/product/bathera-25-1-gmo-smalls"
+      },
+      "Old": 3.32,
+      "New": 3.31
+    },
+    {
+      "P": {
+        "Id": 3872,
+        "Name": "Siggis KBLT 18:1 Siggis Kirschblüte",
+        "Producer": "Demecan",
+        "MinPrice": 6.94,
+        "Available": true,
+        "Url": "https://flowzz.com/product/siggis-kblt-18-1-siggis-kirschbluete"
+      },
+      "Old": 6.95,
+      "New": 6.94
+    },
+    {
+      "P": {
+        "Id": 3647,
+        "Name": "Bathera 23/1 BZ Blue Z",
+        "Producer": "Bathera",
+        "MinPrice": 5.94,
+        "Available": true,
+        "Url": "https://flowzz.com/product/bathera-23-1-bz-zkittlez-x-kush-mints"
+      },
+      "Old": 5.95,
+      "New": 5.94
+    },
+    {
+      "P": {
+        "Id": 3535,
+        "Name": "enua 25/1 FPW CA Frosty Platin Widow",
+        "Producer": "enua Pharma",
+        "MinPrice": 3.54,
+        "Available": true,
+        "Url": "https://flowzz.com/product/enua-25-1-fpw-ca-frosty-platin-widow"
+      },
+      "Old": 3.85,
+      "New": 3.54
     }
   ]
 }
