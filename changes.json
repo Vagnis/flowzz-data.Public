@@ -1,22 +1,35 @@
 {
-  "ScrapedAt": "2026-07-24T04:06:19.961526+02:00",
+  "ScrapedAt": "2026-07-24T04:53:49.728652+02:00",
   "NewStrains": [],
-  "RemovedCount": 1,
+  "RemovedCount": 5,
   "BackInStock": [],
   "OutOfStock": [],
-  "PriceUp": [],
+  "PriceUp": [
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Black Marble",
+        "Producer": "Barongo/buuo - WMG",
+        "MinPrice": 3.79,
+        "Available": true,
+        "Url": "https://shop.dransay.com/product/black-marble/5932035"
+      },
+      "Old": 3.65,
+      "New": 3.79
+    }
+  ],
   "PriceDown": [
     {
       "P": {
         "Id": 0,
-        "Name": "Cheddar Cheeze",
+        "Name": "Gelato x Orange Cake",
         "Producer": "Cantourage",
-        "MinPrice": 4.13,
+        "MinPrice": 8.92,
         "Available": true,
-        "Url": "https://shop.dransay.com/product/cheddar-cheeze/6102221"
+        "Url": "https://shop.dransay.com/product/gelato-x-orange-cake/3576347"
       },
-      "Old": 4.14,
-      "New": 4.13
+      "Old": 8.99,
+      "New": 8.92
     }
   ]
 }
