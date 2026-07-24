@@ -1,317 +1,47 @@
 {
-  "ScrapedAt": "2026-07-24T17:47:22.168822+02:00",
-  "NewStrains": [
-    {
-      "Id": 0,
-      "Name": "ANIMAL COOKIES × SINMINT COOKIES",
-      "Producer": "Demecan",
-      "MinPrice": 5.39,
-      "Available": true,
-      "Url": "https://shop.dransay.com/product/animal-cookies-sinmint-cookies/5548558"
-    },
-    {
-      "Id": 0,
-      "Name": "Platinum Girl Scout Cookies",
-      "Producer": "Bathera",
-      "MinPrice": 5.94,
-      "Available": true,
-      "Url": "https://shop.dransay.com/product/platinum-girl-scout-cookies/2372957"
-    }
-  ],
-  "RemovedCount": 2,
-  "BackInStock": [
-    {
-      "Id": 1675,
-      "Name": "Tilray Craft THC25 BCR Beach Crasher",
-      "Producer": "Tilray",
-      "MinPrice": 4.0,
-      "Available": true,
-      "Url": "https://flowzz.com/product/tilray-craft-thc25-bcr-beach-crasher"
-    },
-    {
-      "Id": 3730,
-      "Name": "Kush Collective 30/1 CBH Cuban Haze",
-      "Producer": "Natural Pharma",
-      "MinPrice": 5.41,
-      "Available": true,
-      "Url": "https://flowzz.com/product/kush-collective-30-1-cbh-cuban-haze"
-    },
-    {
-      "Id": 3394,
-      "Name": "NERO 24/1 BIZ RGO Royal Gorilla",
-      "Producer": "Remexian Pharma",
-      "MinPrice": 4.76,
-      "Available": true,
-      "Url": "https://flowzz.com/product/nero-24-1-biz-rgo-royal-gorilla"
-    }
-  ],
+  "ScrapedAt": "2026-07-24T18:25:41.997043+02:00",
+  "NewStrains": [],
+  "RemovedCount": 6,
+  "BackInStock": [],
   "OutOfStock": [],
   "PriceUp": [
     {
       "P": {
-        "Id": 1466,
-        "Name": "madrecan 24/1 MDR MAC Driver",
-        "Producer": "Remexian Pharma",
-        "MinPrice": 3.99,
-        "Available": true,
-        "Url": "https://flowzz.com/product/madrecan-24-1-mac-driver"
-      },
-      "Old": 3.89,
-      "New": 3.99
-    },
-    {
-      "P": {
-        "Id": 1436,
-        "Name": "Costa Canna Dynamics Crescendo 25/1 Pucker Up",
-        "Producer": "Cantourage",
-        "MinPrice": 9.6,
-        "Available": true,
-        "Url": "https://flowzz.com/product/costa-canna-dynamics-crescendo-25-1-pucker-up"
-      },
-      "Old": 6.6,
-      "New": 9.6
-    },
-    {
-      "P": {
-        "Id": 582,
-        "Name": "IMC OOG THC 25 Outdoor OG Kush",
-        "Producer": "IMC",
-        "MinPrice": 6.31,
-        "Available": true,
-        "Url": "https://flowzz.com/product/imc-thc-25-oog-og-kush"
-      },
-      "Old": 5.6,
-      "New": 6.31
-    },
-    {
-      "P": {
-        "Id": 3869,
-        "Name": "IMC Mids TC 25/1 Tropic Candy",
-        "Producer": "IMC",
-        "MinPrice": 3.28,
-        "Available": true,
-        "Url": "https://flowzz.com/product/imc-mids-tc-25-1-tropic-candy"
-      },
-      "Old": 3.15,
-      "New": 3.28
-    },
-    {
-      "P": {
-        "Id": 3633,
-        "Name": "Casper’s No. 7 Sweetie Pie",
-        "Producer": "medizinalhanf",
-        "MinPrice": 9.5,
-        "Available": true,
-        "Url": "https://flowzz.com/product/caspers-no-7-sweetie-pie"
-      },
-      "Old": 9.49,
-      "New": 9.5
-    },
-    {
-      "P": {
-        "Id": 3110,
-        "Name": "Remexian 27/1 GJY CHO Chocolate Kush",
-        "Producer": "Remexian Pharma",
-        "MinPrice": 3.98,
-        "Available": true,
-        "Url": "https://flowzz.com/product/remexian-27-1-gjy-cho-chocolate-kush"
-      },
-      "Old": 3.79,
-      "New": 3.98
-    },
-    {
-      "P": {
-        "Id": 2923,
-        "Name": "Medical Saints 21/1 USR Ultra Sour",
-        "Producer": "Remexian Pharma",
-        "MinPrice": 3.65,
-        "Available": true,
-        "Url": "https://flowzz.com/product/medical-saints-21-1-usr-ultra-sour"
-      },
-      "Old": 2.99,
-      "New": 3.65
-    },
-    {
-      "P": {
-        "Id": 2865,
-        "Name": "Barongo 26/1 FB Frosted Sweet Tooth",
-        "Producer": "WMG Pharma",
-        "MinPrice": 7.6,
-        "Available": true,
-        "Url": "https://flowzz.com/product/barongo-26-1-fb-frosted-sweet-tooth"
-      },
-      "Old": 4.2,
-      "New": 7.6
-    },
-    {
-      "P": {
-        "Id": 0,
-        "Name": "Gelato x Orange Cake",
-        "Producer": "Cantourage",
-        "MinPrice": 8.99,
-        "Available": true,
-        "Url": "https://shop.dransay.com/product/gelato-x-orange-cake/3576347"
-      },
-      "Old": 8.92,
-      "New": 8.99
-    }
-  ],
-  "PriceDown": [
-    {
-      "P": {
-        "Id": 3913,
-        "Name": "MGF 22/1 Cloud White",
-        "Producer": "MGF Via Medical",
-        "MinPrice": 4.3,
-        "Available": true,
-        "Url": "https://flowzz.com/product/mgf-22-1-cloud-white"
-      },
-      "Old": 4.35,
-      "New": 4.3
-    },
-    {
-      "P": {
-        "Id": 1001,
-        "Name": "Green Karat PV 30/1 Pavé S1",
-        "Producer": "Cantourage",
-        "MinPrice": 6.97,
-        "Available": true,
-        "Url": "https://flowzz.com/product/green-karat-pv-30-1-pave-s1"
-      },
-      "Old": 6.98,
-      "New": 6.97
-    },
-    {
-      "P": {
-        "Id": 933,
-        "Name": "Weeco 27/1 KL King Louis Cali Sunset",
-        "Producer": "Weeco",
-        "MinPrice": 3.4,
-        "Available": true,
-        "Url": "https://flowzz.com/product/weeco-27-1-kl-king-louis"
-      },
-      "Old": 3.41,
-      "New": 3.4
-    },
-    {
-      "P": {
-        "Id": 335,
-        "Name": "Weeco 20/1 White Widow",
-        "Producer": "Weeco",
-        "MinPrice": 4.78,
-        "Available": true,
-        "Url": "https://flowzz.com/product/weeco-20-1-white-widow"
-      },
-      "Old": 5.0,
-      "New": 4.78
-    },
-    {
-      "P": {
-        "Id": 4083,
-        "Name": "BC Green SCK 27/1 Scotti´s Cake",
-        "Producer": "BC Green",
-        "MinPrice": 5.29,
-        "Available": true,
-        "Url": "https://flowzz.com/product/canngo-sck-27-1-scottis-cake-by-the-bc-green"
-      },
-      "Old": 5.45,
-      "New": 5.29
-    },
-    {
-      "P": {
-        "Id": 4053,
-        "Name": "MGF 80 Rose Gold Runtz",
-        "Producer": "MGF Via Medical",
-        "MinPrice": 4.36,
-        "Available": true,
-        "Url": "https://flowzz.com/product/mgf-80-rose-gold-runtz"
-      },
-      "Old": 5.07,
-      "New": 4.36
-    },
-    {
-      "P": {
-        "Id": 4016,
-        "Name": "MGF Pop Up No. 7 Rich King's Kush",
-        "Producer": "MGF Via Medical",
-        "MinPrice": 4.35,
-        "Available": true,
-        "Url": "https://flowzz.com/product/mgf-pop-up-no-7-rich-kings-kush"
-      },
-      "Old": 5.06,
-      "New": 4.35
-    },
-    {
-      "P": {
-        "Id": 3870,
-        "Name": "Bathera 25/1 GMO smalls",
-        "Producer": "Bathera",
-        "MinPrice": 3.32,
-        "Available": true,
-        "Url": "https://flowzz.com/product/bathera-25-1-gmo-smalls"
-      },
-      "Old": 3.33,
-      "New": 3.32
-    },
-    {
-      "P": {
-        "Id": 3878,
-        "Name": "Apollo 24/1 RKS Chocolate Mint OG 2.0",
-        "Producer": "Cannprisma",
-        "MinPrice": 3.94,
-        "Available": true,
-        "Url": "https://flowzz.com/product/apollo-24-1-rks-chocolate-mint-og-2-0"
-      },
-      "Old": 3.95,
-      "New": 3.94
-    },
-    {
-      "P": {
-        "Id": 3874,
-        "Name": "Craft Kings 30/1 CAR Cardliac Rainbow",
-        "Producer": "Remexian Pharma",
-        "MinPrice": 5.44,
-        "Available": true,
-        "Url": "https://flowzz.com/product/craft-kings-30-1-car-cadilac-rainbow"
-      },
-      "Old": 5.45,
-      "New": 5.44
-    },
-    {
-      "P": {
-        "Id": 2846,
-        "Name": "Demecan Craft Magister 26/1 BM Black Marker",
+        "Id": 2169,
+        "Name": "Demecan Core JM7 31/1 Jelly Mints",
         "Producer": "Demecan",
-        "MinPrice": 5.72,
+        "MinPrice": 5.74,
         "Available": true,
-        "Url": "https://flowzz.com/product/demecan-craft-magister-26-1-bm-black-marker"
+        "Url": "https://flowzz.com/product/demecan-core-jm7-31-1-jelly-mints"
       },
-      "Old": 5.74,
-      "New": 5.72
+      "Old": 5.73,
+      "New": 5.74
     },
     {
       "P": {
         "Id": 0,
         "Name": "Black Marble",
         "Producer": "Barongo/buuo - WMG",
-        "MinPrice": 3.65,
+        "MinPrice": 3.79,
         "Available": true,
         "Url": "https://shop.dransay.com/product/black-marble/5932035"
       },
-      "Old": 3.79,
-      "New": 3.65
-    },
+      "Old": 3.65,
+      "New": 3.79
+    }
+  ],
+  "PriceDown": [
     {
       "P": {
         "Id": 0,
-        "Name": "Jack Black",
+        "Name": "Gelato x Orange Cake",
         "Producer": "Cantourage",
-        "MinPrice": 5.98,
+        "MinPrice": 8.92,
         "Available": true,
-        "Url": "https://shop.dransay.com/product/jack-black/5273065"
+        "Url": "https://shop.dransay.com/product/gelato-x-orange-cake/3576347"
       },
-      "Old": 6.71,
-      "New": 5.98
+      "Old": 8.99,
+      "New": 8.92
     }
   ]
 }
