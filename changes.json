@@ -1,22 +1,83 @@
 {
-  "ScrapedAt": "2026-07-25T18:56:53.137527+02:00",
+  "ScrapedAt": "2026-07-25T19:48:51.005174+02:00",
   "NewStrains": [],
-  "RemovedCount": 0,
+  "RemovedCount": 6,
   "BackInStock": [],
   "OutOfStock": [],
-  "PriceUp": [],
-  "PriceDown": [
+  "PriceUp": [
+    {
+      "P": {
+        "Id": 4036,
+        "Name": "DrWatson 31 AM AUS Alien Mint",
+        "Producer": "ADREXpharma",
+        "MinPrice": 4.45,
+        "Available": true,
+        "Url": "https://flowzz.com/product/drwatson-31-am-aus-alien-mint"
+      },
+      "Old": 4.29,
+      "New": 4.45
+    },
     {
       "P": {
         "Id": 0,
         "Name": "Black Marble",
         "Producer": "Barongo/buuo - WMG",
-        "MinPrice": 3.65,
+        "MinPrice": 3.79,
         "Available": true,
         "Url": "https://shop.dransay.com/product/black-marble/5932035"
       },
-      "Old": 3.79,
-      "New": 3.65
+      "Old": 3.65,
+      "New": 3.79
+    }
+  ],
+  "PriceDown": [
+    {
+      "P": {
+        "Id": 2617,
+        "Name": "187 Cannabisflower PPP THC22 Phantasia Purp",
+        "Producer": "AMP",
+        "MinPrice": 3.99,
+        "Available": true,
+        "Url": "https://flowzz.com/product/187-cannabisflower-ppp-thc22-phantasia-purp"
+      },
+      "Old": 4.5,
+      "New": 3.99
+    },
+    {
+      "P": {
+        "Id": 2619,
+        "Name": "187 Cannabisflower PPP THC22 classics Phantasia Purp",
+        "Producer": "AMP",
+        "MinPrice": 3.99,
+        "Available": true,
+        "Url": "https://flowzz.com/product/187-cannabisflower-ppp-thc22-classics-phantasia-purp"
+      },
+      "Old": 4.5,
+      "New": 3.99
+    },
+    {
+      "P": {
+        "Id": 3036,
+        "Name": "Canify Cannabis 22/1 CZE Acai Berry",
+        "Producer": "Canify",
+        "MinPrice": 2.99,
+        "Available": true,
+        "Url": "https://flowzz.com/product/canify-cannabis-22-1-cze-acai-berry"
+      },
+      "Old": 3.49,
+      "New": 2.99
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Gelato x Orange Cake",
+        "Producer": "Cantourage",
+        "MinPrice": 8.92,
+        "Available": true,
+        "Url": "https://shop.dransay.com/product/gelato-x-orange-cake/3576347"
+      },
+      "Old": 8.99,
+      "New": 8.92
     }
   ]
 }
