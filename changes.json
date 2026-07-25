@@ -1,83 +1,93 @@
 {
-  "ScrapedAt": "2026-07-25T19:48:51.005174+02:00",
-  "NewStrains": [],
-  "RemovedCount": 6,
-  "BackInStock": [],
-  "OutOfStock": [],
-  "PriceUp": [
+  "ScrapedAt": "2026-07-25T20:24:31.179469+02:00",
+  "NewStrains": [
     {
-      "P": {
-        "Id": 4036,
-        "Name": "DrWatson 31 AM AUS Alien Mint",
-        "Producer": "ADREXpharma",
-        "MinPrice": 4.45,
-        "Available": true,
-        "Url": "https://flowzz.com/product/drwatson-31-am-aus-alien-mint"
-      },
-      "Old": 4.29,
-      "New": 4.45
+      "Id": 0,
+      "Name": "ANIMAL COOKIES × SINMINT COOKIES",
+      "Producer": "Demecan",
+      "MinPrice": 5.39,
+      "Available": true,
+      "Url": "https://shop.dransay.com/product/animal-cookies-sinmint-cookies/5548558"
     },
     {
-      "P": {
-        "Id": 0,
-        "Name": "Black Marble",
-        "Producer": "Barongo/buuo - WMG",
-        "MinPrice": 3.79,
-        "Available": true,
-        "Url": "https://shop.dransay.com/product/black-marble/5932035"
-      },
-      "Old": 3.65,
-      "New": 3.79
+      "Id": 0,
+      "Name": "Triangle Mints",
+      "Producer": "Tilray",
+      "MinPrice": 3.69,
+      "Available": true,
+      "Url": "https://shop.dransay.com/product/triangle-mints/4621059"
+    },
+    {
+      "Id": 0,
+      "Name": "Jack Black",
+      "Producer": "Cantourage",
+      "MinPrice": 5.98,
+      "Available": true,
+      "Url": "https://shop.dransay.com/product/jack-black/5273065"
+    },
+    {
+      "Id": 0,
+      "Name": "LA Kush Cake",
+      "Producer": "Cannamedical",
+      "MinPrice": 4.49,
+      "Available": true,
+      "Url": "https://shop.dransay.com/product/la-kush-cake/5224000"
+    },
+    {
+      "Id": 0,
+      "Name": "Pavé Runtz",
+      "Producer": "Cantourage",
+      "MinPrice": 8.99,
+      "Available": true,
+      "Url": "https://shop.dransay.com/product/pav-runtz/894"
+    },
+    {
+      "Id": 0,
+      "Name": "Platinum Girl Scout Cookies",
+      "Producer": "Bathera",
+      "MinPrice": 5.94,
+      "Available": true,
+      "Url": "https://shop.dransay.com/product/platinum-girl-scout-cookies/2372957"
     }
   ],
-  "PriceDown": [
+  "RemovedCount": 0,
+  "BackInStock": [],
+  "OutOfStock": [
     {
-      "P": {
-        "Id": 2617,
-        "Name": "187 Cannabisflower PPP THC22 Phantasia Purp",
-        "Producer": "AMP",
-        "MinPrice": 3.99,
-        "Available": true,
-        "Url": "https://flowzz.com/product/187-cannabisflower-ppp-thc22-phantasia-purp"
-      },
-      "Old": 4.5,
-      "New": 3.99
-    },
-    {
-      "P": {
-        "Id": 2619,
-        "Name": "187 Cannabisflower PPP THC22 classics Phantasia Purp",
-        "Producer": "AMP",
-        "MinPrice": 3.99,
-        "Available": true,
-        "Url": "https://flowzz.com/product/187-cannabisflower-ppp-thc22-classics-phantasia-purp"
-      },
-      "Old": 4.5,
-      "New": 3.99
-    },
-    {
-      "P": {
-        "Id": 3036,
-        "Name": "Canify Cannabis 22/1 CZE Acai Berry",
-        "Producer": "Canify",
-        "MinPrice": 2.99,
-        "Available": true,
-        "Url": "https://flowzz.com/product/canify-cannabis-22-1-cze-acai-berry"
-      },
-      "Old": 3.49,
-      "New": 2.99
-    },
+      "Id": 2872,
+      "Name": "Vayamed Balanced 12/8 CAN Cannatonic",
+      "Producer": "Vayamed",
+      "MinPrice": null,
+      "Available": false,
+      "Url": "https://flowzz.com/product/vayamed-12-8-can-cannatonic"
+    }
+  ],
+  "PriceUp": [
     {
       "P": {
         "Id": 0,
         "Name": "Gelato x Orange Cake",
         "Producer": "Cantourage",
-        "MinPrice": 8.92,
+        "MinPrice": 8.99,
         "Available": true,
         "Url": "https://shop.dransay.com/product/gelato-x-orange-cake/3576347"
       },
-      "Old": 8.99,
-      "New": 8.92
+      "Old": 8.92,
+      "New": 8.99
+    }
+  ],
+  "PriceDown": [
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Black Marble",
+        "Producer": "Barongo/buuo - WMG",
+        "MinPrice": 3.65,
+        "Available": true,
+        "Url": "https://shop.dransay.com/product/black-marble/5932035"
+      },
+      "Old": 3.79,
+      "New": 3.65
     }
   ]
 }
