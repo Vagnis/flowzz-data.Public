@@ -1,81 +1,85 @@
 {
-  "ScrapedAt": "2026-07-25T04:11:10.039016+02:00",
+  "ScrapedAt": "2026-07-25T05:04:49.445580+02:00",
   "NewStrains": [
     {
       "Id": 0,
-      "Name": "Triangle Mints",
-      "Producer": "Tilray",
-      "MinPrice": 3.69,
+      "Name": "ANIMAL COOKIES × SINMINT COOKIES",
+      "Producer": "Demecan",
+      "MinPrice": 5.39,
       "Available": true,
-      "Url": "https://shop.dransay.com/product/triangle-mints/4621059"
+      "Url": "https://shop.dransay.com/product/animal-cookies-sinmint-cookies/5548558"
     },
     {
       "Id": 0,
-      "Name": "LA Kush Cake",
-      "Producer": "Cannamedical",
-      "MinPrice": 4.49,
+      "Name": "Platinum Girl Scout Cookies",
+      "Producer": "Bathera",
+      "MinPrice": 5.94,
       "Available": true,
-      "Url": "https://shop.dransay.com/product/la-kush-cake/5224000"
-    },
-    {
-      "Id": 0,
-      "Name": "Pavé Runtz",
-      "Producer": "Cantourage",
-      "MinPrice": 8.99,
-      "Available": true,
-      "Url": "https://shop.dransay.com/product/pav-runtz/894"
+      "Url": "https://shop.dransay.com/product/platinum-girl-scout-cookies/2372957"
     }
   ],
-  "RemovedCount": 2,
-  "BackInStock": [],
-  "OutOfStock": [
+  "RemovedCount": 0,
+  "BackInStock": [
     {
       "Id": 3395,
       "Name": "NERO 27/1 BIZ RGO Royal Gorilla",
       "Producer": "Remexian Pharma",
-      "MinPrice": null,
-      "Available": false,
+      "MinPrice": 4.98,
+      "Available": true,
       "Url": "https://flowzz.com/product/nero-27-1-biz-rgo-royal-gorilla"
     }
   ],
+  "OutOfStock": [],
   "PriceUp": [
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Gelato x Orange Cake",
+        "Producer": "Cantourage",
+        "MinPrice": 8.99,
+        "Available": true,
+        "Url": "https://shop.dransay.com/product/gelato-x-orange-cake/3576347"
+      },
+      "Old": 8.92,
+      "New": 8.99
+    }
+  ],
+  "PriceDown": [
+    {
+      "P": {
+        "Id": 781,
+        "Name": "Cannamedical CM 24/1 BRY Strawberry OG",
+        "Producer": "Cannamedical",
+        "MinPrice": 4.46,
+        "Available": true,
+        "Url": "https://flowzz.com/product/cannamedical-cm-24-1-bry-strawberry-og"
+      },
+      "Old": 4.7,
+      "New": 4.46
+    },
     {
       "P": {
         "Id": 0,
         "Name": "Black Marble",
         "Producer": "Barongo/buuo - WMG",
-        "MinPrice": 3.79,
+        "MinPrice": 3.65,
         "Available": true,
         "Url": "https://shop.dransay.com/product/black-marble/5932035"
       },
-      "Old": 3.65,
-      "New": 3.79
+      "Old": 3.79,
+      "New": 3.65
     },
     {
       "P": {
         "Id": 0,
         "Name": "Jack Black",
         "Producer": "Cantourage",
-        "MinPrice": 6.71,
+        "MinPrice": 5.98,
         "Available": true,
         "Url": "https://shop.dransay.com/product/jack-black/5273065"
       },
-      "Old": 5.98,
-      "New": 6.71
-    }
-  ],
-  "PriceDown": [
-    {
-      "P": {
-        "Id": 0,
-        "Name": "Gelato x Orange Cake",
-        "Producer": "Cantourage",
-        "MinPrice": 8.92,
-        "Available": true,
-        "Url": "https://shop.dransay.com/product/gelato-x-orange-cake/3576347"
-      },
-      "Old": 8.99,
-      "New": 8.92
+      "Old": 6.71,
+      "New": 5.98
     }
   ]
 }
