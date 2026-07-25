@@ -1,55 +1,47 @@
 {
-  "ScrapedAt": "2026-07-25T02:32:49.652136+02:00",
+  "ScrapedAt": "2026-07-25T03:10:19.275644+02:00",
   "NewStrains": [],
-  "RemovedCount": 0,
-  "BackInStock": [
-    {
-      "Id": 3395,
-      "Name": "NERO 27/1 BIZ RGO Royal Gorilla",
-      "Producer": "Remexian Pharma",
-      "MinPrice": 4.98,
-      "Available": true,
-      "Url": "https://flowzz.com/product/nero-27-1-biz-rgo-royal-gorilla"
-    }
-  ],
+  "RemovedCount": 4,
+  "BackInStock": [],
   "OutOfStock": [],
-  "PriceUp": [],
-  "PriceDown": [
-    {
-      "P": {
-        "Id": 4087,
-        "Name": "Gripon420 24/1 FLF Fruitloops & Fuel",
-        "Producer": "Cantourage",
-        "MinPrice": 4.99,
-        "Available": true,
-        "Url": "https://flowzz.com/product/gripon420-24-1-flf-fruitloops-and-fuel"
-      },
-      "Old": 5.49,
-      "New": 4.99
-    },
+  "PriceUp": [
     {
       "P": {
         "Id": 781,
         "Name": "Cannamedical CM 24/1 BRY Strawberry OG",
         "Producer": "Cannamedical",
-        "MinPrice": 4.46,
+        "MinPrice": 4.7,
         "Available": true,
         "Url": "https://flowzz.com/product/cannamedical-cm-24-1-bry-strawberry-og"
       },
-      "Old": 4.7,
-      "New": 4.46
+      "Old": 4.46,
+      "New": 4.7
     },
     {
       "P": {
         "Id": 0,
         "Name": "Medellín",
         "Producer": "Cantourage",
-        "MinPrice": 6.87,
+        "MinPrice": 6.88,
         "Available": true,
         "Url": "https://shop.dransay.com/product/medell-n/2885706"
       },
-      "Old": 6.89,
-      "New": 6.87
+      "Old": 6.87,
+      "New": 6.88
+    }
+  ],
+  "PriceDown": [
+    {
+      "P": {
+        "Id": 42,
+        "Name": "GROW 10:15 CAN (Cannabisextrakt)",
+        "Producer": "GROW",
+        "MinPrice": 3.5,
+        "Available": true,
+        "Url": "https://flowzz.com/extract/grow-10-15-can"
+      },
+      "Old": 4.99,
+      "New": 3.5
     }
   ]
 }
