@@ -1,18 +1,113 @@
 {
-  "ScrapedAt": "2026-07-25T21:04:51.699382+02:00",
+  "ScrapedAt": "2026-07-25T21:52:50.931864+02:00",
   "NewStrains": [],
-  "RemovedCount": 0,
-  "BackInStock": [],
-  "OutOfStock": [
+  "RemovedCount": 6,
+  "BackInStock": [
     {
-      "Id": 3395,
-      "Name": "NERO 27/1 BIZ RGO Royal Gorilla",
+      "Id": 3887,
+      "Name": "NERO 21/1 BIZ GGE Green Gelato",
       "Producer": "Remexian Pharma",
-      "MinPrice": null,
-      "Available": false,
-      "Url": "https://flowzz.com/product/nero-27-1-biz-rgo-royal-gorilla"
+      "MinPrice": 4.35,
+      "Available": true,
+      "Url": "https://flowzz.com/product/nero-21-1-biz-gge-green-gelato"
     }
   ],
-  "PriceUp": [],
-  "PriceDown": []
+  "OutOfStock": [
+    {
+      "Id": 2226,
+      "Name": "Demecan Core Purple Twist 26:01 RS11",
+      "Producer": "Demecan",
+      "MinPrice": null,
+      "Available": false,
+      "Url": "https://flowzz.com/product/core-purple-twist-26-01-rs11"
+    }
+  ],
+  "PriceUp": [
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Blue Lobster",
+        "Producer": "Cantourage",
+        "MinPrice": 9.99,
+        "Available": true,
+        "Url": "https://shop.dransay.com/product/blue-lobster/963442"
+      },
+      "Old": 9.95,
+      "New": 9.99
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Black Marble",
+        "Producer": "Barongo/buuo - WMG",
+        "MinPrice": 3.79,
+        "Available": true,
+        "Url": "https://shop.dransay.com/product/black-marble/5932035"
+      },
+      "Old": 3.65,
+      "New": 3.79
+    }
+  ],
+  "PriceDown": [
+    {
+      "P": {
+        "Id": 3739,
+        "Name": "enua 30/1 SF4 CA CGG Cherry Gelatti Gushers",
+        "Producer": "enua Pharma",
+        "MinPrice": 4.59,
+        "Available": true,
+        "Url": "https://flowzz.com/product/enua-30-1-sf4-ca-cgg-cherry-gelato-gushers"
+      },
+      "Old": 4.6,
+      "New": 4.59
+    },
+    {
+      "P": {
+        "Id": 3562,
+        "Name": "enua 33/1 PCB CA Purps Crystal Breath",
+        "Producer": "enua Pharma",
+        "MinPrice": 4.84,
+        "Available": true,
+        "Url": "https://flowzz.com/product/enua-33-1-pcb-ca-purps-crystal-breath"
+      },
+      "Old": 4.85,
+      "New": 4.84
+    },
+    {
+      "P": {
+        "Id": 3437,
+        "Name": "enua 33/1 PS3 JFG CA Jet Fuel Gelato",
+        "Producer": "enua Pharma",
+        "MinPrice": 4.43,
+        "Available": true,
+        "Url": "https://flowzz.com/product/enua-33-1-ps3-jfg-ca-jet-fuel-gelato"
+      },
+      "Old": 4.44,
+      "New": 4.43
+    },
+    {
+      "P": {
+        "Id": 3225,
+        "Name": "enua 30/1 TPM CA Tropical Meltdown",
+        "Producer": "enua Pharma",
+        "MinPrice": 3.85,
+        "Available": true,
+        "Url": "https://flowzz.com/product/enua-30-1-tpm-ca-tropical-meltdown"
+      },
+      "Old": 3.9,
+      "New": 3.85
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Gelato x Orange Cake",
+        "Producer": "Cantourage",
+        "MinPrice": 8.92,
+        "Available": true,
+        "Url": "https://shop.dransay.com/product/gelato-x-orange-cake/3576347"
+      },
+      "Old": 8.99,
+      "New": 8.92
+    }
+  ]
 }
