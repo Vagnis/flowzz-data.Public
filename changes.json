@@ -1,88 +1,344 @@
 {
-  "ScrapedAt": "2026-07-25T13:27:41.461273+02:00",
+  "ScrapedAt": "2026-07-25T14:02:53.373047+02:00",
   "NewStrains": [],
-  "RemovedCount": 6,
-  "BackInStock": [
+  "RemovedCount": 0,
+  "BackInStock": [],
+  "OutOfStock": [
     {
       "Id": 3887,
       "Name": "NERO 21/1 BIZ GGE Green Gelato",
       "Producer": "Remexian Pharma",
-      "MinPrice": 4.35,
-      "Available": true,
+      "MinPrice": null,
+      "Available": false,
       "Url": "https://flowzz.com/product/nero-21-1-biz-gge-green-gelato"
-    },
-    {
-      "Id": 3021,
-      "Name": "Medical Saints 24/1 SRD Sugar Dream",
-      "Producer": "Remexian Pharma",
-      "MinPrice": 3.98,
-      "Available": true,
-      "Url": "https://flowzz.com/product/medical-saints-24-1-srd-sugar-dream"
     }
   ],
-  "OutOfStock": [],
   "PriceUp": [
     {
       "P": {
-        "Id": 0,
-        "Name": "Black Marble",
-        "Producer": "Barongo/buuo - WMG",
-        "MinPrice": 3.79,
+        "Id": 2252,
+        "Name": "Cannamedical Indica Ultra SM Sunset Serenity",
+        "Producer": "Cannamedical",
+        "MinPrice": 4.98,
         "Available": true,
-        "Url": "https://shop.dransay.com/product/black-marble/5932035"
+        "Url": "https://flowzz.com/product/cannamedical-indica-ultra-sunset-serenity"
       },
-      "Old": 3.65,
-      "New": 3.79
-    }
-  ],
-  "PriceDown": [
+      "Old": 4.28,
+      "New": 4.98
+    },
     {
       "P": {
-        "Id": 3422,
-        "Name": "Beacon PK T24 Pink Kush",
-        "Producer": "Cansativa",
-        "MinPrice": 3.99,
+        "Id": 3029,
+        "Name": "Cannamedical Indica Ultra SM Pineapple Express",
+        "Producer": "Cannamedical",
+        "MinPrice": 5.3,
         "Available": true,
-        "Url": "https://flowzz.com/product/beacon-pk-t24-pink-kush"
+        "Url": "https://flowzz.com/product/cannamedical-indica-ultra-sm-pineapple-express"
       },
-      "Old": 4.45,
-      "New": 3.99
+      "Old": 4.13,
+      "New": 5.3
     },
     {
       "P": {
         "Id": 781,
         "Name": "Cannamedical CM 24/1 BRY Strawberry OG",
         "Producer": "Cannamedical",
-        "MinPrice": 4.46,
+        "MinPrice": 4.7,
         "Available": true,
         "Url": "https://flowzz.com/product/cannamedical-cm-24-1-bry-strawberry-og"
       },
-      "Old": 4.7,
-      "New": 4.46
-    },
+      "Old": 4.46,
+      "New": 4.7
+    }
+  ],
+  "PriceDown": [
     {
       "P": {
-        "Id": 0,
-        "Name": "Amnesia Haze Cake",
-        "Producer": "Avaay/Vayamed",
-        "MinPrice": 9.32,
+        "Id": 3866,
+        "Name": "Medical Saints 24/1 MC1 MAC 1",
+        "Producer": "Medical Saints",
+        "MinPrice": 3.38,
         "Available": true,
-        "Url": "https://shop.dransay.com/product/amnesia-haze-cake/460"
+        "Url": "https://flowzz.com/product/medical-saints-24-1-mc1-mac1"
       },
-      "Old": 9.33,
-      "New": 9.32
+      "Old": 3.39,
+      "New": 3.38
     },
     {
       "P": {
-        "Id": 0,
-        "Name": "Gelato x Orange Cake",
+        "Id": 2691,
+        "Name": "Candoro ethics 22:1 Hybrid OGK OG Kush",
+        "Producer": "Candoro Ethics",
+        "MinPrice": 4.29,
+        "Available": true,
+        "Url": "https://flowzz.com/product/candoro-ethics-22-1-hybrid-ogk-og-kush"
+      },
+      "Old": 4.3,
+      "New": 4.29
+    },
+    {
+      "P": {
+        "Id": 2404,
+        "Name": "Huala 27/1 CA ALM Alien Mints",
+        "Producer": "Four 20 Pharma",
+        "MinPrice": 3.68,
+        "Available": true,
+        "Url": "https://flowzz.com/product/huala-27-1-ca-alm"
+      },
+      "Old": 3.69,
+      "New": 3.68
+    },
+    {
+      "P": {
+        "Id": 2281,
+        "Name": "Huala 25/1 CA GRF Grape Face",
+        "Producer": "Four 20 Pharma",
+        "MinPrice": 3.83,
+        "Available": true,
+        "Url": "https://flowzz.com/product/huala-25-1-ca-grf-grape-face"
+      },
+      "Old": 3.84,
+      "New": 3.83
+    },
+    {
+      "P": {
+        "Id": 2222,
+        "Name": "TRUU GT 30:01 Cookies OG",
+        "Producer": "Demecan",
+        "MinPrice": 4.72,
+        "Available": true,
+        "Url": "https://flowzz.com/product/truu-gt-30-01-cookies-og"
+      },
+      "Old": 4.73,
+      "New": 4.72
+    },
+    {
+      "P": {
+        "Id": 1468,
+        "Name": "Remexian 33/1 VCC GWA G Wagon",
+        "Producer": "Remexian Pharma",
+        "MinPrice": 5.98,
+        "Available": true,
+        "Url": "https://flowzz.com/product/remexian-33-1-vcc-gwa-g-wagon"
+      },
+      "Old": 5.99,
+      "New": 5.98
+    },
+    {
+      "P": {
+        "Id": 1466,
+        "Name": "madrecan 24/1 MDR MAC Driver",
+        "Producer": "Remexian Pharma",
+        "MinPrice": 3.78,
+        "Available": true,
+        "Url": "https://flowzz.com/product/madrecan-24-1-mac-driver"
+      },
+      "Old": 3.79,
+      "New": 3.78
+    },
+    {
+      "P": {
+        "Id": 551,
+        "Name": "Roxton Air FC 25/1 Frosted Cookies",
         "Producer": "Cantourage",
-        "MinPrice": 8.92,
+        "MinPrice": 6.99,
         "Available": true,
-        "Url": "https://shop.dransay.com/product/gelato-x-orange-cake/3576347"
+        "Url": "https://flowzz.com/product/roxton-air-fc-frosted-cookies"
       },
-      "Old": 8.99,
-      "New": 8.92
+      "Old": 7.5,
+      "New": 6.99
+    },
+    {
+      "P": {
+        "Id": 3909,
+        "Name": "HiDealz 24/1 MS Honeydew Haze Smalls",
+        "Producer": "Remexian Pharma",
+        "MinPrice": 2.97,
+        "Available": true,
+        "Url": "https://flowzz.com/product/hidealz-24-1-ms-honeydew-haze"
+      },
+      "Old": 2.98,
+      "New": 2.97
+    },
+    {
+      "P": {
+        "Id": 3870,
+        "Name": "Bathera 25/1 GMO smalls",
+        "Producer": "Bathera",
+        "MinPrice": 3.28,
+        "Available": true,
+        "Url": "https://flowzz.com/product/bathera-25-1-gmo-smalls"
+      },
+      "Old": 3.29,
+      "New": 3.28
+    },
+    {
+      "P": {
+        "Id": 3882,
+        "Name": "Apollo Picasso 30/1 Spritzer",
+        "Producer": "Cannprisma",
+        "MinPrice": 4.34,
+        "Available": true,
+        "Url": "https://flowzz.com/product/apollo-picasso-30-1-spritzer"
+      },
+      "Old": 4.35,
+      "New": 4.34
+    },
+    {
+      "P": {
+        "Id": 3863,
+        "Name": "Medical Saints 24/1 ACB Acai Berry",
+        "Producer": "Remexian Pharma",
+        "MinPrice": 3.48,
+        "Available": true,
+        "Url": "https://flowzz.com/product/medical-saints-24-1-acb-acai-berry"
+      },
+      "Old": 3.49,
+      "New": 3.48
+    },
+    {
+      "P": {
+        "Id": 3864,
+        "Name": "HiDealz 27/1 MS LEM Lemonatti smalls",
+        "Producer": "Remexian Pharma",
+        "MinPrice": 3.58,
+        "Available": true,
+        "Url": "https://flowzz.com/product/hidealz-27-1-ms-lem-lemonatti-smalls"
+      },
+      "Old": 3.59,
+      "New": 3.58
+    },
+    {
+      "P": {
+        "Id": 3689,
+        "Name": "AphriaRX THC28 PPV Platinum Pave #34",
+        "Producer": "Tilray",
+        "MinPrice": 4.84,
+        "Available": true,
+        "Url": "https://flowzz.com/product/aphirarx-thc-28-ppv-platinum-pave-34"
+      },
+      "Old": 4.85,
+      "New": 4.84
+    },
+    {
+      "P": {
+        "Id": 3696,
+        "Name": "BUUO 18/1 KBP Kaleido Boom Popstars",
+        "Producer": "YouCann",
+        "MinPrice": 3.39,
+        "Available": true,
+        "Url": "https://flowzz.com/product/buuo-18-1-kbp-kaleido-boom-popstars"
+      },
+      "Old": 3.4,
+      "New": 3.39
+    },
+    {
+      "P": {
+        "Id": 3698,
+        "Name": "Greenseal 24/1 GUB Guava Bars",
+        "Producer": "Remexian Pharma",
+        "MinPrice": 3.64,
+        "Available": true,
+        "Url": "https://flowzz.com/product/greenseal-24-1-gub-guava-bars"
+      },
+      "Old": 3.65,
+      "New": 3.64
+    },
+    {
+      "P": {
+        "Id": 3642,
+        "Name": "enua 33/1 SF4 CA SSS Sunset Sherbert",
+        "Producer": "enua Pharma",
+        "MinPrice": 4.78,
+        "Available": true,
+        "Url": "https://flowzz.com/product/enua-33-1-sf4-ca-sss-sunset-sherbert"
+      },
+      "Old": 4.79,
+      "New": 4.78
+    },
+    {
+      "P": {
+        "Id": 3525,
+        "Name": "NICE 30/1 GBA Guava Barz",
+        "Producer": "Cansativa",
+        "MinPrice": 3.99,
+        "Available": true,
+        "Url": "https://flowzz.com/product/nice-30-1-gba-guava-barz"
+      },
+      "Old": 4.0,
+      "New": 3.99
+    },
+    {
+      "P": {
+        "Id": 3494,
+        "Name": "madrecan 27/1 GB9 Garlic Budder",
+        "Producer": "Remexian Pharma",
+        "MinPrice": 3.68,
+        "Available": true,
+        "Url": "https://flowzz.com/product/madrecan-27-1-gb9-garlic-budder"
+      },
+      "Old": 3.69,
+      "New": 3.68
+    },
+    {
+      "P": {
+        "Id": 3475,
+        "Name": "HiDealz 27/1 MS Pink Gas Smalls",
+        "Producer": "Remexian Pharma",
+        "MinPrice": 3.74,
+        "Available": true,
+        "Url": "https://flowzz.com/product/hidealz-27-1-ms-pink-gas-smalls"
+      },
+      "Old": 3.75,
+      "New": 3.74
+    },
+    {
+      "P": {
+        "Id": 3440,
+        "Name": "NICE 24/1 SWC Strawberry Cake",
+        "Producer": "Cansativa",
+        "MinPrice": 3.49,
+        "Available": true,
+        "Url": "https://flowzz.com/product/nice-24-1-swc-strawberry-cake"
+      },
+      "Old": 3.5,
+      "New": 3.49
+    },
+    {
+      "P": {
+        "Id": 3230,
+        "Name": "ZOIKS 22/1 AZZ Azzai",
+        "Producer": "avaay",
+        "MinPrice": 3.83,
+        "Available": true,
+        "Url": "https://flowzz.com/product/zoiks-22-1-azz-azzai"
+      },
+      "Old": 3.84,
+      "New": 3.83
+    },
+    {
+      "P": {
+        "Id": 2937,
+        "Name": "Remexian 27/1 CRX SMO Sherb Master OG",
+        "Producer": "Remexian Pharma",
+        "MinPrice": 3.78,
+        "Available": true,
+        "Url": "https://flowzz.com/product/remexian-27-1-crx-smo-sherb-master-og"
+      },
+      "Old": 3.79,
+      "New": 3.78
+    },
+    {
+      "P": {
+        "Id": 2945,
+        "Name": "Medicus 21/1 EZA ZZ4",
+        "Producer": "Remexian Pharma",
+        "MinPrice": 3.4,
+        "Available": true,
+        "Url": "https://flowzz.com/product/medicus-21-1-eza-zz4"
+      },
+      "Old": 3.94,
+      "New": 3.4
     }
   ]
 }
