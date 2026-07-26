@@ -1,9 +1,312 @@
 {
-  "ScrapedAt": "2026-07-26T10:04:50.052774+02:00",
-  "NewStrains": [],
+  "ScrapedAt": "2026-07-26T11:09:19.590058+02:00",
+  "NewStrains": [
+    {
+      "Id": 0,
+      "Name": "ANIMAL COOKIES × SINMINT COOKIES",
+      "Producer": "Demecan",
+      "MinPrice": 5.39,
+      "Available": true,
+      "Url": "https://shop.dransay.com/product/animal-cookies-sinmint-cookies/5548558"
+    },
+    {
+      "Id": 0,
+      "Name": "Jack Black",
+      "Producer": "Cantourage",
+      "MinPrice": 5.98,
+      "Available": true,
+      "Url": "https://shop.dransay.com/product/jack-black/5273065"
+    },
+    {
+      "Id": 0,
+      "Name": "Platinum Girl Scout Cookies",
+      "Producer": "Bathera",
+      "MinPrice": 5.94,
+      "Available": true,
+      "Url": "https://shop.dransay.com/product/platinum-girl-scout-cookies/2372957"
+    }
+  ],
   "RemovedCount": 0,
   "BackInStock": [],
   "OutOfStock": [],
-  "PriceUp": [],
-  "PriceDown": []
+  "PriceUp": [
+    {
+      "P": {
+        "Id": 3447,
+        "Name": "A+ KINEO SPIRIT NO.1 27/1 Muel Fuel",
+        "Producer": "Kineo Medical",
+        "MinPrice": 4.53,
+        "Available": true,
+        "Url": "https://flowzz.com/product/a-kineo-spirit-no-1-27-1-muel-fuel"
+      },
+      "Old": 3.99,
+      "New": 4.53
+    },
+    {
+      "P": {
+        "Id": 3740,
+        "Name": "Slouu 30/1 COZ CA Cookies OZ",
+        "Producer": "enua Pharma",
+        "MinPrice": 3.85,
+        "Available": true,
+        "Url": "https://flowzz.com/product/slouu-30-1-coz-ca-cookies-oz"
+      },
+      "Old": 3.79,
+      "New": 3.85
+    },
+    {
+      "P": {
+        "Id": 3431,
+        "Name": "HiDealz 24/1 MS Lemonatti Smalls",
+        "Producer": "Remexian Pharma",
+        "MinPrice": 3.21,
+        "Available": true,
+        "Url": "https://flowzz.com/product/hidealz-24-1-ms-lemonatti"
+      },
+      "Old": 3.09,
+      "New": 3.21
+    },
+    {
+      "P": {
+        "Id": 3092,
+        "Name": "Green Karat PV 26/1 Pavé S1",
+        "Producer": "Cantourage",
+        "MinPrice": 4.88,
+        "Available": true,
+        "Url": "https://flowzz.com/product/green-karat-pv-26-1-pave-s1"
+      },
+      "Old": 4.84,
+      "New": 4.88
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Chemdawg OG",
+        "Producer": "Cantourage",
+        "MinPrice": 5.35,
+        "Available": true,
+        "Url": "https://shop.dransay.com/product/chemdawg-og/541"
+      },
+      "Old": 5.27,
+      "New": 5.35
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Gelato x Orange Cake",
+        "Producer": "Cantourage",
+        "MinPrice": 8.99,
+        "Available": true,
+        "Url": "https://shop.dransay.com/product/gelato-x-orange-cake/3576347"
+      },
+      "Old": 8.92,
+      "New": 8.99
+    }
+  ],
+  "PriceDown": [
+    {
+      "P": {
+        "Id": 1468,
+        "Name": "Remexian 33/1 VCC GWA G Wagon",
+        "Producer": "Remexian Pharma",
+        "MinPrice": 5.95,
+        "Available": true,
+        "Url": "https://flowzz.com/product/remexian-33-1-vcc-gwa-g-wagon"
+      },
+      "Old": 5.98,
+      "New": 5.95
+    },
+    {
+      "P": {
+        "Id": 1001,
+        "Name": "Green Karat PV 30/1 Pavé S1",
+        "Producer": "Cantourage",
+        "MinPrice": 6.95,
+        "Available": true,
+        "Url": "https://flowzz.com/product/green-karat-pv-30-1-pave-s1"
+      },
+      "Old": 6.97,
+      "New": 6.95
+    },
+    {
+      "P": {
+        "Id": 3935,
+        "Name": "Luana 20/1 Mochi",
+        "Producer": "Cannamedical",
+        "MinPrice": 3.83,
+        "Available": true,
+        "Url": "https://flowzz.com/product/luana-20-1-mochi"
+      },
+      "Old": 3.84,
+      "New": 3.83
+    },
+    {
+      "P": {
+        "Id": 3882,
+        "Name": "Apollo Picasso 30/1 Spritzer",
+        "Producer": "Cannprisma",
+        "MinPrice": 4.29,
+        "Available": true,
+        "Url": "https://flowzz.com/product/apollo-picasso-30-1-spritzer"
+      },
+      "Old": 4.34,
+      "New": 4.29
+    },
+    {
+      "P": {
+        "Id": 3863,
+        "Name": "Medical Saints 24/1 ACB Acai Berry",
+        "Producer": "Remexian Pharma",
+        "MinPrice": 3.39,
+        "Available": true,
+        "Url": "https://flowzz.com/product/medical-saints-24-1-acb-acai-berry"
+      },
+      "Old": 3.48,
+      "New": 3.39
+    },
+    {
+      "P": {
+        "Id": 3768,
+        "Name": "enua 30/1 SJ CA Splitter Jelato",
+        "Producer": "enua Pharma",
+        "MinPrice": 3.59,
+        "Available": true,
+        "Url": "https://flowzz.com/product/enua-30-1-sj-ca-splitter-gelato"
+      },
+      "Old": 3.69,
+      "New": 3.59
+    },
+    {
+      "P": {
+        "Id": 3727,
+        "Name": "PhCann Exotics 32/1 Spritzer",
+        "Producer": "Nimbus Health",
+        "MinPrice": 4.29,
+        "Available": true,
+        "Url": "https://flowzz.com/product/phcann-exotics-32-1-spritzer"
+      },
+      "Old": 4.3,
+      "New": 4.29
+    },
+    {
+      "P": {
+        "Id": 3698,
+        "Name": "Greenseal 24/1 GUB Guava Bars",
+        "Producer": "Remexian Pharma",
+        "MinPrice": 3.63,
+        "Available": true,
+        "Url": "https://flowzz.com/product/greenseal-24-1-gub-guava-bars"
+      },
+      "Old": 3.64,
+      "New": 3.63
+    },
+    {
+      "P": {
+        "Id": 3675,
+        "Name": "CzechOut 18/1 PUO Purple Octane",
+        "Producer": "Remexian Pharma",
+        "MinPrice": 2.73,
+        "Available": true,
+        "Url": "https://flowzz.com/product/czechout-18-1-puo-purple-octane"
+      },
+      "Old": 2.89,
+      "New": 2.73
+    },
+    {
+      "P": {
+        "Id": 3672,
+        "Name": "High Greens PS 30/1 Pink Slurricane",
+        "Producer": "Cantourage",
+        "MinPrice": 4.59,
+        "Available": true,
+        "Url": "https://flowzz.com/product/high-greens-ps-30-1-pink-slurricane"
+      },
+      "Old": 4.65,
+      "New": 4.59
+    },
+    {
+      "P": {
+        "Id": 3562,
+        "Name": "enua 33/1 PCB CA Purps Crystal Breath",
+        "Producer": "enua Pharma",
+        "MinPrice": 4.79,
+        "Available": true,
+        "Url": "https://flowzz.com/product/enua-33-1-pcb-ca-purps-crystal-breath"
+      },
+      "Old": 4.84,
+      "New": 4.79
+    },
+    {
+      "P": {
+        "Id": 3538,
+        "Name": "enua 33/1 NLP CA Northern Lime Pie",
+        "Producer": "enua Pharma",
+        "MinPrice": 4.89,
+        "Available": true,
+        "Url": "https://flowzz.com/product/enua-33-1-nlp-ca-nothern-lime-pie"
+      },
+      "Old": 4.9,
+      "New": 4.89
+    },
+    {
+      "P": {
+        "Id": 3437,
+        "Name": "enua 33/1 PS3 JFG CA Jet Fuel Gelato",
+        "Producer": "enua Pharma",
+        "MinPrice": 4.29,
+        "Available": true,
+        "Url": "https://flowzz.com/product/enua-33-1-ps3-jfg-ca-jet-fuel-gelato"
+      },
+      "Old": 4.43,
+      "New": 4.29
+    },
+    {
+      "P": {
+        "Id": 3303,
+        "Name": "Medical Saints 24/1 LEM Lemonatti",
+        "Producer": "Remexian Pharma",
+        "MinPrice": 3.21,
+        "Available": true,
+        "Url": "https://flowzz.com/product/medical-saints-24-1-lem-lemonatti"
+      },
+      "Old": 3.39,
+      "New": 3.21
+    },
+    {
+      "P": {
+        "Id": 2850,
+        "Name": "Luana Kush 28/1 Hippie Kush",
+        "Producer": "Cannamedical",
+        "MinPrice": 4.98,
+        "Available": true,
+        "Url": "https://flowzz.com/product/luana-kush-28-1-hippie-kush"
+      },
+      "Old": 4.99,
+      "New": 4.98
+    },
+    {
+      "P": {
+        "Id": 2748,
+        "Name": "Demecan GT Strong Drop 27/1 Citron Cookies x Biker Kush",
+        "Producer": "Demecan",
+        "MinPrice": 3.89,
+        "Available": true,
+        "Url": "https://flowzz.com/product/gt-strong-drop-27-1-citron-cookies-x-biker-kush"
+      },
+      "Old": 3.9,
+      "New": 3.89
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Black Marble",
+        "Producer": "Barongo/buuo - WMG",
+        "MinPrice": 3.65,
+        "Available": true,
+        "Url": "https://shop.dransay.com/product/black-marble/5932035"
+      },
+      "Old": 3.79,
+      "New": 3.65
+    }
+  ]
 }
