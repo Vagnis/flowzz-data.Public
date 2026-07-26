@@ -1,76 +1,140 @@
 {
-  "ScrapedAt": "2026-07-26T14:44:51.679590+02:00",
+  "ScrapedAt": "2026-07-26T15:35:53.830875+02:00",
   "NewStrains": [
     {
       "Id": 0,
-      "Name": "ANIMAL COOKIES × SINMINT COOKIES",
-      "Producer": "Demecan",
-      "MinPrice": 5.39,
+      "Name": "Platinum Girl Scout Cookies",
+      "Producer": "Bathera",
+      "MinPrice": 5.94,
       "Available": true,
-      "Url": "https://shop.dransay.com/product/animal-cookies-sinmint-cookies/5548558"
-    },
-    {
-      "Id": 0,
-      "Name": "Triangle Mints",
-      "Producer": "Tilray",
-      "MinPrice": 3.69,
-      "Available": true,
-      "Url": "https://shop.dransay.com/product/triangle-mints/4621059"
-    },
-    {
-      "Id": 0,
-      "Name": "LA Kush Cake",
-      "Producer": "Cannamedical",
-      "MinPrice": 4.49,
-      "Available": true,
-      "Url": "https://shop.dransay.com/product/la-kush-cake/5224000"
+      "Url": "https://shop.dransay.com/product/platinum-girl-scout-cookies/2372957"
     }
   ],
-  "RemovedCount": 0,
+  "RemovedCount": 5,
   "BackInStock": [],
-  "OutOfStock": [
-    {
-      "Id": 2292,
-      "Name": "420 Natural 14/1 CA TRP Tropicana Cookies",
-      "Producer": "Four 20 Pharma",
-      "MinPrice": null,
-      "Available": false,
-      "Url": "https://flowzz.com/product/420-natural-14-1-ca-trp-tropicana-cookies"
-    },
-    {
-      "Id": 1333,
-      "Name": "enua 27/1 GTHZ Ghost Train Haze",
-      "Producer": "enua Pharma",
-      "MinPrice": null,
-      "Available": false,
-      "Url": "https://flowzz.com/product/enua-27-1-ghost-train-haze"
-    }
-  ],
-  "PriceUp": [],
-  "PriceDown": [
+  "OutOfStock": [],
+  "PriceUp": [
     {
       "P": {
-        "Id": 3531,
-        "Name": "24/1 IUVO OC Ice Burn",
-        "Producer": "IUVO Therapeutics",
-        "MinPrice": 6.39,
+        "Id": 3947,
+        "Name": "Demecan PS Epic Drop Animal Cookies x SinMint Cookies",
+        "Producer": "Demecan",
+        "MinPrice": 4.68,
         "Available": true,
-        "Url": "https://flowzz.com/product/24-1-iuvo-oc-ice-burn"
+        "Url": "https://flowzz.com/product/demecan-ps-epic-drop-animal-cookies-x-sinmint-cookies"
       },
-      "Old": 6.45,
-      "New": 6.39
+      "Old": 3.99,
+      "New": 4.68
     },
     {
       "P": {
         "Id": 0,
         "Name": "Black Marble",
         "Producer": "Barongo/buuo - WMG",
-        "MinPrice": 3.65,
+        "MinPrice": 3.79,
         "Available": true,
         "Url": "https://shop.dransay.com/product/black-marble/5932035"
       },
-      "Old": 3.79,
-      "New": 3.65
+      "Old": 3.65,
+      "New": 3.79
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Gelato x Orange Cake",
+        "Producer": "Cantourage",
+        "MinPrice": 8.99,
+        "Available": true,
+        "Url": "https://shop.dransay.com/product/gelato-x-orange-cake/3576347"
+      },
+      "Old": 8.92,
+      "New": 8.99
+    }
+  ],
+  "PriceDown": [
+    {
+      "P": {
+        "Id": 3604,
+        "Name": "Remexian 27/1 CRN VTD Ventura Dawg",
+        "Producer": "Remexian Pharma",
+        "MinPrice": 3.99,
+        "Available": true,
+        "Url": "https://flowzz.com/product/remexian-27-1-crn-vtd-ventura-dawg"
+      },
+      "Old": 4.65,
+      "New": 3.99
+    },
+    {
+      "P": {
+        "Id": 3952,
+        "Name": "Buuo 18/1 BDC Forbidden Lolly",
+        "Producer": "WMG Pharma",
+        "MinPrice": 2.72,
+        "Available": true,
+        "Url": "https://flowzz.com/product/buuo-18-1-bdc-forbidden-lolly"
+      },
+      "Old": 2.73,
+      "New": 2.72
+    },
+    {
+      "P": {
+        "Id": 3793,
+        "Name": "Cookies 2.0 30/1 Blueberry Bananas",
+        "Producer": "SOMAÍ Pharmaceuticals",
+        "MinPrice": 6.69,
+        "Available": true,
+        "Url": "https://flowzz.com/product/cookies-20-30-1-blueberry-bananas"
+      },
+      "Old": 6.78,
+      "New": 6.69
+    },
+    {
+      "P": {
+        "Id": 3489,
+        "Name": "Balancial CA-S1 33/1 ML Mona Lisa",
+        "Producer": "Balancial",
+        "MinPrice": 5.99,
+        "Available": true,
+        "Url": "https://flowzz.com/product/balancial-s1-33-1-ml-mona-lisa"
+      },
+      "Old": 6.25,
+      "New": 5.99
+    },
+    {
+      "P": {
+        "Id": 3125,
+        "Name": "Medical Saints 18/1 ICC Ice Cream Cake",
+        "Producer": "Remexian Pharma",
+        "MinPrice": 2.79,
+        "Available": true,
+        "Url": "https://flowzz.com/product/medical-saints-18-1-icc-ice-cream-cake"
+      },
+      "Old": 2.83,
+      "New": 2.79
+    },
+    {
+      "P": {
+        "Id": 3087,
+        "Name": "CRQSH BNTZ 30/1 Banana Runtz",
+        "Producer": "ROOBS",
+        "MinPrice": 5.95,
+        "Available": true,
+        "Url": "https://flowzz.com/product/crqsh-bntz-30-1-banana-runtz"
+      },
+      "Old": 5.99,
+      "New": 5.95
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Jack Black",
+        "Producer": "Cantourage",
+        "MinPrice": 5.98,
+        "Available": true,
+        "Url": "https://shop.dransay.com/product/jack-black/5273065"
+      },
+      "Old": 6.71,
+      "New": 5.98
     }
   ]
 }
