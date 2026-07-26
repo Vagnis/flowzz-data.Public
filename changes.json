@@ -1,55 +1,77 @@
 {
-  "ScrapedAt": "2026-07-26T01:20:23.625462+02:00",
-  "NewStrains": [],
-  "RemovedCount": 6,
-  "BackInStock": [],
-  "OutOfStock": [
+  "ScrapedAt": "2026-07-26T02:09:31.304382+02:00",
+  "NewStrains": [
+    {
+      "Id": 0,
+      "Name": "Triangle Mints",
+      "Producer": "Tilray",
+      "MinPrice": 3.69,
+      "Available": true,
+      "Url": "https://shop.dransay.com/product/triangle-mints/4621059"
+    },
+    {
+      "Id": 0,
+      "Name": "Jack Black",
+      "Producer": "Cantourage",
+      "MinPrice": 6.71,
+      "Available": true,
+      "Url": "https://shop.dransay.com/product/jack-black/5273065"
+    },
+    {
+      "Id": 0,
+      "Name": "LA Kush Cake",
+      "Producer": "Cannamedical",
+      "MinPrice": 4.49,
+      "Available": true,
+      "Url": "https://shop.dransay.com/product/la-kush-cake/5224000"
+    },
+    {
+      "Id": 0,
+      "Name": "Pavé Runtz",
+      "Producer": "Cantourage",
+      "MinPrice": 8.99,
+      "Available": true,
+      "Url": "https://shop.dransay.com/product/pav-runtz/894"
+    }
+  ],
+  "RemovedCount": 0,
+  "BackInStock": [
     {
       "Id": 3887,
       "Name": "NERO 21/1 BIZ GGE Green Gelato",
       "Producer": "Remexian Pharma",
-      "MinPrice": null,
-      "Available": false,
+      "MinPrice": 4.35,
+      "Available": true,
       "Url": "https://flowzz.com/product/nero-21-1-biz-gge-green-gelato"
     }
   ],
-  "PriceUp": [],
-  "PriceDown": [
-    {
-      "P": {
-        "Id": 3223,
-        "Name": "Demecan Core Golden Horizon 30:01 Golden Goat",
-        "Producer": "Demecan",
-        "MinPrice": 4.26,
-        "Available": true,
-        "Url": "https://flowzz.com/product/demecan-core-golden-horizon-30-1-golden-goat"
-      },
-      "Old": 6.15,
-      "New": 4.26
-    },
-    {
-      "P": {
-        "Id": 3947,
-        "Name": "Demecan PS Epic Drop Animal Cookies x SinMint Cookies",
-        "Producer": "Demecan",
-        "MinPrice": 3.99,
-        "Available": true,
-        "Url": "https://flowzz.com/product/demecan-ps-epic-drop-animal-cookies-x-sinmint-cookies"
-      },
-      "Old": 4.68,
-      "New": 3.99
-    },
+  "OutOfStock": [],
+  "PriceUp": [
     {
       "P": {
         "Id": 0,
-        "Name": "Gelato x Orange Cake",
-        "Producer": "Cantourage",
-        "MinPrice": 8.92,
+        "Name": "Black Marble",
+        "Producer": "Barongo/buuo - WMG",
+        "MinPrice": 3.79,
         "Available": true,
-        "Url": "https://shop.dransay.com/product/gelato-x-orange-cake/3576347"
+        "Url": "https://shop.dransay.com/product/black-marble/5932035"
       },
-      "Old": 8.99,
-      "New": 8.92
+      "Old": 3.65,
+      "New": 3.79
+    }
+  ],
+  "PriceDown": [
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Cookies OG",
+        "Producer": "Cansativa",
+        "MinPrice": 5.44,
+        "Available": true,
+        "Url": "https://shop.dransay.com/product/cookies-og/6849416"
+      },
+      "Old": 5.45,
+      "New": 5.44
     }
   ]
 }
