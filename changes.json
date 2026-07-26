@@ -1,96 +1,164 @@
 {
-  "ScrapedAt": "2026-07-26T08:29:18.533137+02:00",
-  "NewStrains": [
+  "ScrapedAt": "2026-07-26T09:31:22.185381+02:00",
+  "NewStrains": [],
+  "RemovedCount": 6,
+  "BackInStock": [],
+  "OutOfStock": [
     {
-      "Id": 0,
-      "Name": "ANIMAL COOKIES × SINMINT COOKIES",
-      "Producer": "Demecan",
-      "MinPrice": 5.39,
-      "Available": true,
-      "Url": "https://shop.dransay.com/product/animal-cookies-sinmint-cookies/5548558"
-    },
-    {
-      "Id": 0,
-      "Name": "Triangle Mints",
-      "Producer": "Tilray",
-      "MinPrice": 3.69,
-      "Available": true,
-      "Url": "https://shop.dransay.com/product/triangle-mints/4621059"
-    },
-    {
-      "Id": 0,
-      "Name": "Jack Black",
-      "Producer": "Cantourage",
-      "MinPrice": 5.98,
-      "Available": true,
-      "Url": "https://shop.dransay.com/product/jack-black/5273065"
-    },
-    {
-      "Id": 0,
-      "Name": "LA Kush Cake",
-      "Producer": "Cannamedical",
-      "MinPrice": 4.49,
-      "Available": true,
-      "Url": "https://shop.dransay.com/product/la-kush-cake/5224000"
-    },
-    {
-      "Id": 0,
-      "Name": "Pavé Runtz",
-      "Producer": "Cantourage",
-      "MinPrice": 8.99,
-      "Available": true,
-      "Url": "https://shop.dransay.com/product/pav-runtz/894"
-    },
-    {
-      "Id": 0,
-      "Name": "Platinum Girl Scout Cookies",
-      "Producer": "Bathera",
-      "MinPrice": 5.94,
-      "Available": true,
-      "Url": "https://shop.dransay.com/product/platinum-girl-scout-cookies/2372957"
+      "Id": 3887,
+      "Name": "NERO 21/1 BIZ GGE Green Gelato",
+      "Producer": "Remexian Pharma",
+      "MinPrice": null,
+      "Available": false,
+      "Url": "https://flowzz.com/product/nero-21-1-biz-gge-green-gelato"
     }
   ],
-  "RemovedCount": 0,
-  "BackInStock": [],
-  "OutOfStock": [],
   "PriceUp": [
     {
       "P": {
-        "Id": 3109,
-        "Name": "Eufloria 30/1 BAC Banana Cake",
-        "Producer": "Remexian Pharma",
-        "MinPrice": 5.19,
+        "Id": 0,
+        "Name": "Black Marble",
+        "Producer": "Barongo/buuo - WMG",
+        "MinPrice": 3.79,
         "Available": true,
-        "Url": "https://flowzz.com/product/eufloria-30-1-bac-banana-cake"
+        "Url": "https://shop.dransay.com/product/black-marble/5932035"
       },
-      "Old": 4.95,
-      "New": 5.19
+      "Old": 3.65,
+      "New": 3.79
+    }
+  ],
+  "PriceDown": [
+    {
+      "P": {
+        "Id": 3892,
+        "Name": "Apollo 22/1 RKS Honey Suckle",
+        "Producer": "Cannprisma",
+        "MinPrice": 3.92,
+        "Available": true,
+        "Url": "https://flowzz.com/product/apollo-22-1-rks-honey-suckle"
+      },
+      "Old": 3.93,
+      "New": 3.92
+    },
+    {
+      "P": {
+        "Id": 3850,
+        "Name": "Hollymood 25/1 G41 Gelato 41",
+        "Producer": "Bathera",
+        "MinPrice": 4.75,
+        "Available": true,
+        "Url": "https://flowzz.com/product/hollymood-25-g41-gelato-41"
+      },
+      "Old": 4.79,
+      "New": 4.75
+    },
+    {
+      "P": {
+        "Id": 3801,
+        "Name": "aleph Fire 30/1 Amnesia Skittlez",
+        "Producer": "alephSana",
+        "MinPrice": 6.69,
+        "Available": true,
+        "Url": "https://flowzz.com/product/aleph-fire-30-1-amnesia-skittlez"
+      },
+      "Old": 6.78,
+      "New": 6.69
+    },
+    {
+      "P": {
+        "Id": 3778,
+        "Name": "AMP Trichome Acai THC24 Acai Jelly",
+        "Producer": "AMP",
+        "MinPrice": 5.95,
+        "Available": true,
+        "Url": "https://flowzz.com/product/amp-trichome-acai-thc24-acai-jelly"
+      },
+      "Old": 6.99,
+      "New": 5.95
+    },
+    {
+      "P": {
+        "Id": 3779,
+        "Name": "AMP Trichome CCC THC30 Cherry Cheese Cake",
+        "Producer": "AMP",
+        "MinPrice": 6.95,
+        "Available": true,
+        "Url": "https://flowzz.com/product/amp-trichome-ccc-thc30-cherry-cheese-cake"
+      },
+      "Old": 8.29,
+      "New": 6.95
+    },
+    {
+      "P": {
+        "Id": 3780,
+        "Name": "AMP Trichome GPP THC24 Grapefruit Purple Punch",
+        "Producer": "AMP",
+        "MinPrice": 6.81,
+        "Available": true,
+        "Url": "https://flowzz.com/product/amp-trichome-gpp-thc24-grapefruit-purple-punch"
+      },
+      "Old": 7.99,
+      "New": 6.81
+    },
+    {
+      "P": {
+        "Id": 3781,
+        "Name": "AMP Trichome Malibu THC22 Malibu",
+        "Producer": "AMP",
+        "MinPrice": 6.76,
+        "Available": true,
+        "Url": "https://flowzz.com/product/amp-trichome-malibu-thc22-malibu"
+      },
+      "Old": 7.29,
+      "New": 6.76
+    },
+    {
+      "P": {
+        "Id": 3714,
+        "Name": "Buuo 30/1 BDC Birthday Cake",
+        "Producer": "WMG Pharma",
+        "MinPrice": 4.29,
+        "Available": true,
+        "Url": "https://flowzz.com/product/buuo-30-1-bdc-birthday-cake"
+      },
+      "Old": 4.49,
+      "New": 4.29
+    },
+    {
+      "P": {
+        "Id": 3479,
+        "Name": "enua 30/1 PS3 CA PCP Pineapple Cherry Punch",
+        "Producer": "enua Pharma",
+        "MinPrice": 4.6,
+        "Available": true,
+        "Url": "https://flowzz.com/product/enua-30-1-ps3-ca-pcp-pineapple-cherry-punch"
+      },
+      "Old": 4.65,
+      "New": 4.6
+    },
+    {
+      "P": {
+        "Id": 2923,
+        "Name": "Medical Saints 21/1 USR Ultra Sour",
+        "Producer": "Remexian Pharma",
+        "MinPrice": 3.59,
+        "Available": true,
+        "Url": "https://flowzz.com/product/medical-saints-21-1-usr-ultra-sour"
+      },
+      "Old": 3.64,
+      "New": 3.59
     },
     {
       "P": {
         "Id": 0,
         "Name": "Gelato x Orange Cake",
         "Producer": "Cantourage",
-        "MinPrice": 8.99,
+        "MinPrice": 8.92,
         "Available": true,
         "Url": "https://shop.dransay.com/product/gelato-x-orange-cake/3576347"
       },
-      "Old": 8.92,
-      "New": 8.99
-    }
-  ],
-  "PriceDown": [
-    {
-      "P": {
-        "Id": 0,
-        "Name": "Black Marble",
-        "Producer": "Barongo/buuo - WMG",
-        "MinPrice": 3.65,
-        "Available": true,
-        "Url": "https://shop.dransay.com/product/black-marble/5932035"
-      },
-      "Old": 3.79,
-      "New": 3.65
+      "Old": 8.99,
+      "New": 8.92
     }
   ]
 }
