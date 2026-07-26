@@ -1,173 +1,43 @@
 {
-  "ScrapedAt": "2026-07-26T19:29:51.701428+02:00",
+  "ScrapedAt": "2026-07-26T20:06:34.742308+02:00",
   "NewStrains": [
     {
       "Id": 0,
-      "Name": "Platinum Girl Scout Cookies",
-      "Producer": "Bathera",
-      "MinPrice": 5.94,
+      "Name": "Pavé Runtz",
+      "Producer": "Cantourage",
+      "MinPrice": 8.99,
       "Available": true,
-      "Url": "https://shop.dransay.com/product/platinum-girl-scout-cookies/2372957"
+      "Url": "https://shop.dransay.com/product/pav-runtz/894"
     }
   ],
-  "RemovedCount": 5,
-  "BackInStock": [
-    {
-      "Id": 3394,
-      "Name": "NERO 24/1 BIZ RGO Royal Gorilla",
-      "Producer": "Remexian Pharma",
-      "MinPrice": 4.76,
-      "Available": true,
-      "Url": "https://flowzz.com/product/nero-24-1-biz-rgo-royal-gorilla"
-    }
-  ],
+  "RemovedCount": 0,
+  "BackInStock": [],
   "OutOfStock": [],
-  "PriceUp": [
+  "PriceUp": [],
+  "PriceDown": [
     {
       "P": {
         "Id": 3447,
         "Name": "A+ KINEO SPIRIT NO.1 27/1 Muel Fuel",
         "Producer": "Kineo Medical",
-        "MinPrice": 4.98,
+        "MinPrice": 4.53,
         "Available": true,
         "Url": "https://flowzz.com/product/a-kineo-spirit-no-1-27-1-muel-fuel"
       },
-      "Old": 4.53,
-      "New": 4.98
+      "Old": 4.98,
+      "New": 4.53
     },
     {
       "P": {
-        "Id": 0,
-        "Name": "Medellín",
-        "Producer": "Cantourage",
-        "MinPrice": 6.89,
+        "Id": 781,
+        "Name": "Cannamedical CM 24/1 BRY Strawberry OG",
+        "Producer": "Cannamedical",
+        "MinPrice": 4.46,
         "Available": true,
-        "Url": "https://shop.dransay.com/product/medell-n/2885706"
+        "Url": "https://flowzz.com/product/cannamedical-cm-24-1-bry-strawberry-og"
       },
-      "Old": 6.88,
-      "New": 6.89
-    },
-    {
-      "P": {
-        "Id": 0,
-        "Name": "Black Marble",
-        "Producer": "Barongo/buuo - WMG",
-        "MinPrice": 3.79,
-        "Available": true,
-        "Url": "https://shop.dransay.com/product/black-marble/5932035"
-      },
-      "Old": 3.65,
-      "New": 3.79
-    },
-    {
-      "P": {
-        "Id": 0,
-        "Name": "Gelato x Orange Cake",
-        "Producer": "Cantourage",
-        "MinPrice": 8.99,
-        "Available": true,
-        "Url": "https://shop.dransay.com/product/gelato-x-orange-cake/3576347"
-      },
-      "Old": 8.92,
-      "New": 8.99
-    }
-  ],
-  "PriceDown": [
-    {
-      "P": {
-        "Id": 1665,
-        "Name": "Demecan Craft Luna 31:01 Peechy Keen",
-        "Producer": "Demecan",
-        "MinPrice": 5.25,
-        "Available": true,
-        "Url": "https://flowzz.com/product/demecan-craft-luana-31-01-peechy-keen"
-      },
-      "Old": 5.29,
-      "New": 5.25
-    },
-    {
-      "P": {
-        "Id": 1220,
-        "Name": "Demecan Core JM7 28/1 Jelly Mints",
-        "Producer": "Demecan",
-        "MinPrice": 5.59,
-        "Available": true,
-        "Url": "https://flowzz.com/product/demecan-core-jm7-28-1-jelly-mints"
-      },
-      "Old": 5.72,
-      "New": 5.59
-    },
-    {
-      "P": {
-        "Id": 1195,
-        "Name": "Africann GG Gorilla Glue",
-        "Producer": "Cantourage",
-        "MinPrice": 8.49,
-        "Available": true,
-        "Url": "https://flowzz.com/product/africann-gg-gorilla-glue"
-      },
-      "Old": 9.49,
-      "New": 8.49
-    },
-    {
-      "P": {
-        "Id": 3565,
-        "Name": "NOC AS 22 ARG Amnesia kush x Sherbet Shocker",
-        "Producer": "Noc Pharma",
-        "MinPrice": 2.78,
-        "Available": true,
-        "Url": "https://flowzz.com/product/noc-as-22-arg-amnesia-kush-x-sherbet-shocker"
-      },
-      "Old": 2.95,
-      "New": 2.78
-    },
-    {
-      "P": {
-        "Id": 3561,
-        "Name": "Barongo 32/1 SOR SFV OG x Candy Rain",
-        "Producer": "WMG Pharma",
-        "MinPrice": 6.94,
-        "Available": true,
-        "Url": "https://flowzz.com/product/barongo-32-1-sor-sfv-og-x-candy-rain"
-      },
-      "Old": 6.95,
-      "New": 6.94
-    },
-    {
-      "P": {
-        "Id": 3254,
-        "Name": "KHIRON SP 28/1 Sugar Punch",
-        "Producer": "KHIRON Europe",
-        "MinPrice": 3.97,
-        "Available": true,
-        "Url": "https://flowzz.com/product/khiron-sp-28-1-sugar-punch"
-      },
-      "Old": 4.15,
-      "New": 3.97
-    },
-    {
-      "P": {
-        "Id": 3125,
-        "Name": "Medical Saints 18/1 ICC Ice Cream Cake",
-        "Producer": "Remexian Pharma",
-        "MinPrice": 2.78,
-        "Available": true,
-        "Url": "https://flowzz.com/product/medical-saints-18-1-icc-ice-cream-cake"
-      },
-      "Old": 2.79,
-      "New": 2.78
-    },
-    {
-      "P": {
-        "Id": 0,
-        "Name": "Jack Black",
-        "Producer": "Cantourage",
-        "MinPrice": 5.98,
-        "Available": true,
-        "Url": "https://shop.dransay.com/product/jack-black/5273065"
-      },
-      "Old": 6.71,
-      "New": 5.98
+      "Old": 4.5,
+      "New": 4.46
     }
   ]
 }
