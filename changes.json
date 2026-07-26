@@ -1,43 +1,120 @@
 {
-  "ScrapedAt": "2026-07-26T20:06:34.742308+02:00",
+  "ScrapedAt": "2026-07-26T20:55:22.551516+02:00",
   "NewStrains": [
     {
       "Id": 0,
-      "Name": "Pavé Runtz",
-      "Producer": "Cantourage",
-      "MinPrice": 8.99,
+      "Name": "ANIMAL COOKIES × SINMINT COOKIES",
+      "Producer": "Demecan",
+      "MinPrice": 5.39,
       "Available": true,
-      "Url": "https://shop.dransay.com/product/pav-runtz/894"
+      "Url": "https://shop.dransay.com/product/animal-cookies-sinmint-cookies/5548558"
+    },
+    {
+      "Id": 0,
+      "Name": "Triangle Mints",
+      "Producer": "Tilray",
+      "MinPrice": 3.69,
+      "Available": true,
+      "Url": "https://shop.dransay.com/product/triangle-mints/4621059"
+    },
+    {
+      "Id": 0,
+      "Name": "LA Kush Cake",
+      "Producer": "Cannamedical",
+      "MinPrice": 4.49,
+      "Available": true,
+      "Url": "https://shop.dransay.com/product/la-kush-cake/5224000"
     }
   ],
-  "RemovedCount": 0,
+  "RemovedCount": 1,
   "BackInStock": [],
   "OutOfStock": [],
-  "PriceUp": [],
-  "PriceDown": [
+  "PriceUp": [
     {
       "P": {
         "Id": 3447,
         "Name": "A+ KINEO SPIRIT NO.1 27/1 Muel Fuel",
         "Producer": "Kineo Medical",
-        "MinPrice": 4.53,
+        "MinPrice": 4.98,
         "Available": true,
         "Url": "https://flowzz.com/product/a-kineo-spirit-no-1-27-1-muel-fuel"
       },
+      "Old": 4.53,
+      "New": 4.98
+    },
+    {
+      "P": {
+        "Id": 2508,
+        "Name": "ZOIKS 22/1 LK OG Lime Kush",
+        "Producer": "avaay",
+        "MinPrice": 4.99,
+        "Available": true,
+        "Url": "https://flowzz.com/product/zoiks-22-1-lk-og-lime-kush"
+      },
       "Old": 4.98,
-      "New": 4.53
+      "New": 4.99
     },
     {
       "P": {
         "Id": 781,
         "Name": "Cannamedical CM 24/1 BRY Strawberry OG",
         "Producer": "Cannamedical",
-        "MinPrice": 4.46,
+        "MinPrice": 4.5,
         "Available": true,
         "Url": "https://flowzz.com/product/cannamedical-cm-24-1-bry-strawberry-og"
       },
-      "Old": 4.5,
-      "New": 4.46
+      "Old": 4.46,
+      "New": 4.5
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Kaleido Boom Popstar",
+        "Producer": "Barongo/buuo - WMG",
+        "MinPrice": 4.95,
+        "Available": true,
+        "Url": "https://shop.dransay.com/product/kaleido-boom-popstar/5932034"
+      },
+      "Old": 3.98,
+      "New": 4.95
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Jack Black",
+        "Producer": "Cantourage",
+        "MinPrice": 6.71,
+        "Available": true,
+        "Url": "https://shop.dransay.com/product/jack-black/5273065"
+      },
+      "Old": 5.98,
+      "New": 6.71
+    }
+  ],
+  "PriceDown": [
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Black Marble",
+        "Producer": "Barongo/buuo - WMG",
+        "MinPrice": 3.65,
+        "Available": true,
+        "Url": "https://shop.dransay.com/product/black-marble/5932035"
+      },
+      "Old": 3.79,
+      "New": 3.65
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Gelato x Orange Cake",
+        "Producer": "Cantourage",
+        "MinPrice": 8.92,
+        "Available": true,
+        "Url": "https://shop.dransay.com/product/gelato-x-orange-cake/3576347"
+      },
+      "Old": 8.99,
+      "New": 8.92
     }
   ]
 }
