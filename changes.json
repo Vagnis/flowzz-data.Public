@@ -1,68 +1,112 @@
 {
-  "ScrapedAt": "2026-07-26T16:10:21.701338+02:00",
-  "NewStrains": [
-    {
-      "Id": 0,
-      "Name": "Triangle Mints",
-      "Producer": "Tilray",
-      "MinPrice": 3.69,
-      "Available": true,
-      "Url": "https://shop.dransay.com/product/triangle-mints/4621059"
-    },
-    {
-      "Id": 0,
-      "Name": "LA Kush Cake",
-      "Producer": "Cannamedical",
-      "MinPrice": 4.49,
-      "Available": true,
-      "Url": "https://shop.dransay.com/product/la-kush-cake/5224000"
-    },
-    {
-      "Id": 0,
-      "Name": "Pavé Runtz",
-      "Producer": "Cantourage",
-      "MinPrice": 8.99,
-      "Available": true,
-      "Url": "https://shop.dransay.com/product/pav-runtz/894"
-    }
-  ],
-  "RemovedCount": 0,
-  "BackInStock": [
+  "ScrapedAt": "2026-07-26T17:15:21.730396+02:00",
+  "NewStrains": [],
+  "RemovedCount": 4,
+  "BackInStock": [],
+  "OutOfStock": [
     {
       "Id": 656,
       "Name": "Remexian 24/1 MYW Mystic Wonder",
       "Producer": "Remexian Pharma",
-      "MinPrice": 6.79,
-      "Available": true,
+      "MinPrice": null,
+      "Available": false,
       "Url": "https://flowzz.com/product/remexian-24-1-myw-mystic-wonder"
+    },
+    {
+      "Id": 3454,
+      "Name": "enua 22/1 PS3 CA PNK Pink Kush",
+      "Producer": "enua Pharma",
+      "MinPrice": null,
+      "Available": false,
+      "Url": "https://flowzz.com/product/enua-22-1-ps3-ca-pnk-pink-kush"
     }
   ],
-  "OutOfStock": [],
   "PriceUp": [
     {
       "P": {
-        "Id": 3447,
-        "Name": "A+ KINEO SPIRIT NO.1 27/1 Muel Fuel",
-        "Producer": "Kineo Medical",
-        "MinPrice": 4.98,
+        "Id": 3604,
+        "Name": "Remexian 27/1 CRN VTD Ventura Dawg",
+        "Producer": "Remexian Pharma",
+        "MinPrice": 4.65,
         "Available": true,
-        "Url": "https://flowzz.com/product/a-kineo-spirit-no-1-27-1-muel-fuel"
+        "Url": "https://flowzz.com/product/remexian-27-1-crn-vtd-ventura-dawg"
       },
-      "Old": 4.53,
-      "New": 4.98
+      "Old": 3.99,
+      "New": 4.65
     },
     {
       "P": {
-        "Id": 3288,
-        "Name": "enua 27/1 PS3 CA MYC Minty Cookies",
-        "Producer": "enua Pharma",
-        "MinPrice": 3.94,
+        "Id": 2510,
+        "Name": "NICE 30/1 LK Lemon Kush",
+        "Producer": "Cansativa",
+        "MinPrice": 4.72,
         "Available": true,
-        "Url": "https://flowzz.com/product/enua-27-1-ps3-ca-myc-minty-cookies"
+        "Url": "https://flowzz.com/product/nice30-1-lk-lemon-kush"
       },
-      "Old": 3.43,
-      "New": 3.94
+      "Old": 3.99,
+      "New": 4.72
+    },
+    {
+      "P": {
+        "Id": 2225,
+        "Name": "Soma OG 30/1 PF Spritzer",
+        "Producer": "Cansativa",
+        "MinPrice": 5.99,
+        "Available": true,
+        "Url": "https://flowzz.com/product/soma-og-30-1-pf-spritzer"
+      },
+      "Old": 3.3,
+      "New": 5.99
     }
   ],
-  "PriceDown": []
+  "PriceDown": [
+    {
+      "P": {
+        "Id": 3960,
+        "Name": "Green Mile 33/1 GIS Grape Ice Storm",
+        "Producer": "Remexian Pharma",
+        "MinPrice": 6.19,
+        "Available": true,
+        "Url": "https://flowzz.com/product/green-mile-33-1-gis-grape-ice-storm"
+      },
+      "Old": 6.33,
+      "New": 6.19
+    },
+    {
+      "P": {
+        "Id": 3770,
+        "Name": "enua 27/1 CPC Cherry Pie Cookies",
+        "Producer": "enua Pharma",
+        "MinPrice": 4.49,
+        "Available": true,
+        "Url": "https://flowzz.com/product/enua-27-1-cpc-ca-cherry-pie-cookies"
+      },
+      "Old": 4.5,
+      "New": 4.49
+    },
+    {
+      "P": {
+        "Id": 2870,
+        "Name": "Sinceritas Sativa Auris 27/1 CM Cosmic Mac",
+        "Producer": "Sinceritas",
+        "MinPrice": 4.49,
+        "Available": true,
+        "Url": "https://flowzz.com/product/sinceritas-sativa-auris-27-1-cm-cosmic-mac"
+      },
+      "Old": 4.5,
+      "New": 4.49
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Black Marble",
+        "Producer": "Barongo/buuo - WMG",
+        "MinPrice": 3.65,
+        "Available": true,
+        "Url": "https://shop.dransay.com/product/black-marble/5932035"
+      },
+      "Old": 3.79,
+      "New": 3.65
+    }
+  ]
 }
