@@ -1,9 +1,35 @@
 {
-  "ScrapedAt": "2026-07-26T04:52:38.210519+02:00",
+  "ScrapedAt": "2026-07-26T05:45:29.431012+02:00",
   "NewStrains": [],
-  "RemovedCount": 0,
+  "RemovedCount": 6,
   "BackInStock": [],
   "OutOfStock": [],
-  "PriceUp": [],
-  "PriceDown": []
+  "PriceUp": [
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Black Marble",
+        "Producer": "Barongo/buuo - WMG",
+        "MinPrice": 3.79,
+        "Available": true,
+        "Url": "https://shop.dransay.com/product/black-marble/5932035"
+      },
+      "Old": 3.65,
+      "New": 3.79
+    }
+  ],
+  "PriceDown": [
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Gelato x Orange Cake",
+        "Producer": "Cantourage",
+        "MinPrice": 8.92,
+        "Available": true,
+        "Url": "https://shop.dransay.com/product/gelato-x-orange-cake/3576347"
+      },
+      "Old": 8.99,
+      "New": 8.92
+    }
+  ]
 }
