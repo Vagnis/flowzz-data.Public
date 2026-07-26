@@ -1,63 +1,76 @@
 {
-  "ScrapedAt": "2026-07-26T14:07:20.849981+02:00",
+  "ScrapedAt": "2026-07-26T14:44:51.679590+02:00",
   "NewStrains": [
     {
       "Id": 0,
-      "Name": "Jack Black",
-      "Producer": "Cantourage",
-      "MinPrice": 6.71,
+      "Name": "ANIMAL COOKIES × SINMINT COOKIES",
+      "Producer": "Demecan",
+      "MinPrice": 5.39,
       "Available": true,
-      "Url": "https://shop.dransay.com/product/jack-black/5273065"
+      "Url": "https://shop.dransay.com/product/animal-cookies-sinmint-cookies/5548558"
     },
     {
       "Id": 0,
-      "Name": "Pavé Runtz",
-      "Producer": "Cantourage",
-      "MinPrice": 8.99,
+      "Name": "Triangle Mints",
+      "Producer": "Tilray",
+      "MinPrice": 3.69,
       "Available": true,
-      "Url": "https://shop.dransay.com/product/pav-runtz/894"
+      "Url": "https://shop.dransay.com/product/triangle-mints/4621059"
+    },
+    {
+      "Id": 0,
+      "Name": "LA Kush Cake",
+      "Producer": "Cannamedical",
+      "MinPrice": 4.49,
+      "Available": true,
+      "Url": "https://shop.dransay.com/product/la-kush-cake/5224000"
     }
   ],
   "RemovedCount": 0,
   "BackInStock": [],
-  "OutOfStock": [],
+  "OutOfStock": [
+    {
+      "Id": 2292,
+      "Name": "420 Natural 14/1 CA TRP Tropicana Cookies",
+      "Producer": "Four 20 Pharma",
+      "MinPrice": null,
+      "Available": false,
+      "Url": "https://flowzz.com/product/420-natural-14-1-ca-trp-tropicana-cookies"
+    },
+    {
+      "Id": 1333,
+      "Name": "enua 27/1 GTHZ Ghost Train Haze",
+      "Producer": "enua Pharma",
+      "MinPrice": null,
+      "Available": false,
+      "Url": "https://flowzz.com/product/enua-27-1-ghost-train-haze"
+    }
+  ],
   "PriceUp": [],
   "PriceDown": [
     {
       "P": {
-        "Id": 1695,
-        "Name": "enua 25/1 STP CA Strawberry Pavé",
-        "Producer": "enua Pharma",
-        "MinPrice": 2.79,
+        "Id": 3531,
+        "Name": "24/1 IUVO OC Ice Burn",
+        "Producer": "IUVO Therapeutics",
+        "MinPrice": 6.39,
         "Available": true,
-        "Url": "https://flowzz.com/product/enua-25-1-stp-ca-strawberry-pave"
+        "Url": "https://flowzz.com/product/24-1-iuvo-oc-ice-burn"
       },
-      "Old": 2.99,
-      "New": 2.79
+      "Old": 6.45,
+      "New": 6.39
     },
     {
       "P": {
-        "Id": 3459,
-        "Name": "Slouu 30/1 PS3 CA GCB God Cherry Bud",
-        "Producer": "enua Pharma",
-        "MinPrice": 4.95,
+        "Id": 0,
+        "Name": "Black Marble",
+        "Producer": "Barongo/buuo - WMG",
+        "MinPrice": 3.65,
         "Available": true,
-        "Url": "https://flowzz.com/product/slouu-30-1-ps3-ca-gcb-god-cherry-bud"
+        "Url": "https://shop.dransay.com/product/black-marble/5932035"
       },
-      "Old": 5.37,
-      "New": 4.95
-    },
-    {
-      "P": {
-        "Id": 201,
-        "Name": "Demecan FE 800 No. 1",
-        "Producer": "Demecan",
-        "MinPrice": 51.24,
-        "Available": true,
-        "Url": "https://flowzz.com/extract/demecan-fe-800"
-      },
-      "Old": 51.25,
-      "New": 51.24
+      "Old": 3.79,
+      "New": 3.65
     }
   ]
 }
