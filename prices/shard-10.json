@@ -1,6 +1,6 @@
 {
   "shard": 10,
-  "updated_at": "2026-08-16T17:40:30.393525+02:00",
+  "updated_at": "2026-08-16T18:22:22.781912+02:00",
   "prices": {
     "medical saints 21/1 usr": [
       {
@@ -695,15 +695,6 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "kkswgl2du4ldsb67xzb1c3dc",
-        "name": "Cannabis Kranich (Kranich-Apotheke, Nürnberg)",
-        "city": "Nürnberg",
-        "plz": "90453",
-        "price": 7.9,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
         "pharmacy_id": "b9xxgaypjfzef5rjb0yzejbj",
         "name": "St. Antonius Apotheke",
         "city": "Oberhausen",
@@ -711,6 +702,15 @@
         "price": 7.9,
         "available": true,
         "source": "CannaFlow"
+      },
+      {
+        "pharmacy_id": "kkswgl2du4ldsb67xzb1c3dc",
+        "name": "Cannabis Kranich (Kranich-Apotheke, Nürnberg)",
+        "city": "Nürnberg",
+        "plz": "90453",
+        "price": 7.9,
+        "available": true,
+        "source": "Cannaleo"
       },
       {
         "pharmacy_id": "f4rfc6cz1kisnxzdiqpkgrn1",
@@ -839,15 +839,6 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "j10jrwnxe22ha7mz59mfyhjx",
-        "name": "Kissel Apotheke",
-        "city": "Frankfurt",
-        "plz": "60598",
-        "price": 8.95,
-        "available": true,
-        "source": "Canngo Apotheke"
-      },
-      {
         "pharmacy_id": "nkb3pcihrkx7ob3uhu5t4l2r",
         "name": "Cannabis Apotheke Frankfurt",
         "city": "Frankfurt am Main",
@@ -855,6 +846,15 @@
         "price": 8.95,
         "available": true,
         "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "j10jrwnxe22ha7mz59mfyhjx",
+        "name": "Kissel Apotheke",
+        "city": "Frankfurt",
+        "plz": "60598",
+        "price": 8.95,
+        "available": true,
+        "source": "Canngo Apotheke"
       },
       {
         "pharmacy_id": "z6rn7x9s24k9vtupz820i5hr",
@@ -866,15 +866,6 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "mlsmfffzi4jp0e8kgivimxt4",
-        "name": "Rhein-Apotheke Karlsruhe",
-        "city": "Karlsruhe",
-        "plz": "76185",
-        "price": 9.0,
-        "available": true,
-        "source": "Canngo Apotheke"
-      },
-      {
         "pharmacy_id": "lvkvymu8q9uvz3d2aw2xglx5",
         "name": "Rhein-Apotheke im Ärztehaus Mühlburg, Karlsruhe",
         "city": "Karlsruhe",
@@ -882,6 +873,15 @@
         "price": 9.0,
         "available": true,
         "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "mlsmfffzi4jp0e8kgivimxt4",
+        "name": "Rhein-Apotheke Karlsruhe",
+        "city": "Karlsruhe",
+        "plz": "76185",
+        "price": 9.0,
+        "available": true,
+        "source": "Canngo Apotheke"
       },
       {
         "pharmacy_id": "wwgzr8nwdke6stnjelb1ekhh",
@@ -1018,26 +1018,6 @@
         "source": "Cannaleo"
       }
     ],
-    "420 evolution 27/1 ca bul": [
-      {
-        "pharmacy_id": "k65upfauvvxshlsqybnkxa18",
-        "name": "Sinsheim Cannabis Apotheke ",
-        "city": "Sinsheim",
-        "plz": "74889",
-        "price": 6.49,
-        "available": true,
-        "source": "Canngo Apotheke"
-      },
-      {
-        "pharmacy_id": "ghy187y5n59cae2h5yj743e8",
-        "name": "Bären Apotheke",
-        "city": "Erlangen",
-        "plz": "91052",
-        "price": 14.17,
-        "available": true,
-        "source": "Canngo Apotheke"
-      }
-    ],
     "420 evolution 22/1 ca": [
       {
         "pharmacy_id": "ix7mbcj3di3qkhj2jc4iba7n",
@@ -1072,6 +1052,26 @@
         "city": "Köln",
         "plz": "50674",
         "price": 9.01,
+        "available": true,
+        "source": "Canngo Apotheke"
+      }
+    ],
+    "420 evolution 27/1 ca bul": [
+      {
+        "pharmacy_id": "k65upfauvvxshlsqybnkxa18",
+        "name": "Sinsheim Cannabis Apotheke ",
+        "city": "Sinsheim",
+        "plz": "74889",
+        "price": 6.49,
+        "available": true,
+        "source": "Canngo Apotheke"
+      },
+      {
+        "pharmacy_id": "ghy187y5n59cae2h5yj743e8",
+        "name": "Bären Apotheke",
+        "city": "Erlangen",
+        "plz": "91052",
+        "price": 14.17,
         "available": true,
         "source": "Canngo Apotheke"
       }
@@ -1853,26 +1853,6 @@
         "source": "canthera"
       }
     ],
-    "truu gt 22 01": [
-      {
-        "pharmacy_id": "wlalgvr4ayn71b3idwzik0k8",
-        "name": "Landmann Apotheke Saarbrücken",
-        "city": "Saarbrücken",
-        "plz": "66111",
-        "price": 4.65,
-        "available": true,
-        "source": "Canngo Apotheke"
-      },
-      {
-        "pharmacy_id": "f11gjnlh84v3b3omtn49gsb9",
-        "name": "MYCANNABIS",
-        "city": "Düsseldorf",
-        "plz": "40589",
-        "price": 4.99,
-        "available": true,
-        "source": "Canngo Apotheke"
-      }
-    ],
     "aphriarx thc25 amh": [
       {
         "pharmacy_id": "k9o5v1jfqv4taitn4g5p4reo",
@@ -2026,6 +2006,26 @@
         "price": 6.95,
         "available": true,
         "source": "Cannaleo"
+      }
+    ],
+    "truu gt 22 01": [
+      {
+        "pharmacy_id": "wlalgvr4ayn71b3idwzik0k8",
+        "name": "Landmann Apotheke Saarbrücken",
+        "city": "Saarbrücken",
+        "plz": "66111",
+        "price": 4.65,
+        "available": true,
+        "source": "Canngo Apotheke"
+      },
+      {
+        "pharmacy_id": "f11gjnlh84v3b3omtn49gsb9",
+        "name": "MYCANNABIS",
+        "city": "Düsseldorf",
+        "plz": "40589",
+        "price": 4.99,
+        "available": true,
+        "source": "Canngo Apotheke"
       }
     ],
     "aphriarx thc25 okb": [
@@ -2780,6 +2780,28 @@
         "source": "Cannaleo"
       }
     ],
+    "enua 30/1 cdc ca": [
+      {
+        "pharmacy_id": "k65upfauvvxshlsqybnkxa18",
+        "name": "Sinsheim Cannabis Apotheke ",
+        "city": "Sinsheim",
+        "plz": "74889",
+        "price": 8.1,
+        "available": true,
+        "source": "Canngo Apotheke"
+      }
+    ],
+    "enua 22/1 bdo ca": [
+      {
+        "pharmacy_id": "n13dman1350oxfz2boblcwn0",
+        "name": "allgäu-cannabis",
+        "city": "Kempten",
+        "plz": "87435",
+        "price": 8.3,
+        "available": true,
+        "source": "Canngo Apotheke"
+      }
+    ],
     "seven allegro 24/1": [
       {
         "pharmacy_id": "o4mci2sgzne7vf3ea67dib4k",
@@ -2807,28 +2829,6 @@
         "price": 7.15,
         "available": true,
         "source": "Cannaleo"
-      }
-    ],
-    "enua 22/1 bdo ca": [
-      {
-        "pharmacy_id": "n13dman1350oxfz2boblcwn0",
-        "name": "allgäu-cannabis",
-        "city": "Kempten",
-        "plz": "87435",
-        "price": 8.3,
-        "available": true,
-        "source": "Canngo Apotheke"
-      }
-    ],
-    "enua 30/1 cdc ca": [
-      {
-        "pharmacy_id": "k65upfauvvxshlsqybnkxa18",
-        "name": "Sinsheim Cannabis Apotheke ",
-        "city": "Sinsheim",
-        "plz": "74889",
-        "price": 8.1,
-        "available": true,
-        "source": "Canngo Apotheke"
       }
     ],
     "noc se 15 light": [
