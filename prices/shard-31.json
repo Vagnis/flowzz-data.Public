@@ -1,6 +1,6 @@
 {
   "shard": 31,
-  "updated_at": "2026-08-16T19:20:54.435518+02:00",
+  "updated_at": "2026-08-16T20:05:59.633145+02:00",
   "prices": {
     "enua 27/1 ps3 ca bcp": [
       {
@@ -1814,15 +1814,6 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "ft33idffbgay1eed3lohf23g",
-        "name": "Mannheims Finest (Odenwald Apotheke, Mannheim)",
-        "city": "Mannheim",
-        "plz": "68167",
-        "price": 6.99,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
         "pharmacy_id": "gy578a394pqlekh7bo94iub6",
         "name": "Apotheke im Franziskanerhof ",
         "city": "München",
@@ -1830,6 +1821,15 @@
         "price": 6.99,
         "available": true,
         "source": "Canngo Apotheke"
+      },
+      {
+        "pharmacy_id": "ft33idffbgay1eed3lohf23g",
+        "name": "Mannheims Finest (Odenwald Apotheke, Mannheim)",
+        "city": "Mannheim",
+        "plz": "68167",
+        "price": 6.99,
+        "available": true,
+        "source": "Cannaleo"
       },
       {
         "pharmacy_id": "j2zeonb6gnyoldlrtg40zk9u",
@@ -2469,15 +2469,6 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "mlsmfffzi4jp0e8kgivimxt4",
-        "name": "Rhein-Apotheke Karlsruhe",
-        "city": "Karlsruhe",
-        "plz": "76185",
-        "price": 6.0,
-        "available": true,
-        "source": "Canngo Apotheke"
-      },
-      {
         "pharmacy_id": "lvkvymu8q9uvz3d2aw2xglx5",
         "name": "Rhein-Apotheke im Ärztehaus Mühlburg, Karlsruhe",
         "city": "Karlsruhe",
@@ -2485,6 +2476,15 @@
         "price": 6.0,
         "available": true,
         "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "mlsmfffzi4jp0e8kgivimxt4",
+        "name": "Rhein-Apotheke Karlsruhe",
+        "city": "Karlsruhe",
+        "plz": "76185",
+        "price": 6.0,
+        "available": true,
+        "source": "Canngo Apotheke"
       },
       {
         "pharmacy_id": "cy2ffu5akzon8kcax7lb9vpu",
@@ -3185,6 +3185,26 @@
         "source": "Canngo Apotheke"
       }
     ],
+    "apollo 25/1 bft": [
+      {
+        "pharmacy_id": "lramdha0a0kmvyo1hscrabef",
+        "name": "Canthera Süd (Mohren Apotheke, Nürnberg)",
+        "city": "Nürnberg",
+        "plz": "90459",
+        "price": 4.3,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "m13cf6fhl8o5aavg1h3eey2j",
+        "name": "cannalu (Apotheke zur alten Post Bad Berka)",
+        "city": "Bad Berka",
+        "plz": "99438",
+        "price": 4.38,
+        "available": true,
+        "source": "Cannaleo"
+      }
+    ],
     "enua 27/1 e85 ca": [
       {
         "pharmacy_id": "aa7cwasq91i50yqaoi1rdp3q",
@@ -3489,26 +3509,6 @@
         "city": "Stuttgart",
         "plz": "70327",
         "price": 8.98,
-        "available": true,
-        "source": "Cannaleo"
-      }
-    ],
-    "apollo 25/1 bft": [
-      {
-        "pharmacy_id": "lramdha0a0kmvyo1hscrabef",
-        "name": "Canthera Süd (Mohren Apotheke, Nürnberg)",
-        "city": "Nürnberg",
-        "plz": "90459",
-        "price": 4.3,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "m13cf6fhl8o5aavg1h3eey2j",
-        "name": "cannalu (Apotheke zur alten Post Bad Berka)",
-        "city": "Bad Berka",
-        "plz": "99438",
-        "price": 4.38,
         "available": true,
         "source": "Cannaleo"
       }
@@ -4192,15 +4192,6 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "m5k0wvjphc511bg4vpi3efjf",
-        "name": "Cannatree – Rats-Apotheke Düsseldorf",
-        "city": "Düsseldorf",
-        "plz": "40625",
-        "price": 4.95,
-        "available": true,
-        "source": "Canngo Apotheke"
-      },
-      {
         "pharmacy_id": "ziwc9a2ujoy8nh54ya2cwblq",
         "name": "Medicon-Nordostbahnhof",
         "city": "Nürnberg",
@@ -4210,19 +4201,28 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "ve12fiueb8n0sg7o5qei37ik",
-        "name": "Cannibo (Bahnhof Apotheke, Bonn)",
-        "city": "Bonn",
-        "plz": "53111 ",
-        "price": 4.99,
+        "pharmacy_id": "m5k0wvjphc511bg4vpi3efjf",
+        "name": "Cannatree – Rats-Apotheke Düsseldorf",
+        "city": "Düsseldorf",
+        "plz": "40625",
+        "price": 4.95,
         "available": true,
-        "source": "Cannaleo"
+        "source": "Canngo Apotheke"
       },
       {
         "pharmacy_id": "xu4p2ofr2o3egf52yoqzc0w7",
         "name": "Grüne Brille - (St. Mauritius Apotheke, Röttenbach)",
         "city": "Röttenbach",
         "plz": "91341",
+        "price": 4.99,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "ve12fiueb8n0sg7o5qei37ik",
+        "name": "Cannibo (Bahnhof Apotheke, Bonn)",
+        "city": "Bonn",
+        "plz": "53111 ",
         "price": 4.99,
         "available": true,
         "source": "Cannaleo"
@@ -4327,19 +4327,19 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "x13cm3eeqs267zcjwzmiuo7p",
-        "name": "Einhorn Apotheken Kassel und Baunatal (420unicorn)",
-        "city": "Baunatal",
-        "plz": "34225",
+        "pharmacy_id": "lvkvymu8q9uvz3d2aw2xglx5",
+        "name": "Rhein-Apotheke im Ärztehaus Mühlburg, Karlsruhe",
+        "city": "Karlsruhe",
+        "plz": "76185",
         "price": 6.0,
         "available": true,
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "lvkvymu8q9uvz3d2aw2xglx5",
-        "name": "Rhein-Apotheke im Ärztehaus Mühlburg, Karlsruhe",
-        "city": "Karlsruhe",
-        "plz": "76185",
+        "pharmacy_id": "x13cm3eeqs267zcjwzmiuo7p",
+        "name": "Einhorn Apotheken Kassel und Baunatal (420unicorn)",
+        "city": "Baunatal",
+        "plz": "34225",
         "price": 6.0,
         "available": true,
         "source": "Cannaleo"
@@ -4372,19 +4372,19 @@
         "source": "Canngo Apotheke"
       },
       {
-        "pharmacy_id": "r481s1vjse40xv765uytf0qb",
-        "name": "Heidegras (easyApotheke Marktcenter Uelzen)",
-        "city": "Uelzen",
-        "plz": "29525",
+        "pharmacy_id": "bo6bl0iuxgugrwpvw7h6qct4",
+        "name": "Cannasana (Hirsch Apotheke Eichenbarleben)",
+        "city": "Eichenbarleben",
+        "plz": "39167",
         "price": 6.49,
         "available": true,
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "bo6bl0iuxgugrwpvw7h6qct4",
-        "name": "Cannasana (Hirsch Apotheke Eichenbarleben)",
-        "city": "Eichenbarleben",
-        "plz": "39167",
+        "pharmacy_id": "r481s1vjse40xv765uytf0qb",
+        "name": "Heidegras (easyApotheke Marktcenter Uelzen)",
+        "city": "Uelzen",
+        "plz": "29525",
         "price": 6.49,
         "available": true,
         "source": "Cannaleo"
