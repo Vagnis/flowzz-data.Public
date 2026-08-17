@@ -1,6 +1,6 @@
 {
   "shard": 44,
-  "updated_at": "2026-08-17T14:08:25.245190+02:00",
+  "updated_at": "2026-08-17T14:49:31.606725+02:00",
   "prices": {
     "vasco x cipher bl": [
       {
@@ -946,19 +946,28 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "qh6gkq38fvhnhn63zx4iahm6",
-        "name": "3Königen Apotheke",
+        "pharmacy_id": "vpomybf0shv98s1bvlfs4rgk",
+        "name": "3Königen Apotheke (Dreikönigen Apotheke am Ostwall, Krefeld)",
         "city": "Krefeld",
         "plz": "47798",
         "price": 4.15,
         "available": true,
-        "source": "Canngo Apotheke"
+        "source": "Cannaleo"
       },
       {
         "pharmacy_id": "k9o5v1jfqv4taitn4g5p4reo",
         "name": "3Leafs by Idris Apotheke",
         "city": "Weinheim",
         "plz": "69469",
+        "price": 4.15,
+        "available": true,
+        "source": "Canngo Apotheke"
+      },
+      {
+        "pharmacy_id": "qh6gkq38fvhnhn63zx4iahm6",
+        "name": "3Königen Apotheke",
+        "city": "Krefeld",
+        "plz": "47798",
         "price": 4.15,
         "available": true,
         "source": "Canngo Apotheke"
@@ -991,10 +1000,10 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "eou5l4p7zpw3ea4lec4anx8p",
-        "name": "Grüne Wirkstoffe (Anthemis Apotheke)",
-        "city": "Herrieden",
-        "plz": "91567",
+        "pharmacy_id": "f931og9innjrrv0uvsypjrs9",
+        "name": "Bussicann Ahlen - Versandapotheke",
+        "city": "Ahlen",
+        "plz": "59229",
         "price": 4.38,
         "available": true,
         "source": "Canngo Apotheke"
@@ -1009,10 +1018,10 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "f931og9innjrrv0uvsypjrs9",
-        "name": "Bussicann Ahlen - Versandapotheke",
-        "city": "Ahlen",
-        "plz": "59229",
+        "pharmacy_id": "eou5l4p7zpw3ea4lec4anx8p",
+        "name": "Grüne Wirkstoffe (Anthemis Apotheke)",
+        "city": "Herrieden",
+        "plz": "91567",
         "price": 4.38,
         "available": true,
         "source": "Canngo Apotheke"
@@ -1072,15 +1081,6 @@
         "source": "CannaFlow"
       },
       {
-        "pharmacy_id": "rylsdg1ejmlc967k60bgpv71",
-        "name": "Hirsch Apotheke Fürth (cannafino.de)",
-        "city": "Fürth",
-        "plz": "90762",
-        "price": 5.1,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
         "pharmacy_id": "f4rfc6cz1kisnxzdiqpkgrn1",
         "name": "Medifloris by Rosen Apotheke",
         "city": "Melsungen",
@@ -1088,6 +1088,15 @@
         "price": 5.1,
         "available": true,
         "source": "Canngo Apotheke"
+      },
+      {
+        "pharmacy_id": "rylsdg1ejmlc967k60bgpv71",
+        "name": "Hirsch Apotheke Fürth (cannafino.de)",
+        "city": "Fürth",
+        "plz": "90762",
+        "price": 5.1,
+        "available": true,
+        "source": "Cannaleo"
       },
       {
         "pharmacy_id": "k65upfauvvxshlsqybnkxa18",
@@ -2024,15 +2033,6 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "k5hhgfqallvphv86zuao1hss",
-        "name": "Hohenzollern Apotheke Münster",
-        "city": "Münster",
-        "plz": "48145",
-        "price": 4.96,
-        "available": true,
-        "source": "Canngo Apotheke"
-      },
-      {
         "pharmacy_id": "qhez3nuvisok1pjne648303k",
         "name": "Hohenzollern Apotheke, Münster",
         "city": "Münster",
@@ -2042,13 +2042,22 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "mw1iudtgisz5sxk7nzmwphtg",
-        "name": "cannabispromed (besser gesund OHG ipunkt Apotheke)",
+        "pharmacy_id": "k5hhgfqallvphv86zuao1hss",
+        "name": "Hohenzollern Apotheke Münster",
+        "city": "Münster",
+        "plz": "48145",
+        "price": 4.96,
+        "available": true,
+        "source": "Canngo Apotheke"
+      },
+      {
+        "pharmacy_id": "kv1jm18ja0ydb1yszkc01mys",
+        "name": "Besser Gesund OHG ipunkt Apotheke",
         "city": "Augsburg",
         "plz": "86150",
         "price": 4.99,
         "available": true,
-        "source": "Cannaleo"
+        "source": "Canngo Apotheke"
       },
       {
         "pharmacy_id": "a13hi51az4m04pulzs3v5q8q",
@@ -2060,13 +2069,13 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "kv1jm18ja0ydb1yszkc01mys",
-        "name": "Besser Gesund OHG ipunkt Apotheke",
+        "pharmacy_id": "mw1iudtgisz5sxk7nzmwphtg",
+        "name": "cannabispromed (besser gesund OHG ipunkt Apotheke)",
         "city": "Augsburg",
         "plz": "86150",
         "price": 4.99,
         "available": true,
-        "source": "Canngo Apotheke"
+        "source": "Cannaleo"
       },
       {
         "pharmacy_id": "k95di6yn1kb9h51oxdnvsye8",
@@ -5029,17 +5038,6 @@
         "source": "Canngo Apotheke"
       }
     ],
-    "hidealz 24/1 ms plc": [
-      {
-        "pharmacy_id": "aa7cwasq91i50yqaoi1rdp3q",
-        "name": "SVAPO",
-        "city": "Offenbach",
-        "plz": "63075",
-        "price": 3.49,
-        "available": true,
-        "source": "Canngo Apotheke"
-      }
-    ],
     "nice 26/1 nwa": [
       {
         "pharmacy_id": "canthera",
@@ -5049,6 +5047,17 @@
         "price": 5.11,
         "available": true,
         "source": "canthera"
+      }
+    ],
+    "hidealz 24/1 ms plc": [
+      {
+        "pharmacy_id": "aa7cwasq91i50yqaoi1rdp3q",
+        "name": "SVAPO",
+        "city": "Offenbach",
+        "plz": "63075",
+        "price": 3.49,
+        "available": true,
+        "source": "Canngo Apotheke"
       }
     ],
     "somai cks cannabisextrakt hg 50 1": [
