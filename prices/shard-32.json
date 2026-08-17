@@ -1,6 +1,6 @@
 {
   "shard": 32,
-  "updated_at": "2026-08-17T11:46:26.060294+02:00",
+  "updated_at": "2026-08-17T12:31:31.876501+02:00",
   "prices": {
     "avaay signature 34/1 ogc": [
       {
@@ -1394,15 +1394,6 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "n10agfa1382ht7kktqq87e41",
-        "name": "Christophorus Apotheke Trostberg",
-        "city": "Trostberg",
-        "plz": "83308",
-        "price": 3.89,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
         "pharmacy_id": "f1jvq12hi9xx2qjhr8orcqo3",
         "name": "Herbery Dresden",
         "city": "Radeburg",
@@ -1425,6 +1416,15 @@
         "name": "Cannabis Apotheken Dr. Engelmann",
         "city": "Brühl",
         "plz": "50321",
+        "price": 3.99,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "n10agfa1382ht7kktqq87e41",
+        "name": "Christophorus Apotheke Trostberg",
+        "city": "Trostberg",
+        "plz": "83308",
         "price": 3.99,
         "available": true,
         "source": "Cannaleo"
@@ -2339,6 +2339,17 @@
         "source": "Cannaleo"
       }
     ],
+    "galaxia organic living soil gb 15/1": [
+      {
+        "pharmacy_id": "v10pl4mewq7st35s8qgov3lp",
+        "name": "CANNACOMPANY",
+        "city": "Bonn",
+        "plz": "53225",
+        "price": 2.99,
+        "available": true,
+        "source": "Cannaleo"
+      }
+    ],
     "enua 25/1 ics ca": [
       {
         "pharmacy_id": "shy3b46sv6s7akhz71zydgda",
@@ -2355,17 +2366,6 @@
         "city": "Sprockhövel",
         "plz": "45549",
         "price": 5.25,
-        "available": true,
-        "source": "Cannaleo"
-      }
-    ],
-    "galaxia organic living soil gb 15/1": [
-      {
-        "pharmacy_id": "v10pl4mewq7st35s8qgov3lp",
-        "name": "CANNACOMPANY",
-        "city": "Bonn",
-        "plz": "53225",
-        "price": 2.99,
         "available": true,
         "source": "Cannaleo"
       }
@@ -2762,6 +2762,17 @@
         "source": "Cannaleo"
       }
     ],
+    "pedanios 20/1": [
+      {
+        "pharmacy_id": "s6xdp3oyzfozefhh0p3xdqz3",
+        "name": "Goldene Blüte",
+        "city": "Freystadt",
+        "plz": "92342",
+        "price": 7.4,
+        "available": true,
+        "source": "Canngo Apotheke"
+      }
+    ],
     "madrecan 24/1 gb9 minis": [
       {
         "pharmacy_id": "vpomybf0shv98s1bvlfs4rgk",
@@ -2787,17 +2798,6 @@
         "city": "Augsburg",
         "plz": "86154",
         "price": 3.81,
-        "available": true,
-        "source": "Canngo Apotheke"
-      }
-    ],
-    "pedanios 20/1": [
-      {
-        "pharmacy_id": "s6xdp3oyzfozefhh0p3xdqz3",
-        "name": "Goldene Blüte",
-        "city": "Freystadt",
-        "plz": "92342",
-        "price": 7.4,
         "available": true,
         "source": "Canngo Apotheke"
       }
@@ -2842,17 +2842,6 @@
         "city": "Melle",
         "plz": "49324",
         "price": 7.99,
-        "available": true,
-        "source": "Canngo Apotheke"
-      }
-    ],
-    "canify cannabis flos 22/1 pt ku": [
-      {
-        "pharmacy_id": "k65upfauvvxshlsqybnkxa18",
-        "name": "Sinsheim Cannabis Apotheke ",
-        "city": "Sinsheim",
-        "plz": "74889",
-        "price": 6.1,
         "available": true,
         "source": "Canngo Apotheke"
       }
@@ -2911,6 +2900,17 @@
         "price": 4.99,
         "available": true,
         "source": "CannaFlow"
+      }
+    ],
+    "canify cannabis flos 22/1 pt ku": [
+      {
+        "pharmacy_id": "k65upfauvvxshlsqybnkxa18",
+        "name": "Sinsheim Cannabis Apotheke ",
+        "city": "Sinsheim",
+        "plz": "74889",
+        "price": 6.1,
+        "available": true,
+        "source": "Canngo Apotheke"
       }
     ],
     "nice 20/1 bzo": [
