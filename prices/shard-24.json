@@ -1,6 +1,6 @@
 {
   "shard": 24,
-  "updated_at": "2026-08-17T12:31:20.485316+02:00",
+  "updated_at": "2026-08-17T12:56:34.251027+02:00",
   "prices": {
     "pedanios 27/1 frg ca": [
       {
@@ -1085,15 +1085,6 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "qi0weqo2nbk0gopbwdy1wi89",
-        "name": "Dragonweed (Drachen Apotheke)",
-        "city": "Geldern",
-        "plz": "47608",
-        "price": 5.99,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
         "pharmacy_id": "f2012nsdgx6p0jynx8lk8hke",
         "name": "Cannablies / Rats-Apotheke",
         "city": "Blieskastel",
@@ -1101,6 +1092,15 @@
         "price": 5.99,
         "available": true,
         "source": "Canngo Apotheke"
+      },
+      {
+        "pharmacy_id": "qi0weqo2nbk0gopbwdy1wi89",
+        "name": "Dragonweed (Drachen Apotheke)",
+        "city": "Geldern",
+        "plz": "47608",
+        "price": 5.99,
+        "available": true,
+        "source": "Cannaleo"
       },
       {
         "pharmacy_id": "uagcogrer86te4bqaklwl4en",
@@ -1287,6 +1287,15 @@
         "source": "Cannaleo"
       },
       {
+        "pharmacy_id": "qhez3nuvisok1pjne648303k",
+        "name": "Hohenzollern Apotheke, Münster",
+        "city": "Münster",
+        "plz": "48145",
+        "price": 5.95,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
         "pharmacy_id": "k5hhgfqallvphv86zuao1hss",
         "name": "Hohenzollern Apotheke Münster",
         "city": "Münster",
@@ -1301,15 +1310,6 @@
         "city": "Neuwied",
         "plz": "56564",
         "price": 5.99,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "qhez3nuvisok1pjne648303k",
-        "name": "Hohenzollern Apotheke, Münster",
-        "city": "Münster",
-        "plz": "48145",
-        "price": 6.49,
         "available": true,
         "source": "Cannaleo"
       },
@@ -2149,15 +2149,6 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "k5hhgfqallvphv86zuao1hss",
-        "name": "Hohenzollern Apotheke Münster",
-        "city": "Münster",
-        "plz": "48145",
-        "price": 5.95,
-        "available": true,
-        "source": "Canngo Apotheke"
-      },
-      {
         "pharmacy_id": "qhez3nuvisok1pjne648303k",
         "name": "Hohenzollern Apotheke, Münster",
         "city": "Münster",
@@ -2167,13 +2158,13 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "k41gtdjgph2hlje2dmrv69fl",
-        "name": "CANNABIS KURIER (Apotheke im Knauber)",
-        "city": "Bonn",
-        "plz": "53115",
-        "price": 5.99,
+        "pharmacy_id": "k5hhgfqallvphv86zuao1hss",
+        "name": "Hohenzollern Apotheke Münster",
+        "city": "Münster",
+        "plz": "48145",
+        "price": 5.95,
         "available": true,
-        "source": "Cannaleo"
+        "source": "Canngo Apotheke"
       },
       {
         "pharmacy_id": "dwdbsc32nh0brw8gtl0f7udy",
@@ -2183,6 +2174,15 @@
         "price": 5.99,
         "available": true,
         "source": "Canngo Apotheke"
+      },
+      {
+        "pharmacy_id": "k41gtdjgph2hlje2dmrv69fl",
+        "name": "CANNABIS KURIER (Apotheke im Knauber)",
+        "city": "Bonn",
+        "plz": "53115",
+        "price": 5.99,
+        "available": true,
+        "source": "Cannaleo"
       },
       {
         "pharmacy_id": "kw6m1rc1mu9e9eqffp0hsoo4",
@@ -2688,6 +2688,17 @@
         "source": "Cannaleo"
       }
     ],
+    "barongo 30/1 zp": [
+      {
+        "pharmacy_id": "shy3b46sv6s7akhz71zydgda",
+        "name": "Ahorn Medics (Ahorn-Apotheke, Mörfelden-Walldorf)",
+        "city": "Mörfelden-Walldorf",
+        "plz": "64546",
+        "price": 5.99,
+        "available": true,
+        "source": "Cannaleo"
+      }
+    ],
     "aleph amber 20/1": [
       {
         "pharmacy_id": "k65upfauvvxshlsqybnkxa18",
@@ -2706,17 +2717,6 @@
         "price": 7.49,
         "available": true,
         "source": "Canngo Apotheke"
-      }
-    ],
-    "barongo 30/1 zp": [
-      {
-        "pharmacy_id": "shy3b46sv6s7akhz71zydgda",
-        "name": "Ahorn Medics (Ahorn-Apotheke, Mörfelden-Walldorf)",
-        "city": "Mörfelden-Walldorf",
-        "plz": "64546",
-        "price": 5.99,
-        "available": true,
-        "source": "Cannaleo"
       }
     ],
     "barongo 26/1 jea": [
@@ -3331,10 +3331,10 @@
     ],
     "casper s no 52": [
       {
-        "pharmacy_id": "xu4p2ofr2o3egf52yoqzc0w7",
-        "name": "Grüne Brille - (St. Mauritius Apotheke, Röttenbach)",
-        "city": "Röttenbach",
-        "plz": "91341",
+        "pharmacy_id": "j111o7cswl53ej7gjfa2yeyh",
+        "name": "Cannabis Mühlheim (Neue Raths Apotheke)",
+        "city": "Mühlheim",
+        "plz": "63165",
         "price": 9.5,
         "available": true,
         "source": "Cannaleo"
@@ -3421,11 +3421,11 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "j111o7cswl53ej7gjfa2yeyh",
-        "name": "Cannabis Mühlheim (Neue Raths Apotheke)",
-        "city": "Mühlheim",
-        "plz": "63165",
-        "price": 9.59,
+        "pharmacy_id": "xu4p2ofr2o3egf52yoqzc0w7",
+        "name": "Grüne Brille - (St. Mauritius Apotheke, Röttenbach)",
+        "city": "Röttenbach",
+        "plz": "91341",
+        "price": 9.5,
         "available": true,
         "source": "Cannaleo"
       },
@@ -3500,17 +3500,6 @@
         "price": 10.49,
         "available": true,
         "source": "Cannaleo"
-      }
-    ],
-    "j r strain 27/1": [
-      {
-        "pharmacy_id": "q7qz76brdp85izpdojivp03v",
-        "name": "MYCANNABIS Wuppertal - Kronen Apotheke",
-        "city": "Wuppertal",
-        "plz": "42275 ",
-        "price": 8.93,
-        "available": true,
-        "source": "Canngo Apotheke"
       }
     ],
     "enua 33/1 pcb ca cs": [
@@ -3657,6 +3646,17 @@
         "price": 7.85,
         "available": true,
         "source": "Cannaleo"
+      }
+    ],
+    "j r strain 27/1": [
+      {
+        "pharmacy_id": "q7qz76brdp85izpdojivp03v",
+        "name": "MYCANNABIS Wuppertal - Kronen Apotheke",
+        "city": "Wuppertal",
+        "plz": "42275 ",
+        "price": 8.93,
+        "available": true,
+        "source": "Canngo Apotheke"
       }
     ],
     "cannamedical cm 20/1 lly": [
