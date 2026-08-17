@@ -1,6 +1,6 @@
 {
   "shard": 10,
-  "updated_at": "2026-08-17T14:07:33.937633+02:00",
+  "updated_at": "2026-08-17T14:48:38.069432+02:00",
   "prices": {
     "medical saints 21/1 usr": [
       {
@@ -1018,6 +1018,26 @@
         "source": "Cannaleo"
       }
     ],
+    "420 evolution 27/1 ca bul": [
+      {
+        "pharmacy_id": "k65upfauvvxshlsqybnkxa18",
+        "name": "Sinsheim Cannabis Apotheke ",
+        "city": "Sinsheim",
+        "plz": "74889",
+        "price": 6.49,
+        "available": true,
+        "source": "Canngo Apotheke"
+      },
+      {
+        "pharmacy_id": "ghy187y5n59cae2h5yj743e8",
+        "name": "Bären Apotheke",
+        "city": "Erlangen",
+        "plz": "91052",
+        "price": 14.17,
+        "available": true,
+        "source": "Canngo Apotheke"
+      }
+    ],
     "420 evolution 22/1 ca": [
       {
         "pharmacy_id": "ix7mbcj3di3qkhj2jc4iba7n",
@@ -1052,26 +1072,6 @@
         "city": "Köln",
         "plz": "50674",
         "price": 9.01,
-        "available": true,
-        "source": "Canngo Apotheke"
-      }
-    ],
-    "420 evolution 27/1 ca bul": [
-      {
-        "pharmacy_id": "k65upfauvvxshlsqybnkxa18",
-        "name": "Sinsheim Cannabis Apotheke ",
-        "city": "Sinsheim",
-        "plz": "74889",
-        "price": 6.49,
-        "available": true,
-        "source": "Canngo Apotheke"
-      },
-      {
-        "pharmacy_id": "ghy187y5n59cae2h5yj743e8",
-        "name": "Bären Apotheke",
-        "city": "Erlangen",
-        "plz": "91052",
-        "price": 14.17,
         "available": true,
         "source": "Canngo Apotheke"
       }
@@ -1842,17 +1842,6 @@
         "source": "Canngo Apotheke"
       }
     ],
-    "khiron fg 28/1": [
-      {
-        "pharmacy_id": "canthera",
-        "name": "Canthera",
-        "city": "Nürnberg",
-        "plz": "90403",
-        "price": 5.13,
-        "available": true,
-        "source": "canthera"
-      }
-    ],
     "aphriarx thc25 amh": [
       {
         "pharmacy_id": "k9o5v1jfqv4taitn4g5p4reo",
@@ -1997,6 +1986,17 @@
         "price": 6.95,
         "available": true,
         "source": "Cannaleo"
+      }
+    ],
+    "khiron fg 28/1": [
+      {
+        "pharmacy_id": "canthera",
+        "name": "Canthera",
+        "city": "Nürnberg",
+        "plz": "90403",
+        "price": 5.13,
+        "available": true,
+        "source": "canthera"
       }
     ],
     "truu gt 22 01": [
@@ -2791,17 +2791,6 @@
         "source": "Cannaleo"
       }
     ],
-    "enua 30/1 cdc ca": [
-      {
-        "pharmacy_id": "k65upfauvvxshlsqybnkxa18",
-        "name": "Sinsheim Cannabis Apotheke ",
-        "city": "Sinsheim",
-        "plz": "74889",
-        "price": 8.1,
-        "available": true,
-        "source": "Canngo Apotheke"
-      }
-    ],
     "enua 22/1 bdo ca": [
       {
         "pharmacy_id": "n13dman1350oxfz2boblcwn0",
@@ -2809,6 +2798,17 @@
         "city": "Kempten",
         "plz": "87435",
         "price": 8.3,
+        "available": true,
+        "source": "Canngo Apotheke"
+      }
+    ],
+    "enua 30/1 cdc ca": [
+      {
+        "pharmacy_id": "k65upfauvvxshlsqybnkxa18",
+        "name": "Sinsheim Cannabis Apotheke ",
+        "city": "Sinsheim",
+        "plz": "74889",
+        "price": 8.1,
         "available": true,
         "source": "Canngo Apotheke"
       }
@@ -2849,35 +2849,6 @@
         "price": 7.38,
         "available": true,
         "source": "Canngo Apotheke"
-      }
-    ],
-    "demecan core orng 19 01": [
-      {
-        "pharmacy_id": "jvtoy81l4xodgm3yhglruax3",
-        "name": "Cannabis Pforzheim (HW Stadt Apotheke, Pforzheim)",
-        "city": "Pforzheim",
-        "plz": "75172",
-        "price": 4.5,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "wimhkhiwrh90sfvqi182lkrz",
-        "name": "Cannabis Kinzigtal (Schloss-Apotheke Wolfach)",
-        "city": "Wolfach",
-        "plz": "77709",
-        "price": 4.99,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "vmj4udkpb4ft94106jjbw1jm",
-        "name": "Cannabis Eichwald (Eichwald Apotheke)",
-        "city": "Bad Wörishofen",
-        "plz": "86825",
-        "price": 5.95,
-        "available": true,
-        "source": "Cannaleo"
       }
     ],
     "amp trichome gpp thc24": [
@@ -2932,6 +2903,35 @@
         "city": "München",
         "plz": "81371",
         "price": 7.99,
+        "available": true,
+        "source": "Cannaleo"
+      }
+    ],
+    "demecan core orng 19 01": [
+      {
+        "pharmacy_id": "jvtoy81l4xodgm3yhglruax3",
+        "name": "Cannabis Pforzheim (HW Stadt Apotheke, Pforzheim)",
+        "city": "Pforzheim",
+        "plz": "75172",
+        "price": 4.5,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "wimhkhiwrh90sfvqi182lkrz",
+        "name": "Cannabis Kinzigtal (Schloss-Apotheke Wolfach)",
+        "city": "Wolfach",
+        "plz": "77709",
+        "price": 4.99,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "vmj4udkpb4ft94106jjbw1jm",
+        "name": "Cannabis Eichwald (Eichwald Apotheke)",
+        "city": "Bad Wörishofen",
+        "plz": "86825",
+        "price": 5.95,
         "available": true,
         "source": "Cannaleo"
       }
