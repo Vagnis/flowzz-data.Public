@@ -1,6 +1,6 @@
 {
   "shard": 14,
-  "updated_at": "2026-08-17T01:34:27.377743+02:00",
+  "updated_at": "2026-08-17T02:27:40.953238+02:00",
   "prices": {
     "420 sungrown 18/1 ca dog": [
       {
@@ -405,15 +405,6 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "kv1jm18ja0ydb1yszkc01mys",
-        "name": "Besser Gesund OHG ipunkt Apotheke",
-        "city": "Augsburg",
-        "plz": "86150",
-        "price": 6.55,
-        "available": true,
-        "source": "Canngo Apotheke"
-      },
-      {
         "pharmacy_id": "mw1iudtgisz5sxk7nzmwphtg",
         "name": "cannabispromed (besser gesund OHG ipunkt Apotheke)",
         "city": "Augsburg",
@@ -421,6 +412,15 @@
         "price": 6.55,
         "available": true,
         "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "kv1jm18ja0ydb1yszkc01mys",
+        "name": "Besser Gesund OHG ipunkt Apotheke",
+        "city": "Augsburg",
+        "plz": "86150",
+        "price": 6.55,
+        "available": true,
+        "source": "Canngo Apotheke"
       },
       {
         "pharmacy_id": "o4mci2sgzne7vf3ea67dib4k",
@@ -441,6 +441,15 @@
         "source": "Canngo Apotheke"
       },
       {
+        "pharmacy_id": "odvyg8x6lc1jbh5y0ihpdywt",
+        "name": "Cannabis Vital Apotheke (Rosen-Apotheke im Center Hattersheim)",
+        "city": "Hattersheim am Main",
+        "plz": "65795",
+        "price": 6.99,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
         "pharmacy_id": "k1fv66xz9tfpngfk1dzcgjvn",
         "name": "Cannabis Vital Apotheke (Rosen Apotheke im Center Hattersheim)",
         "city": "Hattersheim",
@@ -454,15 +463,6 @@
         "name": "Cannabis der Shop (Dräxelmaier Apotheke am Theresienplatz Straubing)",
         "city": "Straubing",
         "plz": "94315",
-        "price": 6.99,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "odvyg8x6lc1jbh5y0ihpdywt",
-        "name": "Cannabis Vital Apotheke (Rosen-Apotheke im Center Hattersheim)",
-        "city": "Hattersheim am Main",
-        "plz": "65795",
         "price": 6.99,
         "available": true,
         "source": "Cannaleo"
@@ -486,15 +486,6 @@
         "source": "Canngo Apotheke"
       },
       {
-        "pharmacy_id": "pzitvbxxsjpf5o6jdt2dsfae",
-        "name": "optyweed (OPTYMED Apotheke Schlossberg)",
-        "city": "Stephanskirchen",
-        "plz": "83071",
-        "price": 7.99,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
         "pharmacy_id": "m5k0wvjphc511bg4vpi3efjf",
         "name": "Cannatree – Rats-Apotheke Düsseldorf",
         "city": "Düsseldorf",
@@ -502,6 +493,15 @@
         "price": 7.99,
         "available": true,
         "source": "Canngo Apotheke"
+      },
+      {
+        "pharmacy_id": "pzitvbxxsjpf5o6jdt2dsfae",
+        "name": "optyweed (OPTYMED Apotheke Schlossberg)",
+        "city": "Stephanskirchen",
+        "plz": "83071",
+        "price": 7.99,
+        "available": true,
+        "source": "Cannaleo"
       }
     ],
     "enua 30/1 sbd ca": [
@@ -3148,17 +3148,6 @@
         "source": "Cannaleo"
       }
     ],
-    "cannamedical sativa classic": [
-      {
-        "pharmacy_id": "spb7f67sn1bmfzbmm9r6apbt",
-        "name": "Mc Medi Apotheke Gohlis",
-        "city": "Leipzig",
-        "plz": "04105",
-        "price": 3.99,
-        "available": true,
-        "source": "CannaFlow"
-      }
-    ],
     "remexian 30/1 crx jto": [
       {
         "pharmacy_id": "v10pl4mewq7st35s8qgov3lp",
@@ -3224,15 +3213,15 @@
         "source": "CannaFlow"
       }
     ],
-    "imc thc25 t10": [
+    "cannamedical sativa classic": [
       {
-        "pharmacy_id": "lvkvymu8q9uvz3d2aw2xglx5",
-        "name": "Rhein-Apotheke im Ärztehaus Mühlburg, Karlsruhe",
-        "city": "Karlsruhe",
-        "plz": "76185",
-        "price": 6.0,
+        "pharmacy_id": "spb7f67sn1bmfzbmm9r6apbt",
+        "name": "Mc Medi Apotheke Gohlis",
+        "city": "Leipzig",
+        "plz": "04105",
+        "price": 3.99,
         "available": true,
-        "source": "Cannaleo"
+        "source": "CannaFlow"
       }
     ],
     "fast leaf 30/1 pur": [
@@ -3386,6 +3375,17 @@
         "city": "Waiblingen",
         "plz": "71332",
         "price": 9.98,
+        "available": true,
+        "source": "Cannaleo"
+      }
+    ],
+    "imc thc25 t10": [
+      {
+        "pharmacy_id": "lvkvymu8q9uvz3d2aw2xglx5",
+        "name": "Rhein-Apotheke im Ärztehaus Mühlburg, Karlsruhe",
+        "city": "Karlsruhe",
+        "plz": "76185",
+        "price": 6.0,
         "available": true,
         "source": "Cannaleo"
       }
