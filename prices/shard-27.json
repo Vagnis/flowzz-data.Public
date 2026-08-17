@@ -1,6 +1,6 @@
 {
   "shard": 27,
-  "updated_at": "2026-08-17T08:57:13.262696+02:00",
+  "updated_at": "2026-08-17T10:11:25.094687+02:00",
   "prices": {
     "drwatson 26 flash aus jack flash 5": [
       {
@@ -152,15 +152,6 @@
         "source": "Canngo Apotheke"
       },
       {
-        "pharmacy_id": "odvyg8x6lc1jbh5y0ihpdywt",
-        "name": "Cannabis Vital Apotheke (Rosen-Apotheke im Center Hattersheim)",
-        "city": "Hattersheim am Main",
-        "plz": "65795",
-        "price": 4.49,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
         "pharmacy_id": "k1fv66xz9tfpngfk1dzcgjvn",
         "name": "Cannabis Vital Apotheke (Rosen Apotheke im Center Hattersheim)",
         "city": "Hattersheim",
@@ -168,6 +159,15 @@
         "price": 4.49,
         "available": true,
         "source": "Canngo Apotheke"
+      },
+      {
+        "pharmacy_id": "odvyg8x6lc1jbh5y0ihpdywt",
+        "name": "Cannabis Vital Apotheke (Rosen-Apotheke im Center Hattersheim)",
+        "city": "Hattersheim am Main",
+        "plz": "65795",
+        "price": 4.49,
+        "available": true,
+        "source": "Cannaleo"
       },
       {
         "pharmacy_id": "xyuayy7koacdcy5njck81b3o",
@@ -451,15 +451,6 @@
         "source": "CannaFlow"
       },
       {
-        "pharmacy_id": "q9uob64rqcl3ocucna5ta7pw",
-        "name": "Ratioapotheke, Otzberg",
-        "city": "Otzberg",
-        "plz": "64853",
-        "price": 7.5,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
         "pharmacy_id": "ocssb7q5v926a3mkbnlhnqni",
         "name": "Ratioapotheke",
         "city": "Otzberg-Lengfeld",
@@ -467,6 +458,15 @@
         "price": 7.5,
         "available": true,
         "source": "Canngo Apotheke"
+      },
+      {
+        "pharmacy_id": "q9uob64rqcl3ocucna5ta7pw",
+        "name": "Ratioapotheke, Otzberg",
+        "city": "Otzberg",
+        "plz": "64853",
+        "price": 7.5,
+        "available": true,
+        "source": "Cannaleo"
       },
       {
         "pharmacy_id": "j10ifwpl6w9s9l3eeflt0n4v",
@@ -1912,76 +1912,13 @@
     ],
     "madrecan 27/1 gb9": [
       {
-        "pharmacy_id": "v13hoqmgzzhg21iaumq0jg26",
-        "name": "WEEDCITY (Adler Apotheke, Wiesbaden)",
-        "city": "Wiesbaden",
-        "plz": "65185",
-        "price": 3.67,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "lramdha0a0kmvyo1hscrabef",
-        "name": "Canthera Süd (Mohren Apotheke, Nürnberg)",
+        "pharmacy_id": "canthera",
+        "name": "Canthera",
         "city": "Nürnberg",
-        "plz": "90459",
-        "price": 3.68,
+        "plz": "90403",
+        "price": 3.49,
         "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "zhzlc0a8wfzt6t1bw62f7okl",
-        "name": "Goldene Blüte Nürnberg Fürth Erlangen",
-        "city": "Nürnberg",
-        "plz": "90469",
-        "price": 3.69,
-        "available": true,
-        "source": "CannaFlow"
-      },
-      {
-        "pharmacy_id": "yyva3bdg1zje9o9owqr5f74k",
-        "name": "Goldene Blüte",
-        "city": "Freystadt",
-        "plz": "92342",
-        "price": 4.39,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "r116flcyeg75w7e52nqcqgrk",
-        "name": "cannamundus Stadt-Apotheke, Köln ",
-        "city": "Köln",
-        "plz": "50933",
-        "price": 4.74,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "txchiiix1cykj4y1zad7zn19",
-        "name": "Cannaplus Apotheke ",
-        "city": "Augsburg",
-        "plz": "86154",
-        "price": 4.78,
-        "available": true,
-        "source": "Canngo Apotheke"
-      },
-      {
-        "pharmacy_id": "ywia6esjhiilbpr2y3kueopq",
-        "name": "Cannabis-Taxi",
-        "city": "Esslingen",
-        "plz": "73730",
-        "price": 4.99,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "mbcjt9uojj6y8gfw9f5vjqmh",
-        "name": "CANNApalu (Park-Apotheke, Ludwigshafen)",
-        "city": "Ludwigshafen",
-        "plz": "67063",
-        "price": 5.5,
-        "available": true,
-        "source": "Cannaleo"
+        "source": "canthera"
       }
     ],
     "remexian 33/1 mtl wck wes coast kush": [
@@ -2544,17 +2481,6 @@
         "source": "Canngo Apotheke"
       }
     ],
-    "siggis hblt 22 01": [
-      {
-        "pharmacy_id": "canthera",
-        "name": "Canthera",
-        "city": "Nürnberg",
-        "plz": "90403",
-        "price": 7.99,
-        "available": true,
-        "source": "canthera"
-      }
-    ],
     "canify 27/1 csf ku": [
       {
         "pharmacy_id": "p21xjokj66w7335i3hni66z7",
@@ -2654,6 +2580,17 @@
         "price": 7.29,
         "available": true,
         "source": "Cannaleo"
+      }
+    ],
+    "siggis hblt 22 01": [
+      {
+        "pharmacy_id": "canthera",
+        "name": "Canthera",
+        "city": "Nürnberg",
+        "plz": "90403",
+        "price": 7.99,
+        "available": true,
+        "source": "canthera"
       }
     ],
     "truu gt 27/01": [
@@ -3091,17 +3028,6 @@
         "source": "Cannaleo"
       }
     ],
-    "420 sungrown 25/1 ca lly": [
-      {
-        "pharmacy_id": "k65upfauvvxshlsqybnkxa18",
-        "name": "Sinsheim Cannabis Apotheke ",
-        "city": "Sinsheim",
-        "plz": "74889",
-        "price": 6.95,
-        "available": true,
-        "source": "Canngo Apotheke"
-      }
-    ],
     "cannovum apex chy ca 28/1": [
       {
         "pharmacy_id": "bci4jac9kv2kz880mcvuzana",
@@ -3129,6 +3055,17 @@
         "city": "Frankfurt",
         "plz": "60598",
         "price": 2.69,
+        "available": true,
+        "source": "Canngo Apotheke"
+      }
+    ],
+    "420 sungrown 25/1 ca lly": [
+      {
+        "pharmacy_id": "k65upfauvvxshlsqybnkxa18",
+        "name": "Sinsheim Cannabis Apotheke ",
+        "city": "Sinsheim",
+        "plz": "74889",
+        "price": 6.95,
         "available": true,
         "source": "Canngo Apotheke"
       }
