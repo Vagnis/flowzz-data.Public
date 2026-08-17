@@ -1,6 +1,6 @@
 {
   "shard": 20,
-  "updated_at": "2026-08-17T08:39:11.223676+02:00",
+  "updated_at": "2026-08-17T08:57:02.692852+02:00",
   "prices": {
     "avaay 27/1 mim": [
       {
@@ -435,28 +435,10 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "ibipq23e8d5ajqtzxxeasd29",
-        "name": "Cannabis Loft (St. Elisabeth Apotheke)",
-        "city": "Geilenkirchen",
-        "plz": "52511 ",
-        "price": 2.99,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
         "pharmacy_id": "r90mjqimmnboczwkhwvzdzw0",
         "name": "Kraut Kurier",
         "city": "Dortmund",
         "plz": "44379",
-        "price": 2.99,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "o9dv6nwczsvbx2823rcyb57j",
-        "name": "Apotheke im Centr-o-med, Datteln",
-        "city": "Datteln",
-        "plz": "45711",
         "price": 2.99,
         "available": true,
         "source": "Cannaleo"
@@ -471,10 +453,28 @@
         "source": "Cannaleo"
       },
       {
+        "pharmacy_id": "ibipq23e8d5ajqtzxxeasd29",
+        "name": "Cannabis Loft (St. Elisabeth Apotheke)",
+        "city": "Geilenkirchen",
+        "plz": "52511 ",
+        "price": 2.99,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
         "pharmacy_id": "ewbsxam2fxhlsj1xoly2xdts",
         "name": "CannaColonia (Apotheke Friesentor Hohenzollern 52)",
         "city": "Koeln",
         "plz": "50672",
+        "price": 2.99,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "o9dv6nwczsvbx2823rcyb57j",
+        "name": "Apotheke im Centr-o-med, Datteln",
+        "city": "Datteln",
+        "plz": "45711",
         "price": 2.99,
         "available": true,
         "source": "Cannaleo"
@@ -498,19 +498,28 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "nkiyfjskcuklk65hcbvr9qv8",
-        "name": "Cannabis-Otto-Apotheke (Apotheke im Otto-Hirsch-Center, Stuttgart)",
-        "city": "Stuttgart",
-        "plz": "70329",
-        "price": 3.99,
+        "pharmacy_id": "k1fv66xz9tfpngfk1dzcgjvn",
+        "name": "Cannabis Vital Apotheke (Rosen Apotheke im Center Hattersheim)",
+        "city": "Hattersheim",
+        "plz": "65795",
+        "price": 3.89,
         "available": true,
-        "source": "Cannaleo"
+        "source": "Canngo Apotheke"
       },
       {
         "pharmacy_id": "p21xjokj66w7335i3hni66z7",
         "name": "Adler Cannabis Ruhrort (Adler Apotheke, Duisburg)",
         "city": "Duisburg",
         "plz": "47119",
+        "price": 3.99,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "nkiyfjskcuklk65hcbvr9qv8",
+        "name": "Cannabis-Otto-Apotheke (Apotheke im Otto-Hirsch-Center, Stuttgart)",
+        "city": "Stuttgart",
+        "plz": "70329",
         "price": 3.99,
         "available": true,
         "source": "Cannaleo"
@@ -525,6 +534,15 @@
         "source": "Cannaleo"
       },
       {
+        "pharmacy_id": "zbtslbr4edl7bf0om5rktmlv",
+        "name": "Rastatt",
+        "city": "Rastatt",
+        "plz": "76437",
+        "price": 4.99,
+        "available": true,
+        "source": "Canngo Apotheke"
+      },
+      {
         "pharmacy_id": "jh4n0308s6c2cxyfdtozehmr",
         "name": "GreenHirsch (Hirsch-Apotheke Konstanz)",
         "city": "Konstanz",
@@ -532,6 +550,15 @@
         "price": 5.16,
         "available": true,
         "source": "CannaFlow"
+      },
+      {
+        "pharmacy_id": "z9a7jc0vu6xe1iuxued2xys4",
+        "name": "Cannabis Südbaden (Apotheke am Schillerplatz)",
+        "city": "Müllheim",
+        "plz": "79379",
+        "price": 5.45,
+        "available": true,
+        "source": "Cannaleo"
       },
       {
         "pharmacy_id": "r481s1vjse40xv765uytf0qb",
@@ -543,13 +570,13 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "z9a7jc0vu6xe1iuxued2xys4",
-        "name": "Cannabis Südbaden (Apotheke am Schillerplatz)",
-        "city": "Müllheim",
-        "plz": "79379",
-        "price": 5.45,
+        "pharmacy_id": "jbaukw4x5id3qyn6x48mgm9c",
+        "name": "Blütenrhein",
+        "city": "Germersheim",
+        "plz": "76726",
+        "price": 5.65,
         "available": true,
-        "source": "Cannaleo"
+        "source": "Canngo Apotheke"
       },
       {
         "pharmacy_id": "z6rn7x9s24k9vtupz820i5hr",
@@ -1462,17 +1489,6 @@
         "source": "Canngo Apotheke"
       }
     ],
-    "gr nhorn hgh 27/1": [
-      {
-        "pharmacy_id": "m5k0wvjphc511bg4vpi3efjf",
-        "name": "Cannatree – Rats-Apotheke Düsseldorf",
-        "city": "Düsseldorf",
-        "plz": "40625",
-        "price": 6.99,
-        "available": true,
-        "source": "Canngo Apotheke"
-      }
-    ],
     "barongo 26/1 dr gastro pop": [
       {
         "pharmacy_id": "f11gjnlh84v3b3omtn49gsb9",
@@ -1480,6 +1496,17 @@
         "city": "Düsseldorf",
         "plz": "40589",
         "price": 6.5,
+        "available": true,
+        "source": "Canngo Apotheke"
+      }
+    ],
+    "gr nhorn hgh 27/1": [
+      {
+        "pharmacy_id": "m5k0wvjphc511bg4vpi3efjf",
+        "name": "Cannatree – Rats-Apotheke Düsseldorf",
+        "city": "Düsseldorf",
+        "plz": "40625",
+        "price": 6.99,
         "available": true,
         "source": "Canngo Apotheke"
       }
@@ -1993,6 +2020,26 @@
         "source": "Cannaleo"
       }
     ],
+    "enua 27/1 bdo ca": [
+      {
+        "pharmacy_id": "yyva3bdg1zje9o9owqr5f74k",
+        "name": "Goldene Blüte",
+        "city": "Freystadt",
+        "plz": "92342",
+        "price": 7.85,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "s6xdp3oyzfozefhh0p3xdqz3",
+        "name": "Goldene Blüte",
+        "city": "Freystadt",
+        "plz": "92342",
+        "price": 7.99,
+        "available": true,
+        "source": "Canngo Apotheke"
+      }
+    ],
     "enua 27/1 coz ca": [
       {
         "pharmacy_id": "gflzy0roem5c6com5tjknkpw",
@@ -2036,26 +2083,6 @@
         "city": "München",
         "plz": "80804",
         "price": 6.5,
-        "available": true,
-        "source": "Canngo Apotheke"
-      }
-    ],
-    "enua 27/1 bdo ca": [
-      {
-        "pharmacy_id": "yyva3bdg1zje9o9owqr5f74k",
-        "name": "Goldene Blüte",
-        "city": "Freystadt",
-        "plz": "92342",
-        "price": 7.85,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "s6xdp3oyzfozefhh0p3xdqz3",
-        "name": "Goldene Blüte",
-        "city": "Freystadt",
-        "plz": "92342",
-        "price": 7.99,
         "available": true,
         "source": "Canngo Apotheke"
       }
