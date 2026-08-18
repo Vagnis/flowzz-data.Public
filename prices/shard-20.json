@@ -1,6 +1,6 @@
 {
   "shard": 20,
-  "updated_at": "2026-08-18T18:21:27.660010+02:00",
+  "updated_at": "2026-08-18T18:48:12.154842+02:00",
   "prices": {
     "avaay 27/1 mim": [
       {
@@ -521,6 +521,24 @@
         "source": "CannaFlow"
       },
       {
+        "pharmacy_id": "nkb3pcihrkx7ob3uhu5t4l2r",
+        "name": "Cannabis Apotheke Frankfurt",
+        "city": "Frankfurt am Main",
+        "plz": "60487",
+        "price": 3.99,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "y2e38ltbxcf8w67qx10x149j",
+        "name": "Cannabis Apotheke Niedersachsen (Apotheke Brome)",
+        "city": "Brome",
+        "plz": "38465",
+        "price": 4.35,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
         "pharmacy_id": "eou5l4p7zpw3ea4lec4anx8p",
         "name": "Grüne Wirkstoffe (Anthemis Apotheke)",
         "city": "Herrieden",
@@ -539,10 +557,28 @@
         "source": "Canngo Apotheke"
       },
       {
+        "pharmacy_id": "lijog898sce37woldqv19dgh",
+        "name": "Hansecannabis (Löns Apotheke, Bremen)",
+        "city": "Bremen",
+        "plz": "28239",
+        "price": 4.75,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
         "pharmacy_id": "ywia6esjhiilbpr2y3kueopq",
         "name": "Cannabis-Taxi",
         "city": "Esslingen",
         "plz": "73730",
+        "price": 4.95,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "j6jucui6lqtnvr4iw8naybej",
+        "name": "Hansecannabis (Alexander Apotheke City Süd, Hamburg)",
+        "city": "Hamburg",
+        "plz": "20097",
         "price": 4.95,
         "available": true,
         "source": "Cannaleo"
@@ -566,6 +602,24 @@
         "source": "Canngo Apotheke"
       },
       {
+        "pharmacy_id": "phf4syyfct2u4uy4ov7ijm8r",
+        "name": "Cannabis Freiburg (Apotheke am Rathaus, Reute)",
+        "city": "Reute",
+        "plz": "79276",
+        "price": 5.55,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "z9a7jc0vu6xe1iuxued2xys4",
+        "name": "Cannabis Südbaden (Apotheke am Schillerplatz)",
+        "city": "Müllheim",
+        "plz": "79379",
+        "price": 5.55,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
         "pharmacy_id": "ijp86erckl52lxswwdoqtkta",
         "name": "Cansa - Bethanien Apotheke",
         "city": "Chemnitz",
@@ -584,6 +638,15 @@
         "source": "Canngo Apotheke"
       },
       {
+        "pharmacy_id": "b9uro1a9mahr5z0lgz23ifkd",
+        "name": "grashuepfer.shop (easyApotheke Lübecker Straße, Magdeburg)",
+        "city": "Magdeburg",
+        "plz": "39124",
+        "price": 5.79,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
         "pharmacy_id": "jbaukw4x5id3qyn6x48mgm9c",
         "name": "Blütenrhein",
         "city": "Germersheim",
@@ -591,6 +654,15 @@
         "price": 5.8,
         "available": true,
         "source": "Canngo Apotheke"
+      },
+      {
+        "pharmacy_id": "ohifw0gxv62743fn7j2sqco6",
+        "name": "hermann's green",
+        "city": "Berlin",
+        "plz": "10967",
+        "price": 5.89,
+        "available": true,
+        "source": "Cannaleo"
       },
       {
         "pharmacy_id": "f104wltd4pj9xcafifc7x7n8",
@@ -1684,15 +1756,6 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "jw98b12etzwd04hje7kmkhhi",
-        "name": "Cantoura (NEO Apotheke)",
-        "city": "Berlin",
-        "plz": "12103",
-        "price": 3.4,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
         "pharmacy_id": "crzm01w47yi7mm5434gnewz8",
         "name": "Kudamm Botanics (Apotheke am Zoo, Berlin)",
         "city": "Berlin",
@@ -2164,6 +2227,26 @@
         "source": "Cannaleo"
       }
     ],
+    "enua 27/1 bdo ca": [
+      {
+        "pharmacy_id": "yyva3bdg1zje9o9owqr5f74k",
+        "name": "Goldene Blüte",
+        "city": "Freystadt",
+        "plz": "92342",
+        "price": 7.85,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "s6xdp3oyzfozefhh0p3xdqz3",
+        "name": "Goldene Blüte",
+        "city": "Freystadt",
+        "plz": "92342",
+        "price": 7.99,
+        "available": true,
+        "source": "Canngo Apotheke"
+      }
+    ],
     "enua 27/1 coz ca": [
       {
         "pharmacy_id": "gflzy0roem5c6com5tjknkpw",
@@ -2207,26 +2290,6 @@
         "city": "München",
         "plz": "80804",
         "price": 6.5,
-        "available": true,
-        "source": "Canngo Apotheke"
-      }
-    ],
-    "enua 27/1 bdo ca": [
-      {
-        "pharmacy_id": "yyva3bdg1zje9o9owqr5f74k",
-        "name": "Goldene Blüte",
-        "city": "Freystadt",
-        "plz": "92342",
-        "price": 7.85,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "s6xdp3oyzfozefhh0p3xdqz3",
-        "name": "Goldene Blüte",
-        "city": "Freystadt",
-        "plz": "92342",
-        "price": 7.99,
         "available": true,
         "source": "Canngo Apotheke"
       }
