@@ -1,6 +1,6 @@
 {
   "shard": 20,
-  "updated_at": "2026-08-18T21:44:20.427530+02:00",
+  "updated_at": "2026-08-18T22:49:17.078287+02:00",
   "prices": {
     "avaay 27/1 mim": [
       {
@@ -961,6 +961,15 @@
         "source": "CannaFlow"
       },
       {
+        "pharmacy_id": "n11o6xs4h95x4dxms8b8xira",
+        "name": "Grafen Cannabis Apotheke",
+        "city": "Düsseldorf",
+        "plz": "40235",
+        "price": 4.45,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
         "pharmacy_id": "m5k0wvjphc511bg4vpi3efjf",
         "name": "Cannatree – Rats-Apotheke Düsseldorf",
         "city": "Düsseldorf",
@@ -974,15 +983,6 @@
         "name": "CANNACOMPANY",
         "city": "Bonn",
         "plz": "53225",
-        "price": 4.45,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "n11o6xs4h95x4dxms8b8xira",
-        "name": "Grafen Cannabis Apotheke",
-        "city": "Düsseldorf",
-        "plz": "40235",
         "price": 4.45,
         "available": true,
         "source": "Cannaleo"
@@ -2227,6 +2227,26 @@
         "source": "Cannaleo"
       }
     ],
+    "enua 27/1 bdo ca": [
+      {
+        "pharmacy_id": "yyva3bdg1zje9o9owqr5f74k",
+        "name": "Goldene Blüte",
+        "city": "Freystadt",
+        "plz": "92342",
+        "price": 7.85,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "s6xdp3oyzfozefhh0p3xdqz3",
+        "name": "Goldene Blüte",
+        "city": "Freystadt",
+        "plz": "92342",
+        "price": 7.99,
+        "available": true,
+        "source": "Canngo Apotheke"
+      }
+    ],
     "enua 27/1 coz ca": [
       {
         "pharmacy_id": "gflzy0roem5c6com5tjknkpw",
@@ -2270,26 +2290,6 @@
         "city": "München",
         "plz": "80804",
         "price": 6.5,
-        "available": true,
-        "source": "Canngo Apotheke"
-      }
-    ],
-    "enua 27/1 bdo ca": [
-      {
-        "pharmacy_id": "yyva3bdg1zje9o9owqr5f74k",
-        "name": "Goldene Blüte",
-        "city": "Freystadt",
-        "plz": "92342",
-        "price": 7.85,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "s6xdp3oyzfozefhh0p3xdqz3",
-        "name": "Goldene Blüte",
-        "city": "Freystadt",
-        "plz": "92342",
-        "price": 7.99,
         "available": true,
         "source": "Canngo Apotheke"
       }
@@ -2379,17 +2379,6 @@
         "source": "canthera"
       }
     ],
-    "apothekenherstellung mct l bubba kush 25/1 demecan typ 1 extrakt": [
-      {
-        "pharmacy_id": "goet66lm5om7yu0rqvdyx14f",
-        "name": "MARIEN APOTHEKE, Siegsdorf",
-        "city": "Siegsdorf",
-        "plz": "83313",
-        "price": 3.15,
-        "available": true,
-        "source": "Cannaleo"
-      }
-    ],
     "apothekenherstellung weeco lmc 33/1 extrakt 25 mg/ml thc 100 mg/ml cbd": [
       {
         "pharmacy_id": "goet66lm5om7yu0rqvdyx14f",
@@ -2397,6 +2386,17 @@
         "city": "Siegsdorf",
         "plz": "83313",
         "price": 10.5,
+        "available": true,
+        "source": "Cannaleo"
+      }
+    ],
+    "apothekenherstellung mct l bubba kush 25/1 demecan typ 1 extrakt": [
+      {
+        "pharmacy_id": "goet66lm5om7yu0rqvdyx14f",
+        "name": "MARIEN APOTHEKE, Siegsdorf",
+        "city": "Siegsdorf",
+        "plz": "83313",
+        "price": 3.15,
         "available": true,
         "source": "Cannaleo"
       }
