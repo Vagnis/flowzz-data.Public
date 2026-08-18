@@ -1,6 +1,6 @@
 {
   "shard": 12,
-  "updated_at": "2026-08-18T10:18:29.294392+02:00",
+  "updated_at": "2026-08-18T11:13:29.548861+02:00",
   "prices": {
     "barongo 28/1 sr skitlz runtz": [
       {
@@ -155,6 +155,15 @@
     ],
     "nice 27/1 tmi": [
       {
+        "pharmacy_id": "ts5y0hwy1y90ff163oj651dz",
+        "name": "420 Flowers Kreis Warendorf (Apotheke Hake, Ennigerloh)",
+        "city": "Ennigerloh",
+        "plz": "59320",
+        "price": 2.99,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
         "pharmacy_id": "ktomio8wj30wy4107qhhrddn",
         "name": "Kronen Cannabis",
         "city": "Sankt Augustin",
@@ -162,6 +171,24 @@
         "price": 3.9,
         "available": true,
         "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "pbyseff1m65yy50vx7t2sfxb",
+        "name": "Apondium Cannabis",
+        "city": "Düsseldorf",
+        "plz": "40225",
+        "price": 3.99,
+        "available": true,
+        "source": "Canngo Apotheke"
+      },
+      {
+        "pharmacy_id": "j10jrwnxe22ha7mz59mfyhjx",
+        "name": "Kissel Apotheke",
+        "city": "Frankfurt",
+        "plz": "60598",
+        "price": 3.99,
+        "available": true,
+        "source": "Canngo Apotheke"
       },
       {
         "pharmacy_id": "yyva3bdg1zje9o9owqr5f74k",
@@ -182,38 +209,11 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "j10jrwnxe22ha7mz59mfyhjx",
-        "name": "Kissel Apotheke",
-        "city": "Frankfurt",
-        "plz": "60598",
-        "price": 3.99,
-        "available": true,
-        "source": "Canngo Apotheke"
-      },
-      {
         "pharmacy_id": "i86o9y14bkcb2lsc3hv51tjq",
         "name": "apondium Cannabis (Süd-Apotheke, Düsseldorf)",
         "city": "Düsseldorf",
         "plz": "40225",
         "price": 3.99,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "pbyseff1m65yy50vx7t2sfxb",
-        "name": "Apondium Cannabis",
-        "city": "Düsseldorf",
-        "plz": "40225",
-        "price": 3.99,
-        "available": true,
-        "source": "Canngo Apotheke"
-      },
-      {
-        "pharmacy_id": "gflzy0roem5c6com5tjknkpw",
-        "name": "Medicannabis Essen (easyApotheke Rathaus Galerie, Essen)",
-        "city": "Essen",
-        "plz": "45127",
-        "price": 4.49,
         "available": true,
         "source": "Cannaleo"
       },
@@ -227,11 +227,11 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "ts5y0hwy1y90ff163oj651dz",
-        "name": "420 Flowers Kreis Warendorf (Apotheke Hake, Ennigerloh)",
-        "city": "Ennigerloh",
-        "plz": "59320",
-        "price": 6.2,
+        "pharmacy_id": "gflzy0roem5c6com5tjknkpw",
+        "name": "Medicannabis Essen (easyApotheke Rathaus Galerie, Essen)",
+        "city": "Essen",
+        "plz": "45127",
+        "price": 4.49,
         "available": true,
         "source": "Cannaleo"
       }
@@ -1192,17 +1192,6 @@
         "source": "Cannaleo"
       }
     ],
-    "tilray thc22 spotlight porto": [
-      {
-        "pharmacy_id": "j2zeonb6gnyoldlrtg40zk9u",
-        "name": "(Cabemed) Apotheke im Polikum Berlin",
-        "city": "Berlin",
-        "plz": "12157",
-        "price": 8.94,
-        "available": true,
-        "source": "Cannaleo"
-      }
-    ],
     "good supply thc 15 spc": [
       {
         "pharmacy_id": "hdxqag2wtc1be6c48cuxrhjm",
@@ -1390,6 +1379,17 @@
         "city": "Leipzig",
         "plz": "04229",
         "price": 5.71,
+        "available": true,
+        "source": "Cannaleo"
+      }
+    ],
+    "tilray thc22 spotlight porto": [
+      {
+        "pharmacy_id": "j2zeonb6gnyoldlrtg40zk9u",
+        "name": "(Cabemed) Apotheke im Polikum Berlin",
+        "city": "Berlin",
+        "plz": "12157",
+        "price": 8.94,
         "available": true,
         "source": "Cannaleo"
       }
@@ -1942,17 +1942,6 @@
         "source": "Canngo Apotheke"
       }
     ],
-    "green karat pv 31/1": [
-      {
-        "pharmacy_id": "z2u72ffm0csfpisve4ewvld0",
-        "name": "CURA GREEN (Heide Apotheke, Paderborn)",
-        "city": "Paderborn",
-        "plz": "33102",
-        "price": 6.99,
-        "available": true,
-        "source": "Cannaleo"
-      }
-    ],
     "amp trichome malibu thc22": [
       {
         "pharmacy_id": "nnxrhmkimtykjg5be5khyhr7",
@@ -2005,6 +1994,17 @@
         "city": "München",
         "plz": "81371",
         "price": 7.49,
+        "available": true,
+        "source": "Cannaleo"
+      }
+    ],
+    "green karat pv 31/1": [
+      {
+        "pharmacy_id": "z2u72ffm0csfpisve4ewvld0",
+        "name": "CURA GREEN (Heide Apotheke, Paderborn)",
+        "city": "Paderborn",
+        "plz": "33102",
+        "price": 6.99,
         "available": true,
         "source": "Cannaleo"
       }
@@ -2177,17 +2177,6 @@
         "source": "Cannaleo"
       }
     ],
-    "apothekenherstellung weeco lmc 33/1 extrakt 100 mg/ml thc": [
-      {
-        "pharmacy_id": "goet66lm5om7yu0rqvdyx14f",
-        "name": "MARIEN APOTHEKE, Siegsdorf",
-        "city": "Siegsdorf",
-        "plz": "83313",
-        "price": 7.5,
-        "available": true,
-        "source": "Cannaleo"
-      }
-    ],
     "cannovum extrakt 10/15 sl": [
       {
         "pharmacy_id": "e9eig0e5txi2bemw74rdfssx",
@@ -2222,6 +2211,17 @@
         "city": "München",
         "plz": "80335",
         "price": 14.99,
+        "available": true,
+        "source": "Cannaleo"
+      }
+    ],
+    "apothekenherstellung weeco lmc 33/1 extrakt 100 mg/ml thc": [
+      {
+        "pharmacy_id": "goet66lm5om7yu0rqvdyx14f",
+        "name": "MARIEN APOTHEKE, Siegsdorf",
+        "city": "Siegsdorf",
+        "plz": "83313",
+        "price": 7.5,
         "available": true,
         "source": "Cannaleo"
       }
