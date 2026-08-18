@@ -1,6 +1,6 @@
 {
   "shard": 21,
-  "updated_at": "2026-08-18T15:47:14.175368+02:00",
+  "updated_at": "2026-08-18T16:52:28.492494+02:00",
   "prices": {
     "zoiks 22/1 tg": [
       {
@@ -357,15 +357,6 @@
     ],
     "demecan core golden horizon 31 01": [
       {
-        "pharmacy_id": "f931og9innjrrv0uvsypjrs9",
-        "name": "Bussicann Ahlen - Versandapotheke",
-        "city": "Ahlen",
-        "plz": "59229",
-        "price": 6.55,
-        "available": true,
-        "source": "Canngo Apotheke"
-      },
-      {
         "pharmacy_id": "p12ulmu8ecggtigafp1rbcoe",
         "name": "Bussicann (Bußmanns Apotheke, Ahlen)",
         "city": "Ahlen",
@@ -373,6 +364,15 @@
         "price": 6.55,
         "available": true,
         "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "f931og9innjrrv0uvsypjrs9",
+        "name": "Bussicann Ahlen - Versandapotheke",
+        "city": "Ahlen",
+        "plz": "59229",
+        "price": 6.55,
+        "available": true,
+        "source": "Canngo Apotheke"
       },
       {
         "pharmacy_id": "eou5l4p7zpw3ea4lec4anx8p",
@@ -391,15 +391,6 @@
         "price": 6.99,
         "available": true,
         "source": "Canngo Apotheke"
-      },
-      {
-        "pharmacy_id": "t523n72spdqhbo3ody2dvjot",
-        "name": "Adler Apotheke – Medizinalcannabis Frankfurt",
-        "city": "Frankfurt am Main",
-        "plz": "60529",
-        "price": 7.89,
-        "available": true,
-        "source": "Cannaleo"
       },
       {
         "pharmacy_id": "sb6d76rl9hsp5bghphdn9smx",
@@ -879,6 +870,17 @@
         "source": "Cannaleo"
       }
     ],
+    "enua 33/1 ps3 ca myc": [
+      {
+        "pharmacy_id": "canthera",
+        "name": "Canthera",
+        "city": "Nürnberg",
+        "plz": "90403",
+        "price": 4.99,
+        "available": true,
+        "source": "canthera"
+      }
+    ],
     "420 evolution 30/1 ca mmi": [
       {
         "pharmacy_id": "k65upfauvvxshlsqybnkxa18",
@@ -897,17 +899,6 @@
         "price": 14.0,
         "available": true,
         "source": "Canngo Apotheke"
-      }
-    ],
-    "enua 33/1 ps3 ca myc": [
-      {
-        "pharmacy_id": "canthera",
-        "name": "Canthera",
-        "city": "Nürnberg",
-        "plz": "90403",
-        "price": 4.99,
-        "available": true,
-        "source": "canthera"
       }
     ],
     "eufloria 27/1 icc": [
@@ -1072,6 +1063,15 @@
     ],
     "skk sn 26/1": [
       {
+        "pharmacy_id": "aa7cwasq91i50yqaoi1rdp3q",
+        "name": "SVAPO",
+        "city": "Offenbach",
+        "plz": "63075",
+        "price": 3.97,
+        "available": true,
+        "source": "Canngo Apotheke"
+      },
+      {
         "pharmacy_id": "elddawva9r11lw5cowa37ouv",
         "name": "Markus Apotheke Saarbrücken",
         "city": "Saarbrücken",
@@ -1079,15 +1079,6 @@
         "price": 3.98,
         "available": true,
         "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "aa7cwasq91i50yqaoi1rdp3q",
-        "name": "SVAPO",
-        "city": "Offenbach",
-        "plz": "63075",
-        "price": 3.98,
-        "available": true,
-        "source": "Canngo Apotheke"
       },
       {
         "pharmacy_id": "v10pl4mewq7st35s8qgov3lp",
@@ -1292,28 +1283,6 @@
         "source": "Cannaleo"
       }
     ],
-    "cookies 22/1 a b": [
-      {
-        "pharmacy_id": "vqma98ynwg0q92pjora82gtm",
-        "name": "cannabis-vor-ort.de - Die Hanf Apotheke (Tiergarten-Apotheke, Konstanz)",
-        "city": "Konstanz",
-        "plz": "78462",
-        "price": 8.0,
-        "available": true,
-        "source": "Cannaleo"
-      }
-    ],
-    "imc oog thc 25 outdoor": [
-      {
-        "pharmacy_id": "k65upfauvvxshlsqybnkxa18",
-        "name": "Sinsheim Cannabis Apotheke ",
-        "city": "Sinsheim",
-        "plz": "74889",
-        "price": 6.9,
-        "available": true,
-        "source": "Canngo Apotheke"
-      }
-    ],
     "remexian 27/1 joi mtc": [
       {
         "pharmacy_id": "xhcj5hflj9nb8pjqvmem7641",
@@ -1352,7 +1321,38 @@
         "source": "Cannaleo"
       }
     ],
+    "imc oog thc 25 outdoor": [
+      {
+        "pharmacy_id": "k65upfauvvxshlsqybnkxa18",
+        "name": "Sinsheim Cannabis Apotheke ",
+        "city": "Sinsheim",
+        "plz": "74889",
+        "price": 6.9,
+        "available": true,
+        "source": "Canngo Apotheke"
+      }
+    ],
+    "cookies 22/1 a b": [
+      {
+        "pharmacy_id": "vqma98ynwg0q92pjora82gtm",
+        "name": "cannabis-vor-ort.de - Die Hanf Apotheke (Tiergarten-Apotheke, Konstanz)",
+        "city": "Konstanz",
+        "plz": "78462",
+        "price": 8.0,
+        "available": true,
+        "source": "Cannaleo"
+      }
+    ],
     "skk sh 29/1": [
+      {
+        "pharmacy_id": "aa7cwasq91i50yqaoi1rdp3q",
+        "name": "SVAPO",
+        "city": "Offenbach",
+        "plz": "63075",
+        "price": 4.45,
+        "available": true,
+        "source": "Canngo Apotheke"
+      },
       {
         "pharmacy_id": "elddawva9r11lw5cowa37ouv",
         "name": "Markus Apotheke Saarbrücken",
@@ -1361,15 +1361,6 @@
         "price": 4.48,
         "available": true,
         "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "aa7cwasq91i50yqaoi1rdp3q",
-        "name": "SVAPO",
-        "city": "Offenbach",
-        "plz": "63075",
-        "price": 4.48,
-        "available": true,
-        "source": "Canngo Apotheke"
       },
       {
         "pharmacy_id": "v10pl4mewq7st35s8qgov3lp",
