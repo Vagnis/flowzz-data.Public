@@ -1,6 +1,6 @@
 {
   "shard": 20,
-  "updated_at": "2026-08-18T05:54:37.413063+02:00",
+  "updated_at": "2026-08-18T07:13:42.933213+02:00",
   "prices": {
     "avaay 27/1 mim": [
       {
@@ -96,6 +96,15 @@
         "source": "Cannaleo"
       },
       {
+        "pharmacy_id": "crzm01w47yi7mm5434gnewz8",
+        "name": "Kudamm Botanics (Apotheke am Zoo, Berlin)",
+        "city": "Berlin",
+        "plz": "10623",
+        "price": 6.99,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
         "pharmacy_id": "fiui4qrfyvt2dveq7pwcj3k6",
         "name": "BatchControl Selm | Bären-Apotheke Selm",
         "city": "Selm",
@@ -109,15 +118,6 @@
         "name": "apondium Cannabis (Süd-Apotheke, Düsseldorf)",
         "city": "Düsseldorf",
         "plz": "40225",
-        "price": 6.99,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "crzm01w47yi7mm5434gnewz8",
-        "name": "Kudamm Botanics (Apotheke am Zoo, Berlin)",
-        "city": "Berlin",
-        "plz": "10623",
         "price": 6.99,
         "available": true,
         "source": "Cannaleo"
@@ -303,15 +303,6 @@
         "source": "CannaFlow"
       },
       {
-        "pharmacy_id": "g6cvidmkev0gswhk3s9b3uz8",
-        "name": "Cannadorf (Dorfplatz Apotheke, Hamburg-Bramfeld)",
-        "city": "Hamburg",
-        "plz": "22177",
-        "price": 7.95,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
         "pharmacy_id": "hmiuco7ry7pxrsjuu31guyuo",
         "name": "Raths Apotheke am Brauereiviertel / kiel-cann.de",
         "city": "Kiel",
@@ -319,6 +310,15 @@
         "price": 7.95,
         "available": true,
         "source": "CannaFlow"
+      },
+      {
+        "pharmacy_id": "g6cvidmkev0gswhk3s9b3uz8",
+        "name": "Cannadorf (Dorfplatz Apotheke, Hamburg-Bramfeld)",
+        "city": "Hamburg",
+        "plz": "22177",
+        "price": 7.95,
+        "available": true,
+        "source": "Cannaleo"
       },
       {
         "pharmacy_id": "e9eig0e5txi2bemw74rdfssx",
@@ -438,19 +438,19 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "h2ioiimc9wrxw1bdn8axnnq1",
-        "name": "Cannabis Marburg (Vital Apotheke Marburg)",
-        "city": "Marburg",
-        "plz": "35039",
+        "pharmacy_id": "vtwlwh47fimxunyyug639jgr",
+        "name": "Adler Apotheke Rostock",
+        "city": "Rostock",
+        "plz": "18057",
         "price": 9.5,
         "available": true,
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "vtwlwh47fimxunyyug639jgr",
-        "name": "Adler Apotheke Rostock",
-        "city": "Rostock",
-        "plz": "18057",
+        "pharmacy_id": "h2ioiimc9wrxw1bdn8axnnq1",
+        "name": "Cannabis Marburg (Vital Apotheke Marburg)",
+        "city": "Marburg",
+        "plz": "35039",
         "price": 9.5,
         "available": true,
         "source": "Cannaleo"
@@ -651,10 +651,10 @@
     ],
     "tilray thc25 sativa no 4": [
       {
-        "pharmacy_id": "m13cf6fhl8o5aavg1h3eey2j",
-        "name": "cannalu (Apotheke zur alten Post Bad Berka)",
-        "city": "Bad Berka",
-        "plz": "99438",
+        "pharmacy_id": "d110gl7ph509necw0888os7x",
+        "name": "CANNFLOW (Regenbogen Apotheke, Köthen)",
+        "city": "Köthen",
+        "plz": "06366",
         "price": 2.99,
         "available": true,
         "source": "Cannaleo"
@@ -669,10 +669,10 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "ewbsxam2fxhlsj1xoly2xdts",
-        "name": "CannaColonia (Apotheke Friesentor Hohenzollern 52)",
-        "city": "Koeln",
-        "plz": "50672",
+        "pharmacy_id": "m13cf6fhl8o5aavg1h3eey2j",
+        "name": "cannalu (Apotheke zur alten Post Bad Berka)",
+        "city": "Bad Berka",
+        "plz": "99438",
         "price": 2.99,
         "available": true,
         "source": "Cannaleo"
@@ -683,6 +683,33 @@
         "city": "Geilenkirchen",
         "plz": "52511 ",
         "price": 2.99,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "ewbsxam2fxhlsj1xoly2xdts",
+        "name": "CannaColonia (Apotheke Friesentor Hohenzollern 52)",
+        "city": "Koeln",
+        "plz": "50672",
+        "price": 2.99,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "o9dv6nwczsvbx2823rcyb57j",
+        "name": "Apotheke im Centr-o-med, Datteln",
+        "city": "Datteln",
+        "plz": "45711",
+        "price": 2.99,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "yg3klhz46a74bxee56xsgqrf",
+        "name": "Cannabis Imperial (Imperial Apotheke, Herbrechtingen)",
+        "city": "Herbrechtingen",
+        "plz": "89542",
+        "price": 3.79,
         "available": true,
         "source": "Cannaleo"
       },
@@ -705,11 +732,29 @@
         "source": "Canngo Apotheke"
       },
       {
+        "pharmacy_id": "p21xjokj66w7335i3hni66z7",
+        "name": "Adler Cannabis Ruhrort (Adler Apotheke, Duisburg)",
+        "city": "Duisburg",
+        "plz": "47119",
+        "price": 3.99,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
         "pharmacy_id": "nkiyfjskcuklk65hcbvr9qv8",
         "name": "Cannabis-Otto-Apotheke (Apotheke im Otto-Hirsch-Center, Stuttgart)",
         "city": "Stuttgart",
         "plz": "70329",
         "price": 3.99,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "xfarhqtllsdf0fa3vb6b4gwg",
+        "name": "Flora Apotheke, Köln-Nippes",
+        "city": "Köln-Nippes",
+        "plz": "50733",
+        "price": 4.95,
         "available": true,
         "source": "Cannaleo"
       },
@@ -736,6 +781,15 @@
         "name": "Cannabis Südbaden (Apotheke am Schillerplatz)",
         "city": "Müllheim",
         "plz": "79379",
+        "price": 5.45,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "r481s1vjse40xv765uytf0qb",
+        "name": "Heidegras (easyApotheke Marktcenter Uelzen)",
+        "city": "Uelzen",
+        "plz": "29525",
         "price": 5.45,
         "available": true,
         "source": "Cannaleo"
@@ -768,11 +822,65 @@
         "source": "Cannaleo"
       },
       {
+        "pharmacy_id": "nnxrhmkimtykjg5be5khyhr7",
+        "name": "Cannabis Apotheke (Apotheke LUX 99, Köln-Hürth)",
+        "city": "Hürth",
+        "plz": "50354",
+        "price": 5.95,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "mflqesh8830qtcwau2jc0d88",
+        "name": "Medicalflowers (Dominicus-Apotheke, Berlin)",
+        "city": "Berlin",
+        "plz": "10827",
+        "price": 6.08,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "a8bj52lnqt5xda53bp6qf7qk",
+        "name": "Frankenblüten (Avie Apotheke im Luitpoldcenter, Dinkelsbühl)",
+        "city": "Dinkelsbühl",
+        "plz": "91550",
+        "price": 6.19,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "kakqluuwio5iz0jcfo5imznl",
+        "name": "Cannabronn (Apotheke am Bahnhof, Heilbronn)",
+        "city": "Heilbronn",
+        "plz": "74072",
+        "price": 6.2,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
         "pharmacy_id": "qsrdiy4psk13g01jrvkj52jw",
         "name": "Blütenwerk Durlach (Bahnhof Apotheke Durlach, Karlsruhe)",
         "city": "Karlsruhe",
         "plz": "76227 ",
         "price": 6.3,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "goet66lm5om7yu0rqvdyx14f",
+        "name": "MARIEN APOTHEKE, Siegsdorf",
+        "city": "Siegsdorf",
+        "plz": "83313",
+        "price": 6.9,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "jp1v01f08acvlwugav5httud",
+        "name": "Blasiuzz - St. Blasius Apotheke, München",
+        "city": "München",
+        "plz": "80333",
+        "price": 8.4,
         "available": true,
         "source": "Cannaleo"
       },
