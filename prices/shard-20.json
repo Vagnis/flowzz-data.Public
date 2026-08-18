@@ -1,6 +1,6 @@
 {
   "shard": 20,
-  "updated_at": "2026-08-18T22:49:17.078287+02:00",
+  "updated_at": "2026-08-18T23:13:33.658573+02:00",
   "prices": {
     "avaay 27/1 mim": [
       {
@@ -222,6 +222,24 @@
         "source": "Cannaleo"
       },
       {
+        "pharmacy_id": "kw6m1rc1mu9e9eqffp0hsoo4",
+        "name": "CannA3 (Medicon A3, Heßdorf)",
+        "city": "Heßdorf",
+        "plz": "91093",
+        "price": 7.49,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "wfl4juhzqbgpsp8epr1w1t1t",
+        "name": "cannamedicus (Medicus Apotheke, München)",
+        "city": "München",
+        "plz": "80331",
+        "price": 7.49,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
         "pharmacy_id": "dwdbsc32nh0brw8gtl0f7udy",
         "name": "Bavarian Cannabis",
         "city": "Puchheim",
@@ -244,24 +262,6 @@
         "name": "MediVitalCan (MediVital Apotheke, Weiterstadt)",
         "city": "Weiterstadt",
         "plz": "64331",
-        "price": 7.49,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "kw6m1rc1mu9e9eqffp0hsoo4",
-        "name": "CannA3 (Medicon A3, Heßdorf)",
-        "city": "Heßdorf",
-        "plz": "91093",
-        "price": 7.49,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "wfl4juhzqbgpsp8epr1w1t1t",
-        "name": "cannamedicus (Medicus Apotheke, München)",
-        "city": "München",
-        "plz": "80331",
         "price": 7.49,
         "available": true,
         "source": "Cannaleo"
@@ -303,15 +303,6 @@
         "source": "CannaFlow"
       },
       {
-        "pharmacy_id": "g6cvidmkev0gswhk3s9b3uz8",
-        "name": "Cannadorf (Dorfplatz Apotheke, Hamburg-Bramfeld)",
-        "city": "Hamburg",
-        "plz": "22177",
-        "price": 7.95,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
         "pharmacy_id": "hmiuco7ry7pxrsjuu31guyuo",
         "name": "Raths Apotheke am Brauereiviertel / kiel-cann.de",
         "city": "Kiel",
@@ -319,6 +310,15 @@
         "price": 7.95,
         "available": true,
         "source": "CannaFlow"
+      },
+      {
+        "pharmacy_id": "g6cvidmkev0gswhk3s9b3uz8",
+        "name": "Cannadorf (Dorfplatz Apotheke, Hamburg-Bramfeld)",
+        "city": "Hamburg",
+        "plz": "22177",
+        "price": 7.95,
+        "available": true,
+        "source": "Cannaleo"
       },
       {
         "pharmacy_id": "e9eig0e5txi2bemw74rdfssx",
@@ -330,10 +330,10 @@
         "source": "Canngo Apotheke"
       },
       {
-        "pharmacy_id": "iox4099qc3ji0xl5x6hzb43n",
-        "name": "Fox20 (Oberländer Apotheke, München)",
-        "city": "München",
-        "plz": "81371",
+        "pharmacy_id": "r137pbsbqwm3ioj47j21pjd2",
+        "name": "ABC Cannabis (ABC Apotheke am Werth, Wuppertal)",
+        "city": "Wuppertal",
+        "plz": "42275",
         "price": 7.99,
         "available": true,
         "source": "Cannaleo"
@@ -348,10 +348,10 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "r137pbsbqwm3ioj47j21pjd2",
-        "name": "ABC Cannabis (ABC Apotheke am Werth, Wuppertal)",
-        "city": "Wuppertal",
-        "plz": "42275",
+        "pharmacy_id": "iox4099qc3ji0xl5x6hzb43n",
+        "name": "Fox20 (Oberländer Apotheke, München)",
+        "city": "München",
+        "plz": "81371",
         "price": 7.99,
         "available": true,
         "source": "Cannaleo"
@@ -411,15 +411,6 @@
         "source": "CannaFlow"
       },
       {
-        "pharmacy_id": "bv8tsdnyvd4bxcnv7ndzrje3",
-        "name": "Blüten-Apotheke in München",
-        "city": "München",
-        "plz": "80804",
-        "price": 8.9,
-        "available": true,
-        "source": "Canngo Apotheke"
-      },
-      {
         "pharmacy_id": "lm1smrzvwkgr6nh0jiisa9mg",
         "name": "Blüten-Apotheke München",
         "city": "München",
@@ -427,6 +418,15 @@
         "price": 8.9,
         "available": true,
         "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "bv8tsdnyvd4bxcnv7ndzrje3",
+        "name": "Blüten-Apotheke in München",
+        "city": "München",
+        "plz": "80804",
+        "price": 8.9,
+        "available": true,
+        "source": "Canngo Apotheke"
       },
       {
         "pharmacy_id": "ve12fiueb8n0sg7o5qei37ik",
@@ -438,19 +438,19 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "h2ioiimc9wrxw1bdn8axnnq1",
-        "name": "Cannabis Marburg (Vital Apotheke Marburg)",
-        "city": "Marburg",
-        "plz": "35039",
+        "pharmacy_id": "vtwlwh47fimxunyyug639jgr",
+        "name": "Adler Apotheke Rostock",
+        "city": "Rostock",
+        "plz": "18057",
         "price": 9.5,
         "available": true,
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "vtwlwh47fimxunyyug639jgr",
-        "name": "Adler Apotheke Rostock",
-        "city": "Rostock",
-        "plz": "18057",
+        "pharmacy_id": "h2ioiimc9wrxw1bdn8axnnq1",
+        "name": "Cannabis Marburg (Vital Apotheke Marburg)",
+        "city": "Marburg",
+        "plz": "35039",
         "price": 9.5,
         "available": true,
         "source": "Cannaleo"
@@ -1729,13 +1729,13 @@
     ],
     "remexian 18/1 kps smx": [
       {
-        "pharmacy_id": "x138xetyktfzh7bo28kp9z6p",
-        "name": "Happy-Cannamed",
-        "city": "Cloppenburg",
-        "plz": "49661",
+        "pharmacy_id": "i14fbchr0tcymy6se72xb5ij",
+        "name": "SativaMedics (Rosen-Apotheke Neuwied)",
+        "city": "Neuwied",
+        "plz": "56564",
         "price": 2.99,
         "available": true,
-        "source": "Canngo Apotheke"
+        "source": "Cannaleo"
       },
       {
         "pharmacy_id": "e10lyi76nr7a7ztkmo2s28wj",
@@ -1747,13 +1747,13 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "i14fbchr0tcymy6se72xb5ij",
-        "name": "SativaMedics (Rosen-Apotheke Neuwied)",
-        "city": "Neuwied",
-        "plz": "56564",
+        "pharmacy_id": "x138xetyktfzh7bo28kp9z6p",
+        "name": "Happy-Cannamed",
+        "city": "Cloppenburg",
+        "plz": "49661",
         "price": 2.99,
         "available": true,
-        "source": "Cannaleo"
+        "source": "Canngo Apotheke"
       },
       {
         "pharmacy_id": "crzm01w47yi7mm5434gnewz8",
