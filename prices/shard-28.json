@@ -1,6 +1,6 @@
 {
   "shard": 28,
-  "updated_at": "2026-08-18T05:30:26.958375+02:00",
+  "updated_at": "2026-08-18T05:54:49.237637+02:00",
   "prices": {
     "pedanios 31/1 cos ca": [
       {
@@ -195,6 +195,17 @@
         "city": "Melle",
         "plz": "49324",
         "price": 8.99,
+        "available": true,
+        "source": "Canngo Apotheke"
+      }
+    ],
+    "truu hs 21/01": [
+      {
+        "pharmacy_id": "gy578a394pqlekh7bo94iub6",
+        "name": "Apotheke im Franziskanerhof ",
+        "city": "München",
+        "plz": "81669",
+        "price": 6.66,
         "available": true,
         "source": "Canngo Apotheke"
       }
@@ -451,17 +462,6 @@
         "price": 8.29,
         "available": true,
         "source": "Cannaleo"
-      }
-    ],
-    "truu hs 21/01": [
-      {
-        "pharmacy_id": "gy578a394pqlekh7bo94iub6",
-        "name": "Apotheke im Franziskanerhof ",
-        "city": "München",
-        "plz": "81669",
-        "price": 6.66,
-        "available": true,
-        "source": "Canngo Apotheke"
       }
     ],
     "imc thc20 gga": [
@@ -2077,15 +2077,6 @@
         "source": "Canngo Apotheke"
       },
       {
-        "pharmacy_id": "bci4jac9kv2kz880mcvuzana",
-        "name": "Canabloom (Daimler Apotheke, Wiesbaden)",
-        "city": "Wiesbaden",
-        "plz": "65197",
-        "price": 4.98,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
         "pharmacy_id": "aa7cwasq91i50yqaoi1rdp3q",
         "name": "SVAPO",
         "city": "Offenbach",
@@ -2093,6 +2084,15 @@
         "price": 4.98,
         "available": true,
         "source": "Canngo Apotheke"
+      },
+      {
+        "pharmacy_id": "bci4jac9kv2kz880mcvuzana",
+        "name": "Canabloom (Daimler Apotheke, Wiesbaden)",
+        "city": "Wiesbaden",
+        "plz": "65197",
+        "price": 4.98,
+        "available": true,
+        "source": "Cannaleo"
       },
       {
         "pharmacy_id": "paq1qlwdooncaij3eyd2gsi9",
@@ -2311,19 +2311,19 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "fw2gf31hdpg9v77k90oyyzng",
-        "name": "Hanauer Cannabis Apotheke (Buchen-Apotheke)",
-        "city": "Hanau",
-        "plz": "63454",
+        "pharmacy_id": "r13gza90f6t8i1ckrfz82nx3",
+        "name": "Behring Apotheke",
+        "city": "Neuss",
+        "plz": "41464",
         "price": 7.45,
         "available": true,
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "r13gza90f6t8i1ckrfz82nx3",
-        "name": "Behring Apotheke",
-        "city": "Neuss",
-        "plz": "41464",
+        "pharmacy_id": "fw2gf31hdpg9v77k90oyyzng",
+        "name": "Hanauer Cannabis Apotheke (Buchen-Apotheke)",
+        "city": "Hanau",
+        "plz": "63454",
         "price": 7.45,
         "available": true,
         "source": "Cannaleo"
@@ -3199,62 +3199,6 @@
         "source": "canthera"
       }
     ],
-    "khiron pp 29/1": [
-      {
-        "pharmacy_id": "b1cotx9gnyqovzzd387t0shw",
-        "name": "Karolinger Apotheke Aachen",
-        "city": "Aachen",
-        "plz": "52064",
-        "price": 5.39,
-        "available": true,
-        "source": "Canngo Apotheke"
-      },
-      {
-        "pharmacy_id": "kw6m1rc1mu9e9eqffp0hsoo4",
-        "name": "CannA3 (Medicon A3, Heßdorf)",
-        "city": "Heßdorf",
-        "plz": "91093",
-        "price": 5.4,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "n10agfa1382ht7kktqq87e41",
-        "name": "Christophorus Apotheke Trostberg",
-        "city": "Trostberg",
-        "plz": "83308",
-        "price": 5.99,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "nqve4o83opog3qpt17qqzhv4",
-        "name": "Augusta Green (Apotheke am Kornmarkt, Trier)",
-        "city": "Trier",
-        "plz": "54290 ",
-        "price": 5.99,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "d3vbwjkic38r2vs7clnibfpk",
-        "name": "Apotheke am Stadtgarten, Heilbronn",
-        "city": "Heilbronn",
-        "plz": "74072",
-        "price": 7.0,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "duwr8oru943qslthrxydzefo",
-        "name": "Cannabis Freiburg (Apotheke am Berliner Tor Freiburg)",
-        "city": "Freiburg",
-        "plz": "79110",
-        "price": 7.2,
-        "available": true,
-        "source": "Cannaleo"
-      }
-    ],
     "fast leaf 33/1 smh": [
       {
         "pharmacy_id": "v13hoqmgzzhg21iaumq0jg26",
@@ -3406,6 +3350,62 @@
         "city": "Waiblingen",
         "plz": "71332",
         "price": 9.98,
+        "available": true,
+        "source": "Cannaleo"
+      }
+    ],
+    "khiron pp 29/1": [
+      {
+        "pharmacy_id": "b1cotx9gnyqovzzd387t0shw",
+        "name": "Karolinger Apotheke Aachen",
+        "city": "Aachen",
+        "plz": "52064",
+        "price": 5.39,
+        "available": true,
+        "source": "Canngo Apotheke"
+      },
+      {
+        "pharmacy_id": "kw6m1rc1mu9e9eqffp0hsoo4",
+        "name": "CannA3 (Medicon A3, Heßdorf)",
+        "city": "Heßdorf",
+        "plz": "91093",
+        "price": 5.4,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "n10agfa1382ht7kktqq87e41",
+        "name": "Christophorus Apotheke Trostberg",
+        "city": "Trostberg",
+        "plz": "83308",
+        "price": 5.99,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "nqve4o83opog3qpt17qqzhv4",
+        "name": "Augusta Green (Apotheke am Kornmarkt, Trier)",
+        "city": "Trier",
+        "plz": "54290 ",
+        "price": 5.99,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "d3vbwjkic38r2vs7clnibfpk",
+        "name": "Apotheke am Stadtgarten, Heilbronn",
+        "city": "Heilbronn",
+        "plz": "74072",
+        "price": 7.0,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "duwr8oru943qslthrxydzefo",
+        "name": "Cannabis Freiburg (Apotheke am Berliner Tor Freiburg)",
+        "city": "Freiburg",
+        "plz": "79110",
+        "price": 7.2,
         "available": true,
         "source": "Cannaleo"
       }
