@@ -1,6 +1,6 @@
 {
   "shard": 28,
-  "updated_at": "2026-08-19T00:17:00.336296+02:00",
+  "updated_at": "2026-08-19T00:34:37.913828+02:00",
   "prices": {
     "pedanios 31/1 cos ca": [
       {
@@ -204,6 +204,17 @@
         "city": "Melle",
         "plz": "49324",
         "price": 8.99,
+        "available": true,
+        "source": "Canngo Apotheke"
+      }
+    ],
+    "truu hs 21/01": [
+      {
+        "pharmacy_id": "gy578a394pqlekh7bo94iub6",
+        "name": "Apotheke im Franziskanerhof ",
+        "city": "München",
+        "plz": "81669",
+        "price": 6.66,
         "available": true,
         "source": "Canngo Apotheke"
       }
@@ -469,17 +480,6 @@
         "price": 8.29,
         "available": true,
         "source": "Cannaleo"
-      }
-    ],
-    "truu hs 21/01": [
-      {
-        "pharmacy_id": "gy578a394pqlekh7bo94iub6",
-        "name": "Apotheke im Franziskanerhof ",
-        "city": "München",
-        "plz": "81669",
-        "price": 6.66,
-        "available": true,
-        "source": "Canngo Apotheke"
       }
     ],
     "imc thc20 gga": [
@@ -1613,17 +1613,6 @@
         "source": "Cannaleo"
       }
     ],
-    "amici 25/1 yhe cookies gelato yahemi": [
-      {
-        "pharmacy_id": "iutllm6j9cjoz0wc0tvlfzj2",
-        "name": "GRASTHEKE (St. Alexius Apotheke)",
-        "city": "Neuss",
-        "plz": "41464",
-        "price": 4.88,
-        "available": true,
-        "source": "Cannaleo"
-      }
-    ],
     "cherryco thc23 sativa": [
       {
         "pharmacy_id": "l13cyy3dgqps89yqymwragcy",
@@ -1856,6 +1845,17 @@
         "city": "Stephanskirchen",
         "plz": "83071",
         "price": 6.75,
+        "available": true,
+        "source": "Cannaleo"
+      }
+    ],
+    "amici 25/1 yhe cookies gelato yahemi": [
+      {
+        "pharmacy_id": "iutllm6j9cjoz0wc0tvlfzj2",
+        "name": "GRASTHEKE (St. Alexius Apotheke)",
+        "city": "Neuss",
+        "plz": "41464",
+        "price": 4.88,
         "available": true,
         "source": "Cannaleo"
       }
@@ -2131,19 +2131,19 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "o4mci2sgzne7vf3ea67dib4k",
-        "name": "easyApotheke Bayreuth-Süd",
-        "city": "Bayreuth",
-        "plz": "95447",
+        "pharmacy_id": "s4x9esp059we959l9oglzo2g",
+        "name": "M-Cannabis (Apotheke an den 3 Hasen, Oberursel)",
+        "city": "Oberursel",
+        "plz": "61440",
         "price": 5.45,
         "available": true,
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "s4x9esp059we959l9oglzo2g",
-        "name": "M-Cannabis (Apotheke an den 3 Hasen, Oberursel)",
-        "city": "Oberursel",
-        "plz": "61440",
+        "pharmacy_id": "o4mci2sgzne7vf3ea67dib4k",
+        "name": "easyApotheke Bayreuth-Süd",
+        "city": "Bayreuth",
+        "plz": "95447",
         "price": 5.45,
         "available": true,
         "source": "Cannaleo"
@@ -2221,19 +2221,19 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "g12ffaf20ypqmy58qepqxxze",
-        "name": "Kahlhorst Apotheke Lübeck",
-        "city": "Lübeck",
-        "plz": "23562",
+        "pharmacy_id": "wrvvyxbuiwv20bzqym8td75j",
+        "name": "Cannabis Augsburg (Augusta Apotheke)",
+        "city": "Augsburg",
+        "plz": "86150",
         "price": 6.5,
         "available": true,
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "wrvvyxbuiwv20bzqym8td75j",
-        "name": "Cannabis Augsburg (Augusta Apotheke)",
-        "city": "Augsburg",
-        "plz": "86150",
+        "pharmacy_id": "g12ffaf20ypqmy58qepqxxze",
+        "name": "Kahlhorst Apotheke Lübeck",
+        "city": "Lübeck",
+        "plz": "23562",
         "price": 6.5,
         "available": true,
         "source": "Cannaleo"
@@ -2266,13 +2266,13 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "rlgkguz7pfbsqj1o5esn9fwo",
-        "name": "happyhanf.hamburg (Apotheke an der Friedenseiche)",
-        "city": "Hamburg",
-        "plz": "20251",
+        "pharmacy_id": "wwgzr8nwdke6stnjelb1ekhh",
+        "name": "CannaTal",
+        "city": "Engelskirchen ",
+        "plz": "51766",
         "price": 6.99,
         "available": true,
-        "source": "Cannaleo"
+        "source": "Canngo Apotheke"
       },
       {
         "pharmacy_id": "f296rcptbg1vx9qk875cpyju",
@@ -2284,13 +2284,13 @@
         "source": "Canngo Apotheke"
       },
       {
-        "pharmacy_id": "wwgzr8nwdke6stnjelb1ekhh",
-        "name": "CannaTal",
-        "city": "Engelskirchen ",
-        "plz": "51766",
+        "pharmacy_id": "rlgkguz7pfbsqj1o5esn9fwo",
+        "name": "happyhanf.hamburg (Apotheke an der Friedenseiche)",
+        "city": "Hamburg",
+        "plz": "20251",
         "price": 6.99,
         "available": true,
-        "source": "Canngo Apotheke"
+        "source": "Cannaleo"
       },
       {
         "pharmacy_id": "sl7bxba94ds2036ie2qi5znb",
@@ -2320,15 +2320,6 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "bv8tsdnyvd4bxcnv7ndzrje3",
-        "name": "Blüten-Apotheke in München",
-        "city": "München",
-        "plz": "80804",
-        "price": 7.6,
-        "available": true,
-        "source": "Canngo Apotheke"
-      },
-      {
         "pharmacy_id": "lm1smrzvwkgr6nh0jiisa9mg",
         "name": "Blüten-Apotheke München",
         "city": "München",
@@ -2336,6 +2327,15 @@
         "price": 7.6,
         "available": true,
         "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "bv8tsdnyvd4bxcnv7ndzrje3",
+        "name": "Blüten-Apotheke in München",
+        "city": "München",
+        "plz": "80804",
+        "price": 7.6,
+        "available": true,
+        "source": "Canngo Apotheke"
       },
       {
         "pharmacy_id": "u5uwl3t3dft3ugyxw07stj7v",
@@ -2415,17 +2415,6 @@
         "city": "Waiblingen",
         "plz": "71332",
         "price": 9.98,
-        "available": true,
-        "source": "Cannaleo"
-      }
-    ],
-    "amp classic 25/1": [
-      {
-        "pharmacy_id": "qcihw8owgorvvht0ucirpx1e",
-        "name": "CannabisMainz (Römer Apotheke, Mainz-Gonsenheim)",
-        "city": "Mainz",
-        "plz": "55124",
-        "price": 8.45,
         "available": true,
         "source": "Cannaleo"
       }
