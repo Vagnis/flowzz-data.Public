@@ -1,6 +1,6 @@
 {
   "shard": 0,
-  "updated_at": "2026-08-18T05:29:46.547029+02:00",
+  "updated_at": "2026-08-18T05:54:06.242938+02:00",
   "prices": {
     "zoiks 26/1 sr": [
       {
@@ -2272,6 +2272,15 @@
         "source": "Cannaleo"
       },
       {
+        "pharmacy_id": "zo92fouir89x0kovabrpludp",
+        "name": "cannabis aspharm (Apotheke am Hauptbahnhof, Gelsenkirchen)",
+        "city": "Gelsenkirchen",
+        "plz": "45879 ",
+        "price": 6.49,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
         "pharmacy_id": "gbjpkkmxzbc1sv1cpbn9bx55",
         "name": "Apotheke im Hauptbahnhof",
         "city": "Gelsenkirchen",
@@ -2288,15 +2297,6 @@
         "price": 6.49,
         "available": true,
         "source": "Canngo Apotheke"
-      },
-      {
-        "pharmacy_id": "zo92fouir89x0kovabrpludp",
-        "name": "cannabis aspharm (Apotheke am Hauptbahnhof, Gelsenkirchen)",
-        "city": "Gelsenkirchen",
-        "plz": "45879 ",
-        "price": 6.49,
-        "available": true,
-        "source": "Cannaleo"
       },
       {
         "pharmacy_id": "lox4xupth0cak19jika2wy2y",
@@ -2380,15 +2380,6 @@
         "source": "CannaFlow"
       },
       {
-        "pharmacy_id": "bv8tsdnyvd4bxcnv7ndzrje3",
-        "name": "Blüten-Apotheke in München",
-        "city": "München",
-        "plz": "80804",
-        "price": 7.2,
-        "available": true,
-        "source": "Canngo Apotheke"
-      },
-      {
         "pharmacy_id": "j10ifwpl6w9s9l3eeflt0n4v",
         "name": "thcundco.de",
         "city": "Hamburg",
@@ -2405,6 +2396,15 @@
         "price": 7.2,
         "available": true,
         "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "bv8tsdnyvd4bxcnv7ndzrje3",
+        "name": "Blüten-Apotheke in München",
+        "city": "München",
+        "plz": "80804",
+        "price": 7.2,
+        "available": true,
+        "source": "Canngo Apotheke"
       },
       {
         "pharmacy_id": "pagp8ceme1aw82rjzqcvemac",
@@ -2425,15 +2425,6 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "hnvguvgdjdixdcspd0dljneg",
-        "name": "Augusta Green (St. Stephanus Apotheke, Illingen)",
-        "city": "Illingen",
-        "plz": "66557",
-        "price": 8.49,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
         "pharmacy_id": "oanw6n9tnav4u52isnf5hi8c",
         "name": "Augusta Green (Apotheke Kraus, Schönenberg-Kübelberg)",
         "city": "Schönenberg-Kübelberg",
@@ -2447,6 +2438,15 @@
         "name": "Augusta Green (Abtei Apotheke, Wadgassen)",
         "city": "Wadgassen",
         "plz": "66787",
+        "price": 8.49,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "hnvguvgdjdixdcspd0dljneg",
+        "name": "Augusta Green (St. Stephanus Apotheke, Illingen)",
+        "city": "Illingen",
+        "plz": "66557",
         "price": 8.49,
         "available": true,
         "source": "Cannaleo"
@@ -3156,28 +3156,6 @@
         "source": "Canngo Apotheke"
       }
     ],
-    "wtf 21/1 mic tap": [
-      {
-        "pharmacy_id": "q7qz76brdp85izpdojivp03v",
-        "name": "MYCANNABIS Wuppertal - Kronen Apotheke",
-        "city": "Wuppertal",
-        "plz": "42275 ",
-        "price": 5.0,
-        "available": true,
-        "source": "Canngo Apotheke"
-      }
-    ],
-    "botanics golden ace 20/1": [
-      {
-        "pharmacy_id": "canthera",
-        "name": "Canthera",
-        "city": "Nürnberg",
-        "plz": "90403",
-        "price": 7.49,
-        "available": true,
-        "source": "canthera"
-      }
-    ],
     "origine nature med 30/1": [
       {
         "pharmacy_id": "yyva3bdg1zje9o9owqr5f74k",
@@ -3194,6 +3172,28 @@
         "city": "Dortmund",
         "plz": "44263",
         "price": 8.8,
+        "available": true,
+        "source": "Canngo Apotheke"
+      }
+    ],
+    "botanics golden ace 20/1": [
+      {
+        "pharmacy_id": "canthera",
+        "name": "Canthera",
+        "city": "Nürnberg",
+        "plz": "90403",
+        "price": 7.49,
+        "available": true,
+        "source": "canthera"
+      }
+    ],
+    "wtf 21/1 mic tap": [
+      {
+        "pharmacy_id": "q7qz76brdp85izpdojivp03v",
+        "name": "MYCANNABIS Wuppertal - Kronen Apotheke",
+        "city": "Wuppertal",
+        "plz": "42275 ",
+        "price": 5.0,
         "available": true,
         "source": "Canngo Apotheke"
       }
@@ -3216,6 +3216,17 @@
         "price": 64.99,
         "available": true,
         "source": "Canngo Apotheke"
+      }
+    ],
+    "hidealz 24/1 ms srd sugar dream smalls": [
+      {
+        "pharmacy_id": "k6xdimvrjqe9w739wp1encla",
+        "name": "1A PHARMACAN (Löwen Apotheke München)",
+        "city": "München",
+        "plz": "80331",
+        "price": 2.99,
+        "available": true,
+        "source": "Cannaleo"
       }
     ],
     "nice 29/1 cog": [
@@ -3333,17 +3344,6 @@
         "city": "Waiblingen",
         "plz": "71332",
         "price": 9.98,
-        "available": true,
-        "source": "Cannaleo"
-      }
-    ],
-    "hidealz 24/1 ms srd sugar dream smalls": [
-      {
-        "pharmacy_id": "k6xdimvrjqe9w739wp1encla",
-        "name": "1A PHARMACAN (Löwen Apotheke München)",
-        "city": "München",
-        "plz": "80331",
-        "price": 2.99,
         "available": true,
         "source": "Cannaleo"
       }
