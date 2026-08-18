@@ -1,6 +1,6 @@
 {
   "shard": 21,
-  "updated_at": "2026-08-18T18:48:13.568385+02:00",
+  "updated_at": "2026-08-18T19:39:08.435536+02:00",
   "prices": {
     "zoiks 22/1 tg": [
       {
@@ -40,15 +40,6 @@
         "source": "CannaFlow"
       },
       {
-        "pharmacy_id": "ix7mbcj3di3qkhj2jc4iba7n",
-        "name": "Cannaapo",
-        "city": "Fulda",
-        "plz": "36037",
-        "price": 3.85,
-        "available": true,
-        "source": "CannaFlow"
-      },
-      {
         "pharmacy_id": "shy3b46sv6s7akhz71zydgda",
         "name": "Ahorn Medics (Ahorn-Apotheke, Mörfelden-Walldorf)",
         "city": "Mörfelden-Walldorf",
@@ -56,6 +47,15 @@
         "price": 3.85,
         "available": true,
         "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "ix7mbcj3di3qkhj2jc4iba7n",
+        "name": "Cannaapo",
+        "city": "Fulda",
+        "plz": "36037",
+        "price": 3.85,
+        "available": true,
+        "source": "CannaFlow"
       },
       {
         "pharmacy_id": "wlalgvr4ayn71b3idwzik0k8",
@@ -103,19 +103,19 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "m5k0wvjphc511bg4vpi3efjf",
-        "name": "Cannatree – Rats-Apotheke Düsseldorf",
+        "pharmacy_id": "pbyseff1m65yy50vx7t2sfxb",
+        "name": "Apondium Cannabis",
         "city": "Düsseldorf",
-        "plz": "40625",
+        "plz": "40225",
         "price": 4.49,
         "available": true,
         "source": "Canngo Apotheke"
       },
       {
-        "pharmacy_id": "pbyseff1m65yy50vx7t2sfxb",
-        "name": "Apondium Cannabis",
+        "pharmacy_id": "m5k0wvjphc511bg4vpi3efjf",
+        "name": "Cannatree – Rats-Apotheke Düsseldorf",
         "city": "Düsseldorf",
-        "plz": "40225",
+        "plz": "40625",
         "price": 4.49,
         "available": true,
         "source": "Canngo Apotheke"
@@ -211,15 +211,6 @@
         "source": "Canngo Apotheke"
       },
       {
-        "pharmacy_id": "mw1iudtgisz5sxk7nzmwphtg",
-        "name": "cannabispromed (besser gesund OHG ipunkt Apotheke)",
-        "city": "Augsburg",
-        "plz": "86150",
-        "price": 4.99,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
         "pharmacy_id": "ywia6esjhiilbpr2y3kueopq",
         "name": "Cannabis-Taxi",
         "city": "Esslingen",
@@ -229,13 +220,13 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "spb7f67sn1bmfzbmm9r6apbt",
-        "name": "Mc Medi Apotheke Gohlis",
-        "city": "Leipzig",
-        "plz": "04105",
+        "pharmacy_id": "mw1iudtgisz5sxk7nzmwphtg",
+        "name": "cannabispromed (besser gesund OHG ipunkt Apotheke)",
+        "city": "Augsburg",
+        "plz": "86150",
         "price": 4.99,
         "available": true,
-        "source": "CannaFlow"
+        "source": "Cannaleo"
       },
       {
         "pharmacy_id": "kv1jm18ja0ydb1yszkc01mys",
@@ -245,6 +236,15 @@
         "price": 4.99,
         "available": true,
         "source": "Canngo Apotheke"
+      },
+      {
+        "pharmacy_id": "spb7f67sn1bmfzbmm9r6apbt",
+        "name": "Mc Medi Apotheke Gohlis",
+        "city": "Leipzig",
+        "plz": "04105",
+        "price": 4.99,
+        "available": true,
+        "source": "CannaFlow"
       },
       {
         "pharmacy_id": "fsnpjk1bllx2q8th76diqcxf",
@@ -1301,17 +1301,6 @@
         "source": "Cannaleo"
       }
     ],
-    "cookies 22/1 a b": [
-      {
-        "pharmacy_id": "vqma98ynwg0q92pjora82gtm",
-        "name": "cannabis-vor-ort.de - Die Hanf Apotheke (Tiergarten-Apotheke, Konstanz)",
-        "city": "Konstanz",
-        "plz": "78462",
-        "price": 8.0,
-        "available": true,
-        "source": "Cannaleo"
-      }
-    ],
     "imc oog thc 25 outdoor": [
       {
         "pharmacy_id": "k65upfauvvxshlsqybnkxa18",
@@ -1357,6 +1346,17 @@
         "city": "Marktredwitz",
         "plz": "95615",
         "price": 6.29,
+        "available": true,
+        "source": "Cannaleo"
+      }
+    ],
+    "cookies 22/1 a b": [
+      {
+        "pharmacy_id": "vqma98ynwg0q92pjora82gtm",
+        "name": "cannabis-vor-ort.de - Die Hanf Apotheke (Tiergarten-Apotheke, Konstanz)",
+        "city": "Konstanz",
+        "plz": "78462",
+        "price": 8.0,
         "available": true,
         "source": "Cannaleo"
       }
@@ -1426,17 +1426,6 @@
         "source": "Cannaleo"
       }
     ],
-    "hidealz 18/1 ms psy psyclone smalls": [
-      {
-        "pharmacy_id": "rshxukz0kyk4wmpgxig8o12z",
-        "name": "Prinzen Apotheke Frankfurt",
-        "city": "Frankfurt",
-        "plz": "60311",
-        "price": 4.95,
-        "available": true,
-        "source": "Cannaleo"
-      }
-    ],
     "faafo cannabis 24/1": [
       {
         "pharmacy_id": "v10pl4mewq7st35s8qgov3lp",
@@ -1482,6 +1471,17 @@
         "price": 6.9,
         "available": true,
         "source": "Canngo Apotheke"
+      }
+    ],
+    "hidealz 18/1 ms psy psyclone smalls": [
+      {
+        "pharmacy_id": "rshxukz0kyk4wmpgxig8o12z",
+        "name": "Prinzen Apotheke Frankfurt",
+        "city": "Frankfurt",
+        "plz": "60311",
+        "price": 4.95,
+        "available": true,
+        "source": "Cannaleo"
       }
     ],
     "somai cannabisextrakt hybrid 10 10": [
