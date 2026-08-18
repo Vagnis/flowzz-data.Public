@@ -1,6 +1,6 @@
 {
   "shard": 11,
-  "updated_at": "2026-08-18T15:10:44.400803+02:00",
+  "updated_at": "2026-08-18T15:46:57.438247+02:00",
   "prices": {
     "zoiks 26/1 lk": [
       {
@@ -434,6 +434,15 @@
         "source": "Cannaleo"
       },
       {
+        "pharmacy_id": "zu33hfmb3jl8hj5tip0cump8",
+        "name": "1A MEDCAN (Hans Mielich Apotheke, München)",
+        "city": "München",
+        "plz": "81543",
+        "price": 3.32,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
         "pharmacy_id": "k6xdimvrjqe9w739wp1encla",
         "name": "1A PHARMACAN (Löwen Apotheke München)",
         "city": "München",
@@ -461,15 +470,6 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "qh6gkq38fvhnhn63zx4iahm6",
-        "name": "3Königen Apotheke",
-        "city": "Krefeld",
-        "plz": "47798",
-        "price": 3.77,
-        "available": true,
-        "source": "Canngo Apotheke"
-      },
-      {
         "pharmacy_id": "vpomybf0shv98s1bvlfs4rgk",
         "name": "3Königen Apotheke (Dreikönigen Apotheke am Ostwall, Krefeld)",
         "city": "Krefeld",
@@ -477,6 +477,15 @@
         "price": 3.77,
         "available": true,
         "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "qh6gkq38fvhnhn63zx4iahm6",
+        "name": "3Königen Apotheke",
+        "city": "Krefeld",
+        "plz": "47798",
+        "price": 3.77,
+        "available": true,
+        "source": "Canngo Apotheke"
       },
       {
         "pharmacy_id": "v10pl4mewq7st35s8qgov3lp",
@@ -780,6 +789,17 @@
         "source": "Cannaleo"
       }
     ],
+    "dmc strong drop": [
+      {
+        "pharmacy_id": "v13hoqmgzzhg21iaumq0jg26",
+        "name": "WEEDCITY (Adler Apotheke, Wiesbaden)",
+        "city": "Wiesbaden",
+        "plz": "65185",
+        "price": 3.99,
+        "available": true,
+        "source": "Cannaleo"
+      }
+    ],
     "unltd 24/1 pnck stmpr": [
       {
         "pharmacy_id": "o4mci2sgzne7vf3ea67dib4k",
@@ -823,17 +843,6 @@
         "city": "Dietzenbach",
         "plz": "63128",
         "price": 5.49,
-        "available": true,
-        "source": "Cannaleo"
-      }
-    ],
-    "dmc strong drop": [
-      {
-        "pharmacy_id": "v13hoqmgzzhg21iaumq0jg26",
-        "name": "WEEDCITY (Adler Apotheke, Wiesbaden)",
-        "city": "Wiesbaden",
-        "plz": "65185",
-        "price": 3.99,
         "available": true,
         "source": "Cannaleo"
       }
@@ -2804,6 +2813,17 @@
         "source": "CannaFlow"
       }
     ],
+    "khiron pg 27/1": [
+      {
+        "pharmacy_id": "canthera",
+        "name": "Canthera",
+        "city": "Nürnberg",
+        "plz": "90403",
+        "price": 5.12,
+        "available": true,
+        "source": "canthera"
+      }
+    ],
     "remexian 30/1 rpk tsu": [
       {
         "pharmacy_id": "aa7cwasq91i50yqaoi1rdp3q",
@@ -2840,17 +2860,6 @@
         "price": 3.99,
         "available": true,
         "source": "CannaFlow"
-      }
-    ],
-    "khiron pg 27/1": [
-      {
-        "pharmacy_id": "canthera",
-        "name": "Canthera",
-        "city": "Nürnberg",
-        "plz": "90403",
-        "price": 5.12,
-        "available": true,
-        "source": "canthera"
       }
     ],
     "demecan craft go 26/01": [
@@ -3477,13 +3486,13 @@
         "source": "Cannaleo"
       }
     ],
-    "apothekenherstellung bedrocan extrakt 50 mg/ml thc": [
+    "apothekenherstellung weeco lmc 33/1 extrakt 100 mg/ml thc 100 mg/ml cbd": [
       {
         "pharmacy_id": "goet66lm5om7yu0rqvdyx14f",
         "name": "MARIEN APOTHEKE, Siegsdorf",
         "city": "Siegsdorf",
         "plz": "83313",
-        "price": 6.0,
+        "price": 10.5,
         "available": true,
         "source": "Cannaleo"
       }
@@ -3499,13 +3508,13 @@
         "source": "Cannaleo"
       }
     ],
-    "apothekenherstellung weeco lmc 33/1 extrakt 100 mg/ml thc 100 mg/ml cbd": [
+    "apothekenherstellung bedrocan extrakt 50 mg/ml thc": [
       {
         "pharmacy_id": "goet66lm5om7yu0rqvdyx14f",
         "name": "MARIEN APOTHEKE, Siegsdorf",
         "city": "Siegsdorf",
         "plz": "83313",
-        "price": 10.5,
+        "price": 6.0,
         "available": true,
         "source": "Cannaleo"
       }
