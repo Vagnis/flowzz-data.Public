@@ -1,6 +1,6 @@
 {
   "shard": 28,
-  "updated_at": "2026-08-18T18:21:40.797651+02:00",
+  "updated_at": "2026-08-18T18:48:24.265590+02:00",
   "prices": {
     "pedanios 31/1 cos ca": [
       {
@@ -204,6 +204,17 @@
         "city": "Melle",
         "plz": "49324",
         "price": 8.99,
+        "available": true,
+        "source": "Canngo Apotheke"
+      }
+    ],
+    "truu hs 21/01": [
+      {
+        "pharmacy_id": "gy578a394pqlekh7bo94iub6",
+        "name": "Apotheke im Franziskanerhof ",
+        "city": "München",
+        "plz": "81669",
+        "price": 6.66,
         "available": true,
         "source": "Canngo Apotheke"
       }
@@ -460,17 +471,6 @@
         "price": 8.29,
         "available": true,
         "source": "Cannaleo"
-      }
-    ],
-    "truu hs 21/01": [
-      {
-        "pharmacy_id": "gy578a394pqlekh7bo94iub6",
-        "name": "Apotheke im Franziskanerhof ",
-        "city": "München",
-        "plz": "81669",
-        "price": 6.66,
-        "available": true,
-        "source": "Canngo Apotheke"
       }
     ],
     "imc thc20 gga": [
@@ -1048,29 +1048,11 @@
     ],
     "buuo 26/1 vapor": [
       {
-        "pharmacy_id": "v13hoqmgzzhg21iaumq0jg26",
-        "name": "WEEDCITY (Adler Apotheke, Wiesbaden)",
-        "city": "Wiesbaden",
-        "plz": "65185",
-        "price": 3.73,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
         "pharmacy_id": "nkb3pcihrkx7ob3uhu5t4l2r",
         "name": "Cannabis Apotheke Frankfurt",
         "city": "Frankfurt am Main",
         "plz": "60487",
         "price": 3.89,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "gflzy0roem5c6com5tjknkpw",
-        "name": "Medicannabis Essen (easyApotheke Rathaus Galerie, Essen)",
-        "city": "Essen",
-        "plz": "45127",
-        "price": 4.19,
         "available": true,
         "source": "Cannaleo"
       },
@@ -1094,15 +1076,6 @@
       }
     ],
     "slouu 22/1 ps3 ca sbs": [
-      {
-        "pharmacy_id": "ts5y0hwy1y90ff163oj651dz",
-        "name": "420 Flowers Kreis Warendorf (Apotheke Hake, Ennigerloh)",
-        "city": "Ennigerloh",
-        "plz": "59320",
-        "price": 4.35,
-        "available": true,
-        "source": "Cannaleo"
-      },
       {
         "pharmacy_id": "ufpy6zidssfl96qxrnezhuk8",
         "name": "CannabisFürMich",
@@ -2113,19 +2086,19 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "s4x9esp059we959l9oglzo2g",
-        "name": "M-Cannabis (Apotheke an den 3 Hasen, Oberursel)",
-        "city": "Oberursel",
-        "plz": "61440",
+        "pharmacy_id": "o4mci2sgzne7vf3ea67dib4k",
+        "name": "easyApotheke Bayreuth-Süd",
+        "city": "Bayreuth",
+        "plz": "95447",
         "price": 5.45,
         "available": true,
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "o4mci2sgzne7vf3ea67dib4k",
-        "name": "easyApotheke Bayreuth-Süd",
-        "city": "Bayreuth",
-        "plz": "95447",
+        "pharmacy_id": "s4x9esp059we959l9oglzo2g",
+        "name": "M-Cannabis (Apotheke an den 3 Hasen, Oberursel)",
+        "city": "Oberursel",
+        "plz": "61440",
         "price": 5.45,
         "available": true,
         "source": "Cannaleo"
@@ -2248,6 +2221,15 @@
         "source": "Cannaleo"
       },
       {
+        "pharmacy_id": "f296rcptbg1vx9qk875cpyju",
+        "name": "HalleCann - Adler Apotheke",
+        "city": "Halle",
+        "plz": "06108",
+        "price": 6.99,
+        "available": true,
+        "source": "Canngo Apotheke"
+      },
+      {
         "pharmacy_id": "rlgkguz7pfbsqj1o5esn9fwo",
         "name": "happyhanf.hamburg (Apotheke an der Friedenseiche)",
         "city": "Hamburg",
@@ -2261,15 +2243,6 @@
         "name": "CannaTal",
         "city": "Engelskirchen ",
         "plz": "51766",
-        "price": 6.99,
-        "available": true,
-        "source": "Canngo Apotheke"
-      },
-      {
-        "pharmacy_id": "f296rcptbg1vx9qk875cpyju",
-        "name": "HalleCann - Adler Apotheke",
-        "city": "Halle",
-        "plz": "06108",
         "price": 6.99,
         "available": true,
         "source": "Canngo Apotheke"
