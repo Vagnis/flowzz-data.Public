@@ -1,6 +1,6 @@
 {
   "shard": 37,
-  "updated_at": "2026-08-18T10:19:05.798888+02:00",
+  "updated_at": "2026-08-18T11:14:06.873145+02:00",
   "prices": {
     "420 natural 20/1 ca zrp": [
       {
@@ -1372,15 +1372,6 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "f296rcptbg1vx9qk875cpyju",
-        "name": "HalleCann - Adler Apotheke",
-        "city": "Halle",
-        "plz": "06108",
-        "price": 9.98,
-        "available": true,
-        "source": "Canngo Apotheke"
-      },
-      {
         "pharmacy_id": "mtye9yhtgyzsei36r1yqzhf0",
         "name": "CannaLimes",
         "city": "Pohlheim",
@@ -1399,13 +1390,13 @@
         "source": "CannaFlow"
       },
       {
-        "pharmacy_id": "r137pbsbqwm3ioj47j21pjd2",
-        "name": "ABC Cannabis (ABC Apotheke am Werth, Wuppertal)",
-        "city": "Wuppertal",
-        "plz": "42275",
-        "price": 9.99,
+        "pharmacy_id": "f296rcptbg1vx9qk875cpyju",
+        "name": "HalleCann - Adler Apotheke",
+        "city": "Halle",
+        "plz": "06108",
+        "price": 9.98,
         "available": true,
-        "source": "Cannaleo"
+        "source": "Canngo Apotheke"
       },
       {
         "pharmacy_id": "qhez3nuvisok1pjne648303k",
@@ -1424,6 +1415,15 @@
         "price": 9.99,
         "available": true,
         "source": "Canngo Apotheke"
+      },
+      {
+        "pharmacy_id": "r137pbsbqwm3ioj47j21pjd2",
+        "name": "ABC Cannabis (ABC Apotheke am Werth, Wuppertal)",
+        "city": "Wuppertal",
+        "plz": "42275",
+        "price": 9.99,
+        "available": true,
+        "source": "Cannaleo"
       },
       {
         "pharmacy_id": "x13cm3eeqs267zcjwzmiuo7p",
@@ -1536,17 +1536,6 @@
         "source": "canthera"
       }
     ],
-    "remexian 30/1 pgf wrz": [
-      {
-        "pharmacy_id": "vqma98ynwg0q92pjora82gtm",
-        "name": "cannabis-vor-ort.de - Die Hanf Apotheke (Tiergarten-Apotheke, Konstanz)",
-        "city": "Konstanz",
-        "plz": "78462",
-        "price": 9.5,
-        "available": true,
-        "source": "Cannaleo"
-      }
-    ],
     "bc green 30/1": [
       {
         "pharmacy_id": "m5k0wvjphc511bg4vpi3efjf",
@@ -1653,6 +1642,17 @@
         "city": "Stephanskirchen",
         "plz": "83071",
         "price": 10.9,
+        "available": true,
+        "source": "Cannaleo"
+      }
+    ],
+    "remexian 30/1 pgf wrz": [
+      {
+        "pharmacy_id": "vqma98ynwg0q92pjora82gtm",
+        "name": "cannabis-vor-ort.de - Die Hanf Apotheke (Tiergarten-Apotheke, Konstanz)",
+        "city": "Konstanz",
+        "plz": "78462",
+        "price": 9.5,
         "available": true,
         "source": "Cannaleo"
       }
@@ -2713,13 +2713,22 @@
     ],
     "cannamedical cm 24/1 pg": [
       {
-        "pharmacy_id": "canthera",
-        "name": "Canthera",
-        "city": "Nürnberg",
-        "plz": "90403",
-        "price": 3.99,
+        "pharmacy_id": "yyva3bdg1zje9o9owqr5f74k",
+        "name": "Goldene Blüte",
+        "city": "Freystadt",
+        "plz": "92342",
+        "price": 7.95,
         "available": true,
-        "source": "canthera"
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "d7ifyugr20qxnkus509ceqfc",
+        "name": "Dr. Beckers Central Apotheke",
+        "city": "München",
+        "plz": "80335",
+        "price": 8.88,
+        "available": true,
+        "source": "Canngo Apotheke"
       }
     ],
     "enua 30/1 gpr ca": [
@@ -3088,6 +3097,26 @@
         "source": "Cannaleo"
       }
     ],
+    "hidealz 24/1 ms lep lemon petrol smalls": [
+      {
+        "pharmacy_id": "aa7cwasq91i50yqaoi1rdp3q",
+        "name": "SVAPO",
+        "city": "Offenbach",
+        "plz": "63075",
+        "price": 2.98,
+        "available": true,
+        "source": "Canngo Apotheke"
+      },
+      {
+        "pharmacy_id": "k9o5v1jfqv4taitn4g5p4reo",
+        "name": "3Leafs by Idris Apotheke",
+        "city": "Weinheim",
+        "plz": "69469",
+        "price": 2.98,
+        "available": true,
+        "source": "Canngo Apotheke"
+      }
+    ],
     "weeco tavira 23/1": [
       {
         "pharmacy_id": "b1cotx9gnyqovzzd387t0shw",
@@ -3160,26 +3189,6 @@
         "price": 5.7,
         "available": true,
         "source": "Cannaleo"
-      }
-    ],
-    "hidealz 24/1 ms lep lemon petrol smalls": [
-      {
-        "pharmacy_id": "aa7cwasq91i50yqaoi1rdp3q",
-        "name": "SVAPO",
-        "city": "Offenbach",
-        "plz": "63075",
-        "price": 2.98,
-        "available": true,
-        "source": "Canngo Apotheke"
-      },
-      {
-        "pharmacy_id": "k9o5v1jfqv4taitn4g5p4reo",
-        "name": "3Leafs by Idris Apotheke",
-        "city": "Weinheim",
-        "plz": "69469",
-        "price": 2.98,
-        "available": true,
-        "source": "Canngo Apotheke"
       }
     ],
     "huala 25/1 ca oct": [
@@ -3404,6 +3413,17 @@
         "source": "Cannaleo"
       }
     ],
+    "canify cannabis flos 27/1 cda ku": [
+      {
+        "pharmacy_id": "qh6gkq38fvhnhn63zx4iahm6",
+        "name": "3Königen Apotheke",
+        "city": "Krefeld",
+        "plz": "47798",
+        "price": 5.49,
+        "available": true,
+        "source": "Canngo Apotheke"
+      }
+    ],
     "crqsh jby 25/1": [
       {
         "pharmacy_id": "r137pbsbqwm3ioj47j21pjd2",
@@ -3467,17 +3487,6 @@
         "price": 8.99,
         "available": true,
         "source": "Cannaleo"
-      }
-    ],
-    "canify cannabis flos 27/1 cda ku": [
-      {
-        "pharmacy_id": "qh6gkq38fvhnhn63zx4iahm6",
-        "name": "3Königen Apotheke",
-        "city": "Krefeld",
-        "plz": "47798",
-        "price": 5.49,
-        "available": true,
-        "source": "Canngo Apotheke"
       }
     ],
     "avaay 22/1 pnk": [
@@ -3611,6 +3620,28 @@
         "source": "Cannaleo"
       }
     ],
+    "canify cannabis flos 20/1 uy ku gorilla glue 4": [
+      {
+        "pharmacy_id": "k65upfauvvxshlsqybnkxa18",
+        "name": "Sinsheim Cannabis Apotheke ",
+        "city": "Sinsheim",
+        "plz": "74889",
+        "price": 5.6,
+        "available": true,
+        "source": "Canngo Apotheke"
+      }
+    ],
+    "sumo mdlx 30/1": [
+      {
+        "pharmacy_id": "shy3b46sv6s7akhz71zydgda",
+        "name": "Ahorn Medics (Ahorn-Apotheke, Mörfelden-Walldorf)",
+        "city": "Mörfelden-Walldorf",
+        "plz": "64546",
+        "price": 5.95,
+        "available": true,
+        "source": "Cannaleo"
+      }
+    ],
     "firegold 33/1 anm animal mintz": [
       {
         "pharmacy_id": "o3eo7c0zb2yj929shptyrohx",
@@ -3683,28 +3714,6 @@
         "price": 9.98,
         "available": true,
         "source": "Cannaleo"
-      }
-    ],
-    "sumo mdlx 30/1": [
-      {
-        "pharmacy_id": "shy3b46sv6s7akhz71zydgda",
-        "name": "Ahorn Medics (Ahorn-Apotheke, Mörfelden-Walldorf)",
-        "city": "Mörfelden-Walldorf",
-        "plz": "64546",
-        "price": 5.95,
-        "available": true,
-        "source": "Cannaleo"
-      }
-    ],
-    "canify cannabis flos 20/1 uy ku gorilla glue 4": [
-      {
-        "pharmacy_id": "k65upfauvvxshlsqybnkxa18",
-        "name": "Sinsheim Cannabis Apotheke ",
-        "city": "Sinsheim",
-        "plz": "74889",
-        "price": 5.6,
-        "available": true,
-        "source": "Canngo Apotheke"
       }
     ],
     "demecan 20 20 oktonia cannabisextrakt typ 1": [
@@ -3983,17 +3992,6 @@
         "source": "Cannaleo"
       }
     ],
-    "adrex 1/25 extrakt": [
-      {
-        "pharmacy_id": "avumlbu7exee2inrhsz9jejc",
-        "name": "Cannabis Pluspunkt (Pluspunkt Apotheke im Anger 1, Erfurt)",
-        "city": "Erfurt",
-        "plz": "99084",
-        "price": 5.98,
-        "available": true,
-        "source": "Cannaleo"
-      }
-    ],
     "apothekenherstellung weeco lmc 33/1 extrakt 25 mg/ml thc 25 mg/ml cbd": [
       {
         "pharmacy_id": "goet66lm5om7yu0rqvdyx14f",
@@ -4001,6 +3999,17 @@
         "city": "Siegsdorf",
         "plz": "83313",
         "price": 3.7,
+        "available": true,
+        "source": "Cannaleo"
+      }
+    ],
+    "adrex 1/25 extrakt": [
+      {
+        "pharmacy_id": "avumlbu7exee2inrhsz9jejc",
+        "name": "Cannabis Pluspunkt (Pluspunkt Apotheke im Anger 1, Erfurt)",
+        "city": "Erfurt",
+        "plz": "99084",
+        "price": 5.98,
         "available": true,
         "source": "Cannaleo"
       }
