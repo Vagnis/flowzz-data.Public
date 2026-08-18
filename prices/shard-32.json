@@ -1,6 +1,6 @@
 {
   "shard": 32,
-  "updated_at": "2026-08-18T05:54:55.528201+02:00",
+  "updated_at": "2026-08-18T07:14:00.008032+02:00",
   "prices": {
     "avaay signature 34/1 ogc": [
       {
@@ -570,15 +570,6 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "ln62jknr5ws6df2qapadnu9f",
-        "name": "CANNABIS MURGTAL (Schwarzwald-Vital Apotheke Gaggenau)",
-        "city": "Gaggenau",
-        "plz": "76571",
-        "price": 4.49,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
         "pharmacy_id": "rblaf6a2u5uirm0n23gpydw9",
         "name": "Westgate-Apotheke ",
         "city": "Köln",
@@ -586,6 +577,15 @@
         "price": 4.49,
         "available": true,
         "source": "Canngo Apotheke"
+      },
+      {
+        "pharmacy_id": "ln62jknr5ws6df2qapadnu9f",
+        "name": "CANNABIS MURGTAL (Schwarzwald-Vital Apotheke Gaggenau)",
+        "city": "Gaggenau",
+        "plz": "76571",
+        "price": 4.49,
+        "available": true,
+        "source": "Cannaleo"
       },
       {
         "pharmacy_id": "r116flcyeg75w7e52nqcqgrk",
@@ -615,15 +615,6 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "bv8tsdnyvd4bxcnv7ndzrje3",
-        "name": "Blüten-Apotheke in München",
-        "city": "München",
-        "plz": "80804",
-        "price": 5.3,
-        "available": true,
-        "source": "Canngo Apotheke"
-      },
-      {
         "pharmacy_id": "lm1smrzvwkgr6nh0jiisa9mg",
         "name": "Blüten-Apotheke München",
         "city": "München",
@@ -631,6 +622,15 @@
         "price": 5.3,
         "available": true,
         "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "bv8tsdnyvd4bxcnv7ndzrje3",
+        "name": "Blüten-Apotheke in München",
+        "city": "München",
+        "plz": "80804",
+        "price": 5.3,
+        "available": true,
+        "source": "Canngo Apotheke"
       },
       {
         "pharmacy_id": "t9z0tu1lfzjyzlax5kgxhg5p",
@@ -2303,6 +2303,17 @@
         "source": "Cannaleo"
       }
     ],
+    "galaxia organic living soil gb 15/1": [
+      {
+        "pharmacy_id": "v10pl4mewq7st35s8qgov3lp",
+        "name": "CANNACOMPANY",
+        "city": "Bonn",
+        "plz": "53225",
+        "price": 2.99,
+        "available": true,
+        "source": "Cannaleo"
+      }
+    ],
     "enua 25/1 ics ca": [
       {
         "pharmacy_id": "shy3b46sv6s7akhz71zydgda",
@@ -2319,17 +2330,6 @@
         "city": "Sprockhövel",
         "plz": "45549",
         "price": 5.25,
-        "available": true,
-        "source": "Cannaleo"
-      }
-    ],
-    "galaxia organic living soil gb 15/1": [
-      {
-        "pharmacy_id": "v10pl4mewq7st35s8qgov3lp",
-        "name": "CANNACOMPANY",
-        "city": "Bonn",
-        "plz": "53225",
-        "price": 2.99,
         "available": true,
         "source": "Cannaleo"
       }
@@ -2797,17 +2797,6 @@
         "source": "Canngo Apotheke"
       }
     ],
-    "remexian 24/1 cke flv": [
-      {
-        "pharmacy_id": "jbaukw4x5id3qyn6x48mgm9c",
-        "name": "Blütenrhein",
-        "city": "Germersheim",
-        "plz": "76726",
-        "price": 7.75,
-        "available": true,
-        "source": "Canngo Apotheke"
-      }
-    ],
     "tilray thc15 spotlight porto": [
       {
         "pharmacy_id": "qtpbz8g0a9974pi63340rh5p",
@@ -2819,13 +2808,13 @@
         "source": "Canngo Apotheke"
       }
     ],
-    "canify cannabis flos 22/1 pt ku": [
+    "remexian 24/1 cke flv": [
       {
-        "pharmacy_id": "k65upfauvvxshlsqybnkxa18",
-        "name": "Sinsheim Cannabis Apotheke ",
-        "city": "Sinsheim",
-        "plz": "74889",
-        "price": 6.1,
+        "pharmacy_id": "jbaukw4x5id3qyn6x48mgm9c",
+        "name": "Blütenrhein",
+        "city": "Germersheim",
+        "plz": "76726",
+        "price": 7.75,
         "available": true,
         "source": "Canngo Apotheke"
       }
@@ -2985,6 +2974,17 @@
         "price": 4.99,
         "available": true,
         "source": "CannaFlow"
+      }
+    ],
+    "canify cannabis flos 22/1 pt ku": [
+      {
+        "pharmacy_id": "k65upfauvvxshlsqybnkxa18",
+        "name": "Sinsheim Cannabis Apotheke ",
+        "city": "Sinsheim",
+        "plz": "74889",
+        "price": 6.1,
+        "available": true,
+        "source": "Canngo Apotheke"
       }
     ],
     "nice 20/1 bzo": [
