@@ -1,6 +1,6 @@
 {
   "shard": 0,
-  "updated_at": "2026-08-18T15:10:27.612011+02:00",
+  "updated_at": "2026-08-18T15:46:40.006793+02:00",
   "prices": {
     "zoiks 26/1 sr": [
       {
@@ -394,15 +394,6 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "emtngt8xqpzp6ehnq57kl0jl",
-        "name": "Rhein-Main-Cannabis (Apotheke an der Warte, Frankfurt)",
-        "city": "Frankfurt",
-        "plz": "60326",
-        "price": 5.49,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
         "pharmacy_id": "jmhlapielurpfunfq1vdypx5",
         "name": "Rhein-Main-Cannabis (Park-Apotheke Wiesbaden)",
         "city": "Wiesbaden",
@@ -412,19 +403,28 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "dwdbsc32nh0brw8gtl0f7udy",
-        "name": "Bavarian Cannabis",
-        "city": "Puchheim",
-        "plz": "82178",
-        "price": 5.79,
+        "pharmacy_id": "emtngt8xqpzp6ehnq57kl0jl",
+        "name": "Rhein-Main-Cannabis (Apotheke an der Warte, Frankfurt)",
+        "city": "Frankfurt",
+        "plz": "60326",
+        "price": 5.49,
         "available": true,
-        "source": "Canngo Apotheke"
+        "source": "Cannaleo"
       },
       {
         "pharmacy_id": "tmwqooayfcrc8mz37xr8exfr",
         "name": "Cantoura",
         "city": "Berlin",
         "plz": "12103",
+        "price": 5.79,
+        "available": true,
+        "source": "Canngo Apotheke"
+      },
+      {
+        "pharmacy_id": "dwdbsc32nh0brw8gtl0f7udy",
+        "name": "Bavarian Cannabis",
+        "city": "Puchheim",
+        "plz": "82178",
         "price": 5.79,
         "available": true,
         "source": "Canngo Apotheke"
@@ -556,15 +556,6 @@
         "source": "CannaFlow"
       },
       {
-        "pharmacy_id": "wnwd3rb9bge9zbzye7yc45s1",
-        "name": "Bussicann Muenster · Cannabis Apotheke",
-        "city": "Münster",
-        "plz": "48163 ",
-        "price": 6.94,
-        "available": true,
-        "source": "Canngo Apotheke"
-      },
-      {
         "pharmacy_id": "qauvawhebvw5176qdosjja76",
         "name": "Bussicann Münster (Partus Hit-Apotheke, Münster)",
         "city": "Münster",
@@ -572,6 +563,15 @@
         "price": 6.94,
         "available": true,
         "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "wnwd3rb9bge9zbzye7yc45s1",
+        "name": "Bussicann Muenster · Cannabis Apotheke",
+        "city": "Münster",
+        "plz": "48163 ",
+        "price": 6.94,
+        "available": true,
+        "source": "Canngo Apotheke"
       },
       {
         "pharmacy_id": "ol501p64zgls9kh1opgrnx6y",
@@ -2133,6 +2133,17 @@
         "source": "Cannaleo"
       }
     ],
+    "botanics purple cream 22/1": [
+      {
+        "pharmacy_id": "fdi3ihiree0jrz4mdf3zmu69",
+        "name": "Cannabis Apotheke Blaue Blüten",
+        "city": "Passau ",
+        "plz": "94034",
+        "price": 9.1,
+        "available": true,
+        "source": "Canngo Apotheke"
+      }
+    ],
     "phcann exotics 32/1": [
       {
         "pharmacy_id": "k9o5v1jfqv4taitn4g5p4reo",
@@ -2252,13 +2263,13 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "wlalgvr4ayn71b3idwzik0k8",
-        "name": "Landmann Apotheke Saarbrücken",
-        "city": "Saarbrücken",
-        "plz": "66111",
+        "pharmacy_id": "x7rol625e5h0zass0noy0zwj",
+        "name": "Markt-Apotheke, Waldshut-Tiengen",
+        "city": "Waldshut-Tiengen",
+        "plz": "79761",
         "price": 5.99,
         "available": true,
-        "source": "Canngo Apotheke"
+        "source": "Cannaleo"
       },
       {
         "pharmacy_id": "r137pbsbqwm3ioj47j21pjd2",
@@ -2270,19 +2281,19 @@
         "source": "Cannaleo"
       },
       {
+        "pharmacy_id": "wlalgvr4ayn71b3idwzik0k8",
+        "name": "Landmann Apotheke Saarbrücken",
+        "city": "Saarbrücken",
+        "plz": "66111",
+        "price": 5.99,
+        "available": true,
+        "source": "Canngo Apotheke"
+      },
+      {
         "pharmacy_id": "e50vj7b350qajvdqj1mc6e1g",
         "name": "easygras (easyApotheke, Donauwörth)",
         "city": "Donauwörth",
         "plz": "86609",
-        "price": 5.99,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "x7rol625e5h0zass0noy0zwj",
-        "name": "Markt-Apotheke, Waldshut-Tiengen",
-        "city": "Waldshut-Tiengen",
-        "plz": "79761",
         "price": 5.99,
         "available": true,
         "source": "Cannaleo"
@@ -2333,15 +2344,6 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "mw1iudtgisz5sxk7nzmwphtg",
-        "name": "cannabispromed (besser gesund OHG ipunkt Apotheke)",
-        "city": "Augsburg",
-        "plz": "86150",
-        "price": 6.45,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
         "pharmacy_id": "kv1jm18ja0ydb1yszkc01mys",
         "name": "Besser Gesund OHG ipunkt Apotheke",
         "city": "Augsburg",
@@ -2351,19 +2353,28 @@
         "source": "Canngo Apotheke"
       },
       {
-        "pharmacy_id": "fuj6q7vpbn2e1jaa4rtn1v5e",
-        "name": "Grüne Blüte",
-        "city": "Markkleeberg",
-        "plz": "04416",
-        "price": 6.49,
+        "pharmacy_id": "mw1iudtgisz5sxk7nzmwphtg",
+        "name": "cannabispromed (besser gesund OHG ipunkt Apotheke)",
+        "city": "Augsburg",
+        "plz": "86150",
+        "price": 6.45,
         "available": true,
-        "source": "Canngo Apotheke"
+        "source": "Cannaleo"
       },
       {
         "pharmacy_id": "gbjpkkmxzbc1sv1cpbn9bx55",
         "name": "Apotheke im Hauptbahnhof",
         "city": "Gelsenkirchen",
         "plz": "45879",
+        "price": 6.49,
+        "available": true,
+        "source": "Canngo Apotheke"
+      },
+      {
+        "pharmacy_id": "fuj6q7vpbn2e1jaa4rtn1v5e",
+        "name": "Grüne Blüte",
+        "city": "Markkleeberg",
+        "plz": "04416",
         "price": 6.49,
         "available": true,
         "source": "Canngo Apotheke"
@@ -2468,19 +2479,19 @@
         "source": "Canngo Apotheke"
       },
       {
-        "pharmacy_id": "j10ifwpl6w9s9l3eeflt0n4v",
-        "name": "thcundco.de",
-        "city": "Hamburg",
-        "plz": "21073",
+        "pharmacy_id": "lm1smrzvwkgr6nh0jiisa9mg",
+        "name": "Blüten-Apotheke München",
+        "city": "München",
+        "plz": "80804",
         "price": 7.2,
         "available": true,
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "lm1smrzvwkgr6nh0jiisa9mg",
-        "name": "Blüten-Apotheke München",
-        "city": "München",
-        "plz": "80804",
+        "pharmacy_id": "j10ifwpl6w9s9l3eeflt0n4v",
+        "name": "thcundco.de",
+        "city": "Hamburg",
+        "plz": "21073",
         "price": 7.2,
         "available": true,
         "source": "Cannaleo"
@@ -2513,6 +2524,15 @@
         "source": "Cannaleo"
       },
       {
+        "pharmacy_id": "wibujcfc6v0is7um7l4ta6nq",
+        "name": "Augusta Green (Abtei Apotheke, Wadgassen)",
+        "city": "Wadgassen",
+        "plz": "66787",
+        "price": 8.49,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
         "pharmacy_id": "hnvguvgdjdixdcspd0dljneg",
         "name": "Augusta Green (St. Stephanus Apotheke, Illingen)",
         "city": "Illingen",
@@ -2526,15 +2546,6 @@
         "name": "Augusta Green (Apotheke Kraus, Schönenberg-Kübelberg)",
         "city": "Schönenberg-Kübelberg",
         "plz": "66901",
-        "price": 8.49,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "wibujcfc6v0is7um7l4ta6nq",
-        "name": "Augusta Green (Abtei Apotheke, Wadgassen)",
-        "city": "Wadgassen",
-        "plz": "66787",
         "price": 8.49,
         "available": true,
         "source": "Cannaleo"
@@ -2576,17 +2587,6 @@
         "source": "Cannaleo"
       }
     ],
-    "botanics purple cream 22/1": [
-      {
-        "pharmacy_id": "fdi3ihiree0jrz4mdf3zmu69",
-        "name": "Cannabis Apotheke Blaue Blüten",
-        "city": "Passau ",
-        "plz": "94034",
-        "price": 9.1,
-        "available": true,
-        "source": "Canngo Apotheke"
-      }
-    ],
     "thc akut 25 rs11": [
       {
         "pharmacy_id": "canthera",
@@ -2624,9 +2624,18 @@
         "name": "SVAPO",
         "city": "Offenbach",
         "plz": "63075",
-        "price": 3.69,
+        "price": 3.59,
         "available": true,
         "source": "Canngo Apotheke"
+      },
+      {
+        "pharmacy_id": "ptogkh4zqwpp43mcs4zehlq8",
+        "name": "THC Rheinland (Kleeblatt Apotheke, Düsseldorf Heerdt)",
+        "city": "Düsseldorf",
+        "plz": "40549",
+        "price": 3.6,
+        "available": true,
+        "source": "Cannaleo"
       },
       {
         "pharmacy_id": "ja6tjpdfrgxd4od8k6fefw3n",
@@ -3255,15 +3264,15 @@
         "source": "Canngo Apotheke"
       }
     ],
-    "botanics golden ace 20/1": [
+    "wtf 21/1 mic tap": [
       {
-        "pharmacy_id": "canthera",
-        "name": "Canthera",
-        "city": "Nürnberg",
-        "plz": "90403",
-        "price": 7.49,
+        "pharmacy_id": "q7qz76brdp85izpdojivp03v",
+        "name": "MYCANNABIS Wuppertal - Kronen Apotheke",
+        "city": "Wuppertal",
+        "plz": "42275 ",
+        "price": 5.0,
         "available": true,
-        "source": "canthera"
+        "source": "Canngo Apotheke"
       }
     ],
     "origine nature med 30/1": [
@@ -3286,15 +3295,15 @@
         "source": "Canngo Apotheke"
       }
     ],
-    "wtf 21/1 mic tap": [
+    "botanics golden ace 20/1": [
       {
-        "pharmacy_id": "q7qz76brdp85izpdojivp03v",
-        "name": "MYCANNABIS Wuppertal - Kronen Apotheke",
-        "city": "Wuppertal",
-        "plz": "42275 ",
-        "price": 5.0,
+        "pharmacy_id": "canthera",
+        "name": "Canthera",
+        "city": "Nürnberg",
+        "plz": "90403",
+        "price": 7.49,
         "available": true,
-        "source": "Canngo Apotheke"
+        "source": "canthera"
       }
     ],
     "tilray craft cannabisbl ten thc25 bbd blueberry donuts 29": [
