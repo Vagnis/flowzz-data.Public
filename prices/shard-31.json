@@ -1,6 +1,6 @@
 {
   "shard": 31,
-  "updated_at": "2026-08-18T17:29:49.081794+02:00",
+  "updated_at": "2026-08-18T18:21:45.831680+02:00",
   "prices": {
     "enua 27/1 ps3 ca bcp": [
       {
@@ -1091,6 +1091,15 @@
         "city": "Nürnberg",
         "plz": "90459",
         "price": 3.36,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "elddawva9r11lw5cowa37ouv",
+        "name": "Markus Apotheke Saarbrücken",
+        "city": "Saarbrücken",
+        "plz": "66133",
+        "price": 3.65,
         "available": true,
         "source": "Cannaleo"
       },
@@ -4536,15 +4545,6 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "k5hhgfqallvphv86zuao1hss",
-        "name": "Hohenzollern Apotheke Münster",
-        "city": "Münster",
-        "plz": "48145",
-        "price": 4.28,
-        "available": true,
-        "source": "Canngo Apotheke"
-      },
-      {
         "pharmacy_id": "qhez3nuvisok1pjne648303k",
         "name": "Hohenzollern Apotheke, Münster",
         "city": "Münster",
@@ -4552,6 +4552,15 @@
         "price": 4.28,
         "available": true,
         "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "k5hhgfqallvphv86zuao1hss",
+        "name": "Hohenzollern Apotheke Münster",
+        "city": "Münster",
+        "plz": "48145",
+        "price": 4.28,
+        "available": true,
+        "source": "Canngo Apotheke"
       },
       {
         "pharmacy_id": "n10agfa1382ht7kktqq87e41",
@@ -4599,15 +4608,6 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "m5k0wvjphc511bg4vpi3efjf",
-        "name": "Cannatree – Rats-Apotheke Düsseldorf",
-        "city": "Düsseldorf",
-        "plz": "40625",
-        "price": 4.95,
-        "available": true,
-        "source": "Canngo Apotheke"
-      },
-      {
         "pharmacy_id": "ziwc9a2ujoy8nh54ya2cwblq",
         "name": "Medicon-Nordostbahnhof",
         "city": "Nürnberg",
@@ -4615,6 +4615,15 @@
         "price": 4.95,
         "available": true,
         "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "m5k0wvjphc511bg4vpi3efjf",
+        "name": "Cannatree – Rats-Apotheke Düsseldorf",
+        "city": "Düsseldorf",
+        "plz": "40625",
+        "price": 4.95,
+        "available": true,
+        "source": "Canngo Apotheke"
       },
       {
         "pharmacy_id": "xu4p2ofr2o3egf52yoqzc0w7",
@@ -4644,15 +4653,6 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "kv1jm18ja0ydb1yszkc01mys",
-        "name": "Besser Gesund OHG ipunkt Apotheke",
-        "city": "Augsburg",
-        "plz": "86150",
-        "price": 5.01,
-        "available": true,
-        "source": "Canngo Apotheke"
-      },
-      {
         "pharmacy_id": "mw1iudtgisz5sxk7nzmwphtg",
         "name": "cannabispromed (besser gesund OHG ipunkt Apotheke)",
         "city": "Augsburg",
@@ -4660,6 +4660,15 @@
         "price": 5.01,
         "available": true,
         "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "kv1jm18ja0ydb1yszkc01mys",
+        "name": "Besser Gesund OHG ipunkt Apotheke",
+        "city": "Augsburg",
+        "plz": "86150",
+        "price": 5.01,
+        "available": true,
+        "source": "Canngo Apotheke"
       },
       {
         "pharmacy_id": "iddjbnaz8i4tosse9oo7n1i2",
@@ -4707,6 +4716,15 @@
         "source": "Cannaleo"
       },
       {
+        "pharmacy_id": "r481s1vjse40xv765uytf0qb",
+        "name": "Heidegras (easyApotheke Marktcenter Uelzen)",
+        "city": "Uelzen",
+        "plz": "29525",
+        "price": 5.95,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
         "pharmacy_id": "a13hi51az4m04pulzs3v5q8q",
         "name": "ELISANA Cannabis (Elisana Apotheke, Gelsenkirchen Buer)",
         "city": "Gelsenkirchen",
@@ -4720,15 +4738,6 @@
         "name": "ABC Cannabis (ABC Apotheke am Werth, Wuppertal)",
         "city": "Wuppertal",
         "plz": "42275",
-        "price": 5.95,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "r481s1vjse40xv765uytf0qb",
-        "name": "Heidegras (easyApotheke Marktcenter Uelzen)",
-        "city": "Uelzen",
-        "plz": "29525",
         "price": 5.95,
         "available": true,
         "source": "Cannaleo"
@@ -4842,19 +4851,19 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "j6jucui6lqtnvr4iw8naybej",
-        "name": "Hansecannabis (Alexander Apotheke City Süd, Hamburg)",
-        "city": "Hamburg",
-        "plz": "20097",
+        "pharmacy_id": "lijog898sce37woldqv19dgh",
+        "name": "Hansecannabis (Löns Apotheke, Bremen)",
+        "city": "Bremen",
+        "plz": "28239",
         "price": 6.95,
         "available": true,
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "lijog898sce37woldqv19dgh",
-        "name": "Hansecannabis (Löns Apotheke, Bremen)",
-        "city": "Bremen",
-        "plz": "28239",
+        "pharmacy_id": "j6jucui6lqtnvr4iw8naybej",
+        "name": "Hansecannabis (Alexander Apotheke City Süd, Hamburg)",
+        "city": "Hamburg",
+        "plz": "20097",
         "price": 6.95,
         "available": true,
         "source": "Cannaleo"
