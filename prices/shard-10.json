@@ -1,6 +1,6 @@
 {
   "shard": 10,
-  "updated_at": "2026-08-19T18:36:07.266903+02:00",
+  "updated_at": "2026-08-19T19:41:20.310941+02:00",
   "prices": {
     "medical saints 21/1 usr": [
       {
@@ -294,11 +294,29 @@
         "source": "Canngo Apotheke"
       },
       {
+        "pharmacy_id": "itcz5oyp1cham9l22setidok",
+        "name": "CannaMontana (Livus Apotheke)",
+        "city": "Bensheim",
+        "plz": "64625",
+        "price": 7.55,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
         "pharmacy_id": "yyva3bdg1zje9o9owqr5f74k",
         "name": "Goldene Blüte",
         "city": "Freystadt",
         "plz": "92342",
         "price": 7.59,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "bjdzg3cmxsdz2rhdtf3n7kna",
+        "name": "Burg Apotheke Kempten (Allgäu Cannabis) ",
+        "city": "Kempten",
+        "plz": "87435",
+        "price": 7.9,
         "available": true,
         "source": "Cannaleo"
       },
@@ -330,19 +348,19 @@
         "source": "Canngo Apotheke"
       },
       {
-        "pharmacy_id": "zbtslbr4edl7bf0om5rktmlv",
-        "name": "Rastatt",
-        "city": "Rastatt",
-        "plz": "76437",
+        "pharmacy_id": "ic6kdbe90w6rb7yt0h8mtpb6",
+        "name": "Apotheke in der Römergalerie",
+        "city": "Leonberg",
+        "plz": "71229",
         "price": 9.99,
         "available": true,
         "source": "Canngo Apotheke"
       },
       {
-        "pharmacy_id": "ic6kdbe90w6rb7yt0h8mtpb6",
-        "name": "Apotheke in der Römergalerie",
-        "city": "Leonberg",
-        "plz": "71229",
+        "pharmacy_id": "zbtslbr4edl7bf0om5rktmlv",
+        "name": "Rastatt",
+        "city": "Rastatt",
+        "plz": "76437",
         "price": 9.99,
         "available": true,
         "source": "Canngo Apotheke"
@@ -370,19 +388,19 @@
     ],
     "hidealz 24/1 ms lemonatti smalls": [
       {
-        "pharmacy_id": "aa7cwasq91i50yqaoi1rdp3q",
-        "name": "SVAPO",
-        "city": "Offenbach",
-        "plz": "63075",
+        "pharmacy_id": "k9o5v1jfqv4taitn4g5p4reo",
+        "name": "3Leafs by Idris Apotheke",
+        "city": "Weinheim",
+        "plz": "69469",
         "price": 3.21,
         "available": true,
         "source": "Canngo Apotheke"
       },
       {
-        "pharmacy_id": "k9o5v1jfqv4taitn4g5p4reo",
-        "name": "3Leafs by Idris Apotheke",
-        "city": "Weinheim",
-        "plz": "69469",
+        "pharmacy_id": "aa7cwasq91i50yqaoi1rdp3q",
+        "name": "SVAPO",
+        "city": "Offenbach",
+        "plz": "63075",
         "price": 3.21,
         "available": true,
         "source": "Canngo Apotheke"
@@ -424,29 +442,11 @@
         "source": "Canngo Apotheke"
       },
       {
-        "pharmacy_id": "jmcykhbuqlb42zruzeh8z9jm",
-        "name": "Mari-Jane (Moor-Apotheke, Friesoythe)",
-        "city": "Friesoythe",
-        "plz": "26169",
-        "price": 4.95,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
         "pharmacy_id": "z9a7jc0vu6xe1iuxued2xys4",
         "name": "Cannabis Südbaden (Apotheke am Schillerplatz)",
         "city": "Müllheim",
         "plz": "79379",
         "price": 5.15,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "y9ehusupb78xgu8jkurrf6cb",
-        "name": "Ostsee Cannabis (Marien Apotheke, Neubrandenburg)",
-        "city": "Neubrandenburg",
-        "plz": "17033",
-        "price": 5.25,
         "available": true,
         "source": "Cannaleo"
       },
@@ -848,15 +848,6 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "lvkvymu8q9uvz3d2aw2xglx5",
-        "name": "Rhein-Apotheke im Ärztehaus Mühlburg, Karlsruhe",
-        "city": "Karlsruhe",
-        "plz": "76185",
-        "price": 9.0,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
         "pharmacy_id": "mlsmfffzi4jp0e8kgivimxt4",
         "name": "Rhein-Apotheke Karlsruhe",
         "city": "Karlsruhe",
@@ -864,6 +855,15 @@
         "price": 9.0,
         "available": true,
         "source": "Canngo Apotheke"
+      },
+      {
+        "pharmacy_id": "lvkvymu8q9uvz3d2aw2xglx5",
+        "name": "Rhein-Apotheke im Ärztehaus Mühlburg, Karlsruhe",
+        "city": "Karlsruhe",
+        "plz": "76185",
+        "price": 9.0,
+        "available": true,
+        "source": "Cannaleo"
       },
       {
         "pharmacy_id": "wwgzr8nwdke6stnjelb1ekhh",
@@ -1177,15 +1177,6 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "gflzy0roem5c6com5tjknkpw",
-        "name": "Medicannabis Essen (easyApotheke Rathaus Galerie, Essen)",
-        "city": "Essen",
-        "plz": "45127",
-        "price": 3.99,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
         "pharmacy_id": "odvyg8x6lc1jbh5y0ihpdywt",
         "name": "Cannabis Vital Apotheke (Rosen-Apotheke im Center Hattersheim)",
         "city": "Hattersheim am Main",
@@ -1213,6 +1204,15 @@
         "source": "Canngo Apotheke"
       },
       {
+        "pharmacy_id": "gflzy0roem5c6com5tjknkpw",
+        "name": "Medicannabis Essen (easyApotheke Rathaus Galerie, Essen)",
+        "city": "Essen",
+        "plz": "45127",
+        "price": 3.99,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
         "pharmacy_id": "o3eo7c0zb2yj929shptyrohx",
         "name": "Myweed24 (Kleeblatt Apotheke am Ostwall)",
         "city": "Krefeld",
@@ -1222,19 +1222,19 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "jmhlapielurpfunfq1vdypx5",
-        "name": "Rhein-Main-Cannabis (Park-Apotheke Wiesbaden)",
-        "city": "Wiesbaden",
-        "plz": "65193",
+        "pharmacy_id": "emtngt8xqpzp6ehnq57kl0jl",
+        "name": "Rhein-Main-Cannabis (Apotheke an der Warte, Frankfurt)",
+        "city": "Frankfurt",
+        "plz": "60326",
         "price": 4.75,
         "available": true,
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "emtngt8xqpzp6ehnq57kl0jl",
-        "name": "Rhein-Main-Cannabis (Apotheke an der Warte, Frankfurt)",
-        "city": "Frankfurt",
-        "plz": "60326",
+        "pharmacy_id": "jmhlapielurpfunfq1vdypx5",
+        "name": "Rhein-Main-Cannabis (Park-Apotheke Wiesbaden)",
+        "city": "Wiesbaden",
+        "plz": "65193",
         "price": 4.75,
         "available": true,
         "source": "Cannaleo"
@@ -2336,19 +2336,19 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "z2u72ffm0csfpisve4ewvld0",
-        "name": "CURA GREEN (Heide Apotheke, Paderborn)",
-        "city": "Paderborn",
-        "plz": "33102",
+        "pharmacy_id": "gflzy0roem5c6com5tjknkpw",
+        "name": "Medicannabis Essen (easyApotheke Rathaus Galerie, Essen)",
+        "city": "Essen",
+        "plz": "45127",
         "price": 4.99,
         "available": true,
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "gflzy0roem5c6com5tjknkpw",
-        "name": "Medicannabis Essen (easyApotheke Rathaus Galerie, Essen)",
-        "city": "Essen",
-        "plz": "45127",
+        "pharmacy_id": "z2u72ffm0csfpisve4ewvld0",
+        "name": "CURA GREEN (Heide Apotheke, Paderborn)",
+        "city": "Paderborn",
+        "plz": "33102",
         "price": 4.99,
         "available": true,
         "source": "Cannaleo"
@@ -2545,6 +2545,15 @@
         "source": "Cannaleo"
       },
       {
+        "pharmacy_id": "i2b5rs73czjqmjyo26yu8vq3",
+        "name": "Cannabis Hamburg (Hinrichsen Apotheke, Hamburg)",
+        "city": "Hamburg",
+        "plz": "20535",
+        "price": 4.35,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
         "pharmacy_id": "ja6tjpdfrgxd4od8k6fefw3n",
         "name": "SOPHIE GREEN (Sophien Apotheke Meppen)",
         "city": "Meppen",
@@ -2581,13 +2590,13 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "lijog898sce37woldqv19dgh",
-        "name": "Hansecannabis (Löns Apotheke, Bremen)",
-        "city": "Bremen",
-        "plz": "28239",
+        "pharmacy_id": "e9eig0e5txi2bemw74rdfssx",
+        "name": "cannabisapo24",
+        "city": "Augsburg",
+        "plz": "86150",
         "price": 4.75,
         "available": true,
-        "source": "Cannaleo"
+        "source": "Canngo Apotheke"
       },
       {
         "pharmacy_id": "paq1qlwdooncaij3eyd2gsi9",
@@ -2599,13 +2608,13 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "e9eig0e5txi2bemw74rdfssx",
-        "name": "cannabisapo24",
-        "city": "Augsburg",
-        "plz": "86150",
+        "pharmacy_id": "lijog898sce37woldqv19dgh",
+        "name": "Hansecannabis (Löns Apotheke, Bremen)",
+        "city": "Bremen",
+        "plz": "28239",
         "price": 4.75,
         "available": true,
-        "source": "Canngo Apotheke"
+        "source": "Cannaleo"
       },
       {
         "pharmacy_id": "iutllm6j9cjoz0wc0tvlfzj2",
@@ -2626,19 +2635,19 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "kw6m1rc1mu9e9eqffp0hsoo4",
-        "name": "CannA3 (Medicon A3, Heßdorf)",
-        "city": "Heßdorf",
-        "plz": "91093",
+        "pharmacy_id": "pdzs4li77o6n6jvginfaxhch",
+        "name": "CannaGhost (Löwen-Apotheke, Bochum)",
+        "city": "Bochum",
+        "plz": "44866",
         "price": 4.8,
         "available": true,
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "pdzs4li77o6n6jvginfaxhch",
-        "name": "CannaGhost (Löwen-Apotheke, Bochum)",
-        "city": "Bochum",
-        "plz": "44866",
+        "pharmacy_id": "kw6m1rc1mu9e9eqffp0hsoo4",
+        "name": "CannA3 (Medicon A3, Heßdorf)",
+        "city": "Heßdorf",
+        "plz": "91093",
         "price": 4.8,
         "available": true,
         "source": "Cannaleo"
@@ -2671,10 +2680,10 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "k41gtdjgph2hlje2dmrv69fl",
-        "name": "CANNABIS KURIER (Apotheke im Knauber)",
-        "city": "Bonn",
-        "plz": "53115",
+        "pharmacy_id": "a13hi51az4m04pulzs3v5q8q",
+        "name": "ELISANA Cannabis (Elisana Apotheke, Gelsenkirchen Buer)",
+        "city": "Gelsenkirchen",
+        "plz": "45894",
         "price": 4.99,
         "available": true,
         "source": "Cannaleo"
@@ -2689,20 +2698,11 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "a13hi51az4m04pulzs3v5q8q",
-        "name": "ELISANA Cannabis (Elisana Apotheke, Gelsenkirchen Buer)",
-        "city": "Gelsenkirchen",
-        "plz": "45894",
+        "pharmacy_id": "k41gtdjgph2hlje2dmrv69fl",
+        "name": "CANNABIS KURIER (Apotheke im Knauber)",
+        "city": "Bonn",
+        "plz": "53115",
         "price": 4.99,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "nkb3pcihrkx7ob3uhu5t4l2r",
-        "name": "Cannabis Apotheke Frankfurt",
-        "city": "Frankfurt am Main",
-        "plz": "60487",
-        "price": 5.18,
         "available": true,
         "source": "Cannaleo"
       },
@@ -2716,6 +2716,15 @@
         "source": "Canngo Apotheke"
       },
       {
+        "pharmacy_id": "nkb3pcihrkx7ob3uhu5t4l2r",
+        "name": "Cannabis Apotheke Frankfurt",
+        "city": "Frankfurt am Main",
+        "plz": "60487",
+        "price": 5.18,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
         "pharmacy_id": "wfl4juhzqbgpsp8epr1w1t1t",
         "name": "cannamedicus (Medicus Apotheke, München)",
         "city": "München",
@@ -2725,10 +2734,10 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "uc8s7eynslwqdngjpx7k9oe7",
-        "name": "CannaQuick (Eulen-Apotheke, Quickborn)",
-        "city": "Quickborn",
-        "plz": "25451",
+        "pharmacy_id": "r137pbsbqwm3ioj47j21pjd2",
+        "name": "ABC Cannabis (ABC Apotheke am Werth, Wuppertal)",
+        "city": "Wuppertal",
+        "plz": "42275",
         "price": 5.49,
         "available": true,
         "source": "Cannaleo"
@@ -2743,15 +2752,6 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "r137pbsbqwm3ioj47j21pjd2",
-        "name": "ABC Cannabis (ABC Apotheke am Werth, Wuppertal)",
-        "city": "Wuppertal",
-        "plz": "42275",
-        "price": 5.49,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
         "pharmacy_id": "g43hyp5rr1ka0skfqbdmb7xs",
         "name": "Cannabis-apotheke-duisburg.de",
         "city": "Duisburg",
@@ -2759,6 +2759,15 @@
         "price": 5.49,
         "available": true,
         "source": "Canngo Apotheke"
+      },
+      {
+        "pharmacy_id": "uc8s7eynslwqdngjpx7k9oe7",
+        "name": "CannaQuick (Eulen-Apotheke, Quickborn)",
+        "city": "Quickborn",
+        "plz": "25451",
+        "price": 5.49,
+        "available": true,
+        "source": "Cannaleo"
       },
       {
         "pharmacy_id": "lox4xupth0cak19jika2wy2y",
@@ -2788,19 +2797,19 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "ervvr8h7xihn9oli1ycgqgwc",
-        "name": "Cannabis Shop der TE.AM Apotheken",
-        "city": "Sprockhövel",
-        "plz": "45549",
+        "pharmacy_id": "z4kj1agsgmr7xqptfazcrtss",
+        "name": "CannVita (nur Abholung & Botendienst)",
+        "city": "Bielefeld",
+        "plz": "33604",
         "price": 5.65,
         "available": true,
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "z4kj1agsgmr7xqptfazcrtss",
-        "name": "CannVita (nur Abholung & Botendienst)",
-        "city": "Bielefeld",
-        "plz": "33604",
+        "pharmacy_id": "ervvr8h7xihn9oli1ycgqgwc",
+        "name": "Cannabis Shop der TE.AM Apotheken",
+        "city": "Sprockhövel",
+        "plz": "45549",
         "price": 5.65,
         "available": true,
         "source": "Cannaleo"
@@ -2833,19 +2842,19 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "dit5bxx92u5iipcx8q3qcvb1",
-        "name": "Cannabis Champion (Central Apotheke Waiblingen)",
-        "city": "Waiblingen",
-        "plz": "71332",
+        "pharmacy_id": "eir0qkuttamsu8xvxazp32h0",
+        "name": "Park-Apotheke Stuttgart",
+        "city": "Stuttgart",
+        "plz": "70563",
         "price": 5.99,
         "available": true,
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "eir0qkuttamsu8xvxazp32h0",
-        "name": "Park-Apotheke Stuttgart",
-        "city": "Stuttgart",
-        "plz": "70563",
+        "pharmacy_id": "dit5bxx92u5iipcx8q3qcvb1",
+        "name": "Cannabis Champion (Central Apotheke Waiblingen)",
+        "city": "Waiblingen",
+        "plz": "71332",
         "price": 5.99,
         "available": true,
         "source": "Cannaleo"
@@ -2965,6 +2974,17 @@
         "source": "Cannaleo"
       }
     ],
+    "nice 26/1 swc": [
+      {
+        "pharmacy_id": "lvkvymu8q9uvz3d2aw2xglx5",
+        "name": "Rhein-Apotheke im Ärztehaus Mühlburg, Karlsruhe",
+        "city": "Karlsruhe",
+        "plz": "76185",
+        "price": 5.5,
+        "available": true,
+        "source": "Cannaleo"
+      }
+    ],
     "seven allegro 24/1": [
       {
         "pharmacy_id": "o4mci2sgzne7vf3ea67dib4k",
@@ -2990,17 +3010,6 @@
         "city": "Straubing",
         "plz": "94315",
         "price": 7.15,
-        "available": true,
-        "source": "Cannaleo"
-      }
-    ],
-    "nice 26/1 swc": [
-      {
-        "pharmacy_id": "lvkvymu8q9uvz3d2aw2xglx5",
-        "name": "Rhein-Apotheke im Ärztehaus Mühlburg, Karlsruhe",
-        "city": "Karlsruhe",
-        "plz": "76185",
-        "price": 5.5,
         "available": true,
         "source": "Cannaleo"
       }
@@ -3106,17 +3115,6 @@
         "source": "Cannaleo"
       }
     ],
-    "enua 22/1 bdo ca": [
-      {
-        "pharmacy_id": "n13dman1350oxfz2boblcwn0",
-        "name": "allgäu-cannabis",
-        "city": "Kempten",
-        "plz": "87435",
-        "price": 8.3,
-        "available": true,
-        "source": "Canngo Apotheke"
-      }
-    ],
     "noc se 15 light": [
       {
         "pharmacy_id": "z9a7jc0vu6xe1iuxued2xys4",
@@ -3135,6 +3133,17 @@
         "city": "Sinsheim",
         "plz": "74889",
         "price": 8.1,
+        "available": true,
+        "source": "Canngo Apotheke"
+      }
+    ],
+    "enua 22/1 bdo ca": [
+      {
+        "pharmacy_id": "n13dman1350oxfz2boblcwn0",
+        "name": "allgäu-cannabis",
+        "city": "Kempten",
+        "plz": "87435",
+        "price": 8.3,
         "available": true,
         "source": "Canngo Apotheke"
       }
