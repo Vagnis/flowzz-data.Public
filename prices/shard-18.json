@@ -1,6 +1,6 @@
 {
   "shard": 18,
-  "updated_at": "2026-08-19T10:00:21.859020+02:00",
+  "updated_at": "2026-08-19T10:55:18.745004+02:00",
   "prices": {
     "cannamedical sativa forte nm": [
       {
@@ -31,6 +31,15 @@
         "price": 5.08,
         "available": true,
         "source": "Canngo Apotheke"
+      },
+      {
+        "pharmacy_id": "m12ta2wuc2mfjagbetzlu5pc",
+        "name": "Cannabisversandapotheke (Löwen-Apotheke Altdorf)",
+        "city": "Altdorf",
+        "plz": "84032",
+        "price": 6.99,
+        "available": true,
+        "source": "Cannaleo"
       }
     ],
     "nice 27/1 km": [
@@ -1058,19 +1067,19 @@
         "source": "CannaFlow"
       },
       {
-        "pharmacy_id": "yyva3bdg1zje9o9owqr5f74k",
-        "name": "Goldene Blüte",
-        "city": "Freystadt",
-        "plz": "92342",
+        "pharmacy_id": "odvyg8x6lc1jbh5y0ihpdywt",
+        "name": "Cannabis Vital Apotheke (Rosen-Apotheke im Center Hattersheim)",
+        "city": "Hattersheim am Main",
+        "plz": "65795",
         "price": 5.25,
         "available": true,
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "odvyg8x6lc1jbh5y0ihpdywt",
-        "name": "Cannabis Vital Apotheke (Rosen-Apotheke im Center Hattersheim)",
-        "city": "Hattersheim am Main",
-        "plz": "65795",
+        "pharmacy_id": "yyva3bdg1zje9o9owqr5f74k",
+        "name": "Goldene Blüte",
+        "city": "Freystadt",
+        "plz": "92342",
         "price": 5.25,
         "available": true,
         "source": "Cannaleo"
@@ -1094,19 +1103,19 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "n10agfa1382ht7kktqq87e41",
-        "name": "Christophorus Apotheke Trostberg",
-        "city": "Trostberg",
-        "plz": "83308",
+        "pharmacy_id": "ln62jknr5ws6df2qapadnu9f",
+        "name": "CANNABIS MURGTAL (Schwarzwald-Vital Apotheke Gaggenau)",
+        "city": "Gaggenau",
+        "plz": "76571",
         "price": 5.49,
         "available": true,
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "ln62jknr5ws6df2qapadnu9f",
-        "name": "CANNABIS MURGTAL (Schwarzwald-Vital Apotheke Gaggenau)",
-        "city": "Gaggenau",
-        "plz": "76571",
+        "pharmacy_id": "n10agfa1382ht7kktqq87e41",
+        "name": "Christophorus Apotheke Trostberg",
+        "city": "Trostberg",
+        "plz": "83308",
         "price": 5.49,
         "available": true,
         "source": "Cannaleo"
@@ -1166,6 +1175,15 @@
         "source": "Canngo Apotheke"
       },
       {
+        "pharmacy_id": "v0gffm2xeivyogvrh58kvqbj",
+        "name": "Engel Apotheke Tiengen",
+        "city": "Tiengen",
+        "plz": "79761",
+        "price": 5.99,
+        "available": true,
+        "source": "Canngo Apotheke"
+      },
+      {
         "pharmacy_id": "o4mci2sgzne7vf3ea67dib4k",
         "name": "easyApotheke Bayreuth-Süd",
         "city": "Bayreuth",
@@ -1179,15 +1197,6 @@
         "name": "Angel Green Jestetten",
         "city": "Jestetten",
         "plz": "79798",
-        "price": 5.99,
-        "available": true,
-        "source": "Canngo Apotheke"
-      },
-      {
-        "pharmacy_id": "v0gffm2xeivyogvrh58kvqbj",
-        "name": "Engel Apotheke Tiengen",
-        "city": "Tiengen",
-        "plz": "79761",
         "price": 5.99,
         "available": true,
         "source": "Canngo Apotheke"
@@ -2099,6 +2108,17 @@
         "source": "Cannaleo"
       }
     ],
+    "bathera 25/1 gmo smalls": [
+      {
+        "pharmacy_id": "canthera",
+        "name": "Canthera",
+        "city": "Nürnberg",
+        "plz": "90403",
+        "price": 2.99,
+        "available": true,
+        "source": "canthera"
+      }
+    ],
     "amp omg thc27": [
       {
         "pharmacy_id": "klb793mrt91wo547pmiu43pl",
@@ -2209,15 +2229,6 @@
         "source": "Canngo Apotheke"
       },
       {
-        "pharmacy_id": "gbjpkkmxzbc1sv1cpbn9bx55",
-        "name": "Apotheke im Hauptbahnhof",
-        "city": "Gelsenkirchen",
-        "plz": "45879",
-        "price": 5.69,
-        "available": true,
-        "source": "Canngo Apotheke"
-      },
-      {
         "pharmacy_id": "zo92fouir89x0kovabrpludp",
         "name": "cannabis aspharm (Apotheke am Hauptbahnhof, Gelsenkirchen)",
         "city": "Gelsenkirchen",
@@ -2225,17 +2236,15 @@
         "price": 5.69,
         "available": true,
         "source": "Cannaleo"
-      }
-    ],
-    "bathera 25/1 gmo smalls": [
+      },
       {
-        "pharmacy_id": "canthera",
-        "name": "Canthera",
-        "city": "Nürnberg",
-        "plz": "90403",
-        "price": 2.99,
+        "pharmacy_id": "gbjpkkmxzbc1sv1cpbn9bx55",
+        "name": "Apotheke im Hauptbahnhof",
+        "city": "Gelsenkirchen",
+        "plz": "45879",
+        "price": 5.69,
         "available": true,
-        "source": "canthera"
+        "source": "Canngo Apotheke"
       }
     ],
     "apollo 28/1 jgn": [
@@ -2735,6 +2744,24 @@
         "source": "Canngo Apotheke"
       },
       {
+        "pharmacy_id": "p21xjokj66w7335i3hni66z7",
+        "name": "Adler Cannabis Ruhrort (Adler Apotheke, Duisburg)",
+        "city": "Duisburg",
+        "plz": "47119",
+        "price": 4.55,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "beemsjxurs661umtdyr9lk9v",
+        "name": "Cannabis Greifswald (Rosen-Apotheke, Greifswald)",
+        "city": "Greifswald",
+        "plz": "17491",
+        "price": 5.45,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
         "pharmacy_id": "x138xetyktfzh7bo28kp9z6p",
         "name": "Happy-Cannamed",
         "city": "Cloppenburg",
@@ -2769,6 +2796,24 @@
         "price": 7.02,
         "available": true,
         "source": "Canngo Apotheke"
+      },
+      {
+        "pharmacy_id": "nnxrhmkimtykjg5be5khyhr7",
+        "name": "Cannabis Apotheke (Apotheke LUX 99, Köln-Hürth)",
+        "city": "Hürth",
+        "plz": "50354",
+        "price": 7.02,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "p37hsftr0vmxfwdfeqtfqu2f",
+        "name": "Cannabis Reutlingen (Bahnhof Apotheke Reutlingen, Reutlingen)",
+        "city": "Reutlingen",
+        "plz": "72764",
+        "price": 8.0,
+        "available": true,
+        "source": "Cannaleo"
       },
       {
         "pharmacy_id": "xxdak2dvs7q8f7h2jhhvx1sa",
