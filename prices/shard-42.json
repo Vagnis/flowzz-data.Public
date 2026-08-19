@@ -1,6 +1,6 @@
 {
   "shard": 42,
-  "updated_at": "2026-08-19T09:09:31.745475+02:00",
+  "updated_at": "2026-08-19T10:01:03.814422+02:00",
   "prices": {
     "zoiks 22/1 bb": [
       {
@@ -100,15 +100,6 @@
         "source": "CannaFlow"
       },
       {
-        "pharmacy_id": "dwdbsc32nh0brw8gtl0f7udy",
-        "name": "Bavarian Cannabis",
-        "city": "Puchheim",
-        "plz": "82178",
-        "price": 6.49,
-        "available": true,
-        "source": "Canngo Apotheke"
-      },
-      {
         "pharmacy_id": "crzm01w47yi7mm5434gnewz8",
         "name": "Kudamm Botanics (Apotheke am Zoo, Berlin)",
         "city": "Berlin",
@@ -116,6 +107,15 @@
         "price": 6.49,
         "available": true,
         "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "dwdbsc32nh0brw8gtl0f7udy",
+        "name": "Bavarian Cannabis",
+        "city": "Puchheim",
+        "plz": "82178",
+        "price": 6.49,
+        "available": true,
+        "source": "Canngo Apotheke"
       },
       {
         "pharmacy_id": "yuqbqo3u6ejne2bxqrhh7alc",
@@ -163,24 +163,6 @@
         "source": "Canngo Apotheke"
       },
       {
-        "pharmacy_id": "k1fv66xz9tfpngfk1dzcgjvn",
-        "name": "Cannabis Vital Apotheke (Rosen Apotheke im Center Hattersheim)",
-        "city": "Hattersheim",
-        "plz": "65795",
-        "price": 7.49,
-        "available": true,
-        "source": "Canngo Apotheke"
-      },
-      {
-        "pharmacy_id": "odvyg8x6lc1jbh5y0ihpdywt",
-        "name": "Cannabis Vital Apotheke (Rosen-Apotheke im Center Hattersheim)",
-        "city": "Hattersheim am Main",
-        "plz": "65795",
-        "price": 7.49,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
         "pharmacy_id": "uc8s7eynslwqdngjpx7k9oe7",
         "name": "CannaQuick (Eulen-Apotheke, Quickborn)",
         "city": "Quickborn",
@@ -190,10 +172,28 @@
         "source": "Cannaleo"
       },
       {
+        "pharmacy_id": "k1fv66xz9tfpngfk1dzcgjvn",
+        "name": "Cannabis Vital Apotheke (Rosen Apotheke im Center Hattersheim)",
+        "city": "Hattersheim",
+        "plz": "65795",
+        "price": 7.49,
+        "available": true,
+        "source": "Canngo Apotheke"
+      },
+      {
         "pharmacy_id": "iox4099qc3ji0xl5x6hzb43n",
         "name": "Fox20 (Oberländer Apotheke, München)",
         "city": "München",
         "plz": "81371",
+        "price": 7.49,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "odvyg8x6lc1jbh5y0ihpdywt",
+        "name": "Cannabis Vital Apotheke (Rosen-Apotheke im Center Hattersheim)",
+        "city": "Hattersheim am Main",
+        "plz": "65795",
         "price": 7.49,
         "available": true,
         "source": "Cannaleo"
@@ -2693,6 +2693,17 @@
         "source": "Cannaleo"
       }
     ],
+    "khiron wed 22/1": [
+      {
+        "pharmacy_id": "k65upfauvvxshlsqybnkxa18",
+        "name": "Sinsheim Cannabis Apotheke ",
+        "city": "Sinsheim",
+        "plz": "74889",
+        "price": 5.8,
+        "available": true,
+        "source": "Canngo Apotheke"
+      }
+    ],
     "kush mountain craft 27/1 gth": [
       {
         "pharmacy_id": "zhzlc0a8wfzt6t1bw62f7okl",
@@ -2936,17 +2947,6 @@
         "price": 7.99,
         "available": true,
         "source": "Cannaleo"
-      }
-    ],
-    "khiron wed 22/1": [
-      {
-        "pharmacy_id": "k65upfauvvxshlsqybnkxa18",
-        "name": "Sinsheim Cannabis Apotheke ",
-        "city": "Sinsheim",
-        "plz": "74889",
-        "price": 5.8,
-        "available": true,
-        "source": "Canngo Apotheke"
       }
     ],
     "remexian 20/1 mhi huw": [
