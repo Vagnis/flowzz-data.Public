@@ -1,6 +1,6 @@
 {
   "shard": 31,
-  "updated_at": "2026-08-19T04:20:18.422099+02:00",
+  "updated_at": "2026-08-19T04:49:55.902049+02:00",
   "prices": {
     "enua 27/1 ps3 ca bcp": [
       {
@@ -3105,6 +3105,24 @@
         "source": "Canngo Apotheke"
       },
       {
+        "pharmacy_id": "k1fv66xz9tfpngfk1dzcgjvn",
+        "name": "Cannabis Vital Apotheke (Rosen Apotheke im Center Hattersheim)",
+        "city": "Hattersheim",
+        "plz": "65795",
+        "price": 4.99,
+        "available": true,
+        "source": "Canngo Apotheke"
+      },
+      {
+        "pharmacy_id": "hdxqag2wtc1be6c48cuxrhjm",
+        "name": "Cannabis4wuppertal (Widder-Apotheke)",
+        "city": "Wuppertal",
+        "plz": "42277",
+        "price": 4.99,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
         "pharmacy_id": "zj65v2rxzoaiwxt5uiperebu",
         "name": "Monkey Cannabis",
         "city": "Menden",
@@ -3121,24 +3139,6 @@
         "price": 4.99,
         "available": true,
         "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "hdxqag2wtc1be6c48cuxrhjm",
-        "name": "Cannabis4wuppertal (Widder-Apotheke)",
-        "city": "Wuppertal",
-        "plz": "42277",
-        "price": 4.99,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "k1fv66xz9tfpngfk1dzcgjvn",
-        "name": "Cannabis Vital Apotheke (Rosen Apotheke im Center Hattersheim)",
-        "city": "Hattersheim",
-        "plz": "65795",
-        "price": 4.99,
-        "available": true,
-        "source": "Canngo Apotheke"
       },
       {
         "pharmacy_id": "ou7bk2r8odsdosucy86xesej",
@@ -3754,6 +3754,17 @@
         "source": "Cannaleo"
       }
     ],
+    "tweed bmt 33/1": [
+      {
+        "pharmacy_id": "canthera",
+        "name": "Canthera",
+        "city": "Nürnberg",
+        "plz": "90403",
+        "price": 4.99,
+        "available": true,
+        "source": "canthera"
+      }
+    ],
     "apollo 25/1 bft": [
       {
         "pharmacy_id": "lramdha0a0kmvyo1hscrabef",
@@ -3772,17 +3783,6 @@
         "price": 4.38,
         "available": true,
         "source": "Cannaleo"
-      }
-    ],
-    "tweed bmt 33/1": [
-      {
-        "pharmacy_id": "canthera",
-        "name": "Canthera",
-        "city": "Nürnberg",
-        "plz": "90403",
-        "price": 4.99,
-        "available": true,
-        "source": "canthera"
       }
     ],
     "cannovum natura khz 28/1": [
@@ -3917,15 +3917,6 @@
         "source": "Canngo Apotheke"
       },
       {
-        "pharmacy_id": "hdxqag2wtc1be6c48cuxrhjm",
-        "name": "Cannabis4wuppertal (Widder-Apotheke)",
-        "city": "Wuppertal",
-        "plz": "42277",
-        "price": 8.49,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
         "pharmacy_id": "upnfquggwejv5lmcknkrkkkd",
         "name": "CannabisQuelle (Apotheke im Brandenburger Einkaufszentrum, Brandenburg)",
         "city": "Brandenburg",
@@ -3942,6 +3933,15 @@
         "price": 8.49,
         "available": true,
         "source": "Canngo Apotheke"
+      },
+      {
+        "pharmacy_id": "hdxqag2wtc1be6c48cuxrhjm",
+        "name": "Cannabis4wuppertal (Widder-Apotheke)",
+        "city": "Wuppertal",
+        "plz": "42277",
+        "price": 8.49,
+        "available": true,
+        "source": "Cannaleo"
       },
       {
         "pharmacy_id": "ka2apx2j0bmvdkzls5cl7lim",
@@ -4626,15 +4626,6 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "ziwc9a2ujoy8nh54ya2cwblq",
-        "name": "Medicon-Nordostbahnhof",
-        "city": "Nürnberg",
-        "plz": "90409",
-        "price": 4.95,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
         "pharmacy_id": "m5k0wvjphc511bg4vpi3efjf",
         "name": "Cannatree – Rats-Apotheke Düsseldorf",
         "city": "Düsseldorf",
@@ -4642,6 +4633,15 @@
         "price": 4.95,
         "available": true,
         "source": "Canngo Apotheke"
+      },
+      {
+        "pharmacy_id": "ziwc9a2ujoy8nh54ya2cwblq",
+        "name": "Medicon-Nordostbahnhof",
+        "city": "Nürnberg",
+        "plz": "90409",
+        "price": 4.95,
+        "available": true,
+        "source": "Cannaleo"
       },
       {
         "pharmacy_id": "ve12fiueb8n0sg7o5qei37ik",
@@ -4734,10 +4734,10 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "r481s1vjse40xv765uytf0qb",
-        "name": "Heidegras (easyApotheke Marktcenter Uelzen)",
-        "city": "Uelzen",
-        "plz": "29525",
+        "pharmacy_id": "a13hi51az4m04pulzs3v5q8q",
+        "name": "ELISANA Cannabis (Elisana Apotheke, Gelsenkirchen Buer)",
+        "city": "Gelsenkirchen",
+        "plz": "45894",
         "price": 5.95,
         "available": true,
         "source": "Cannaleo"
@@ -4752,10 +4752,10 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "a13hi51az4m04pulzs3v5q8q",
-        "name": "ELISANA Cannabis (Elisana Apotheke, Gelsenkirchen Buer)",
-        "city": "Gelsenkirchen",
-        "plz": "45894",
+        "pharmacy_id": "r481s1vjse40xv765uytf0qb",
+        "name": "Heidegras (easyApotheke Marktcenter Uelzen)",
+        "city": "Uelzen",
+        "plz": "29525",
         "price": 5.95,
         "available": true,
         "source": "Cannaleo"
@@ -4770,19 +4770,19 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "x13cm3eeqs267zcjwzmiuo7p",
-        "name": "Einhorn Apotheken Kassel und Baunatal (420unicorn)",
-        "city": "Baunatal",
-        "plz": "34225",
+        "pharmacy_id": "lvkvymu8q9uvz3d2aw2xglx5",
+        "name": "Rhein-Apotheke im Ärztehaus Mühlburg, Karlsruhe",
+        "city": "Karlsruhe",
+        "plz": "76185",
         "price": 6.0,
         "available": true,
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "lvkvymu8q9uvz3d2aw2xglx5",
-        "name": "Rhein-Apotheke im Ärztehaus Mühlburg, Karlsruhe",
-        "city": "Karlsruhe",
-        "plz": "76185",
+        "pharmacy_id": "x13cm3eeqs267zcjwzmiuo7p",
+        "name": "Einhorn Apotheken Kassel und Baunatal (420unicorn)",
+        "city": "Baunatal",
+        "plz": "34225",
         "price": 6.0,
         "available": true,
         "source": "Cannaleo"
@@ -4824,19 +4824,19 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "jvtoy81l4xodgm3yhglruax3",
-        "name": "Cannabis Pforzheim (HW Stadt Apotheke, Pforzheim)",
-        "city": "Pforzheim",
-        "plz": "75172",
+        "pharmacy_id": "duwr8oru943qslthrxydzefo",
+        "name": "Cannabis Freiburg (Apotheke am Berliner Tor Freiburg)",
+        "city": "Freiburg",
+        "plz": "79110",
         "price": 6.5,
         "available": true,
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "duwr8oru943qslthrxydzefo",
-        "name": "Cannabis Freiburg (Apotheke am Berliner Tor Freiburg)",
-        "city": "Freiburg",
-        "plz": "79110",
+        "pharmacy_id": "jvtoy81l4xodgm3yhglruax3",
+        "name": "Cannabis Pforzheim (HW Stadt Apotheke, Pforzheim)",
+        "city": "Pforzheim",
+        "plz": "75172",
         "price": 6.5,
         "available": true,
         "source": "Cannaleo"
