@@ -1,6 +1,6 @@
 {
   "shard": 23,
-  "updated_at": "2026-08-19T15:30:46.522828+02:00",
+  "updated_at": "2026-08-19T16:13:42.812748+02:00",
   "prices": {
     "pedanios 26/1 ehd ca": [
       {
@@ -142,6 +142,15 @@
         "name": "ELISANA Cannabis (Elisana Apotheke, Gelsenkirchen Buer)",
         "city": "Gelsenkirchen",
         "plz": "45894",
+        "price": 3.99,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "i86o9y14bkcb2lsc3hv51tjq",
+        "name": "apondium Cannabis (Süd-Apotheke, Düsseldorf)",
+        "city": "Düsseldorf",
+        "plz": "40225",
         "price": 3.99,
         "available": true,
         "source": "Cannaleo"
@@ -1779,26 +1788,6 @@
         "source": "Cannaleo"
       }
     ],
-    "cannamedical hybrid forte 24/1": [
-      {
-        "pharmacy_id": "n11o6xs4h95x4dxms8b8xira",
-        "name": "Grafen Cannabis Apotheke",
-        "city": "Düsseldorf",
-        "plz": "40235",
-        "price": 5.45,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "yyva3bdg1zje9o9owqr5f74k",
-        "name": "Goldene Blüte",
-        "city": "Freystadt",
-        "plz": "92342",
-        "price": 7.75,
-        "available": true,
-        "source": "Cannaleo"
-      }
-    ],
     "demecan craft pineapple 30 01": [
       {
         "pharmacy_id": "iutllm6j9cjoz0wc0tvlfzj2",
@@ -1909,15 +1898,6 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "r66ve2dcfqlp1sxrc12ew1kv",
-        "name": "Canamedico - Cannabis-Mainfranken",
-        "city": "Volkach",
-        "plz": "97332",
-        "price": 7.99,
-        "available": true,
-        "source": "CannaFlow"
-      },
-      {
         "pharmacy_id": "ywia6esjhiilbpr2y3kueopq",
         "name": "Cannabis-Taxi",
         "city": "Esslingen",
@@ -1925,6 +1905,15 @@
         "price": 7.99,
         "available": true,
         "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "r66ve2dcfqlp1sxrc12ew1kv",
+        "name": "Canamedico - Cannabis-Mainfranken",
+        "city": "Volkach",
+        "plz": "97332",
+        "price": 7.99,
+        "available": true,
+        "source": "CannaFlow"
       },
       {
         "pharmacy_id": "wrvvyxbuiwv20bzqym8td75j",
@@ -2053,13 +2042,13 @@
         "source": "Canngo Apotheke"
       },
       {
-        "pharmacy_id": "uaskhmvz8wppqj05163k5ec5",
-        "name": "Alpenblüte x Rehmaus Apotheke",
-        "city": "Geretsried",
-        "plz": "82538",
+        "pharmacy_id": "q9uob64rqcl3ocucna5ta7pw",
+        "name": "Ratioapotheke, Otzberg",
+        "city": "Otzberg",
+        "plz": "64853",
         "price": 8.95,
         "available": true,
-        "source": "CannaFlow"
+        "source": "Cannaleo"
       },
       {
         "pharmacy_id": "vmj4udkpb4ft94106jjbw1jm",
@@ -2071,13 +2060,13 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "q9uob64rqcl3ocucna5ta7pw",
-        "name": "Ratioapotheke, Otzberg",
-        "city": "Otzberg",
-        "plz": "64853",
+        "pharmacy_id": "uaskhmvz8wppqj05163k5ec5",
+        "name": "Alpenblüte x Rehmaus Apotheke",
+        "city": "Geretsried",
+        "plz": "82538",
         "price": 8.95,
         "available": true,
-        "source": "Cannaleo"
+        "source": "CannaFlow"
       },
       {
         "pharmacy_id": "iox4099qc3ji0xl5x6hzb43n",
@@ -2134,19 +2123,19 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "fsbk5u4481ge8by85dqwljj2",
-        "name": "neue Apotheke markt. Sinzheim",
-        "city": "Sinzheim",
-        "plz": "76547",
+        "pharmacy_id": "eyrkxoasd6bh2qsyxuonsupo",
+        "name": "Tremonia Cannabis (Merkur Apotheke, Dortmund)",
+        "city": "Dortmund",
+        "plz": "44289 ",
         "price": 9.95,
         "available": true,
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "eyrkxoasd6bh2qsyxuonsupo",
-        "name": "Tremonia Cannabis (Merkur Apotheke, Dortmund)",
-        "city": "Dortmund",
-        "plz": "44289 ",
+        "pharmacy_id": "fsbk5u4481ge8by85dqwljj2",
+        "name": "neue Apotheke markt. Sinzheim",
+        "city": "Sinzheim",
+        "plz": "76547",
         "price": 9.95,
         "available": true,
         "source": "Cannaleo"
@@ -2157,6 +2146,26 @@
         "city": "Siegsdorf",
         "plz": "83313",
         "price": 13.0,
+        "available": true,
+        "source": "Cannaleo"
+      }
+    ],
+    "cannamedical hybrid forte 24/1": [
+      {
+        "pharmacy_id": "n11o6xs4h95x4dxms8b8xira",
+        "name": "Grafen Cannabis Apotheke",
+        "city": "Düsseldorf",
+        "plz": "40235",
+        "price": 5.45,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "yyva3bdg1zje9o9owqr5f74k",
+        "name": "Goldene Blüte",
+        "city": "Freystadt",
+        "plz": "92342",
+        "price": 7.75,
         "available": true,
         "source": "Cannaleo"
       }
@@ -2300,6 +2309,15 @@
         "price": 3.49,
         "available": true,
         "source": "Canngo Apotheke"
+      },
+      {
+        "pharmacy_id": "crzm01w47yi7mm5434gnewz8",
+        "name": "Kudamm Botanics (Apotheke am Zoo, Berlin)",
+        "city": "Berlin",
+        "plz": "10623",
+        "price": 3.99,
+        "available": true,
+        "source": "Cannaleo"
       },
       {
         "pharmacy_id": "r137pbsbqwm3ioj47j21pjd2",
@@ -3004,37 +3022,6 @@
         "source": "Cannaleo"
       }
     ],
-    "cannabistada 20/1 pik": [
-      {
-        "pharmacy_id": "u97hxa5o9o7c1pl8uxmy716g",
-        "name": "pinkbloom, pharmaphant Apotheke (Apotheke Cannabis)",
-        "city": "Tübingen",
-        "plz": "72072",
-        "price": 12.67,
-        "available": true,
-        "source": "Cannaleo"
-      }
-    ],
-    "cookies 2 0 27/1": [
-      {
-        "pharmacy_id": "zt74hyn38sfr9e6hop1qsn3r",
-        "name": "Cannatopie (Stadt Apotheke, Saarbrücken)",
-        "city": "Saarbrücken",
-        "plz": "66111",
-        "price": 6.6,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "z4kj1agsgmr7xqptfazcrtss",
-        "name": "CannVita (nur Abholung & Botendienst)",
-        "city": "Bielefeld",
-        "plz": "33604",
-        "price": 7.95,
-        "available": true,
-        "source": "Cannaleo"
-      }
-    ],
     "omg 27/1 iml ggl": [
       {
         "pharmacy_id": "zt74hyn38sfr9e6hop1qsn3r",
@@ -3114,6 +3101,37 @@
         "city": "München",
         "plz": "80331",
         "price": 7.15,
+        "available": true,
+        "source": "Cannaleo"
+      }
+    ],
+    "cannabistada 20/1 pik": [
+      {
+        "pharmacy_id": "u97hxa5o9o7c1pl8uxmy716g",
+        "name": "pinkbloom, pharmaphant Apotheke (Apotheke Cannabis)",
+        "city": "Tübingen",
+        "plz": "72072",
+        "price": 12.67,
+        "available": true,
+        "source": "Cannaleo"
+      }
+    ],
+    "cookies 2 0 27/1": [
+      {
+        "pharmacy_id": "zt74hyn38sfr9e6hop1qsn3r",
+        "name": "Cannatopie (Stadt Apotheke, Saarbrücken)",
+        "city": "Saarbrücken",
+        "plz": "66111",
+        "price": 6.6,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "z4kj1agsgmr7xqptfazcrtss",
+        "name": "CannVita (nur Abholung & Botendienst)",
+        "city": "Bielefeld",
+        "plz": "33604",
+        "price": 7.95,
         "available": true,
         "source": "Cannaleo"
       }
