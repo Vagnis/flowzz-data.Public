@@ -1,6 +1,6 @@
 {
   "shard": 6,
-  "updated_at": "2026-08-19T22:08:04.803006+02:00",
+  "updated_at": "2026-08-19T22:53:19.636651+02:00",
   "prices": {
     "zoiks 22/1 sld sun": [
       {
@@ -148,19 +148,19 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "xfarhqtllsdf0fa3vb6b4gwg",
-        "name": "Flora Apotheke, Köln-Nippes",
-        "city": "Köln-Nippes",
-        "plz": "50733",
+        "pharmacy_id": "r8cpx6oj00fnq0tm8mh1jz1x",
+        "name": "Aador.de (Hubertus-Apotheke)",
+        "city": "Hamburg",
+        "plz": "22453",
         "price": 4.7,
         "available": true,
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "r8cpx6oj00fnq0tm8mh1jz1x",
-        "name": "Aador.de (Hubertus-Apotheke)",
-        "city": "Hamburg",
-        "plz": "22453",
+        "pharmacy_id": "xfarhqtllsdf0fa3vb6b4gwg",
+        "name": "Flora Apotheke, Köln-Nippes",
+        "city": "Köln-Nippes",
+        "plz": "50733",
         "price": 4.7,
         "available": true,
         "source": "Cannaleo"
@@ -310,15 +310,6 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "je00paar43ih1cnvnhpi7q9o",
-        "name": "1A Apoweed (farma-plus Apotheke Glückauf, Bochum)",
-        "city": "Bochum",
-        "plz": "44807",
-        "price": 5.99,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
         "pharmacy_id": "vslqjn8jh2x08ff780zt70hg",
         "name": "ApoSweet",
         "city": "Hamburg",
@@ -326,6 +317,15 @@
         "price": 5.99,
         "available": true,
         "source": "Canngo Apotheke"
+      },
+      {
+        "pharmacy_id": "je00paar43ih1cnvnhpi7q9o",
+        "name": "1A Apoweed (farma-plus Apotheke Glückauf, Bochum)",
+        "city": "Bochum",
+        "plz": "44807",
+        "price": 5.99,
+        "available": true,
+        "source": "Cannaleo"
       },
       {
         "pharmacy_id": "ic6kdbe90w6rb7yt0h8mtpb6",
@@ -1228,15 +1228,6 @@
         "source": "Canngo Apotheke"
       },
       {
-        "pharmacy_id": "k1fv66xz9tfpngfk1dzcgjvn",
-        "name": "Cannabis Vital Apotheke (Rosen Apotheke im Center Hattersheim)",
-        "city": "Hattersheim",
-        "plz": "65795",
-        "price": 4.99,
-        "available": true,
-        "source": "Canngo Apotheke"
-      },
-      {
         "pharmacy_id": "odvyg8x6lc1jbh5y0ihpdywt",
         "name": "Cannabis Vital Apotheke (Rosen-Apotheke im Center Hattersheim)",
         "city": "Hattersheim am Main",
@@ -1244,6 +1235,15 @@
         "price": 4.99,
         "available": true,
         "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "k1fv66xz9tfpngfk1dzcgjvn",
+        "name": "Cannabis Vital Apotheke (Rosen Apotheke im Center Hattersheim)",
+        "city": "Hattersheim",
+        "plz": "65795",
+        "price": 4.99,
+        "available": true,
+        "source": "Canngo Apotheke"
       },
       {
         "pharmacy_id": "k65upfauvvxshlsqybnkxa18",
@@ -1420,17 +1420,6 @@
         "source": "Cannaleo"
       }
     ],
-    "green karat mg 25/1": [
-      {
-        "pharmacy_id": "fdi3ihiree0jrz4mdf3zmu69",
-        "name": "Cannabis Apotheke Blaue Blüten",
-        "city": "Passau ",
-        "plz": "94034",
-        "price": 8.8,
-        "available": true,
-        "source": "Canngo Apotheke"
-      }
-    ],
     "wellford aquaponic 30/1 atg atlantic glue": [
       {
         "pharmacy_id": "o8i7vkq4nbntfn1yebg1j5gj",
@@ -1494,6 +1483,17 @@
         "price": 11.0,
         "available": true,
         "source": "Cannaleo"
+      }
+    ],
+    "green karat mg 25/1": [
+      {
+        "pharmacy_id": "fdi3ihiree0jrz4mdf3zmu69",
+        "name": "Cannabis Apotheke Blaue Blüten",
+        "city": "Passau ",
+        "plz": "94034",
+        "price": 8.8,
+        "available": true,
+        "source": "Canngo Apotheke"
       }
     ],
     "luana kush 24/1": [
@@ -1837,6 +1837,15 @@
     ],
     "amp zen rbx thc25": [
       {
+        "pharmacy_id": "p21xjokj66w7335i3hni66z7",
+        "name": "Adler Cannabis Ruhrort (Adler Apotheke, Duisburg)",
+        "city": "Duisburg",
+        "plz": "47119",
+        "price": 4.75,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
         "pharmacy_id": "flzvpniwwb0dvfi0fcgwx8d9",
         "name": "Vericura",
         "city": "Gleichen",
@@ -1846,11 +1855,65 @@
         "source": "CannaFlow"
       },
       {
+        "pharmacy_id": "qvdnou0ytx7reb4wgz985900",
+        "name": " Canna Coast (Apotheke Pansdorf)",
+        "city": "Pansdorf",
+        "plz": "23689",
+        "price": 4.79,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "akbo6i61haemr2zqiktdkadg",
+        "name": "cannabis-bodensee (Nestle-Apotheke am See)",
+        "city": "Friedrichshafen",
+        "plz": "88046",
+        "price": 4.99,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
         "pharmacy_id": "qi0weqo2nbk0gopbwdy1wi89",
         "name": "Dragonweed (Drachen Apotheke)",
         "city": "Geldern",
         "plz": "47608",
         "price": 5.0,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "gflzy0roem5c6com5tjknkpw",
+        "name": "Medicannabis Essen (easyApotheke Rathaus Galerie, Essen)",
+        "city": "Essen",
+        "plz": "45127",
+        "price": 5.29,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "a2e4vmddrynu71ukir19fqs1",
+        "name": "Cannabis vor Ort Marktredwitz",
+        "city": "Marktredwitz",
+        "plz": "95615",
+        "price": 5.3,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "je00paar43ih1cnvnhpi7q9o",
+        "name": "1A Apoweed (farma-plus Apotheke Glückauf, Bochum)",
+        "city": "Bochum",
+        "plz": "44807",
+        "price": 5.49,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "duwr8oru943qslthrxydzefo",
+        "name": "Cannabis Freiburg (Apotheke am Berliner Tor Freiburg)",
+        "city": "Freiburg",
+        "plz": "79110",
+        "price": 7.5,
         "available": true,
         "source": "Cannaleo"
       }
@@ -1922,19 +1985,19 @@
         "source": "CannaFlow"
       },
       {
-        "pharmacy_id": "a2e4vmddrynu71ukir19fqs1",
-        "name": "Cannabis vor Ort Marktredwitz",
-        "city": "Marktredwitz",
-        "plz": "95615",
+        "pharmacy_id": "je00paar43ih1cnvnhpi7q9o",
+        "name": "1A Apoweed (farma-plus Apotheke Glückauf, Bochum)",
+        "city": "Bochum",
+        "plz": "44807",
         "price": 6.49,
         "available": true,
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "je00paar43ih1cnvnhpi7q9o",
-        "name": "1A Apoweed (farma-plus Apotheke Glückauf, Bochum)",
-        "city": "Bochum",
-        "plz": "44807",
+        "pharmacy_id": "a2e4vmddrynu71ukir19fqs1",
+        "name": "Cannabis vor Ort Marktredwitz",
+        "city": "Marktredwitz",
+        "plz": "95615",
         "price": 6.49,
         "available": true,
         "source": "Cannaleo"
@@ -2435,6 +2498,15 @@
         "source": "Cannaleo"
       },
       {
+        "pharmacy_id": "y5c7i1k0mmrv1n377zcj9me5",
+        "name": "SKY CANNABIS Kudamm (Sky-Apotheke, Berlin-Kudamm)",
+        "city": "Berlin",
+        "plz": "10711",
+        "price": 7.9,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
         "pharmacy_id": "rylsdg1ejmlc967k60bgpv71",
         "name": "Hirsch Apotheke Fürth (cannafino.de)",
         "city": "Fürth",
@@ -2448,15 +2520,6 @@
         "name": "SKY CANNABIS Wedding (Sky Apotheke, Berlin Wedding)",
         "city": "Berlin",
         "plz": "13353",
-        "price": 7.9,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "y5c7i1k0mmrv1n377zcj9me5",
-        "name": "SKY CANNABIS Kudamm (Sky-Apotheke, Berlin-Kudamm)",
-        "city": "Berlin",
-        "plz": "10711",
         "price": 7.9,
         "available": true,
         "source": "Cannaleo"
@@ -2516,19 +2579,19 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "b9uro1a9mahr5z0lgz23ifkd",
-        "name": "grashuepfer.shop (easyApotheke Lübecker Straße, Magdeburg)",
-        "city": "Magdeburg",
-        "plz": "39124",
+        "pharmacy_id": "m12x6iwfrj1uay6fewidbmh3",
+        "name": "Cannabis Weinstrasse (Bacchus Apotheke Neustadt)",
+        "city": "Neustadt a.d. Weinstraße",
+        "plz": "67434",
         "price": 8.49,
         "available": true,
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "m12x6iwfrj1uay6fewidbmh3",
-        "name": "Cannabis Weinstrasse (Bacchus Apotheke Neustadt)",
-        "city": "Neustadt a.d. Weinstraße",
-        "plz": "67434",
+        "pharmacy_id": "b9uro1a9mahr5z0lgz23ifkd",
+        "name": "grashuepfer.shop (easyApotheke Lübecker Straße, Magdeburg)",
+        "city": "Magdeburg",
+        "plz": "39124",
         "price": 8.49,
         "available": true,
         "source": "Cannaleo"
@@ -2675,17 +2738,6 @@
         "source": "CannaFlow"
       }
     ],
-    "suprobion cronos 25/1": [
-      {
-        "pharmacy_id": "m12x6iwfrj1uay6fewidbmh3",
-        "name": "Cannabis Weinstrasse (Bacchus Apotheke Neustadt)",
-        "city": "Neustadt a.d. Weinstraße",
-        "plz": "67434",
-        "price": 4.39,
-        "available": true,
-        "source": "Cannaleo"
-      }
-    ],
     "big dreams 21/1 psf t20": [
       {
         "pharmacy_id": "s6xdp3oyzfozefhh0p3xdqz3",
@@ -2704,6 +2756,17 @@
         "price": 7.99,
         "available": true,
         "source": "Canngo Apotheke"
+      }
+    ],
+    "suprobion cronos 25/1": [
+      {
+        "pharmacy_id": "m12x6iwfrj1uay6fewidbmh3",
+        "name": "Cannabis Weinstrasse (Bacchus Apotheke Neustadt)",
+        "city": "Neustadt a.d. Weinstraße",
+        "plz": "67434",
+        "price": 4.39,
+        "available": true,
+        "source": "Cannaleo"
       }
     ],
     "vayamed 25/1 cannabisextrakt": [
