@@ -1,6 +1,6 @@
 {
   "shard": 20,
-  "updated_at": "2026-08-19T14:07:46.244473+02:00",
+  "updated_at": "2026-08-19T14:47:08.603748+02:00",
   "prices": {
     "avaay 27/1 mim": [
       {
@@ -530,6 +530,15 @@
         "source": "Cannaleo"
       },
       {
+        "pharmacy_id": "ix7mbcj3di3qkhj2jc4iba7n",
+        "name": "Cannaapo",
+        "city": "Fulda",
+        "plz": "36037",
+        "price": 3.95,
+        "available": true,
+        "source": "CannaFlow"
+      },
+      {
         "pharmacy_id": "y2e38ltbxcf8w67qx10x149j",
         "name": "Cannabis Apotheke Niedersachsen (Apotheke Brome)",
         "city": "Brome",
@@ -602,15 +611,6 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "ijp86erckl52lxswwdoqtkta",
-        "name": "Cansa - Bethanien Apotheke",
-        "city": "Chemnitz",
-        "plz": "09130",
-        "price": 5.55,
-        "available": true,
-        "source": "Canngo Apotheke"
-      },
-      {
         "pharmacy_id": "z9a7jc0vu6xe1iuxued2xys4",
         "name": "Cannabis Südbaden (Apotheke am Schillerplatz)",
         "city": "Müllheim",
@@ -624,6 +624,15 @@
         "name": "Cansa - Flemming Apotheke",
         "city": "Chemnitz",
         "plz": "09116",
+        "price": 5.55,
+        "available": true,
+        "source": "Canngo Apotheke"
+      },
+      {
+        "pharmacy_id": "ijp86erckl52lxswwdoqtkta",
+        "name": "Cansa - Bethanien Apotheke",
+        "city": "Chemnitz",
+        "plz": "09130",
         "price": 5.55,
         "available": true,
         "source": "Canngo Apotheke"
@@ -663,6 +672,24 @@
         "price": 5.89,
         "available": true,
         "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "qzty56oa8deefqid4xp5hysi",
+        "name": "Die Grüne Apotheke",
+        "city": "Limburg an der Lahn",
+        "plz": "65549",
+        "price": 5.99,
+        "available": true,
+        "source": "CannaFlow"
+      },
+      {
+        "pharmacy_id": "f104wltd4pj9xcafifc7x7n8",
+        "name": "medicflow (Pelikan Apotheke Berlin)",
+        "city": "Berlin",
+        "plz": "12099",
+        "price": 5.99,
+        "available": true,
+        "source": "CannaFlow"
       }
     ],
     "medical saints 30/1 srd": [
@@ -1579,17 +1606,6 @@
         "source": "Canngo Apotheke"
       }
     ],
-    "barongo 26/1 dr gastro pop": [
-      {
-        "pharmacy_id": "f11gjnlh84v3b3omtn49gsb9",
-        "name": "MYCANNABIS",
-        "city": "Düsseldorf",
-        "plz": "40589",
-        "price": 6.5,
-        "available": true,
-        "source": "Canngo Apotheke"
-      }
-    ],
     "gr nhorn hgh 27/1": [
       {
         "pharmacy_id": "m5k0wvjphc511bg4vpi3efjf",
@@ -1601,15 +1617,26 @@
         "source": "Canngo Apotheke"
       }
     ],
-    "remexian 18/1 kps smx": [
+    "barongo 26/1 dr gastro pop": [
       {
-        "pharmacy_id": "x138xetyktfzh7bo28kp9z6p",
-        "name": "Happy-Cannamed",
-        "city": "Cloppenburg",
-        "plz": "49661",
-        "price": 2.99,
+        "pharmacy_id": "f11gjnlh84v3b3omtn49gsb9",
+        "name": "MYCANNABIS",
+        "city": "Düsseldorf",
+        "plz": "40589",
+        "price": 6.5,
         "available": true,
         "source": "Canngo Apotheke"
+      }
+    ],
+    "remexian 18/1 kps smx": [
+      {
+        "pharmacy_id": "i14fbchr0tcymy6se72xb5ij",
+        "name": "SativaMedics (Rosen-Apotheke Neuwied)",
+        "city": "Neuwied",
+        "plz": "56564",
+        "price": 2.99,
+        "available": true,
+        "source": "Cannaleo"
       },
       {
         "pharmacy_id": "e10lyi76nr7a7ztkmo2s28wj",
@@ -1621,13 +1648,13 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "i14fbchr0tcymy6se72xb5ij",
-        "name": "SativaMedics (Rosen-Apotheke Neuwied)",
-        "city": "Neuwied",
-        "plz": "56564",
+        "pharmacy_id": "x138xetyktfzh7bo28kp9z6p",
+        "name": "Happy-Cannamed",
+        "city": "Cloppenburg",
+        "plz": "49661",
         "price": 2.99,
         "available": true,
-        "source": "Cannaleo"
+        "source": "Canngo Apotheke"
       },
       {
         "pharmacy_id": "crzm01w47yi7mm5434gnewz8",
@@ -1803,17 +1830,6 @@
         "source": "Canngo Apotheke"
       }
     ],
-    "tweed gmo 33/1": [
-      {
-        "pharmacy_id": "canthera",
-        "name": "Canthera",
-        "city": "Nürnberg",
-        "plz": "90403",
-        "price": 4.98,
-        "available": true,
-        "source": "canthera"
-      }
-    ],
     "luana electric 20/1": [
       {
         "pharmacy_id": "k65upfauvvxshlsqybnkxa18",
@@ -1823,6 +1839,17 @@
         "price": 6.7,
         "available": true,
         "source": "Canngo Apotheke"
+      }
+    ],
+    "tweed gmo 33/1": [
+      {
+        "pharmacy_id": "canthera",
+        "name": "Canthera",
+        "city": "Nürnberg",
+        "plz": "90403",
+        "price": 4.98,
+        "available": true,
+        "source": "canthera"
       }
     ],
     "barongo 23/1": [
@@ -2253,17 +2280,6 @@
         "source": "canthera"
       }
     ],
-    "apothekenherstellung mct l bubba kush 25/1 demecan typ 1 extrakt": [
-      {
-        "pharmacy_id": "goet66lm5om7yu0rqvdyx14f",
-        "name": "MARIEN APOTHEKE, Siegsdorf",
-        "city": "Siegsdorf",
-        "plz": "83313",
-        "price": 3.15,
-        "available": true,
-        "source": "Cannaleo"
-      }
-    ],
     "apothekenherstellung weeco lmc 33/1 extrakt 25 mg/ml thc 100 mg/ml cbd": [
       {
         "pharmacy_id": "goet66lm5om7yu0rqvdyx14f",
@@ -2271,6 +2287,17 @@
         "city": "Siegsdorf",
         "plz": "83313",
         "price": 10.5,
+        "available": true,
+        "source": "Cannaleo"
+      }
+    ],
+    "apothekenherstellung mct l bubba kush 25/1 demecan typ 1 extrakt": [
+      {
+        "pharmacy_id": "goet66lm5om7yu0rqvdyx14f",
+        "name": "MARIEN APOTHEKE, Siegsdorf",
+        "city": "Siegsdorf",
+        "plz": "83313",
+        "price": 3.15,
         "available": true,
         "source": "Cannaleo"
       }
