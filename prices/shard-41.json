@@ -1,6 +1,6 @@
 {
   "shard": 41,
-  "updated_at": "2026-08-20T10:24:57.757970+02:00",
+  "updated_at": "2026-08-20T11:20:12.690265+02:00",
   "prices": {
     "420 evolution 25/1 ca mmi": [
       {
@@ -1995,17 +1995,6 @@
         "source": "Cannaleo"
       }
     ],
-    "eufloria 27/1 pch": [
-      {
-        "pharmacy_id": "eou5l4p7zpw3ea4lec4anx8p",
-        "name": "Grüne Wirkstoffe (Anthemis Apotheke)",
-        "city": "Herrieden",
-        "plz": "91567",
-        "price": 5.29,
-        "available": true,
-        "source": "Canngo Apotheke"
-      }
-    ],
     "remexian 30/1 joi mtc": [
       {
         "pharmacy_id": "k9o5v1jfqv4taitn4g5p4reo",
@@ -2121,6 +2110,17 @@
         "city": "Germersheim",
         "plz": "76726",
         "price": 7.5,
+        "available": true,
+        "source": "Canngo Apotheke"
+      }
+    ],
+    "eufloria 27/1 pch": [
+      {
+        "pharmacy_id": "eou5l4p7zpw3ea4lec4anx8p",
+        "name": "Grüne Wirkstoffe (Anthemis Apotheke)",
+        "city": "Herrieden",
+        "plz": "91567",
+        "price": 5.29,
         "available": true,
         "source": "Canngo Apotheke"
       }
@@ -3837,80 +3837,6 @@
         "source": "Cannaleo"
       }
     ],
-    "nice 22/1 bzo": [
-      {
-        "pharmacy_id": "qgfuv9a72bw1ahifa8jx4udw",
-        "name": "Asavita",
-        "city": "Berlin",
-        "plz": "10365",
-        "price": 3.79,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "gflzy0roem5c6com5tjknkpw",
-        "name": "Medicannabis Essen (easyApotheke Rathaus Galerie, Essen)",
-        "city": "Essen",
-        "plz": "45127",
-        "price": 3.89,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "c3jnmh6ryo43uv084z6z9lxp",
-        "name": "Cannabis Apotheke Rheinland (Vitahris)",
-        "city": "Bad Neuenahr",
-        "plz": "53474",
-        "price": 3.99,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "txchiiix1cykj4y1zad7zn19",
-        "name": "Cannaplus Apotheke ",
-        "city": "Augsburg",
-        "plz": "86154",
-        "price": 3.99,
-        "available": true,
-        "source": "Canngo Apotheke"
-      },
-      {
-        "pharmacy_id": "e9eig0e5txi2bemw74rdfssx",
-        "name": "cannabisapo24",
-        "city": "Augsburg",
-        "plz": "86150",
-        "price": 4.39,
-        "available": true,
-        "source": "Canngo Apotheke"
-      },
-      {
-        "pharmacy_id": "dit5bxx92u5iipcx8q3qcvb1",
-        "name": "Cannabis Champion (Central Apotheke Waiblingen)",
-        "city": "Waiblingen",
-        "plz": "71332",
-        "price": 4.99,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "rshxukz0kyk4wmpgxig8o12z",
-        "name": "Prinzen Apotheke Frankfurt",
-        "city": "Frankfurt",
-        "plz": "60311",
-        "price": 5.7,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "hjoay0fnsrgk6prdw6v6cfld",
-        "name": "Cannabis-Prime (Kappelberg-Apotheke)",
-        "city": "Fellbach",
-        "plz": "70734",
-        "price": 5.99,
-        "available": true,
-        "source": "Cannaleo"
-      }
-    ],
     "demecan core crc 30 01": [
       {
         "pharmacy_id": "elddawva9r11lw5cowa37ouv",
@@ -4192,6 +4118,80 @@
         "source": "CannaFlow"
       }
     ],
+    "nice 22/1 bzo": [
+      {
+        "pharmacy_id": "qgfuv9a72bw1ahifa8jx4udw",
+        "name": "Asavita",
+        "city": "Berlin",
+        "plz": "10365",
+        "price": 3.79,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "gflzy0roem5c6com5tjknkpw",
+        "name": "Medicannabis Essen (easyApotheke Rathaus Galerie, Essen)",
+        "city": "Essen",
+        "plz": "45127",
+        "price": 3.89,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "c3jnmh6ryo43uv084z6z9lxp",
+        "name": "Cannabis Apotheke Rheinland (Vitahris)",
+        "city": "Bad Neuenahr",
+        "plz": "53474",
+        "price": 3.99,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "txchiiix1cykj4y1zad7zn19",
+        "name": "Cannaplus Apotheke ",
+        "city": "Augsburg",
+        "plz": "86154",
+        "price": 3.99,
+        "available": true,
+        "source": "Canngo Apotheke"
+      },
+      {
+        "pharmacy_id": "e9eig0e5txi2bemw74rdfssx",
+        "name": "cannabisapo24",
+        "city": "Augsburg",
+        "plz": "86150",
+        "price": 4.39,
+        "available": true,
+        "source": "Canngo Apotheke"
+      },
+      {
+        "pharmacy_id": "dit5bxx92u5iipcx8q3qcvb1",
+        "name": "Cannabis Champion (Central Apotheke Waiblingen)",
+        "city": "Waiblingen",
+        "plz": "71332",
+        "price": 4.99,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "rshxukz0kyk4wmpgxig8o12z",
+        "name": "Prinzen Apotheke Frankfurt",
+        "city": "Frankfurt",
+        "plz": "60311",
+        "price": 5.7,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "hjoay0fnsrgk6prdw6v6cfld",
+        "name": "Cannabis-Prime (Kappelberg-Apotheke)",
+        "city": "Fellbach",
+        "plz": "70734",
+        "price": 5.99,
+        "available": true,
+        "source": "Cannaleo"
+      }
+    ],
     "adrex 24/1 can": [
       {
         "pharmacy_id": "k65upfauvvxshlsqybnkxa18",
@@ -4445,17 +4445,6 @@
         "source": "Cannaleo"
       }
     ],
-    "medical saints 21/1 cta": [
-      {
-        "pharmacy_id": "k65upfauvvxshlsqybnkxa18",
-        "name": "Sinsheim Cannabis Apotheke ",
-        "city": "Sinsheim",
-        "plz": "74889",
-        "price": 5.8,
-        "available": true,
-        "source": "Canngo Apotheke"
-      }
-    ],
     "enua 22/1 anf ca": [
       {
         "pharmacy_id": "fdi3ihiree0jrz4mdf3zmu69",
@@ -4467,15 +4456,15 @@
         "source": "Canngo Apotheke"
       }
     ],
-    "breezy organics ps 23/1": [
+    "medical saints 21/1 cta": [
       {
-        "pharmacy_id": "c3jnmh6ryo43uv084z6z9lxp",
-        "name": "Cannabis Apotheke Rheinland (Vitahris)",
-        "city": "Bad Neuenahr",
-        "plz": "53474",
-        "price": 6.0,
+        "pharmacy_id": "k65upfauvvxshlsqybnkxa18",
+        "name": "Sinsheim Cannabis Apotheke ",
+        "city": "Sinsheim",
+        "plz": "74889",
+        "price": 5.8,
         "available": true,
-        "source": "Cannaleo"
+        "source": "Canngo Apotheke"
       }
     ],
     "care cannabisflower cal thc 23": [
@@ -4487,6 +4476,17 @@
         "price": 4.05,
         "available": true,
         "source": "canthera"
+      }
+    ],
+    "breezy organics ps 23/1": [
+      {
+        "pharmacy_id": "c3jnmh6ryo43uv084z6z9lxp",
+        "name": "Cannabis Apotheke Rheinland (Vitahris)",
+        "city": "Bad Neuenahr",
+        "plz": "53474",
+        "price": 6.0,
+        "available": true,
+        "source": "Cannaleo"
       }
     ],
     "somai cks cannabisextrakt hg 25 1": [
