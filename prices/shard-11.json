@@ -1,6 +1,6 @@
 {
   "shard": 11,
-  "updated_at": "2026-08-20T21:45:45.977949+02:00",
+  "updated_at": "2026-08-20T22:26:21.308490+02:00",
   "prices": {
     "zoiks 26/1 lk": [
       {
@@ -1278,19 +1278,19 @@
         "source": "CannaFlow"
       },
       {
-        "pharmacy_id": "kkswgl2du4ldsb67xzb1c3dc",
-        "name": "Cannabis Kranich (Kranich-Apotheke, Nürnberg)",
-        "city": "Nürnberg",
-        "plz": "90453",
+        "pharmacy_id": "lc8fiftors7ppp9gowpzwdtl",
+        "name": "Gartenmed (Erftland Apotheke, Kerpen)",
+        "city": "Kerpen",
+        "plz": "50170",
         "price": 7.65,
         "available": true,
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "lc8fiftors7ppp9gowpzwdtl",
-        "name": "Gartenmed (Erftland Apotheke, Kerpen)",
-        "city": "Kerpen",
-        "plz": "50170",
+        "pharmacy_id": "kkswgl2du4ldsb67xzb1c3dc",
+        "name": "Cannabis Kranich (Kranich-Apotheke, Nürnberg)",
+        "city": "Nürnberg",
+        "plz": "90453",
         "price": 7.65,
         "available": true,
         "source": "Cannaleo"
@@ -1341,6 +1341,15 @@
         "source": "Cannaleo"
       },
       {
+        "pharmacy_id": "ywia6esjhiilbpr2y3kueopq",
+        "name": "Cannabis-Taxi",
+        "city": "Esslingen",
+        "plz": "73730",
+        "price": 7.99,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
         "pharmacy_id": "s40xj3d1su87o9uzb9w8xd21",
         "name": "Medicannabis Kaiserviertel (Apotheke im Kaiserviertel, Dortmund)",
         "city": "Dortmund",
@@ -1359,13 +1368,13 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "ywia6esjhiilbpr2y3kueopq",
-        "name": "Cannabis-Taxi",
-        "city": "Esslingen",
-        "plz": "73730",
-        "price": 7.99,
+        "pharmacy_id": "mlsmfffzi4jp0e8kgivimxt4",
+        "name": "Rhein-Apotheke Karlsruhe",
+        "city": "Karlsruhe",
+        "plz": "76185",
+        "price": 8.0,
         "available": true,
-        "source": "Cannaleo"
+        "source": "Canngo Apotheke"
       },
       {
         "pharmacy_id": "lvkvymu8q9uvz3d2aw2xglx5",
@@ -1375,15 +1384,6 @@
         "price": 8.0,
         "available": true,
         "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "mlsmfffzi4jp0e8kgivimxt4",
-        "name": "Rhein-Apotheke Karlsruhe",
-        "city": "Karlsruhe",
-        "plz": "76185",
-        "price": 8.0,
-        "available": true,
-        "source": "Canngo Apotheke"
       },
       {
         "pharmacy_id": "x13cm3eeqs267zcjwzmiuo7p",
@@ -2851,6 +2851,17 @@
         "source": "CannaFlow"
       }
     ],
+    "khiron pg 27/1": [
+      {
+        "pharmacy_id": "canthera",
+        "name": "Canthera",
+        "city": "Nürnberg",
+        "plz": "90403",
+        "price": 5.12,
+        "available": true,
+        "source": "canthera"
+      }
+    ],
     "remexian 30/1 rpk tsu": [
       {
         "pharmacy_id": "aa7cwasq91i50yqaoi1rdp3q",
@@ -2887,17 +2898,6 @@
         "price": 3.99,
         "available": true,
         "source": "CannaFlow"
-      }
-    ],
-    "khiron pg 27/1": [
-      {
-        "pharmacy_id": "canthera",
-        "name": "Canthera",
-        "city": "Nürnberg",
-        "plz": "90403",
-        "price": 5.12,
-        "available": true,
-        "source": "canthera"
       }
     ],
     "demecan craft go 26/01": [
@@ -3464,17 +3464,6 @@
         "source": "Canngo Apotheke"
       }
     ],
-    "buuo 20/1 cdlc": [
-      {
-        "pharmacy_id": "k65upfauvvxshlsqybnkxa18",
-        "name": "Sinsheim Cannabis Apotheke ",
-        "city": "Sinsheim",
-        "plz": "74889",
-        "price": 5.6,
-        "available": true,
-        "source": "Canngo Apotheke"
-      }
-    ],
     "huala 22/1 ca gvz": [
       {
         "pharmacy_id": "canthera",
@@ -3484,6 +3473,17 @@
         "price": 4.94,
         "available": true,
         "source": "canthera"
+      }
+    ],
+    "buuo 20/1 cdlc": [
+      {
+        "pharmacy_id": "k65upfauvvxshlsqybnkxa18",
+        "name": "Sinsheim Cannabis Apotheke ",
+        "city": "Sinsheim",
+        "plz": "74889",
+        "price": 5.6,
+        "available": true,
+        "source": "Canngo Apotheke"
       }
     ],
     "apothekenherstellung mct l bakerstreet 20/1 extrakt": [
@@ -3497,13 +3497,24 @@
         "source": "Cannaleo"
       }
     ],
-    "apothekenherstellung weeco lmc 33/1 extrakt 100 mg/ml thc 100 mg/ml cbd": [
+    "apothekenherstellung bedrocan extrakt 25 mg/ml thc 25 mg/ml cbd": [
       {
         "pharmacy_id": "goet66lm5om7yu0rqvdyx14f",
         "name": "MARIEN APOTHEKE, Siegsdorf",
         "city": "Siegsdorf",
         "plz": "83313",
-        "price": 10.5,
+        "price": 3.8,
+        "available": true,
+        "source": "Cannaleo"
+      }
+    ],
+    "naxiva panaxol thc 10/cbd 10 cannabis extrakt": [
+      {
+        "pharmacy_id": "ve12fiueb8n0sg7o5qei37ik",
+        "name": "Cannibo (Bahnhof Apotheke, Bonn)",
+        "city": "Bonn",
+        "plz": "53111 ",
+        "price": 8.0,
         "available": true,
         "source": "Cannaleo"
       }
@@ -3528,13 +3539,13 @@
         "source": "Cannaleo"
       }
     ],
-    "naxiva panaxol thc 10/cbd 10 cannabis extrakt": [
+    "apothekenherstellung weeco lmc 33/1 extrakt 100 mg/ml thc 100 mg/ml cbd": [
       {
-        "pharmacy_id": "ve12fiueb8n0sg7o5qei37ik",
-        "name": "Cannibo (Bahnhof Apotheke, Bonn)",
-        "city": "Bonn",
-        "plz": "53111 ",
-        "price": 8.0,
+        "pharmacy_id": "goet66lm5om7yu0rqvdyx14f",
+        "name": "MARIEN APOTHEKE, Siegsdorf",
+        "city": "Siegsdorf",
+        "plz": "83313",
+        "price": 10.5,
         "available": true,
         "source": "Cannaleo"
       }
@@ -3546,17 +3557,6 @@
         "city": "Siegsdorf",
         "plz": "83313",
         "price": 6.0,
-        "available": true,
-        "source": "Cannaleo"
-      }
-    ],
-    "apothekenherstellung bedrocan extrakt 25 mg/ml thc 25 mg/ml cbd": [
-      {
-        "pharmacy_id": "goet66lm5om7yu0rqvdyx14f",
-        "name": "MARIEN APOTHEKE, Siegsdorf",
-        "city": "Siegsdorf",
-        "plz": "83313",
-        "price": 3.8,
         "available": true,
         "source": "Cannaleo"
       }
