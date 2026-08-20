@@ -1,6 +1,6 @@
 {
   "shard": 32,
-  "updated_at": "2026-08-20T02:12:31.879896+02:00",
+  "updated_at": "2026-08-20T02:58:26.850579+02:00",
   "prices": {
     "avaay signature 34/1 ogc": [
       {
@@ -1239,15 +1239,6 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "xrt8vhkchb38k6bn9kjh7r6u",
-        "name": "CANNALEV (Altstadt Apotheke, Leverkusen)",
-        "city": "Leverkusen",
-        "plz": "51379",
-        "price": 3.75,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
         "pharmacy_id": "f4rfc6cz1kisnxzdiqpkgrn1",
         "name": "Medifloris by Rosen Apotheke",
         "city": "Melsungen",
@@ -1255,6 +1246,15 @@
         "price": 3.75,
         "available": true,
         "source": "Canngo Apotheke"
+      },
+      {
+        "pharmacy_id": "xrt8vhkchb38k6bn9kjh7r6u",
+        "name": "CANNALEV (Altstadt Apotheke, Leverkusen)",
+        "city": "Leverkusen",
+        "plz": "51379",
+        "price": 3.75,
+        "available": true,
+        "source": "Cannaleo"
       },
       {
         "pharmacy_id": "qvdnou0ytx7reb4wgz985900",
@@ -1293,15 +1293,6 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "n10agfa1382ht7kktqq87e41",
-        "name": "Christophorus Apotheke Trostberg",
-        "city": "Trostberg",
-        "plz": "83308",
-        "price": 3.99,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
         "pharmacy_id": "e5cqtxaytksqc8v7exzbviy4",
         "name": "Cannatilia",
         "city": "Mühlhausen",
@@ -1309,6 +1300,15 @@
         "price": 3.99,
         "available": true,
         "source": "Canngo Apotheke"
+      },
+      {
+        "pharmacy_id": "n10agfa1382ht7kktqq87e41",
+        "name": "Christophorus Apotheke Trostberg",
+        "city": "Trostberg",
+        "plz": "83308",
+        "price": 3.99,
+        "available": true,
+        "source": "Cannaleo"
       },
       {
         "pharmacy_id": "pagp8ceme1aw82rjzqcvemac",
@@ -1410,53 +1410,6 @@
         "price": 5.5,
         "available": true,
         "source": "Canngo Apotheke"
-      }
-    ],
-    "demecan gt strong drop 27/1 smalls": [
-      {
-        "pharmacy_id": "v13hoqmgzzhg21iaumq0jg26",
-        "name": "WEEDCITY (Adler Apotheke, Wiesbaden)",
-        "city": "Wiesbaden",
-        "plz": "65185",
-        "price": 3.97,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "lramdha0a0kmvyo1hscrabef",
-        "name": "Canthera Süd (Mohren Apotheke, Nürnberg)",
-        "city": "Nürnberg",
-        "plz": "90459",
-        "price": 3.98,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "piviue17fhxvsshftexhmdnu",
-        "name": "Cannabis Apotheke Bayern (MEDICON-Apotheke Schweinfurt Stadtgalerie, Schweinfurt)",
-        "city": "Schweinfurt",
-        "plz": "97421",
-        "price": 3.99,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "ngigt54487vmscwlx52o0fk3",
-        "name": "Bluetenversand.de",
-        "city": "Berlin",
-        "plz": "10249",
-        "price": 4.79,
-        "available": true,
-        "source": "Canngo Apotheke"
-      },
-      {
-        "pharmacy_id": "odtzz4rlqkk100qyip9xnt2z",
-        "name": "DocVerde Apotheke Köln-Mülheim OHG",
-        "city": "Köln",
-        "plz": "51065",
-        "price": 5.49,
-        "available": true,
-        "source": "Cannaleo"
       }
     ],
     "vayamed balanced 12/8 can": [
@@ -1763,6 +1716,53 @@
         "city": "Hamburg",
         "plz": "20357",
         "price": 8.95,
+        "available": true,
+        "source": "Cannaleo"
+      }
+    ],
+    "demecan gt strong drop 27/1 smalls": [
+      {
+        "pharmacy_id": "v13hoqmgzzhg21iaumq0jg26",
+        "name": "WEEDCITY (Adler Apotheke, Wiesbaden)",
+        "city": "Wiesbaden",
+        "plz": "65185",
+        "price": 3.97,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "lramdha0a0kmvyo1hscrabef",
+        "name": "Canthera Süd (Mohren Apotheke, Nürnberg)",
+        "city": "Nürnberg",
+        "plz": "90459",
+        "price": 3.98,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "piviue17fhxvsshftexhmdnu",
+        "name": "Cannabis Apotheke Bayern (MEDICON-Apotheke Schweinfurt Stadtgalerie, Schweinfurt)",
+        "city": "Schweinfurt",
+        "plz": "97421",
+        "price": 3.99,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "ngigt54487vmscwlx52o0fk3",
+        "name": "Bluetenversand.de",
+        "city": "Berlin",
+        "plz": "10249",
+        "price": 4.79,
+        "available": true,
+        "source": "Canngo Apotheke"
+      },
+      {
+        "pharmacy_id": "odtzz4rlqkk100qyip9xnt2z",
+        "name": "DocVerde Apotheke Köln-Mülheim OHG",
+        "city": "Köln",
+        "plz": "51065",
+        "price": 5.49,
         "available": true,
         "source": "Cannaleo"
       }
@@ -2659,6 +2659,17 @@
         "source": "Cannaleo"
       }
     ],
+    "pedanios 20/1": [
+      {
+        "pharmacy_id": "s6xdp3oyzfozefhh0p3xdqz3",
+        "name": "Goldene Blüte",
+        "city": "Freystadt",
+        "plz": "92342",
+        "price": 7.4,
+        "available": true,
+        "source": "Canngo Apotheke"
+      }
+    ],
     "madrecan 24/1 gb9 minis": [
       {
         "pharmacy_id": "vpomybf0shv98s1bvlfs4rgk",
@@ -2684,17 +2695,6 @@
         "city": "Augsburg",
         "plz": "86154",
         "price": 3.81,
-        "available": true,
-        "source": "Canngo Apotheke"
-      }
-    ],
-    "pedanios 20/1": [
-      {
-        "pharmacy_id": "s6xdp3oyzfozefhh0p3xdqz3",
-        "name": "Goldene Blüte",
-        "city": "Freystadt",
-        "plz": "92342",
-        "price": 7.4,
         "available": true,
         "source": "Canngo Apotheke"
       }
@@ -2732,17 +2732,6 @@
         "source": "Canngo Apotheke"
       }
     ],
-    "canify cannabis flos 22/1 pt ku": [
-      {
-        "pharmacy_id": "k65upfauvvxshlsqybnkxa18",
-        "name": "Sinsheim Cannabis Apotheke ",
-        "city": "Sinsheim",
-        "plz": "74889",
-        "price": 6.1,
-        "available": true,
-        "source": "Canngo Apotheke"
-      }
-    ],
     "remexian 24/1 cke flv": [
       {
         "pharmacy_id": "jbaukw4x5id3qyn6x48mgm9c",
@@ -2750,6 +2739,17 @@
         "city": "Germersheim",
         "plz": "76726",
         "price": 7.75,
+        "available": true,
+        "source": "Canngo Apotheke"
+      }
+    ],
+    "canify cannabis flos 22/1 pt ku": [
+      {
+        "pharmacy_id": "k65upfauvvxshlsqybnkxa18",
+        "name": "Sinsheim Cannabis Apotheke ",
+        "city": "Sinsheim",
+        "plz": "74889",
+        "price": 6.1,
         "available": true,
         "source": "Canngo Apotheke"
       }
