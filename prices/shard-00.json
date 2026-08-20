@@ -1,6 +1,6 @@
 {
   "shard": 0,
-  "updated_at": "2026-08-20T21:45:28.045238+02:00",
+  "updated_at": "2026-08-20T22:26:03.454550+02:00",
   "prices": {
     "zoiks 26/1 sr": [
       {
@@ -2090,15 +2090,6 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "baf13ynqj3kchsjo9hbgc88o",
-        "name": "Heidekreis Apotheken (Michaelis-Apotheke, Walsrode)",
-        "city": "Walsrode",
-        "plz": "29699",
-        "price": 5.35,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
         "pharmacy_id": "vpomybf0shv98s1bvlfs4rgk",
         "name": "3Königen Apotheke (Dreikönigen Apotheke am Ostwall, Krefeld)",
         "city": "Krefeld",
@@ -2115,6 +2106,15 @@
         "price": 5.35,
         "available": true,
         "source": "Canngo Apotheke"
+      },
+      {
+        "pharmacy_id": "baf13ynqj3kchsjo9hbgc88o",
+        "name": "Heidekreis Apotheken (Michaelis-Apotheke, Walsrode)",
+        "city": "Walsrode",
+        "plz": "29699",
+        "price": 5.35,
+        "available": true,
+        "source": "Cannaleo"
       },
       {
         "pharmacy_id": "aa7cwasq91i50yqaoi1rdp3q",
@@ -2180,10 +2180,10 @@
         "source": "Canngo Apotheke"
       },
       {
-        "pharmacy_id": "x7rol625e5h0zass0noy0zwj",
-        "name": "Markt-Apotheke, Waldshut-Tiengen",
-        "city": "Waldshut-Tiengen",
-        "plz": "79761",
+        "pharmacy_id": "r137pbsbqwm3ioj47j21pjd2",
+        "name": "ABC Cannabis (ABC Apotheke am Werth, Wuppertal)",
+        "city": "Wuppertal",
+        "plz": "42275",
         "price": 5.99,
         "available": true,
         "source": "Cannaleo"
@@ -2198,10 +2198,10 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "r137pbsbqwm3ioj47j21pjd2",
-        "name": "ABC Cannabis (ABC Apotheke am Werth, Wuppertal)",
-        "city": "Wuppertal",
-        "plz": "42275",
+        "pharmacy_id": "x7rol625e5h0zass0noy0zwj",
+        "name": "Markt-Apotheke, Waldshut-Tiengen",
+        "city": "Waldshut-Tiengen",
+        "plz": "79761",
         "price": 5.99,
         "available": true,
         "source": "Cannaleo"
@@ -2369,13 +2369,13 @@
         "source": "CannaFlow"
       },
       {
-        "pharmacy_id": "bv8tsdnyvd4bxcnv7ndzrje3",
-        "name": "Blüten-Apotheke in München",
+        "pharmacy_id": "lm1smrzvwkgr6nh0jiisa9mg",
+        "name": "Blüten-Apotheke München",
         "city": "München",
         "plz": "80804",
         "price": 7.2,
         "available": true,
-        "source": "Canngo Apotheke"
+        "source": "Cannaleo"
       },
       {
         "pharmacy_id": "j10ifwpl6w9s9l3eeflt0n4v",
@@ -2387,13 +2387,13 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "lm1smrzvwkgr6nh0jiisa9mg",
-        "name": "Blüten-Apotheke München",
+        "pharmacy_id": "bv8tsdnyvd4bxcnv7ndzrje3",
+        "name": "Blüten-Apotheke in München",
         "city": "München",
         "plz": "80804",
         "price": 7.2,
         "available": true,
-        "source": "Cannaleo"
+        "source": "Canngo Apotheke"
       },
       {
         "pharmacy_id": "pagp8ceme1aw82rjzqcvemac",
@@ -3138,6 +3138,17 @@
         "source": "Canngo Apotheke"
       }
     ],
+    "botanics golden ace 20/1": [
+      {
+        "pharmacy_id": "canthera",
+        "name": "Canthera",
+        "city": "Nürnberg",
+        "plz": "90403",
+        "price": 7.49,
+        "available": true,
+        "source": "canthera"
+      }
+    ],
     "origine nature med 30/1": [
       {
         "pharmacy_id": "yyva3bdg1zje9o9owqr5f74k",
@@ -3156,17 +3167,6 @@
         "price": 8.8,
         "available": true,
         "source": "Canngo Apotheke"
-      }
-    ],
-    "botanics golden ace 20/1": [
-      {
-        "pharmacy_id": "canthera",
-        "name": "Canthera",
-        "city": "Nürnberg",
-        "plz": "90403",
-        "price": 7.49,
-        "available": true,
-        "source": "canthera"
       }
     ],
     "wtf 21/1 mic tap": [
