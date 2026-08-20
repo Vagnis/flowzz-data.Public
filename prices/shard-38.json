@@ -1,6 +1,6 @@
 {
   "shard": 38,
-  "updated_at": "2026-08-20T15:47:33.484392+02:00",
+  "updated_at": "2026-08-20T16:46:38.300115+02:00",
   "prices": {
     "peace naturals 31/1 sc": [
       {
@@ -605,6 +605,15 @@
     ],
     "bathera 23/1 bz": [
       {
+        "pharmacy_id": "aa7cwasq91i50yqaoi1rdp3q",
+        "name": "SVAPO",
+        "city": "Offenbach",
+        "plz": "63075",
+        "price": 4.86,
+        "available": true,
+        "source": "Canngo Apotheke"
+      },
+      {
         "pharmacy_id": "d110gl7ph509necw0888os7x",
         "name": "CANNFLOW (Regenbogen Apotheke, Köthen)",
         "city": "Köthen",
@@ -614,15 +623,6 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "aa7cwasq91i50yqaoi1rdp3q",
-        "name": "SVAPO",
-        "city": "Offenbach",
-        "plz": "63075",
-        "price": 4.87,
-        "available": true,
-        "source": "Canngo Apotheke"
-      },
-      {
         "pharmacy_id": "e10lyi76nr7a7ztkmo2s28wj",
         "name": "Dr. Müller Leafs (Engel-Apotheke Am Rathaus)",
         "city": "Kassel",
@@ -630,6 +630,15 @@
         "price": 4.9,
         "available": true,
         "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "b1cotx9gnyqovzzd387t0shw",
+        "name": "Karolinger Apotheke Aachen",
+        "city": "Aachen",
+        "plz": "52064",
+        "price": 4.99,
+        "available": true,
+        "source": "Canngo Apotheke"
       },
       {
         "pharmacy_id": "hdtypbu8ocscgnhzndx9pxht",
@@ -650,28 +659,19 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "b1cotx9gnyqovzzd387t0shw",
-        "name": "Karolinger Apotheke Aachen",
-        "city": "Aachen",
-        "plz": "52064",
-        "price": 4.99,
+        "pharmacy_id": "tnoe0ccsgww1aqnaz7jdh3qq",
+        "name": "HAMBURGCANNABIS (Stresemann-Apotheke, Hamburg)",
+        "city": "Hamburg",
+        "plz": "22767",
+        "price": 5.29,
         "available": true,
-        "source": "Canngo Apotheke"
+        "source": "Cannaleo"
       },
       {
         "pharmacy_id": "i2b5rs73czjqmjyo26yu8vq3",
         "name": "Cannabis Hamburg (Hinrichsen Apotheke, Hamburg)",
         "city": "Hamburg",
         "plz": "20535",
-        "price": 5.29,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "tnoe0ccsgww1aqnaz7jdh3qq",
-        "name": "HAMBURGCANNABIS (Stresemann-Apotheke, Hamburg)",
-        "city": "Hamburg",
-        "plz": "22767",
         "price": 5.29,
         "available": true,
         "source": "Cannaleo"
@@ -695,15 +695,6 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "p47ugkyilm4cfogdi78pkw0b",
-        "name": "Easy Cannabis Apotheke",
-        "city": "Salzgitter",
-        "plz": "38226",
-        "price": 5.55,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
         "pharmacy_id": "wrvvyxbuiwv20bzqym8td75j",
         "name": "Cannabis Augsburg (Augusta Apotheke)",
         "city": "Augsburg",
@@ -713,8 +704,17 @@
         "source": "Cannaleo"
       },
       {
+        "pharmacy_id": "p47ugkyilm4cfogdi78pkw0b",
+        "name": "Easy Cannabis Apotheke",
+        "city": "Salzgitter",
+        "plz": "38226",
+        "price": 5.55,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
         "pharmacy_id": "iutllm6j9cjoz0wc0tvlfzj2",
-        "name": "GRASTHEKE (St. Alexius Apotheke)",
+        "name": "GRASTHEKE (St. Alexius Apotheke, Neuss)",
         "city": "Neuss",
         "plz": "41464",
         "price": 5.94,
@@ -911,24 +911,6 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "p37hsftr0vmxfwdfeqtfqu2f",
-        "name": "Cannabis Reutlingen (Bahnhof Apotheke Reutlingen, Reutlingen)",
-        "city": "Reutlingen",
-        "plz": "72764",
-        "price": 7.5,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "lvkvymu8q9uvz3d2aw2xglx5",
-        "name": "Rhein-Apotheke im Ärztehaus Mühlburg, Karlsruhe",
-        "city": "Karlsruhe",
-        "plz": "76185",
-        "price": 7.5,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
         "pharmacy_id": "mlsmfffzi4jp0e8kgivimxt4",
         "name": "Rhein-Apotheke Karlsruhe",
         "city": "Karlsruhe",
@@ -938,10 +920,28 @@
         "source": "Canngo Apotheke"
       },
       {
+        "pharmacy_id": "p37hsftr0vmxfwdfeqtfqu2f",
+        "name": "Cannabis Reutlingen (Bahnhof Apotheke Reutlingen, Reutlingen)",
+        "city": "Reutlingen",
+        "plz": "72764",
+        "price": 7.5,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
         "pharmacy_id": "j10ifwpl6w9s9l3eeflt0n4v",
         "name": "thcundco.de",
         "city": "Hamburg",
         "plz": "21073",
+        "price": 7.5,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "lvkvymu8q9uvz3d2aw2xglx5",
+        "name": "Rhein-Apotheke im Ärztehaus Mühlburg, Karlsruhe",
+        "city": "Karlsruhe",
+        "plz": "76185",
         "price": 7.5,
         "available": true,
         "source": "Cannaleo"
@@ -2512,7 +2512,7 @@
       },
       {
         "pharmacy_id": "iutllm6j9cjoz0wc0tvlfzj2",
-        "name": "GRASTHEKE (St. Alexius Apotheke)",
+        "name": "GRASTHEKE (St. Alexius Apotheke, Neuss)",
         "city": "Neuss",
         "plz": "41464",
         "price": 4.14,
