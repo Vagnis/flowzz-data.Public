@@ -1,6 +1,6 @@
 {
   "shard": 23,
-  "updated_at": "2026-08-20T16:46:14.631727+02:00",
+  "updated_at": "2026-08-20T17:43:51.763903+02:00",
   "prices": {
     "pedanios 26/1 ehd ca": [
       {
@@ -812,15 +812,6 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "zbtslbr4edl7bf0om5rktmlv",
-        "name": "Rastatt",
-        "city": "Rastatt",
-        "plz": "76437",
-        "price": 5.99,
-        "available": true,
-        "source": "Canngo Apotheke"
-      },
-      {
         "pharmacy_id": "n10agfa1382ht7kktqq87e41",
         "name": "Christophorus Apotheke Trostberg",
         "city": "Trostberg",
@@ -828,6 +819,15 @@
         "price": 5.99,
         "available": true,
         "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "zbtslbr4edl7bf0om5rktmlv",
+        "name": "Rastatt",
+        "city": "Rastatt",
+        "plz": "76437",
+        "price": 5.99,
+        "available": true,
+        "source": "Canngo Apotheke"
       },
       {
         "pharmacy_id": "uc8s7eynslwqdngjpx7k9oe7",
@@ -1784,7 +1784,7 @@
     "demecan craft pineapple 30 01": [
       {
         "pharmacy_id": "iutllm6j9cjoz0wc0tvlfzj2",
-        "name": "GRASTHEKE (St. Alexius Apotheke, Neuss)",
+        "name": "GRASTHEKE (St. Alexius Apotheke)",
         "city": "Neuss",
         "plz": "41464",
         "price": 6.93,
@@ -1891,15 +1891,6 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "r66ve2dcfqlp1sxrc12ew1kv",
-        "name": "Canamedico - Cannabis-Mainfranken",
-        "city": "Volkach",
-        "plz": "97332",
-        "price": 7.99,
-        "available": true,
-        "source": "CannaFlow"
-      },
-      {
         "pharmacy_id": "ywia6esjhiilbpr2y3kueopq",
         "name": "Cannabis-Taxi",
         "city": "Esslingen",
@@ -1907,6 +1898,15 @@
         "price": 7.99,
         "available": true,
         "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "r66ve2dcfqlp1sxrc12ew1kv",
+        "name": "Canamedico - Cannabis-Mainfranken",
+        "city": "Volkach",
+        "plz": "97332",
+        "price": 7.99,
+        "available": true,
+        "source": "CannaFlow"
       },
       {
         "pharmacy_id": "wrvvyxbuiwv20bzqym8td75j",
@@ -2351,17 +2351,6 @@
         "source": "Canngo Apotheke"
       }
     ],
-    "enua 25/1 bdo ca": [
-      {
-        "pharmacy_id": "adpkzfluakdfovur8fra6ez5",
-        "name": "Paracelsus Apotheke",
-        "city": "Keltern",
-        "plz": "75210",
-        "price": 4.99,
-        "available": true,
-        "source": "CannaFlow"
-      }
-    ],
     "madrecan 27/1 gb9 garlic budder minis": [
       {
         "pharmacy_id": "yyva3bdg1zje9o9owqr5f74k",
@@ -2371,6 +2360,17 @@
         "price": 4.19,
         "available": true,
         "source": "Cannaleo"
+      }
+    ],
+    "enua 25/1 bdo ca": [
+      {
+        "pharmacy_id": "adpkzfluakdfovur8fra6ez5",
+        "name": "Paracelsus Apotheke",
+        "city": "Keltern",
+        "plz": "75210",
+        "price": 4.99,
+        "available": true,
+        "source": "CannaFlow"
       }
     ],
     "canify cannabis flos 24/1 ls ku": [
