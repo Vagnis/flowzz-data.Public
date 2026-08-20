@@ -1,6 +1,6 @@
 {
   "shard": 6,
-  "updated_at": "2026-08-20T17:43:23.990582+02:00",
+  "updated_at": "2026-08-20T18:18:21.568847+02:00",
   "prices": {
     "zoiks 22/1 sld sun": [
       {
@@ -14,7 +14,7 @@
       },
       {
         "pharmacy_id": "iutllm6j9cjoz0wc0tvlfzj2",
-        "name": "GRASTHEKE (St. Alexius Apotheke, Neuss)",
+        "name": "GRASTHEKE (St. Alexius Apotheke)",
         "city": "Neuss",
         "plz": "41464",
         "price": 3.64,
@@ -1080,7 +1080,7 @@
         "name": "Canthera",
         "city": "Nürnberg",
         "plz": "90403",
-        "price": 5.85,
+        "price": 5.7,
         "available": true,
         "source": "canthera"
       }
@@ -1094,6 +1094,15 @@
         "price": 4.17,
         "available": true,
         "source": "CannaFlow"
+      },
+      {
+        "pharmacy_id": "yyva3bdg1zje9o9owqr5f74k",
+        "name": "Goldene Blüte",
+        "city": "Freystadt",
+        "plz": "92342",
+        "price": 4.45,
+        "available": true,
+        "source": "Cannaleo"
       },
       {
         "pharmacy_id": "pokoki8t6viqpcfia3e9yizx",
@@ -1139,26 +1148,6 @@
         "city": "Blieskastel",
         "plz": "66440",
         "price": 4.99,
-        "available": true,
-        "source": "Canngo Apotheke"
-      }
-    ],
-    "30/1 amici sp scotti s purps": [
-      {
-        "pharmacy_id": "elddawva9r11lw5cowa37ouv",
-        "name": "Markus Apotheke Saarbrücken",
-        "city": "Saarbrücken",
-        "plz": "66133",
-        "price": 4.99,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "hovwu0sre0trp54jhyxxsb3l",
-        "name": "GreenCalm",
-        "city": "Düsseldorf",
-        "plz": "40231",
-        "price": 5.61,
         "available": true,
         "source": "Canngo Apotheke"
       }
@@ -1270,17 +1259,6 @@
         "source": "Canngo Apotheke"
       }
     ],
-    "apex sbp ca 30/1": [
-      {
-        "pharmacy_id": "ngigt54487vmscwlx52o0fk3",
-        "name": "Bluetenversand.de",
-        "city": "Berlin",
-        "plz": "10249",
-        "price": 5.99,
-        "available": true,
-        "source": "Canngo Apotheke"
-      }
-    ],
     "weeco duke 30/1 dk duke purple rain": [
       {
         "pharmacy_id": "k9o5v1jfqv4taitn4g5p4reo",
@@ -1384,17 +1362,6 @@
         "source": "Cannaleo"
       }
     ],
-    "green karat mg 25/1": [
-      {
-        "pharmacy_id": "fdi3ihiree0jrz4mdf3zmu69",
-        "name": "Cannabis Apotheke Blaue Blüten",
-        "city": "Passau ",
-        "plz": "94034",
-        "price": 8.8,
-        "available": true,
-        "source": "Canngo Apotheke"
-      }
-    ],
     "wellford aquaponic 30/1 atg atlantic glue": [
       {
         "pharmacy_id": "o8i7vkq4nbntfn1yebg1j5gj",
@@ -1458,6 +1425,17 @@
         "price": 11.0,
         "available": true,
         "source": "Cannaleo"
+      }
+    ],
+    "green karat mg 25/1": [
+      {
+        "pharmacy_id": "fdi3ihiree0jrz4mdf3zmu69",
+        "name": "Cannabis Apotheke Blaue Blüten",
+        "city": "Passau ",
+        "plz": "94034",
+        "price": 8.8,
+        "available": true,
+        "source": "Canngo Apotheke"
       }
     ],
     "luana kush 24/1": [
@@ -1554,17 +1532,6 @@
         "price": 6.74,
         "available": true,
         "source": "Cannaleo"
-      }
-    ],
-    "remexian 33/1 mtl chc": [
-      {
-        "pharmacy_id": "canthera",
-        "name": "Canthera",
-        "city": "Nürnberg",
-        "plz": "90403",
-        "price": 5.58,
-        "available": true,
-        "source": "canthera"
       }
     ],
     "enua 22/1 asf ca": [
@@ -1873,6 +1840,17 @@
         "source": "Canngo Apotheke"
       }
     ],
+    "daily special 27/1 les": [
+      {
+        "pharmacy_id": "canthera",
+        "name": "Canthera",
+        "city": "Nürnberg",
+        "plz": "90403",
+        "price": 4.64,
+        "available": true,
+        "source": "canthera"
+      }
+    ],
     "aleph amber 24/1": [
       {
         "pharmacy_id": "pivzpps5k32rre01ae2cjpx5",
@@ -1972,17 +1950,6 @@
         "price": 10.95,
         "available": true,
         "source": "Cannaleo"
-      }
-    ],
-    "daily special 27/1 les": [
-      {
-        "pharmacy_id": "canthera",
-        "name": "Canthera",
-        "city": "Nürnberg",
-        "plz": "90403",
-        "price": 4.64,
-        "available": true,
-        "source": "canthera"
       }
     ],
     "flighh no xviii 26/1": [
@@ -2691,17 +2658,6 @@
         "source": "CannaFlow"
       }
     ],
-    "suprobion cronos 25/1": [
-      {
-        "pharmacy_id": "m12x6iwfrj1uay6fewidbmh3",
-        "name": "Cannabis Weinstrasse (Bacchus Apotheke Neustadt)",
-        "city": "Neustadt a.d. Weinstraße",
-        "plz": "67434",
-        "price": 4.39,
-        "available": true,
-        "source": "Cannaleo"
-      }
-    ],
     "big dreams 21/1 psf t20": [
       {
         "pharmacy_id": "s6xdp3oyzfozefhh0p3xdqz3",
@@ -2861,6 +2817,17 @@
         "city": "Nürnberg",
         "plz": "90403",
         "price": 4.99,
+        "available": true,
+        "source": "canthera"
+      }
+    ],
+    "remexian 33/1 mtl chc": [
+      {
+        "pharmacy_id": "canthera",
+        "name": "Canthera",
+        "city": "Nürnberg",
+        "plz": "90403",
+        "price": 5.58,
         "available": true,
         "source": "canthera"
       }
