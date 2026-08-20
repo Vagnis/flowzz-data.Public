@@ -1,6 +1,6 @@
 {
   "shard": 21,
-  "updated_at": "2026-08-20T13:59:44.709884+02:00",
+  "updated_at": "2026-08-20T14:49:49.104844+02:00",
   "prices": {
     "zoiks 22/1 tg": [
       {
@@ -40,15 +40,6 @@
         "source": "CannaFlow"
       },
       {
-        "pharmacy_id": "ix7mbcj3di3qkhj2jc4iba7n",
-        "name": "Cannaapo",
-        "city": "Fulda",
-        "plz": "36037",
-        "price": 3.85,
-        "available": true,
-        "source": "CannaFlow"
-      },
-      {
         "pharmacy_id": "shy3b46sv6s7akhz71zydgda",
         "name": "Ahorn Medics (Ahorn-Apotheke, Mörfelden-Walldorf)",
         "city": "Mörfelden-Walldorf",
@@ -56,6 +47,15 @@
         "price": 3.85,
         "available": true,
         "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "ix7mbcj3di3qkhj2jc4iba7n",
+        "name": "Cannaapo",
+        "city": "Fulda",
+        "plz": "36037",
+        "price": 3.85,
+        "available": true,
+        "source": "CannaFlow"
       },
       {
         "pharmacy_id": "wlalgvr4ayn71b3idwzik0k8",
@@ -67,6 +67,15 @@
         "source": "Canngo Apotheke"
       },
       {
+        "pharmacy_id": "aa7cwasq91i50yqaoi1rdp3q",
+        "name": "SVAPO",
+        "city": "Offenbach",
+        "plz": "63075",
+        "price": 3.98,
+        "available": true,
+        "source": "Canngo Apotheke"
+      },
+      {
         "pharmacy_id": "baf13ynqj3kchsjo9hbgc88o",
         "name": "Heidekreis Apotheken (Michaelis-Apotheke, Walsrode)",
         "city": "Walsrode",
@@ -74,15 +83,6 @@
         "price": 4.12,
         "available": true,
         "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "aa7cwasq91i50yqaoi1rdp3q",
-        "name": "SVAPO",
-        "city": "Offenbach",
-        "plz": "63075",
-        "price": 4.25,
-        "available": true,
-        "source": "Canngo Apotheke"
       },
       {
         "pharmacy_id": "rnw4awskgicdgk8i3v8p56ic",
@@ -202,6 +202,15 @@
         "source": "Canngo Apotheke"
       },
       {
+        "pharmacy_id": "mw1iudtgisz5sxk7nzmwphtg",
+        "name": "cannabispromed (besser gesund OHG ipunkt Apotheke)",
+        "city": "Augsburg",
+        "plz": "86150",
+        "price": 4.99,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
         "pharmacy_id": "kv1jm18ja0ydb1yszkc01mys",
         "name": "Besser Gesund OHG ipunkt Apotheke",
         "city": "Augsburg",
@@ -215,15 +224,6 @@
         "name": "Cannabis-Taxi",
         "city": "Esslingen",
         "plz": "73730",
-        "price": 4.99,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "mw1iudtgisz5sxk7nzmwphtg",
-        "name": "cannabispromed (besser gesund OHG ipunkt Apotheke)",
-        "city": "Augsburg",
-        "plz": "86150",
         "price": 4.99,
         "available": true,
         "source": "Cannaleo"
@@ -348,15 +348,6 @@
     ],
     "demecan core golden horizon 31 01": [
       {
-        "pharmacy_id": "eou5l4p7zpw3ea4lec4anx8p",
-        "name": "Grüne Wirkstoffe (Anthemis Apotheke)",
-        "city": "Herrieden",
-        "plz": "91567",
-        "price": 6.55,
-        "available": true,
-        "source": "Canngo Apotheke"
-      },
-      {
         "pharmacy_id": "p12ulmu8ecggtigafp1rbcoe",
         "name": "Bussicann (Bußmanns Apotheke, Ahlen)",
         "city": "Ahlen",
@@ -370,6 +361,15 @@
         "name": "Bussicann Ahlen - Versandapotheke",
         "city": "Ahlen",
         "plz": "59229",
+        "price": 6.55,
+        "available": true,
+        "source": "Canngo Apotheke"
+      },
+      {
+        "pharmacy_id": "eou5l4p7zpw3ea4lec4anx8p",
+        "name": "Grüne Wirkstoffe (Anthemis Apotheke)",
+        "city": "Herrieden",
+        "plz": "91567",
         "price": 6.55,
         "available": true,
         "source": "Canngo Apotheke"
@@ -1321,17 +1321,6 @@
         "source": "Cannaleo"
       }
     ],
-    "imc oog thc 25 outdoor": [
-      {
-        "pharmacy_id": "k65upfauvvxshlsqybnkxa18",
-        "name": "Sinsheim Cannabis Apotheke ",
-        "city": "Sinsheim",
-        "plz": "74889",
-        "price": 6.9,
-        "available": true,
-        "source": "Canngo Apotheke"
-      }
-    ],
     "cookies 22/1 a b": [
       {
         "pharmacy_id": "vqma98ynwg0q92pjora82gtm",
@@ -1341,6 +1330,17 @@
         "price": 8.0,
         "available": true,
         "source": "Cannaleo"
+      }
+    ],
+    "imc oog thc 25 outdoor": [
+      {
+        "pharmacy_id": "k65upfauvvxshlsqybnkxa18",
+        "name": "Sinsheim Cannabis Apotheke ",
+        "city": "Sinsheim",
+        "plz": "74889",
+        "price": 6.9,
+        "available": true,
+        "source": "Canngo Apotheke"
       }
     ],
     "skk sh 29/1": [
@@ -1426,6 +1426,17 @@
         "source": "Canngo Apotheke"
       }
     ],
+    "hidealz 18/1 ms psy psyclone smalls": [
+      {
+        "pharmacy_id": "rshxukz0kyk4wmpgxig8o12z",
+        "name": "Prinzen Apotheke Frankfurt",
+        "city": "Frankfurt",
+        "plz": "60311",
+        "price": 4.95,
+        "available": true,
+        "source": "Cannaleo"
+      }
+    ],
     "faafo cannabis 24/1": [
       {
         "pharmacy_id": "v10pl4mewq7st35s8qgov3lp",
@@ -1471,17 +1482,6 @@
         "price": 6.9,
         "available": true,
         "source": "Canngo Apotheke"
-      }
-    ],
-    "hidealz 18/1 ms psy psyclone smalls": [
-      {
-        "pharmacy_id": "rshxukz0kyk4wmpgxig8o12z",
-        "name": "Prinzen Apotheke Frankfurt",
-        "city": "Frankfurt",
-        "plz": "60311",
-        "price": 4.95,
-        "available": true,
-        "source": "Cannaleo"
       }
     ],
     "somai cannabisextrakt hybrid 10 10": [
