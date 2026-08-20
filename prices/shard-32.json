@@ -1,6 +1,6 @@
 {
   "shard": 32,
-  "updated_at": "2026-08-20T14:00:01.894691+02:00",
+  "updated_at": "2026-08-20T14:50:05.122491+02:00",
   "prices": {
     "avaay signature 34/1 ogc": [
       {
@@ -399,15 +399,6 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "e9eig0e5txi2bemw74rdfssx",
-        "name": "cannabisapo24",
-        "city": "Augsburg",
-        "plz": "86150",
-        "price": 3.97,
-        "available": true,
-        "source": "Canngo Apotheke"
-      },
-      {
         "pharmacy_id": "l644mqlrh69hg8ifh1l2alzm",
         "name": "HolyHerb (St. Michael-Apotheke, Solingen)",
         "city": "Solingen",
@@ -415,6 +406,15 @@
         "price": 3.97,
         "available": true,
         "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "e9eig0e5txi2bemw74rdfssx",
+        "name": "cannabisapo24",
+        "city": "Augsburg",
+        "plz": "86150",
+        "price": 3.97,
+        "available": true,
+        "source": "Canngo Apotheke"
       },
       {
         "pharmacy_id": "qkvqzdjgnqiece2aoe28fsow",
@@ -2025,6 +2025,26 @@
         "source": "Canngo Apotheke"
       }
     ],
+    "j r strain gp 31/1": [
+      {
+        "pharmacy_id": "jmhlapielurpfunfq1vdypx5",
+        "name": "Rhein-Main-Cannabis (Park-Apotheke Wiesbaden)",
+        "city": "Wiesbaden",
+        "plz": "65193",
+        "price": 6.99,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "emtngt8xqpzp6ehnq57kl0jl",
+        "name": "Rhein-Main-Cannabis (Apotheke an der Warte, Frankfurt)",
+        "city": "Frankfurt",
+        "plz": "60326",
+        "price": 6.99,
+        "available": true,
+        "source": "Cannaleo"
+      }
+    ],
     "ozsun 26/1": [
       {
         "pharmacy_id": "e10lyi76nr7a7ztkmo2s28wj",
@@ -2552,17 +2572,6 @@
         "source": "CannaFlow"
       }
     ],
-    "lot 420 ab pt": [
-      {
-        "pharmacy_id": "yyva3bdg1zje9o9owqr5f74k",
-        "name": "Goldene Blüte",
-        "city": "Freystadt",
-        "plz": "92342",
-        "price": 7.8,
-        "available": true,
-        "source": "Cannaleo"
-      }
-    ],
     "demecan ps light drop 19/1": [
       {
         "pharmacy_id": "hovwu0sre0trp54jhyxxsb3l",
@@ -2572,6 +2581,17 @@
         "price": 3.32,
         "available": true,
         "source": "Canngo Apotheke"
+      }
+    ],
+    "lot 420 ab pt": [
+      {
+        "pharmacy_id": "yyva3bdg1zje9o9owqr5f74k",
+        "name": "Goldene Blüte",
+        "city": "Freystadt",
+        "plz": "92342",
+        "price": 7.8,
+        "available": true,
+        "source": "Cannaleo"
       }
     ],
     "botanics purple cream 24/1": [
@@ -2786,17 +2806,6 @@
         "source": "Canngo Apotheke"
       }
     ],
-    "canify cannabis flos 22/1 pt ku": [
-      {
-        "pharmacy_id": "k65upfauvvxshlsqybnkxa18",
-        "name": "Sinsheim Cannabis Apotheke ",
-        "city": "Sinsheim",
-        "plz": "74889",
-        "price": 6.1,
-        "available": true,
-        "source": "Canngo Apotheke"
-      }
-    ],
     "tilray thc15 spotlight porto": [
       {
         "pharmacy_id": "qtpbz8g0a9974pi63340rh5p",
@@ -2819,60 +2828,15 @@
         "source": "Canngo Apotheke"
       }
     ],
-    "skk cd 30/1": [
+    "canify cannabis flos 22/1 pt ku": [
       {
-        "pharmacy_id": "v10pl4mewq7st35s8qgov3lp",
-        "name": "CANNACOMPANY",
-        "city": "Bonn",
-        "plz": "53225",
-        "price": 4.98,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "elddawva9r11lw5cowa37ouv",
-        "name": "Markus Apotheke Saarbrücken",
-        "city": "Saarbrücken",
-        "plz": "66133",
-        "price": 4.98,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "qi0weqo2nbk0gopbwdy1wi89",
-        "name": "Dragonweed (Drachen Apotheke)",
-        "city": "Geldern",
-        "plz": "47608",
-        "price": 4.99,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "hdxqag2wtc1be6c48cuxrhjm",
-        "name": "Cannabis4wuppertal (Widder-Apotheke)",
-        "city": "Wuppertal",
-        "plz": "42277",
-        "price": 4.99,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "m5k0wvjphc511bg4vpi3efjf",
-        "name": "Cannatree – Rats-Apotheke Düsseldorf",
-        "city": "Düsseldorf",
-        "plz": "40625",
-        "price": 4.99,
+        "pharmacy_id": "k65upfauvvxshlsqybnkxa18",
+        "name": "Sinsheim Cannabis Apotheke ",
+        "city": "Sinsheim",
+        "plz": "74889",
+        "price": 6.1,
         "available": true,
         "source": "Canngo Apotheke"
-      },
-      {
-        "pharmacy_id": "i3spreb0xvbixau9e2auk1jd",
-        "name": "Cannatree – Rats-Apotheke Düsseldorf",
-        "city": "Düsseldorf",
-        "plz": "40625",
-        "price": 4.99,
-        "available": true,
-        "source": "CannaFlow"
       }
     ],
     "crf km 27/1": [
@@ -3001,6 +2965,62 @@
         "price": 9.98,
         "available": true,
         "source": "Cannaleo"
+      }
+    ],
+    "skk cd 30/1": [
+      {
+        "pharmacy_id": "v10pl4mewq7st35s8qgov3lp",
+        "name": "CANNACOMPANY",
+        "city": "Bonn",
+        "plz": "53225",
+        "price": 4.98,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "elddawva9r11lw5cowa37ouv",
+        "name": "Markus Apotheke Saarbrücken",
+        "city": "Saarbrücken",
+        "plz": "66133",
+        "price": 4.98,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "qi0weqo2nbk0gopbwdy1wi89",
+        "name": "Dragonweed (Drachen Apotheke)",
+        "city": "Geldern",
+        "plz": "47608",
+        "price": 4.99,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "hdxqag2wtc1be6c48cuxrhjm",
+        "name": "Cannabis4wuppertal (Widder-Apotheke)",
+        "city": "Wuppertal",
+        "plz": "42277",
+        "price": 4.99,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "m5k0wvjphc511bg4vpi3efjf",
+        "name": "Cannatree – Rats-Apotheke Düsseldorf",
+        "city": "Düsseldorf",
+        "plz": "40625",
+        "price": 4.99,
+        "available": true,
+        "source": "Canngo Apotheke"
+      },
+      {
+        "pharmacy_id": "i3spreb0xvbixau9e2auk1jd",
+        "name": "Cannatree – Rats-Apotheke Düsseldorf",
+        "city": "Düsseldorf",
+        "plz": "40625",
+        "price": 4.99,
+        "available": true,
+        "source": "CannaFlow"
       }
     ],
     "sinceritas 100/1": [
