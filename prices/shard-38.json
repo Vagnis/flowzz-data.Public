@@ -1,6 +1,6 @@
 {
   "shard": 38,
-  "updated_at": "2026-08-20T20:04:20.933430+02:00",
+  "updated_at": "2026-08-20T20:47:14.193513+02:00",
   "prices": {
     "peace naturals 31/1 sc": [
       {
@@ -69,6 +69,15 @@
         "city": "Sankt Augustin",
         "plz": "53757",
         "price": 3.47,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "e10lyi76nr7a7ztkmo2s28wj",
+        "name": "Dr. Müller Leafs (Engel-Apotheke Am Rathaus)",
+        "city": "Kassel",
+        "plz": "34117",
+        "price": 3.65,
         "available": true,
         "source": "Cannaleo"
       },
@@ -279,7 +288,7 @@
         "name": "3Leafs by Idris Apotheke",
         "city": "Weinheim",
         "plz": "69469",
-        "price": 3.59,
+        "price": 3.89,
         "available": true,
         "source": "Canngo Apotheke"
       },
@@ -1874,19 +1883,19 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "hhy35r3pvpkotgltvr7w8jod",
-        "name": "MAXMO Cannabis (MAXMO Apotheke, Mönchengladbach)",
-        "city": "Mönchengladbach",
-        "plz": "41239",
+        "pharmacy_id": "gflzy0roem5c6com5tjknkpw",
+        "name": "Medicannabis Essen (easyApotheke Rathaus Galerie, Essen)",
+        "city": "Essen",
+        "plz": "45127",
         "price": 5.19,
         "available": true,
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "gflzy0roem5c6com5tjknkpw",
-        "name": "Medicannabis Essen (easyApotheke Rathaus Galerie, Essen)",
-        "city": "Essen",
-        "plz": "45127",
+        "pharmacy_id": "hhy35r3pvpkotgltvr7w8jod",
+        "name": "MAXMO Cannabis (MAXMO Apotheke, Mönchengladbach)",
+        "city": "Mönchengladbach",
+        "plz": "41239",
         "price": 5.19,
         "available": true,
         "source": "Cannaleo"
@@ -1910,19 +1919,19 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "m12x6iwfrj1uay6fewidbmh3",
-        "name": "Cannabis Weinstrasse (Bacchus Apotheke Neustadt)",
-        "city": "Neustadt a.d. Weinstraße",
-        "plz": "67434",
+        "pharmacy_id": "ywia6esjhiilbpr2y3kueopq",
+        "name": "Cannabis-Taxi",
+        "city": "Esslingen",
+        "plz": "73730",
         "price": 5.29,
         "available": true,
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "ywia6esjhiilbpr2y3kueopq",
-        "name": "Cannabis-Taxi",
-        "city": "Esslingen",
-        "plz": "73730",
+        "pharmacy_id": "m12x6iwfrj1uay6fewidbmh3",
+        "name": "Cannabis Weinstrasse (Bacchus Apotheke Neustadt)",
+        "city": "Neustadt a.d. Weinstraße",
+        "plz": "67434",
         "price": 5.29,
         "available": true,
         "source": "Cannaleo"
@@ -1955,15 +1964,6 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "p12ulmu8ecggtigafp1rbcoe",
-        "name": "Bussicann (Bußmanns Apotheke, Ahlen)",
-        "city": "Ahlen",
-        "plz": "59229",
-        "price": 5.44,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
         "pharmacy_id": "f931og9innjrrv0uvsypjrs9",
         "name": "Bussicann Ahlen - Versandapotheke",
         "city": "Ahlen",
@@ -1977,6 +1977,15 @@
         "name": "Bussicann Rheda (Bußmanns Schloss-Apotheke, Rheda-Wiedenbrück)",
         "city": "Rheda-Wiedenbrück",
         "plz": "33378",
+        "price": 5.44,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "p12ulmu8ecggtigafp1rbcoe",
+        "name": "Bussicann (Bußmanns Apotheke, Ahlen)",
+        "city": "Ahlen",
+        "plz": "59229",
         "price": 5.44,
         "available": true,
         "source": "Cannaleo"
@@ -2063,10 +2072,10 @@
         "source": "Canngo Apotheke"
       },
       {
-        "pharmacy_id": "l79t82sn4wb0v14mp53ld8pd",
-        "name": "KARLCHENGRAS (Karl Apotheke Karlsruhe)",
+        "pharmacy_id": "lvkvymu8q9uvz3d2aw2xglx5",
+        "name": "Rhein-Apotheke im Ärztehaus Mühlburg, Karlsruhe",
         "city": "Karlsruhe",
-        "plz": "76133",
+        "plz": "76185",
         "price": 6.0,
         "available": true,
         "source": "Cannaleo"
@@ -2081,10 +2090,10 @@
         "source": "Canngo Apotheke"
       },
       {
-        "pharmacy_id": "lvkvymu8q9uvz3d2aw2xglx5",
-        "name": "Rhein-Apotheke im Ärztehaus Mühlburg, Karlsruhe",
+        "pharmacy_id": "l79t82sn4wb0v14mp53ld8pd",
+        "name": "KARLCHENGRAS (Karl Apotheke Karlsruhe)",
         "city": "Karlsruhe",
-        "plz": "76185",
+        "plz": "76133",
         "price": 6.0,
         "available": true,
         "source": "Cannaleo"
@@ -2117,15 +2126,6 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "siogoxqjk81x4usa6hww69o7",
-        "name": "CanMans - Berg-Apotheke",
-        "city": "Sangerhausen",
-        "plz": "06526",
-        "price": 6.49,
-        "available": true,
-        "source": "CannaFlow"
-      },
-      {
         "pharmacy_id": "f296rcptbg1vx9qk875cpyju",
         "name": "HalleCann - Adler Apotheke",
         "city": "Halle",
@@ -2133,6 +2133,15 @@
         "price": 6.49,
         "available": true,
         "source": "Canngo Apotheke"
+      },
+      {
+        "pharmacy_id": "siogoxqjk81x4usa6hww69o7",
+        "name": "CanMans - Berg-Apotheke",
+        "city": "Sangerhausen",
+        "plz": "06526",
+        "price": 6.49,
+        "available": true,
+        "source": "CannaFlow"
       },
       {
         "pharmacy_id": "moh9f30fcbapvnj2wvlwftan",
@@ -2144,15 +2153,6 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "bv8tsdnyvd4bxcnv7ndzrje3",
-        "name": "Blüten-Apotheke in München",
-        "city": "München",
-        "plz": "80804",
-        "price": 6.9,
-        "available": true,
-        "source": "Canngo Apotheke"
-      },
-      {
         "pharmacy_id": "lm1smrzvwkgr6nh0jiisa9mg",
         "name": "Blüten-Apotheke München",
         "city": "München",
@@ -2160,6 +2160,15 @@
         "price": 6.9,
         "available": true,
         "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "bv8tsdnyvd4bxcnv7ndzrje3",
+        "name": "Blüten-Apotheke in München",
+        "city": "München",
+        "plz": "80804",
+        "price": 6.9,
+        "available": true,
+        "source": "Canngo Apotheke"
       },
       {
         "pharmacy_id": "px3bkzoc6la641pysf44ndvh",
