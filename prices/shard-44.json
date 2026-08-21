@@ -1,6 +1,6 @@
 {
   "shard": 44,
-  "updated_at": "2026-08-22T00:05:46.715965+02:00",
+  "updated_at": "2026-08-22T00:30:56.850601+02:00",
   "prices": {
     "czechout 24/1 pmm|marker permanent": [
       {
@@ -866,15 +866,6 @@
         "source": "CannaFlow"
       },
       {
-        "pharmacy_id": "f104wltd4pj9xcafifc7x7n8",
-        "name": "medicflow (Pelikan Apotheke Berlin)",
-        "city": "Berlin",
-        "plz": "12099",
-        "price": 4.99,
-        "available": true,
-        "source": "CannaFlow"
-      },
-      {
         "pharmacy_id": "yyva3bdg1zje9o9owqr5f74k",
         "name": "Goldene Blüte",
         "city": "Freystadt",
@@ -882,6 +873,15 @@
         "price": 4.99,
         "available": true,
         "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "f104wltd4pj9xcafifc7x7n8",
+        "name": "medicflow (Pelikan Apotheke Berlin)",
+        "city": "Berlin",
+        "plz": "12099",
+        "price": 4.99,
+        "available": true,
+        "source": "CannaFlow"
       },
       {
         "pharmacy_id": "ohifw0gxv62743fn7j2sqco6",
@@ -920,10 +920,10 @@
         "source": "Canngo Apotheke"
       },
       {
-        "pharmacy_id": "k5hhgfqallvphv86zuao1hss",
-        "name": "Hohenzollern Apotheke Münster",
-        "city": "Münster",
-        "plz": "48145",
+        "pharmacy_id": "gbjpkkmxzbc1sv1cpbn9bx55",
+        "name": "Apotheke im Hauptbahnhof",
+        "city": "Gelsenkirchen",
+        "plz": "45879",
         "price": 5.99,
         "available": true,
         "source": "Canngo Apotheke"
@@ -947,13 +947,22 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "gbjpkkmxzbc1sv1cpbn9bx55",
-        "name": "Apotheke im Hauptbahnhof",
-        "city": "Gelsenkirchen",
-        "plz": "45879",
+        "pharmacy_id": "k5hhgfqallvphv86zuao1hss",
+        "name": "Hohenzollern Apotheke Münster",
+        "city": "Münster",
+        "plz": "48145",
         "price": 5.99,
         "available": true,
         "source": "Canngo Apotheke"
+      },
+      {
+        "pharmacy_id": "r481s1vjse40xv765uytf0qb",
+        "name": "Heidegras (easyApotheke Marktcenter Uelzen)",
+        "city": "Uelzen",
+        "plz": "29525",
+        "price": 6.05,
+        "available": true,
+        "source": "Cannaleo"
       },
       {
         "pharmacy_id": "bv8tsdnyvd4bxcnv7ndzrje3",
@@ -1721,6 +1730,35 @@
         "source": "Cannaleo"
       }
     ],
+    "med haze energy phocc 26/1|coco crunch orange": [
+      {
+        "pharmacy_id": "uagcogrer86te4bqaklwl4en",
+        "name": "Sebastian Apotheke Tegernheim (NUR ABHOLUNG!)",
+        "city": "Tegernheim",
+        "plz": "93105",
+        "price": 7.5,
+        "available": true,
+        "source": "Canngo Apotheke"
+      },
+      {
+        "pharmacy_id": "pagp8ceme1aw82rjzqcvemac",
+        "name": "LIONSHERB (Löwen-Apotheke Langenfeld)",
+        "city": "Langenfeld",
+        "plz": "40764",
+        "price": 7.9,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "kessf9r248v23pjoh48qol80",
+        "name": "Stachus-Apotheke",
+        "city": "München",
+        "plz": "80335",
+        "price": 9.04,
+        "available": true,
+        "source": "Cannaleo"
+      }
+    ],
     "gc lcg 32/1|cherry gelato lemon": [
       {
         "pharmacy_id": "d110gl7ph509necw0888os7x",
@@ -1980,35 +2018,6 @@
         "city": "Waiblingen",
         "plz": "71332",
         "price": 9.98,
-        "available": true,
-        "source": "Cannaleo"
-      }
-    ],
-    "med haze energy phocc 26/1|coco crunch orange": [
-      {
-        "pharmacy_id": "uagcogrer86te4bqaklwl4en",
-        "name": "Sebastian Apotheke Tegernheim (NUR ABHOLUNG!)",
-        "city": "Tegernheim",
-        "plz": "93105",
-        "price": 7.5,
-        "available": true,
-        "source": "Canngo Apotheke"
-      },
-      {
-        "pharmacy_id": "pagp8ceme1aw82rjzqcvemac",
-        "name": "LIONSHERB (Löwen-Apotheke Langenfeld)",
-        "city": "Langenfeld",
-        "plz": "40764",
-        "price": 7.9,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "kessf9r248v23pjoh48qol80",
-        "name": "Stachus-Apotheke",
-        "city": "München",
-        "plz": "80335",
-        "price": 9.04,
         "available": true,
         "source": "Cannaleo"
       }
