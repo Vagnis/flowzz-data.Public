@@ -1,6 +1,6 @@
 {
   "shard": 28,
-  "updated_at": "2026-08-21T07:42:49.348674+02:00",
+  "updated_at": "2026-08-21T08:25:42.736418+02:00",
   "prices": {
     "pedanios 31/1 cos ca": [
       {
@@ -435,15 +435,6 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "fuj6q7vpbn2e1jaa4rtn1v5e",
-        "name": "Grüne Blüte",
-        "city": "Markkleeberg",
-        "plz": "04416",
-        "price": 7.99,
-        "available": true,
-        "source": "Canngo Apotheke"
-      },
-      {
         "pharmacy_id": "eh3xv4vr869vblyw876sjmwy",
         "name": "Cannabis Apotheke Pohlheim (Schiffenberg Apotheke, Pohlheim)",
         "city": "Pohlheim",
@@ -451,6 +442,15 @@
         "price": 7.99,
         "available": true,
         "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "fuj6q7vpbn2e1jaa4rtn1v5e",
+        "name": "Grüne Blüte",
+        "city": "Markkleeberg",
+        "plz": "04416",
+        "price": 7.99,
+        "available": true,
+        "source": "Canngo Apotheke"
       },
       {
         "pharmacy_id": "a8bj52lnqt5xda53bp6qf7qk",
@@ -736,15 +736,6 @@
         "source": "Canngo Apotheke"
       },
       {
-        "pharmacy_id": "q9uob64rqcl3ocucna5ta7pw",
-        "name": "Ratioapotheke, Otzberg",
-        "city": "Otzberg",
-        "plz": "64853",
-        "price": 4.95,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
         "pharmacy_id": "ocssb7q5v926a3mkbnlhnqni",
         "name": "Ratioapotheke",
         "city": "Otzberg-Lengfeld",
@@ -752,6 +743,15 @@
         "price": 4.95,
         "available": true,
         "source": "Canngo Apotheke"
+      },
+      {
+        "pharmacy_id": "q9uob64rqcl3ocucna5ta7pw",
+        "name": "Ratioapotheke, Otzberg",
+        "city": "Otzberg",
+        "plz": "64853",
+        "price": 4.95,
+        "available": true,
+        "source": "Cannaleo"
       },
       {
         "pharmacy_id": "xrt8vhkchb38k6bn9kjh7r6u",
@@ -2282,19 +2282,19 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "fw2gf31hdpg9v77k90oyyzng",
-        "name": "Hanauer Cannabis Apotheke (Buchen-Apotheke)",
-        "city": "Hanau",
-        "plz": "63454",
+        "pharmacy_id": "r13gza90f6t8i1ckrfz82nx3",
+        "name": "Behring Apotheke",
+        "city": "Neuss",
+        "plz": "41464",
         "price": 7.45,
         "available": true,
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "r13gza90f6t8i1ckrfz82nx3",
-        "name": "Behring Apotheke",
-        "city": "Neuss",
-        "plz": "41464",
+        "pharmacy_id": "fw2gf31hdpg9v77k90oyyzng",
+        "name": "Hanauer Cannabis Apotheke (Buchen-Apotheke)",
+        "city": "Hanau",
+        "plz": "63454",
         "price": 7.45,
         "available": true,
         "source": "Cannaleo"
@@ -3374,6 +3374,35 @@
         "source": "Cannaleo"
       }
     ],
+    "mycb1 27/1": [
+      {
+        "pharmacy_id": "z2u72ffm0csfpisve4ewvld0",
+        "name": "CURA GREEN (Heide Apotheke, Paderborn)",
+        "city": "Paderborn",
+        "plz": "33102",
+        "price": 3.99,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "o8i7vkq4nbntfn1yebg1j5gj",
+        "name": "Apocannabis24",
+        "city": "Recklinghausen",
+        "plz": "45661",
+        "price": 4.99,
+        "available": true,
+        "source": "Canngo Apotheke"
+      },
+      {
+        "pharmacy_id": "wwgzr8nwdke6stnjelb1ekhh",
+        "name": "CannaTal",
+        "city": "Engelskirchen ",
+        "plz": "51766",
+        "price": 5.45,
+        "available": true,
+        "source": "Canngo Apotheke"
+      }
+    ],
     "khiron pp 29/1": [
       {
         "pharmacy_id": "b1cotx9gnyqovzzd387t0shw",
@@ -3428,35 +3457,6 @@
         "price": 7.2,
         "available": true,
         "source": "Cannaleo"
-      }
-    ],
-    "mycb1 27/1": [
-      {
-        "pharmacy_id": "z2u72ffm0csfpisve4ewvld0",
-        "name": "CURA GREEN (Heide Apotheke, Paderborn)",
-        "city": "Paderborn",
-        "plz": "33102",
-        "price": 3.99,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "o8i7vkq4nbntfn1yebg1j5gj",
-        "name": "Apocannabis24",
-        "city": "Recklinghausen",
-        "plz": "45661",
-        "price": 4.99,
-        "available": true,
-        "source": "Canngo Apotheke"
-      },
-      {
-        "pharmacy_id": "wwgzr8nwdke6stnjelb1ekhh",
-        "name": "CannaTal",
-        "city": "Engelskirchen ",
-        "plz": "51766",
-        "price": 5.45,
-        "available": true,
-        "source": "Canngo Apotheke"
       }
     ],
     "care gel thc20": [
