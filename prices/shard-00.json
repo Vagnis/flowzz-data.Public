@@ -1,6 +1,6 @@
 {
   "shard": 0,
-  "updated_at": "2026-08-21T09:37:45.113294+02:00",
+  "updated_at": "2026-08-21T10:41:18.031136+02:00",
   "prices": {
     "zoiks 26/1 sr": [
       {
@@ -2090,6 +2090,15 @@
         "source": "Cannaleo"
       },
       {
+        "pharmacy_id": "baf13ynqj3kchsjo9hbgc88o",
+        "name": "Heidekreis Apotheken (Michaelis-Apotheke, Walsrode)",
+        "city": "Walsrode",
+        "plz": "29699",
+        "price": 5.35,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
         "pharmacy_id": "vpomybf0shv98s1bvlfs4rgk",
         "name": "3Königen Apotheke (Dreikönigen Apotheke am Ostwall, Krefeld)",
         "city": "Krefeld",
@@ -2106,15 +2115,6 @@
         "price": 5.35,
         "available": true,
         "source": "Canngo Apotheke"
-      },
-      {
-        "pharmacy_id": "baf13ynqj3kchsjo9hbgc88o",
-        "name": "Heidekreis Apotheken (Michaelis-Apotheke, Walsrode)",
-        "city": "Walsrode",
-        "plz": "29699",
-        "price": 5.35,
-        "available": true,
-        "source": "Cannaleo"
       },
       {
         "pharmacy_id": "aa7cwasq91i50yqaoi1rdp3q",
@@ -2171,15 +2171,6 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "wlalgvr4ayn71b3idwzik0k8",
-        "name": "Landmann Apotheke Saarbrücken",
-        "city": "Saarbrücken",
-        "plz": "66111",
-        "price": 5.99,
-        "available": true,
-        "source": "Canngo Apotheke"
-      },
-      {
         "pharmacy_id": "x7rol625e5h0zass0noy0zwj",
         "name": "Markt-Apotheke, Waldshut-Tiengen",
         "city": "Waldshut-Tiengen",
@@ -2196,6 +2187,15 @@
         "price": 5.99,
         "available": true,
         "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "wlalgvr4ayn71b3idwzik0k8",
+        "name": "Landmann Apotheke Saarbrücken",
+        "city": "Saarbrücken",
+        "plz": "66111",
+        "price": 5.99,
+        "available": true,
+        "source": "Canngo Apotheke"
       },
       {
         "pharmacy_id": "e50vj7b350qajvdqj1mc6e1g",
@@ -2369,13 +2369,13 @@
         "source": "CannaFlow"
       },
       {
-        "pharmacy_id": "lm1smrzvwkgr6nh0jiisa9mg",
-        "name": "Blüten-Apotheke München",
+        "pharmacy_id": "bv8tsdnyvd4bxcnv7ndzrje3",
+        "name": "Blüten-Apotheke in München",
         "city": "München",
         "plz": "80804",
         "price": 7.2,
         "available": true,
-        "source": "Cannaleo"
+        "source": "Canngo Apotheke"
       },
       {
         "pharmacy_id": "j10ifwpl6w9s9l3eeflt0n4v",
@@ -2387,13 +2387,13 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "bv8tsdnyvd4bxcnv7ndzrje3",
-        "name": "Blüten-Apotheke in München",
+        "pharmacy_id": "lm1smrzvwkgr6nh0jiisa9mg",
+        "name": "Blüten-Apotheke München",
         "city": "München",
         "plz": "80804",
         "price": 7.2,
         "available": true,
-        "source": "Canngo Apotheke"
+        "source": "Cannaleo"
       },
       {
         "pharmacy_id": "pagp8ceme1aw82rjzqcvemac",
@@ -2423,19 +2423,19 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "hnvguvgdjdixdcspd0dljneg",
-        "name": "Augusta Green (St. Stephanus Apotheke, Illingen)",
-        "city": "Illingen",
-        "plz": "66557",
+        "pharmacy_id": "oanw6n9tnav4u52isnf5hi8c",
+        "name": "Augusta Green (Apotheke Kraus, Schönenberg-Kübelberg)",
+        "city": "Schönenberg-Kübelberg",
+        "plz": "66901",
         "price": 8.49,
         "available": true,
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "oanw6n9tnav4u52isnf5hi8c",
-        "name": "Augusta Green (Apotheke Kraus, Schönenberg-Kübelberg)",
-        "city": "Schönenberg-Kübelberg",
-        "plz": "66901",
+        "pharmacy_id": "hnvguvgdjdixdcspd0dljneg",
+        "name": "Augusta Green (St. Stephanus Apotheke, Illingen)",
+        "city": "Illingen",
+        "plz": "66557",
         "price": 8.49,
         "available": true,
         "source": "Cannaleo"
@@ -3138,6 +3138,17 @@
         "source": "Canngo Apotheke"
       }
     ],
+    "botanics golden ace 20/1": [
+      {
+        "pharmacy_id": "canthera",
+        "name": "Canthera",
+        "city": "Nürnberg",
+        "plz": "90403",
+        "price": 7.49,
+        "available": true,
+        "source": "canthera"
+      }
+    ],
     "origine nature med 30/1": [
       {
         "pharmacy_id": "yyva3bdg1zje9o9owqr5f74k",
@@ -3156,17 +3167,6 @@
         "price": 8.8,
         "available": true,
         "source": "Canngo Apotheke"
-      }
-    ],
-    "botanics golden ace 20/1": [
-      {
-        "pharmacy_id": "canthera",
-        "name": "Canthera",
-        "city": "Nürnberg",
-        "plz": "90403",
-        "price": 7.49,
-        "available": true,
-        "source": "canthera"
       }
     ],
     "wtf 21/1 mic tap": [
@@ -3368,17 +3368,6 @@
         "source": "Cannaleo"
       }
     ],
-    "med haze energy phrc 22/1": [
-      {
-        "pharmacy_id": "uagcogrer86te4bqaklwl4en",
-        "name": "Sebastian Apotheke Tegernheim (NUR ABHOLUNG!)",
-        "city": "Tegernheim",
-        "plz": "93105",
-        "price": 4.9,
-        "available": true,
-        "source": "Canngo Apotheke"
-      }
-    ],
     "breezy organics ggl 25/1": [
       {
         "pharmacy_id": "c3jnmh6ryo43uv084z6z9lxp",
@@ -3388,6 +3377,17 @@
         "price": 5.09,
         "available": true,
         "source": "Cannaleo"
+      }
+    ],
+    "med haze energy phrc 22/1": [
+      {
+        "pharmacy_id": "uagcogrer86te4bqaklwl4en",
+        "name": "Sebastian Apotheke Tegernheim (NUR ABHOLUNG!)",
+        "city": "Tegernheim",
+        "plz": "93105",
+        "price": 4.9,
+        "available": true,
+        "source": "Canngo Apotheke"
       }
     ],
     "remexian 30/1 hma cdc": [
