@@ -1,6 +1,6 @@
 {
   "shard": 43,
-  "updated_at": "2026-08-21T23:02:42.592355+02:00",
+  "updated_at": "2026-08-22T00:05:45.146481+02:00",
   "prices": {
     "avaay khalifa 28/1 km|khalifa mints": [
       {
@@ -609,8 +609,8 @@
     ],
     "28/1 iuvo kc|oj zainbow": [
       {
-        "pharmacy_id": "hdtypbu8ocscgnhzndx9pxht",
-        "name": "Cannalivery",
+        "pharmacy_id": "br3e2qtamrdtflese6tssbop",
+        "name": "Cannabis Fähre",
         "city": "Niederkassel",
         "plz": "53859",
         "price": 6.49,
@@ -618,8 +618,8 @@
         "source": "Canngo Apotheke"
       },
       {
-        "pharmacy_id": "br3e2qtamrdtflese6tssbop",
-        "name": "Cannabis Fähre",
+        "pharmacy_id": "hdtypbu8ocscgnhzndx9pxht",
+        "name": "Cannalivery",
         "city": "Niederkassel",
         "plz": "53859",
         "price": 6.49,
@@ -1720,7 +1720,7 @@
         "name": "Grafen Cannabis Apotheke",
         "city": "Düsseldorf",
         "plz": "40235",
-        "price": 7.52,
+        "price": 7.5,
         "available": true,
         "source": "Cannaleo"
       },
@@ -1729,7 +1729,7 @@
         "name": "24cannapoint (Apotheke am Bahnhof Speyer)",
         "city": "Speyer",
         "plz": "67346",
-        "price": 7.52,
+        "price": 7.5,
         "available": true,
         "source": "Cannaleo"
       },
@@ -2066,26 +2066,6 @@
         "city": "Melle",
         "plz": "49324",
         "price": 3.99,
-        "available": true,
-        "source": "Canngo Apotheke"
-      }
-    ],
-    "peace naturals 33/1 gc|cookies gmo": [
-      {
-        "pharmacy_id": "k65upfauvvxshlsqybnkxa18",
-        "name": "Sinsheim Cannabis Apotheke ",
-        "city": "Sinsheim",
-        "plz": "74889",
-        "price": 7.3,
-        "available": true,
-        "source": "Canngo Apotheke"
-      },
-      {
-        "pharmacy_id": "ghy187y5n59cae2h5yj743e8",
-        "name": "Bären Apotheke",
-        "city": "Erlangen",
-        "plz": "91052",
-        "price": 15.0,
         "available": true,
         "source": "Canngo Apotheke"
       }
@@ -2585,6 +2565,26 @@
         "price": 7.95,
         "available": true,
         "source": "Cannaleo"
+      }
+    ],
+    "peace naturals 33/1 gc|cookies gmo": [
+      {
+        "pharmacy_id": "k65upfauvvxshlsqybnkxa18",
+        "name": "Sinsheim Cannabis Apotheke ",
+        "city": "Sinsheim",
+        "plz": "74889",
+        "price": 7.3,
+        "available": true,
+        "source": "Canngo Apotheke"
+      },
+      {
+        "pharmacy_id": "ghy187y5n59cae2h5yj743e8",
+        "name": "Bären Apotheke",
+        "city": "Erlangen",
+        "plz": "91052",
+        "price": 15.0,
+        "available": true,
+        "source": "Canngo Apotheke"
       }
     ],
     "beacon t30|haze lavender": [
@@ -4120,37 +4120,6 @@
         "source": "Cannaleo"
       }
     ],
-    "avaay signature 23/1 lem|lemon loaf": [
-      {
-        "pharmacy_id": "f104wltd4pj9xcafifc7x7n8",
-        "name": "medicflow (Pelikan Apotheke Berlin)",
-        "city": "Berlin",
-        "plz": "12099",
-        "price": 3.99,
-        "available": true,
-        "source": "CannaFlow"
-      },
-      {
-        "pharmacy_id": "qzty56oa8deefqid4xp5hysi",
-        "name": "Die Grüne Apotheke",
-        "city": "Limburg an der Lahn",
-        "plz": "65549",
-        "price": 4.99,
-        "available": true,
-        "source": "CannaFlow"
-      }
-    ],
-    "lot 420 ata|apple atomic": [
-      {
-        "pharmacy_id": "dqs8999o6m0mo9xbcmtzu32t",
-        "name": "WeeDoc.",
-        "city": "Dortmund",
-        "plz": "44263",
-        "price": 7.65,
-        "available": true,
-        "source": "Canngo Apotheke"
-      }
-    ],
     "enua 25/1 jfk ca|fuel jet kush": [
       {
         "pharmacy_id": "v13hoqmgzzhg21iaumq0jg26",
@@ -4475,6 +4444,37 @@
         "price": 6.2,
         "available": true,
         "source": "Canngo Apotheke"
+      }
+    ],
+    "lot 420 ata|apple atomic": [
+      {
+        "pharmacy_id": "dqs8999o6m0mo9xbcmtzu32t",
+        "name": "WeeDoc.",
+        "city": "Dortmund",
+        "plz": "44263",
+        "price": 7.65,
+        "available": true,
+        "source": "Canngo Apotheke"
+      }
+    ],
+    "avaay signature 23/1 lem|lemon loaf": [
+      {
+        "pharmacy_id": "f104wltd4pj9xcafifc7x7n8",
+        "name": "medicflow (Pelikan Apotheke Berlin)",
+        "city": "Berlin",
+        "plz": "12099",
+        "price": 3.99,
+        "available": true,
+        "source": "CannaFlow"
+      },
+      {
+        "pharmacy_id": "qzty56oa8deefqid4xp5hysi",
+        "name": "Die Grüne Apotheke",
+        "city": "Limburg an der Lahn",
+        "plz": "65549",
+        "price": 4.99,
+        "available": true,
+        "source": "CannaFlow"
       }
     ],
     "cookies 2 0|bubblegumz": [
@@ -5046,28 +5046,6 @@
         "source": "Cannaleo"
       }
     ],
-    "apothekenherstellung weeco lmc 33/1 extrakt 50 mg/ml thc 50 mg/ml cbd|lemoncello": [
-      {
-        "pharmacy_id": "goet66lm5om7yu0rqvdyx14f",
-        "name": "MARIEN APOTHEKE, Siegsdorf",
-        "city": "Siegsdorf",
-        "plz": "83313",
-        "price": 5.6,
-        "available": true,
-        "source": "Cannaleo"
-      }
-    ],
-    "apothekenherstellung weeco lmc 33/1 extrakt 20 mg/ml thc 360 mg/ml cbd|lemoncello": [
-      {
-        "pharmacy_id": "goet66lm5om7yu0rqvdyx14f",
-        "name": "MARIEN APOTHEKE, Siegsdorf",
-        "city": "Siegsdorf",
-        "plz": "83313",
-        "price": 13.9,
-        "available": true,
-        "source": "Cannaleo"
-      }
-    ],
     "demecan oktonia typ 2 05 20 cannabisextrakt|orange velvet": [
       {
         "pharmacy_id": "zt74hyn38sfr9e6hop1qsn3r",
@@ -5120,6 +5098,28 @@
         "city": "Burghausen",
         "plz": "84489",
         "price": 13.0,
+        "available": true,
+        "source": "Cannaleo"
+      }
+    ],
+    "apothekenherstellung weeco lmc 33/1 extrakt 20 mg/ml thc 360 mg/ml cbd|lemoncello": [
+      {
+        "pharmacy_id": "goet66lm5om7yu0rqvdyx14f",
+        "name": "MARIEN APOTHEKE, Siegsdorf",
+        "city": "Siegsdorf",
+        "plz": "83313",
+        "price": 13.9,
+        "available": true,
+        "source": "Cannaleo"
+      }
+    ],
+    "apothekenherstellung weeco lmc 33/1 extrakt 50 mg/ml thc 50 mg/ml cbd|lemoncello": [
+      {
+        "pharmacy_id": "goet66lm5om7yu0rqvdyx14f",
+        "name": "MARIEN APOTHEKE, Siegsdorf",
+        "city": "Siegsdorf",
+        "plz": "83313",
+        "price": 5.6,
         "available": true,
         "source": "Cannaleo"
       }
