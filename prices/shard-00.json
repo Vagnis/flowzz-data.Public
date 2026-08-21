@@ -1,6 +1,6 @@
 {
   "shard": 0,
-  "updated_at": "2026-08-21T03:59:10.526413+02:00",
+  "updated_at": "2026-08-21T04:40:14.547147+02:00",
   "prices": {
     "zoiks 26/1 sr": [
       {
@@ -1644,6 +1644,17 @@
         "source": "Cannaleo"
       }
     ],
+    "enua 30/1 at2 ca mam": [
+      {
+        "pharmacy_id": "canthera",
+        "name": "Canthera",
+        "city": "Nürnberg",
+        "plz": "90403",
+        "price": 4.59,
+        "available": true,
+        "source": "canthera"
+      }
+    ],
     "beacon sc t30": [
       {
         "pharmacy_id": "k9o5v1jfqv4taitn4g5p4reo",
@@ -1880,17 +1891,6 @@
         "source": "Cannaleo"
       }
     ],
-    "enua 30/1 at2 ca mam": [
-      {
-        "pharmacy_id": "canthera",
-        "name": "Canthera",
-        "city": "Nürnberg",
-        "plz": "90403",
-        "price": 4.59,
-        "available": true,
-        "source": "canthera"
-      }
-    ],
     "bathera 28/1 ab apples and bananas": [
       {
         "pharmacy_id": "canthera",
@@ -2081,15 +2081,6 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "vpomybf0shv98s1bvlfs4rgk",
-        "name": "3Königen Apotheke (Dreikönigen Apotheke am Ostwall, Krefeld)",
-        "city": "Krefeld",
-        "plz": "47798",
-        "price": 5.35,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
         "pharmacy_id": "qh6gkq38fvhnhn63zx4iahm6",
         "name": "3Königen Apotheke",
         "city": "Krefeld",
@@ -2103,6 +2094,15 @@
         "name": "Heidekreis Apotheken (Michaelis-Apotheke, Walsrode)",
         "city": "Walsrode",
         "plz": "29699",
+        "price": 5.35,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "vpomybf0shv98s1bvlfs4rgk",
+        "name": "3Königen Apotheke (Dreikönigen Apotheke am Ostwall, Krefeld)",
+        "city": "Krefeld",
+        "plz": "47798",
         "price": 5.35,
         "available": true,
         "source": "Cannaleo"
@@ -2162,19 +2162,10 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "wlalgvr4ayn71b3idwzik0k8",
-        "name": "Landmann Apotheke Saarbrücken",
-        "city": "Saarbrücken",
-        "plz": "66111",
-        "price": 5.99,
-        "available": true,
-        "source": "Canngo Apotheke"
-      },
-      {
-        "pharmacy_id": "x7rol625e5h0zass0noy0zwj",
-        "name": "Markt-Apotheke, Waldshut-Tiengen",
-        "city": "Waldshut-Tiengen",
-        "plz": "79761",
+        "pharmacy_id": "e50vj7b350qajvdqj1mc6e1g",
+        "name": "easygras (easyApotheke, Donauwörth)",
+        "city": "Donauwörth",
+        "plz": "86609",
         "price": 5.99,
         "available": true,
         "source": "Cannaleo"
@@ -2189,13 +2180,22 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "e50vj7b350qajvdqj1mc6e1g",
-        "name": "easygras (easyApotheke, Donauwörth)",
-        "city": "Donauwörth",
-        "plz": "86609",
+        "pharmacy_id": "x7rol625e5h0zass0noy0zwj",
+        "name": "Markt-Apotheke, Waldshut-Tiengen",
+        "city": "Waldshut-Tiengen",
+        "plz": "79761",
         "price": 5.99,
         "available": true,
         "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "wlalgvr4ayn71b3idwzik0k8",
+        "name": "Landmann Apotheke Saarbrücken",
+        "city": "Saarbrücken",
+        "plz": "66111",
+        "price": 5.99,
+        "available": true,
+        "source": "Canngo Apotheke"
       },
       {
         "pharmacy_id": "wrvvyxbuiwv20bzqym8td75j",
@@ -2360,19 +2360,19 @@
         "source": "CannaFlow"
       },
       {
-        "pharmacy_id": "lm1smrzvwkgr6nh0jiisa9mg",
-        "name": "Blüten-Apotheke München",
-        "city": "München",
-        "plz": "80804",
+        "pharmacy_id": "j10ifwpl6w9s9l3eeflt0n4v",
+        "name": "thcundco.de",
+        "city": "Hamburg",
+        "plz": "21073",
         "price": 7.2,
         "available": true,
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "j10ifwpl6w9s9l3eeflt0n4v",
-        "name": "thcundco.de",
-        "city": "Hamburg",
-        "plz": "21073",
+        "pharmacy_id": "lm1smrzvwkgr6nh0jiisa9mg",
+        "name": "Blüten-Apotheke München",
+        "city": "München",
+        "plz": "80804",
         "price": 7.2,
         "available": true,
         "source": "Cannaleo"
@@ -2414,6 +2414,15 @@
         "source": "Cannaleo"
       },
       {
+        "pharmacy_id": "oanw6n9tnav4u52isnf5hi8c",
+        "name": "Augusta Green (Apotheke Kraus, Schönenberg-Kübelberg)",
+        "city": "Schönenberg-Kübelberg",
+        "plz": "66901",
+        "price": 8.49,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
         "pharmacy_id": "hnvguvgdjdixdcspd0dljneg",
         "name": "Augusta Green (St. Stephanus Apotheke, Illingen)",
         "city": "Illingen",
@@ -2427,15 +2436,6 @@
         "name": "Augusta Green (Abtei Apotheke, Wadgassen)",
         "city": "Wadgassen",
         "plz": "66787",
-        "price": 8.49,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "oanw6n9tnav4u52isnf5hi8c",
-        "name": "Augusta Green (Apotheke Kraus, Schönenberg-Kübelberg)",
-        "city": "Schönenberg-Kübelberg",
-        "plz": "66901",
         "price": 8.49,
         "available": true,
         "source": "Cannaleo"
@@ -3359,17 +3359,6 @@
         "source": "Cannaleo"
       }
     ],
-    "breezy organics ggl 25/1": [
-      {
-        "pharmacy_id": "c3jnmh6ryo43uv084z6z9lxp",
-        "name": "Cannabis Apotheke Rheinland (Vitahris)",
-        "city": "Bad Neuenahr",
-        "plz": "53474",
-        "price": 5.09,
-        "available": true,
-        "source": "Cannaleo"
-      }
-    ],
     "med haze energy phrc 22/1": [
       {
         "pharmacy_id": "uagcogrer86te4bqaklwl4en",
@@ -3379,6 +3368,17 @@
         "price": 4.9,
         "available": true,
         "source": "Canngo Apotheke"
+      }
+    ],
+    "breezy organics ggl 25/1": [
+      {
+        "pharmacy_id": "c3jnmh6ryo43uv084z6z9lxp",
+        "name": "Cannabis Apotheke Rheinland (Vitahris)",
+        "city": "Bad Neuenahr",
+        "plz": "53474",
+        "price": 5.09,
+        "available": true,
+        "source": "Cannaleo"
       }
     ],
     "remexian 30/1 hma cdc": [
