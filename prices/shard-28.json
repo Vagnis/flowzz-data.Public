@@ -1,6 +1,6 @@
 {
   "shard": 28,
-  "updated_at": "2026-08-21T17:07:06.487716+02:00",
+  "updated_at": "2026-08-21T18:02:02.660418+02:00",
   "prices": {
     "420 compound 30/1 rpv|gold pave rose": [
       {
@@ -1288,6 +1288,17 @@
         "source": "Cannaleo"
       }
     ],
+    "remexian 30/1 hcc plt|purple toque": [
+      {
+        "pharmacy_id": "yyva3bdg1zje9o9owqr5f74k",
+        "name": "Goldene Blüte",
+        "city": "Freystadt",
+        "plz": "92342",
+        "price": 4.99,
+        "available": true,
+        "source": "Cannaleo"
+      }
+    ],
     "amici 29/1 sle|lemon og sour": [
       {
         "pharmacy_id": "crzm01w47yi7mm5434gnewz8",
@@ -1443,6 +1454,15 @@
         "source": "Cannaleo"
       },
       {
+        "pharmacy_id": "ywia6esjhiilbpr2y3kueopq",
+        "name": "Cannabis-Taxi",
+        "city": "Esslingen",
+        "plz": "73730",
+        "price": 6.29,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
         "pharmacy_id": "fyuaid877v8939krdtycdqhi",
         "name": "Margarethen Apotheke, Reichertshofen",
         "city": "Reichertshofen",
@@ -1495,15 +1515,6 @@
         "price": 6.55,
         "available": true,
         "source": "Canngo Apotheke"
-      },
-      {
-        "pharmacy_id": "ywia6esjhiilbpr2y3kueopq",
-        "name": "Cannabis-Taxi",
-        "city": "Esslingen",
-        "plz": "73730",
-        "price": 6.59,
-        "available": true,
-        "source": "Cannaleo"
       },
       {
         "pharmacy_id": "nkb3pcihrkx7ob3uhu5t4l2r",
@@ -1587,15 +1598,6 @@
         "source": "CannaFlow"
       },
       {
-        "pharmacy_id": "lm1smrzvwkgr6nh0jiisa9mg",
-        "name": "Blüten-Apotheke München",
-        "city": "München",
-        "plz": "80804",
-        "price": 7.7,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
         "pharmacy_id": "bv8tsdnyvd4bxcnv7ndzrje3",
         "name": "Blüten-Apotheke in München",
         "city": "München",
@@ -1603,6 +1605,15 @@
         "price": 7.7,
         "available": true,
         "source": "Canngo Apotheke"
+      },
+      {
+        "pharmacy_id": "lm1smrzvwkgr6nh0jiisa9mg",
+        "name": "Blüten-Apotheke München",
+        "city": "München",
+        "plz": "80804",
+        "price": 7.7,
+        "available": true,
+        "source": "Cannaleo"
       },
       {
         "pharmacy_id": "hjoay0fnsrgk6prdw6v6cfld",
@@ -1619,17 +1630,6 @@
         "city": "Waiblingen",
         "plz": "71332",
         "price": 9.98,
-        "available": true,
-        "source": "Cannaleo"
-      }
-    ],
-    "remexian 30/1 hcc plt|purple toque": [
-      {
-        "pharmacy_id": "yyva3bdg1zje9o9owqr5f74k",
-        "name": "Goldene Blüte",
-        "city": "Freystadt",
-        "plz": "92342",
-        "price": 4.99,
         "available": true,
         "source": "Cannaleo"
       }
@@ -2413,6 +2413,26 @@
         "source": "CannaFlow"
       }
     ],
+    "tilray craft thc22 ppv|34 pave platinum": [
+      {
+        "pharmacy_id": "jbaukw4x5id3qyn6x48mgm9c",
+        "name": "Blütenrhein",
+        "city": "Germersheim",
+        "plz": "76726",
+        "price": 5.4,
+        "available": true,
+        "source": "Canngo Apotheke"
+      },
+      {
+        "pharmacy_id": "j2zeonb6gnyoldlrtg40zk9u",
+        "name": "(Cabemed) Apotheke im Polikum Berlin",
+        "city": "Berlin",
+        "plz": "12157",
+        "price": 7.89,
+        "available": true,
+        "source": "Cannaleo"
+      }
+    ],
     "v lue faz9 27/1|falconz": [
       {
         "pharmacy_id": "aa7cwasq91i50yqaoi1rdp3q",
@@ -2474,26 +2494,6 @@
         "city": "Köln",
         "plz": "51065",
         "price": 6.99,
-        "available": true,
-        "source": "Cannaleo"
-      }
-    ],
-    "tilray craft thc22 ppv|34 pave platinum": [
-      {
-        "pharmacy_id": "jbaukw4x5id3qyn6x48mgm9c",
-        "name": "Blütenrhein",
-        "city": "Germersheim",
-        "plz": "76726",
-        "price": 5.4,
-        "available": true,
-        "source": "Canngo Apotheke"
-      },
-      {
-        "pharmacy_id": "j2zeonb6gnyoldlrtg40zk9u",
-        "name": "(Cabemed) Apotheke im Polikum Berlin",
-        "city": "Berlin",
-        "plz": "12157",
-        "price": 7.89,
         "available": true,
         "source": "Cannaleo"
       }
@@ -3359,17 +3359,6 @@
         "source": "Cannaleo"
       }
     ],
-    "apothekenherstellung aphriarx ppv extrakt 50mg/ml|34 pave platinum": [
-      {
-        "pharmacy_id": "goet66lm5om7yu0rqvdyx14f",
-        "name": "MARIEN APOTHEKE, Siegsdorf",
-        "city": "Siegsdorf",
-        "plz": "83313",
-        "price": 4.8,
-        "available": true,
-        "source": "Cannaleo"
-      }
-    ],
     "cannovum extrakt 10/15 sl|cake lavender": [
       {
         "pharmacy_id": "e9eig0e5txi2bemw74rdfssx",
@@ -3404,6 +3393,17 @@
         "city": "München",
         "plz": "80335",
         "price": 14.99,
+        "available": true,
+        "source": "Cannaleo"
+      }
+    ],
+    "apothekenherstellung aphriarx ppv extrakt 50mg/ml|34 pave platinum": [
+      {
+        "pharmacy_id": "goet66lm5om7yu0rqvdyx14f",
+        "name": "MARIEN APOTHEKE, Siegsdorf",
+        "city": "Siegsdorf",
+        "plz": "83313",
+        "price": 4.8,
         "available": true,
         "source": "Cannaleo"
       }
