@@ -1,6 +1,6 @@
 {
   "shard": 10,
-  "updated_at": "2026-08-21T05:45:15.613386+02:00",
+  "updated_at": "2026-08-21T06:21:13.737748+02:00",
   "prices": {
     "medical saints 21/1 usr": [
       {
@@ -94,15 +94,6 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "br3e2qtamrdtflese6tssbop",
-        "name": "Cannabis Fähre",
-        "city": "Niederkassel",
-        "plz": "53859",
-        "price": 3.99,
-        "available": true,
-        "source": "Canngo Apotheke"
-      },
-      {
         "pharmacy_id": "l644mqlrh69hg8ifh1l2alzm",
         "name": "HolyHerb (St. Michael-Apotheke, Solingen)",
         "city": "Solingen",
@@ -110,6 +101,15 @@
         "price": 3.99,
         "available": true,
         "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "br3e2qtamrdtflese6tssbop",
+        "name": "Cannabis Fähre",
+        "city": "Niederkassel",
+        "plz": "53859",
+        "price": 3.99,
+        "available": true,
+        "source": "Canngo Apotheke"
       },
       {
         "pharmacy_id": "w0i48lx49u0lf8p7b717sqky",
@@ -1117,6 +1117,26 @@
         "source": "canthera"
       }
     ],
+    "420 evolution 27/1 ca bul": [
+      {
+        "pharmacy_id": "k65upfauvvxshlsqybnkxa18",
+        "name": "Sinsheim Cannabis Apotheke ",
+        "city": "Sinsheim",
+        "plz": "74889",
+        "price": 6.49,
+        "available": true,
+        "source": "Canngo Apotheke"
+      },
+      {
+        "pharmacy_id": "ghy187y5n59cae2h5yj743e8",
+        "name": "Bären Apotheke",
+        "city": "Erlangen",
+        "plz": "91052",
+        "price": 14.17,
+        "available": true,
+        "source": "Canngo Apotheke"
+      }
+    ],
     "420 evolution 22/1 ca": [
       {
         "pharmacy_id": "ix7mbcj3di3qkhj2jc4iba7n",
@@ -1151,26 +1171,6 @@
         "city": "Köln",
         "plz": "50674",
         "price": 9.01,
-        "available": true,
-        "source": "Canngo Apotheke"
-      }
-    ],
-    "420 evolution 27/1 ca bul": [
-      {
-        "pharmacy_id": "k65upfauvvxshlsqybnkxa18",
-        "name": "Sinsheim Cannabis Apotheke ",
-        "city": "Sinsheim",
-        "plz": "74889",
-        "price": 6.49,
-        "available": true,
-        "source": "Canngo Apotheke"
-      },
-      {
-        "pharmacy_id": "ghy187y5n59cae2h5yj743e8",
-        "name": "Bären Apotheke",
-        "city": "Erlangen",
-        "plz": "91052",
-        "price": 14.17,
         "available": true,
         "source": "Canngo Apotheke"
       }
@@ -1390,6 +1390,35 @@
         "source": "Canngo Apotheke"
       }
     ],
+    "enua 21/1 sc ca": [
+      {
+        "pharmacy_id": "f11gjnlh84v3b3omtn49gsb9",
+        "name": "MYCANNABIS",
+        "city": "Düsseldorf",
+        "plz": "40589",
+        "price": 4.99,
+        "available": true,
+        "source": "Canngo Apotheke"
+      },
+      {
+        "pharmacy_id": "s6xdp3oyzfozefhh0p3xdqz3",
+        "name": "Goldene Blüte",
+        "city": "Freystadt",
+        "plz": "92342",
+        "price": 5.9,
+        "available": true,
+        "source": "Canngo Apotheke"
+      },
+      {
+        "pharmacy_id": "fdi3ihiree0jrz4mdf3zmu69",
+        "name": "Cannabis Apotheke Blaue Blüten",
+        "city": "Passau ",
+        "plz": "94034",
+        "price": 6.38,
+        "available": true,
+        "source": "Canngo Apotheke"
+      }
+    ],
     "nice 27/1 sce": [
       {
         "pharmacy_id": "wg27pix4qq46t0505nd3byd9",
@@ -1433,35 +1462,6 @@
         "city": "Mühlhausen",
         "plz": "99974",
         "price": 6.35,
-        "available": true,
-        "source": "Canngo Apotheke"
-      }
-    ],
-    "enua 21/1 sc ca": [
-      {
-        "pharmacy_id": "f11gjnlh84v3b3omtn49gsb9",
-        "name": "MYCANNABIS",
-        "city": "Düsseldorf",
-        "plz": "40589",
-        "price": 4.99,
-        "available": true,
-        "source": "Canngo Apotheke"
-      },
-      {
-        "pharmacy_id": "s6xdp3oyzfozefhh0p3xdqz3",
-        "name": "Goldene Blüte",
-        "city": "Freystadt",
-        "plz": "92342",
-        "price": 5.9,
-        "available": true,
-        "source": "Canngo Apotheke"
-      },
-      {
-        "pharmacy_id": "fdi3ihiree0jrz4mdf3zmu69",
-        "name": "Cannabis Apotheke Blaue Blüten",
-        "city": "Passau ",
-        "plz": "94034",
-        "price": 6.38,
         "available": true,
         "source": "Canngo Apotheke"
       }
@@ -3421,17 +3421,6 @@
         "source": "Cannaleo"
       }
     ],
-    "enua 22/1 bdo ca": [
-      {
-        "pharmacy_id": "n13dman1350oxfz2boblcwn0",
-        "name": "allgäu-cannabis",
-        "city": "Kempten",
-        "plz": "87435",
-        "price": 8.3,
-        "available": true,
-        "source": "Canngo Apotheke"
-      }
-    ],
     "enua 30/1 cdc ca": [
       {
         "pharmacy_id": "k65upfauvvxshlsqybnkxa18",
@@ -3452,6 +3441,17 @@
         "price": 5.99,
         "available": true,
         "source": "Cannaleo"
+      }
+    ],
+    "enua 22/1 bdo ca": [
+      {
+        "pharmacy_id": "n13dman1350oxfz2boblcwn0",
+        "name": "allgäu-cannabis",
+        "city": "Kempten",
+        "plz": "87435",
+        "price": 8.3,
+        "available": true,
+        "source": "Canngo Apotheke"
       }
     ],
     "remexian 33/1 mtl par": [
