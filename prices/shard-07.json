@@ -1,6 +1,6 @@
 {
   "shard": 7,
-  "updated_at": "2026-08-21T19:51:38.487414+02:00",
+  "updated_at": "2026-08-21T20:25:11.973011+02:00",
   "prices": {
     "zoiks 22/1 bb|ben berries": [
       {
@@ -418,17 +418,6 @@
         "source": "Cannaleo"
       }
     ],
-    "tweed lmh 26/1|loud mouth": [
-      {
-        "pharmacy_id": "canthera",
-        "name": "Canthera",
-        "city": "Nürnberg",
-        "plz": "90403",
-        "price": 3.99,
-        "available": true,
-        "source": "canthera"
-      }
-    ],
     "cresco rse 27/1|black jack": [
       {
         "pharmacy_id": "n11o6xs4h95x4dxms8b8xira",
@@ -528,6 +517,17 @@
         "price": 6.37,
         "available": true,
         "source": "Cannaleo"
+      }
+    ],
+    "tweed lmh 26/1|loud mouth": [
+      {
+        "pharmacy_id": "canthera",
+        "name": "Canthera",
+        "city": "Nürnberg",
+        "plz": "90403",
+        "price": 3.99,
+        "available": true,
+        "source": "canthera"
       }
     ],
     "cannamedical indica forte au lkc|cake kush la": [
@@ -1445,17 +1445,6 @@
         "source": "CannaFlow"
       }
     ],
-    "truu gt 26 01|lime prime": [
-      {
-        "pharmacy_id": "canthera",
-        "name": "Canthera",
-        "city": "Nürnberg",
-        "plz": "90403",
-        "price": 4.8,
-        "available": true,
-        "source": "canthera"
-      }
-    ],
     "remexian 33/1 mtl chc|cheat code": [
       {
         "pharmacy_id": "canthera",
@@ -1463,6 +1452,17 @@
         "city": "Nürnberg",
         "plz": "90403",
         "price": 5.58,
+        "available": true,
+        "source": "canthera"
+      }
+    ],
+    "truu gt 26 01|lime prime": [
+      {
+        "pharmacy_id": "canthera",
+        "name": "Canthera",
+        "city": "Nürnberg",
+        "plz": "90403",
+        "price": 4.8,
         "available": true,
         "source": "canthera"
       }
@@ -2289,71 +2289,6 @@
         "source": "CannaFlow"
       }
     ],
-    "remexian 30/1 crx jbh|breath jet": [
-      {
-        "pharmacy_id": "k9o5v1jfqv4taitn4g5p4reo",
-        "name": "3Leafs by Idris Apotheke",
-        "city": "Weinheim",
-        "plz": "69469",
-        "price": 3.98,
-        "available": true,
-        "source": "Canngo Apotheke"
-      },
-      {
-        "pharmacy_id": "k6xdimvrjqe9w739wp1encla",
-        "name": "1A PHARMACAN (Löwen Apotheke München)",
-        "city": "München",
-        "plz": "80331",
-        "price": 4.44,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "elddawva9r11lw5cowa37ouv",
-        "name": "Markus Apotheke Saarbrücken",
-        "city": "Saarbrücken",
-        "plz": "66133",
-        "price": 4.59,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "zt74hyn38sfr9e6hop1qsn3r",
-        "name": "Cannatopie (Stadt Apotheke, Saarbrücken)",
-        "city": "Saarbrücken",
-        "plz": "66111",
-        "price": 4.98,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "zu33hfmb3jl8hj5tip0cump8",
-        "name": "1A MEDCAN (Hans Mielich Apotheke, München)",
-        "city": "München",
-        "plz": "81543",
-        "price": 4.98,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "e9eig0e5txi2bemw74rdfssx",
-        "name": "cannabisapo24",
-        "city": "Augsburg",
-        "plz": "86150",
-        "price": 4.99,
-        "available": true,
-        "source": "Canngo Apotheke"
-      },
-      {
-        "pharmacy_id": "v10pl4mewq7st35s8qgov3lp",
-        "name": "CANNACOMPANY",
-        "city": "Bonn",
-        "plz": "53225",
-        "price": 5.27,
-        "available": true,
-        "source": "Cannaleo"
-      }
-    ],
     "nice 26/1 nwa|new waves": [
       {
         "pharmacy_id": "canthera",
@@ -2466,6 +2401,71 @@
         "source": "Cannaleo"
       }
     ],
+    "remexian 30/1 crx jbh|breath jet": [
+      {
+        "pharmacy_id": "k9o5v1jfqv4taitn4g5p4reo",
+        "name": "3Leafs by Idris Apotheke",
+        "city": "Weinheim",
+        "plz": "69469",
+        "price": 3.98,
+        "available": true,
+        "source": "Canngo Apotheke"
+      },
+      {
+        "pharmacy_id": "k6xdimvrjqe9w739wp1encla",
+        "name": "1A PHARMACAN (Löwen Apotheke München)",
+        "city": "München",
+        "plz": "80331",
+        "price": 4.44,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "elddawva9r11lw5cowa37ouv",
+        "name": "Markus Apotheke Saarbrücken",
+        "city": "Saarbrücken",
+        "plz": "66133",
+        "price": 4.59,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "zt74hyn38sfr9e6hop1qsn3r",
+        "name": "Cannatopie (Stadt Apotheke, Saarbrücken)",
+        "city": "Saarbrücken",
+        "plz": "66111",
+        "price": 4.98,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "zu33hfmb3jl8hj5tip0cump8",
+        "name": "1A MEDCAN (Hans Mielich Apotheke, München)",
+        "city": "München",
+        "plz": "81543",
+        "price": 4.98,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "e9eig0e5txi2bemw74rdfssx",
+        "name": "cannabisapo24",
+        "city": "Augsburg",
+        "plz": "86150",
+        "price": 4.99,
+        "available": true,
+        "source": "Canngo Apotheke"
+      },
+      {
+        "pharmacy_id": "v10pl4mewq7st35s8qgov3lp",
+        "name": "CANNACOMPANY",
+        "city": "Bonn",
+        "plz": "53225",
+        "price": 5.27,
+        "available": true,
+        "source": "Cannaleo"
+      }
+    ],
     "420 natural 27/1 ca zrp|apple zour": [
       {
         "pharmacy_id": "k65upfauvvxshlsqybnkxa18",
@@ -2497,27 +2497,16 @@
         "source": "Cannaleo"
       }
     ],
-    "huala 33/1 ca jfl|flash jack": [
+    "remexian 30/1 rpk lmc limoncello|lemoncello": [
       {
-        "pharmacy_id": "t12z1u4mp0g7jn7y1rz47irb",
-        "name": "Cannabelus (Sabelus XXL Apotheke, Wildau)",
-        "city": "Wildau",
-        "plz": "15745",
-        "price": 4.76,
+        "pharmacy_id": "yyva3bdg1zje9o9owqr5f74k",
+        "name": "Goldene Blüte",
+        "city": "Freystadt",
+        "plz": "92342",
+        "price": 4.95,
         "available": true,
         "source": "Cannaleo"
       },
-      {
-        "pharmacy_id": "je00paar43ih1cnvnhpi7q9o",
-        "name": "1A Apoweed (farma-plus Apotheke Glückauf, Bochum)",
-        "city": "Bochum",
-        "plz": "44807",
-        "price": 5.79,
-        "available": true,
-        "source": "Cannaleo"
-      }
-    ],
-    "remexian 30/1 rpk lmc limoncello|lemoncello": [
       {
         "pharmacy_id": "l644mqlrh69hg8ifh1l2alzm",
         "name": "HolyHerb (St. Michael-Apotheke, Solingen)",
@@ -2546,19 +2535,19 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "dit5bxx92u5iipcx8q3qcvb1",
-        "name": "Cannabis Champion (Central Apotheke Waiblingen)",
-        "city": "Waiblingen",
-        "plz": "71332",
+        "pharmacy_id": "e10lyi76nr7a7ztkmo2s28wj",
+        "name": "Dr. Müller Leafs (Engel-Apotheke Am Rathaus)",
+        "city": "Kassel",
+        "plz": "34117",
         "price": 5.49,
         "available": true,
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "e10lyi76nr7a7ztkmo2s28wj",
-        "name": "Dr. Müller Leafs (Engel-Apotheke Am Rathaus)",
-        "city": "Kassel",
-        "plz": "34117",
+        "pharmacy_id": "dit5bxx92u5iipcx8q3qcvb1",
+        "name": "Cannabis Champion (Central Apotheke Waiblingen)",
+        "city": "Waiblingen",
+        "plz": "71332",
         "price": 5.49,
         "available": true,
         "source": "Cannaleo"
@@ -2605,6 +2594,35 @@
         "city": "Waiblingen",
         "plz": "71332",
         "price": 6.99,
+        "available": true,
+        "source": "Cannaleo"
+      }
+    ],
+    "huala 33/1 ca jfl|flash jack": [
+      {
+        "pharmacy_id": "t12z1u4mp0g7jn7y1rz47irb",
+        "name": "Cannabelus (Sabelus XXL Apotheke, Wildau)",
+        "city": "Wildau",
+        "plz": "15745",
+        "price": 4.76,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "je00paar43ih1cnvnhpi7q9o",
+        "name": "1A Apoweed (farma-plus Apotheke Glückauf, Bochum)",
+        "city": "Bochum",
+        "plz": "44807",
+        "price": 5.79,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "o6hgopcafir1pkl8f0cmvzch",
+        "name": "Cannabisapo Rödermark (Breidert-Apotheke)",
+        "city": "Rödermark",
+        "plz": "63322",
+        "price": 5.8,
         "available": true,
         "source": "Cannaleo"
       }
