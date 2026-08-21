@@ -1,6 +1,6 @@
 {
   "shard": 24,
-  "updated_at": "2026-08-21T20:25:39.657722+02:00",
+  "updated_at": "2026-08-21T21:19:09.537855+02:00",
   "prices": {
     "avaay 35/1 scg|citra g super": [
       {
@@ -806,19 +806,19 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "joz8opogk9t389i3hzlf7sal",
-        "name": "Cannapo-Saar (Rohrbach Apotheke, Sankt Ingbert)",
-        "city": "Sankt Ingbert",
-        "plz": "66386",
+        "pharmacy_id": "a2e4vmddrynu71ukir19fqs1",
+        "name": "Cannabis vor Ort Marktredwitz",
+        "city": "Marktredwitz",
+        "plz": "95615",
         "price": 8.85,
         "available": true,
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "a2e4vmddrynu71ukir19fqs1",
-        "name": "Cannabis vor Ort Marktredwitz",
-        "city": "Marktredwitz",
-        "plz": "95615",
+        "pharmacy_id": "joz8opogk9t389i3hzlf7sal",
+        "name": "Cannapo-Saar (Rohrbach Apotheke, Sankt Ingbert)",
+        "city": "Sankt Ingbert",
+        "plz": "66386",
         "price": 8.85,
         "available": true,
         "source": "Cannaleo"
@@ -1207,17 +1207,6 @@
         "source": "canthera"
       }
     ],
-    "eufloria 27/1 pch|churro purple": [
-      {
-        "pharmacy_id": "eou5l4p7zpw3ea4lec4anx8p",
-        "name": "Grüne Wirkstoffe (Anthemis Apotheke)",
-        "city": "Herrieden",
-        "plz": "91567",
-        "price": 5.29,
-        "available": true,
-        "source": "Canngo Apotheke"
-      }
-    ],
     "aleph water 6/12|amnesia balanced": [
       {
         "pharmacy_id": "tmwqooayfcrc8mz37xr8exfr",
@@ -1252,6 +1241,17 @@
         "city": "Melle",
         "plz": "49324",
         "price": 8.99,
+        "available": true,
+        "source": "Canngo Apotheke"
+      }
+    ],
+    "eufloria 27/1 pch|churro purple": [
+      {
+        "pharmacy_id": "eou5l4p7zpw3ea4lec4anx8p",
+        "name": "Grüne Wirkstoffe (Anthemis Apotheke)",
+        "city": "Herrieden",
+        "plz": "91567",
+        "price": 5.29,
         "available": true,
         "source": "Canngo Apotheke"
       }
@@ -1510,15 +1510,6 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "br3e2qtamrdtflese6tssbop",
-        "name": "Cannabis Fähre",
-        "city": "Niederkassel",
-        "plz": "53859",
-        "price": 3.99,
-        "available": true,
-        "source": "Canngo Apotheke"
-      },
-      {
         "pharmacy_id": "b1cotx9gnyqovzzd387t0shw",
         "name": "Karolinger Apotheke Aachen",
         "city": "Aachen",
@@ -1530,6 +1521,15 @@
       {
         "pharmacy_id": "hdtypbu8ocscgnhzndx9pxht",
         "name": "Cannalivery",
+        "city": "Niederkassel",
+        "plz": "53859",
+        "price": 3.99,
+        "available": true,
+        "source": "Canngo Apotheke"
+      },
+      {
+        "pharmacy_id": "br3e2qtamrdtflese6tssbop",
+        "name": "Cannabis Fähre",
         "city": "Niederkassel",
         "plz": "53859",
         "price": 3.99,
@@ -2298,6 +2298,17 @@
         "city": "Freiburg",
         "plz": "79110",
         "price": 7.2,
+        "available": true,
+        "source": "Cannaleo"
+      }
+    ],
+    "nice 26/1 gba|barz guava": [
+      {
+        "pharmacy_id": "xhcj5hflj9nb8pjqvmem7641",
+        "name": "(CannaQuell) Apotheke am Quellenbusch",
+        "city": "Düsseldorf",
+        "plz": "40625",
+        "price": 2.99,
         "available": true,
         "source": "Cannaleo"
       }
