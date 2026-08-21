@@ -1,6 +1,6 @@
 {
   "shard": 13,
-  "updated_at": "2026-08-21T19:51:47.457094+02:00",
+  "updated_at": "2026-08-21T20:25:21.318117+02:00",
   "prices": {
     "pedanios 27/1 bly ca|black jelly": [
       {
@@ -1921,6 +1921,17 @@
         "source": "Cannaleo"
       }
     ],
+    "demecan core og 21 01|kush og": [
+      {
+        "pharmacy_id": "canthera",
+        "name": "Canthera",
+        "city": "Nürnberg",
+        "plz": "90403",
+        "price": 3.69,
+        "available": true,
+        "source": "canthera"
+      }
+    ],
     "weeco 27/1|angel frosted lemon": [
       {
         "pharmacy_id": "mti056dfil3ofuf2zmo7jtdv",
@@ -1966,17 +1977,6 @@
         "price": 8.3,
         "available": true,
         "source": "Cannaleo"
-      }
-    ],
-    "demecan core og 21 01|kush og": [
-      {
-        "pharmacy_id": "canthera",
-        "name": "Canthera",
-        "city": "Nürnberg",
-        "plz": "90403",
-        "price": 3.69,
-        "available": true,
-        "source": "canthera"
       }
     ],
     "enua 33/1 sf4 ca sss sunset sherbert|sherbet sunset": [
@@ -2340,98 +2340,6 @@
         "source": "Cannaleo"
       }
     ],
-    "demecan ps epic drop|animal cookies cookies sinmint": [
-      {
-        "pharmacy_id": "b1cotx9gnyqovzzd387t0shw",
-        "name": "Karolinger Apotheke Aachen",
-        "city": "Aachen",
-        "plz": "52064",
-        "price": 4.2,
-        "available": true,
-        "source": "Canngo Apotheke"
-      },
-      {
-        "pharmacy_id": "shy3b46sv6s7akhz71zydgda",
-        "name": "Ahorn Medics (Ahorn-Apotheke, Mörfelden-Walldorf)",
-        "city": "Mörfelden-Walldorf",
-        "plz": "64546",
-        "price": 4.68,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "k1fv66xz9tfpngfk1dzcgjvn",
-        "name": "Cannabis Vital Apotheke (Rosen Apotheke im Center Hattersheim)",
-        "city": "Hattersheim",
-        "plz": "65795",
-        "price": 4.69,
-        "available": true,
-        "source": "Canngo Apotheke"
-      },
-      {
-        "pharmacy_id": "odvyg8x6lc1jbh5y0ihpdywt",
-        "name": "Cannabis Vital Apotheke (Rosen-Apotheke im Center Hattersheim)",
-        "city": "Hattersheim am Main",
-        "plz": "65795",
-        "price": 4.99,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "lox4xupth0cak19jika2wy2y",
-        "name": "Löwen-Apotheke Sindelfingen ",
-        "city": "Sindelfingen ",
-        "plz": "71063 ",
-        "price": 5.25,
-        "available": true,
-        "source": "Canngo Apotheke"
-      },
-      {
-        "pharmacy_id": "l14cry9gjebruwwe1iaai5tf",
-        "name": "MyMediWeed",
-        "city": "Berlin",
-        "plz": "12161",
-        "price": 5.55,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "vr2yp9orgxf3ja3gpgm6bjav",
-        "name": "Cannabis Apo Deutschland (MEDICON Nürnberg) ",
-        "city": "Stein",
-        "plz": "90547",
-        "price": 5.76,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "ervvr8h7xihn9oli1ycgqgwc",
-        "name": "Cannabis Shop der TE.AM Apotheken",
-        "city": "Sprockhövel",
-        "plz": "45549",
-        "price": 5.85,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "vslqjn8jh2x08ff780zt70hg",
-        "name": "ApoSweet",
-        "city": "Hamburg",
-        "plz": "22041",
-        "price": 5.99,
-        "available": true,
-        "source": "Canngo Apotheke"
-      },
-      {
-        "pharmacy_id": "kakqluuwio5iz0jcfo5imznl",
-        "name": "Cannabronn (Apotheke am Bahnhof, Heilbronn)",
-        "city": "Heilbronn",
-        "plz": "74072",
-        "price": 9.5,
-        "available": true,
-        "source": "Cannaleo"
-      }
-    ],
     "nice 26/1 m|blanc mont": [
       {
         "pharmacy_id": "shy3b46sv6s7akhz71zydgda",
@@ -2695,6 +2603,98 @@
         "source": "Cannaleo"
       }
     ],
+    "demecan ps epic drop|animal cookies cookies sinmint": [
+      {
+        "pharmacy_id": "b1cotx9gnyqovzzd387t0shw",
+        "name": "Karolinger Apotheke Aachen",
+        "city": "Aachen",
+        "plz": "52064",
+        "price": 4.2,
+        "available": true,
+        "source": "Canngo Apotheke"
+      },
+      {
+        "pharmacy_id": "shy3b46sv6s7akhz71zydgda",
+        "name": "Ahorn Medics (Ahorn-Apotheke, Mörfelden-Walldorf)",
+        "city": "Mörfelden-Walldorf",
+        "plz": "64546",
+        "price": 4.68,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "k1fv66xz9tfpngfk1dzcgjvn",
+        "name": "Cannabis Vital Apotheke (Rosen Apotheke im Center Hattersheim)",
+        "city": "Hattersheim",
+        "plz": "65795",
+        "price": 4.69,
+        "available": true,
+        "source": "Canngo Apotheke"
+      },
+      {
+        "pharmacy_id": "odvyg8x6lc1jbh5y0ihpdywt",
+        "name": "Cannabis Vital Apotheke (Rosen-Apotheke im Center Hattersheim)",
+        "city": "Hattersheim am Main",
+        "plz": "65795",
+        "price": 4.99,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "lox4xupth0cak19jika2wy2y",
+        "name": "Löwen-Apotheke Sindelfingen ",
+        "city": "Sindelfingen ",
+        "plz": "71063 ",
+        "price": 5.25,
+        "available": true,
+        "source": "Canngo Apotheke"
+      },
+      {
+        "pharmacy_id": "l14cry9gjebruwwe1iaai5tf",
+        "name": "MyMediWeed",
+        "city": "Berlin",
+        "plz": "12161",
+        "price": 5.55,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "vr2yp9orgxf3ja3gpgm6bjav",
+        "name": "Cannabis Apo Deutschland (MEDICON Nürnberg) ",
+        "city": "Stein",
+        "plz": "90547",
+        "price": 5.76,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "ervvr8h7xihn9oli1ycgqgwc",
+        "name": "Cannabis Shop der TE.AM Apotheken",
+        "city": "Sprockhövel",
+        "plz": "45549",
+        "price": 5.85,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "vslqjn8jh2x08ff780zt70hg",
+        "name": "ApoSweet",
+        "city": "Hamburg",
+        "plz": "22041",
+        "price": 5.99,
+        "available": true,
+        "source": "Canngo Apotheke"
+      },
+      {
+        "pharmacy_id": "kakqluuwio5iz0jcfo5imznl",
+        "name": "Cannabronn (Apotheke am Bahnhof, Heilbronn)",
+        "city": "Heilbronn",
+        "plz": "74072",
+        "price": 9.5,
+        "available": true,
+        "source": "Cannaleo"
+      }
+    ],
     "demecan typ 2 19/1|orange velvet": [
       {
         "pharmacy_id": "pokoki8t6viqpcfia3e9yizx",
@@ -2744,15 +2744,6 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "k1fv66xz9tfpngfk1dzcgjvn",
-        "name": "Cannabis Vital Apotheke (Rosen Apotheke im Center Hattersheim)",
-        "city": "Hattersheim",
-        "plz": "65795",
-        "price": 6.74,
-        "available": true,
-        "source": "Canngo Apotheke"
-      },
-      {
         "pharmacy_id": "odvyg8x6lc1jbh5y0ihpdywt",
         "name": "Cannabis Vital Apotheke (Rosen-Apotheke im Center Hattersheim)",
         "city": "Hattersheim am Main",
@@ -2760,6 +2751,15 @@
         "price": 6.74,
         "available": true,
         "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "k1fv66xz9tfpngfk1dzcgjvn",
+        "name": "Cannabis Vital Apotheke (Rosen Apotheke im Center Hattersheim)",
+        "city": "Hattersheim",
+        "plz": "65795",
+        "price": 6.74,
+        "available": true,
+        "source": "Canngo Apotheke"
       },
       {
         "pharmacy_id": "shy3b46sv6s7akhz71zydgda",
@@ -2807,19 +2807,19 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "odmqvjx8yh9yf7nop1g44gyt",
-        "name": "SKY CANNABIS KREUZBERG (Sky Apotheke, Berlin-Kreuzberg)",
+        "pharmacy_id": "vsww3hywbryn58z7xqj9wloq",
+        "name": "SKY CANNABIS WEDDING (Sky Apotheke, Berlin Wedding)",
         "city": "Berlin",
-        "plz": "10961",
+        "plz": "13353",
         "price": 6.99,
         "available": true,
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "vsww3hywbryn58z7xqj9wloq",
-        "name": "SKY CANNABIS WEDDING (Sky Apotheke, Berlin Wedding)",
+        "pharmacy_id": "odmqvjx8yh9yf7nop1g44gyt",
+        "name": "SKY CANNABIS KREUZBERG (Sky Apotheke, Berlin-Kreuzberg)",
         "city": "Berlin",
-        "plz": "13353",
+        "plz": "10961",
         "price": 6.99,
         "available": true,
         "source": "Cannaleo"
@@ -2870,15 +2870,6 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "qgfuv9a72bw1ahifa8jx4udw",
-        "name": "Asavita",
-        "city": "Berlin",
-        "plz": "10365",
-        "price": 7.5,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
         "pharmacy_id": "flzvpniwwb0dvfi0fcgwx8d9",
         "name": "Vericura",
         "city": "Gleichen",
@@ -2888,19 +2879,28 @@
         "source": "CannaFlow"
       },
       {
-        "pharmacy_id": "fsbk5u4481ge8by85dqwljj2",
-        "name": "neue Apotheke markt. Sinzheim",
-        "city": "Sinzheim",
-        "plz": "76547",
+        "pharmacy_id": "wrvvyxbuiwv20bzqym8td75j",
+        "name": "Cannabis Augsburg (Augusta Apotheke)",
+        "city": "Augsburg",
+        "plz": "86150",
         "price": 7.5,
         "available": true,
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "wrvvyxbuiwv20bzqym8td75j",
-        "name": "Cannabis Augsburg (Augusta Apotheke)",
-        "city": "Augsburg",
-        "plz": "86150",
+        "pharmacy_id": "qgfuv9a72bw1ahifa8jx4udw",
+        "name": "Asavita",
+        "city": "Berlin",
+        "plz": "10365",
+        "price": 7.5,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "fsbk5u4481ge8by85dqwljj2",
+        "name": "neue Apotheke markt. Sinzheim",
+        "city": "Sinzheim",
+        "plz": "76547",
         "price": 7.5,
         "available": true,
         "source": "Cannaleo"
@@ -2915,15 +2915,6 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "ocssb7q5v926a3mkbnlhnqni",
-        "name": "Ratioapotheke",
-        "city": "Otzberg-Lengfeld",
-        "plz": "64853",
-        "price": 7.95,
-        "available": true,
-        "source": "Canngo Apotheke"
-      },
-      {
         "pharmacy_id": "kw6m1rc1mu9e9eqffp0hsoo4",
         "name": "CannA3 (Medicon A3, Heßdorf)",
         "city": "Heßdorf",
@@ -2933,11 +2924,11 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "dwdbsc32nh0brw8gtl0f7udy",
-        "name": "Bavarian Cannabis",
-        "city": "Puchheim",
-        "plz": "82178",
-        "price": 7.99,
+        "pharmacy_id": "ocssb7q5v926a3mkbnlhnqni",
+        "name": "Ratioapotheke",
+        "city": "Otzberg-Lengfeld",
+        "plz": "64853",
+        "price": 7.95,
         "available": true,
         "source": "Canngo Apotheke"
       },
@@ -2951,19 +2942,28 @@
         "source": "CannaFlow"
       },
       {
-        "pharmacy_id": "iddjbnaz8i4tosse9oo7n1i2",
-        "name": "City Apotheke Ratingen (purplebuds.de)",
-        "city": "Ratingen",
-        "plz": "40878",
-        "price": 8.2,
+        "pharmacy_id": "dwdbsc32nh0brw8gtl0f7udy",
+        "name": "Bavarian Cannabis",
+        "city": "Puchheim",
+        "plz": "82178",
+        "price": 7.99,
         "available": true,
-        "source": "Cannaleo"
+        "source": "Canngo Apotheke"
       },
       {
         "pharmacy_id": "k95di6yn1kb9h51oxdnvsye8",
         "name": "Cannabis Köln (Pro Vita Apotheke, Köln)",
         "city": "Köln",
         "plz": "50823",
+        "price": 8.2,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "iddjbnaz8i4tosse9oo7n1i2",
+        "name": "City Apotheke Ratingen (purplebuds.de)",
+        "city": "Ratingen",
+        "plz": "40878",
         "price": 8.2,
         "available": true,
         "source": "Cannaleo"
