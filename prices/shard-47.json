@@ -1,6 +1,6 @@
 {
   "shard": 47,
-  "updated_at": "2026-08-21T18:42:35.002625+02:00",
+  "updated_at": "2026-08-21T19:52:41.008258+02:00",
   "prices": {
     "pedanios 29/1 srd ca|sourdough": [
       {
@@ -1096,6 +1096,17 @@
         "source": "Cannaleo"
       }
     ],
+    "tilray craft thc25 amh|amnesia haze": [
+      {
+        "pharmacy_id": "avqdlaos5jqp7zc98z3b4j1r",
+        "name": "Canna Ludwig (Ludwigs-Apotheke, Ludwigshafen)",
+        "city": "Ludwigshafen",
+        "plz": "67059",
+        "price": 5.75,
+        "available": true,
+        "source": "Cannaleo"
+      }
+    ],
     "beacon cc t30|cookies cosmic": [
       {
         "pharmacy_id": "aa7cwasq91i50yqaoi1rdp3q",
@@ -1418,17 +1429,6 @@
         "city": "Waiblingen",
         "plz": "71332",
         "price": 9.98,
-        "available": true,
-        "source": "Cannaleo"
-      }
-    ],
-    "tilray craft thc25 amh|amnesia haze": [
-      {
-        "pharmacy_id": "avqdlaos5jqp7zc98z3b4j1r",
-        "name": "Canna Ludwig (Ludwigs-Apotheke, Ludwigshafen)",
-        "city": "Ludwigshafen",
-        "plz": "67059",
-        "price": 5.75,
         "available": true,
         "source": "Cannaleo"
       }
@@ -2748,6 +2748,17 @@
         "source": "Cannaleo"
       }
     ],
+    "all nations akm 25/1|alien kush mintz": [
+      {
+        "pharmacy_id": "fdi3ihiree0jrz4mdf3zmu69",
+        "name": "Cannabis Apotheke Blaue Blüten",
+        "city": "Passau ",
+        "plz": "94034",
+        "price": 8.8,
+        "available": true,
+        "source": "Canngo Apotheke"
+      }
+    ],
     "firegold 33/1 anm animal mintz|animal mints": [
       {
         "pharmacy_id": "o3eo7c0zb2yj929shptyrohx",
@@ -2822,37 +2833,6 @@
         "source": "Cannaleo"
       }
     ],
-    "all nations akm 25/1|alien kush mintz": [
-      {
-        "pharmacy_id": "fdi3ihiree0jrz4mdf3zmu69",
-        "name": "Cannabis Apotheke Blaue Blüten",
-        "city": "Passau ",
-        "plz": "94034",
-        "price": 8.8,
-        "available": true,
-        "source": "Canngo Apotheke"
-      }
-    ],
-    "suprobion jp 22/1|jelly punch": [
-      {
-        "pharmacy_id": "b1cotx9gnyqovzzd387t0shw",
-        "name": "Karolinger Apotheke Aachen",
-        "city": "Aachen",
-        "plz": "52064",
-        "price": 3.99,
-        "available": true,
-        "source": "Canngo Apotheke"
-      },
-      {
-        "pharmacy_id": "rylsdg1ejmlc967k60bgpv71",
-        "name": "Hirsch Apotheke Fürth (cannafino.de)",
-        "city": "Fürth",
-        "plz": "90762",
-        "price": 4.5,
-        "available": true,
-        "source": "Cannaleo"
-      }
-    ],
     "suprobion pb 18/1|bomb papaya": [
       {
         "pharmacy_id": "b1cotx9gnyqovzzd387t0shw",
@@ -2860,26 +2840,6 @@
         "city": "Aachen",
         "plz": "52064",
         "price": 3.7,
-        "available": true,
-        "source": "Canngo Apotheke"
-      }
-    ],
-    "tyson 2 0 24/1|alexander great the": [
-      {
-        "pharmacy_id": "aa7cwasq91i50yqaoi1rdp3q",
-        "name": "SVAPO",
-        "city": "Offenbach",
-        "plz": "63075",
-        "price": 4.59,
-        "available": true,
-        "source": "Canngo Apotheke"
-      },
-      {
-        "pharmacy_id": "k9o5v1jfqv4taitn4g5p4reo",
-        "name": "3Leafs by Idris Apotheke",
-        "city": "Weinheim",
-        "plz": "69469",
-        "price": 4.59,
         "available": true,
         "source": "Canngo Apotheke"
       }
@@ -2918,6 +2878,46 @@
         "city": "München",
         "plz": "81371",
         "price": 8.49,
+        "available": true,
+        "source": "Cannaleo"
+      }
+    ],
+    "tyson 2 0 24/1|alexander great the": [
+      {
+        "pharmacy_id": "aa7cwasq91i50yqaoi1rdp3q",
+        "name": "SVAPO",
+        "city": "Offenbach",
+        "plz": "63075",
+        "price": 4.59,
+        "available": true,
+        "source": "Canngo Apotheke"
+      },
+      {
+        "pharmacy_id": "k9o5v1jfqv4taitn4g5p4reo",
+        "name": "3Leafs by Idris Apotheke",
+        "city": "Weinheim",
+        "plz": "69469",
+        "price": 4.59,
+        "available": true,
+        "source": "Canngo Apotheke"
+      }
+    ],
+    "suprobion jp 22/1|jelly punch": [
+      {
+        "pharmacy_id": "b1cotx9gnyqovzzd387t0shw",
+        "name": "Karolinger Apotheke Aachen",
+        "city": "Aachen",
+        "plz": "52064",
+        "price": 3.99,
+        "available": true,
+        "source": "Canngo Apotheke"
+      },
+      {
+        "pharmacy_id": "rylsdg1ejmlc967k60bgpv71",
+        "name": "Hirsch Apotheke Fürth (cannafino.de)",
+        "city": "Fürth",
+        "plz": "90762",
+        "price": 4.5,
         "available": true,
         "source": "Cannaleo"
       }
@@ -3034,19 +3034,19 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "m12x6iwfrj1uay6fewidbmh3",
-        "name": "Cannabis Weinstrasse (Bacchus Apotheke Neustadt)",
-        "city": "Neustadt a.d. Weinstraße",
-        "plz": "67434",
+        "pharmacy_id": "ygxfht1cu2qaprngggcauz1m",
+        "name": "cannabis-frankenwald.de (Kohlmanns Markt-Apotheke)",
+        "city": "Pressig",
+        "plz": "96332",
         "price": 4.89,
         "available": true,
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "ygxfht1cu2qaprngggcauz1m",
-        "name": "cannabis-frankenwald.de (Kohlmanns Markt-Apotheke)",
-        "city": "Pressig",
-        "plz": "96332",
+        "pharmacy_id": "m12x6iwfrj1uay6fewidbmh3",
+        "name": "Cannabis Weinstrasse (Bacchus Apotheke Neustadt)",
+        "city": "Neustadt a.d. Weinstraße",
+        "plz": "67434",
         "price": 4.89,
         "available": true,
         "source": "Cannaleo"
@@ -3115,15 +3115,6 @@
         "source": "Canngo Apotheke"
       },
       {
-        "pharmacy_id": "bx03wffnkxzjkc41o884eqj2",
-        "name": "Ruhrblüte (Höke's Apotheke Stiepel, Bochum)",
-        "city": "Bochum",
-        "plz": "44797",
-        "price": 5.5,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
         "pharmacy_id": "sjwsxs3cwuscqbsfjjjvzcwd",
         "name": "Cannabisapotheke Süddeutschland (Medicon/ Drais Apotheke, Ansbach)",
         "city": "Ansbach",
@@ -3137,6 +3128,15 @@
         "name": "Cannabis Apotheke Rheinland (Vitahris)",
         "city": "Bad Neuenahr",
         "plz": "53474",
+        "price": 5.5,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "bx03wffnkxzjkc41o884eqj2",
+        "name": "Ruhrblüte (Höke's Apotheke Stiepel, Bochum)",
+        "city": "Bochum",
+        "plz": "44797",
         "price": 5.5,
         "available": true,
         "source": "Cannaleo"
@@ -3160,19 +3160,19 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "pzitvbxxsjpf5o6jdt2dsfae",
-        "name": "optyweed (OPTYMED Apotheke Schlossberg)",
-        "city": "Stephanskirchen",
-        "plz": "83071",
+        "pharmacy_id": "kessf9r248v23pjoh48qol80",
+        "name": "Stachus-Apotheke",
+        "city": "München",
+        "plz": "80335",
         "price": 5.95,
         "available": true,
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "kessf9r248v23pjoh48qol80",
-        "name": "Stachus-Apotheke",
-        "city": "München",
-        "plz": "80335",
+        "pharmacy_id": "pzitvbxxsjpf5o6jdt2dsfae",
+        "name": "optyweed (OPTYMED Apotheke Schlossberg)",
+        "city": "Stephanskirchen",
+        "plz": "83071",
         "price": 5.95,
         "available": true,
         "source": "Cannaleo"
