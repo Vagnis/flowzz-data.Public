@@ -1,6 +1,6 @@
 {
   "shard": 27,
-  "updated_at": "2026-08-21T06:21:37.860588+02:00",
+  "updated_at": "2026-08-21T07:42:47.992237+02:00",
   "prices": {
     "drwatson 26 flash aus jack flash 5": [
       {
@@ -664,15 +664,6 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "x13cm3eeqs267zcjwzmiuo7p",
-        "name": "Einhorn Apotheken Kassel und Baunatal (420unicorn)",
-        "city": "Baunatal",
-        "plz": "34225",
-        "price": 4.0,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
         "pharmacy_id": "klb793mrt91wo547pmiu43pl",
         "name": "Apotheke LUX 99",
         "city": "Hürth",
@@ -680,6 +671,15 @@
         "price": 4.0,
         "available": true,
         "source": "Canngo Apotheke"
+      },
+      {
+        "pharmacy_id": "x13cm3eeqs267zcjwzmiuo7p",
+        "name": "Einhorn Apotheken Kassel und Baunatal (420unicorn)",
+        "city": "Baunatal",
+        "plz": "34225",
+        "price": 4.0,
+        "available": true,
+        "source": "Cannaleo"
       },
       {
         "pharmacy_id": "l644mqlrh69hg8ifh1l2alzm",
@@ -790,19 +790,19 @@
         "source": "Canngo Apotheke"
       },
       {
-        "pharmacy_id": "r116flcyeg75w7e52nqcqgrk",
-        "name": "cannamundus Stadt-Apotheke, Köln ",
-        "city": "Köln",
-        "plz": "50933",
+        "pharmacy_id": "sb6d76rl9hsp5bghphdn9smx",
+        "name": "Taunus Blüten (Amts Apotheke Usingen)",
+        "city": "Usingen",
+        "plz": "61250",
         "price": 4.95,
         "available": true,
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "sb6d76rl9hsp5bghphdn9smx",
-        "name": "Taunus Blüten (Amts Apotheke Usingen)",
-        "city": "Usingen",
-        "plz": "61250",
+        "pharmacy_id": "r116flcyeg75w7e52nqcqgrk",
+        "name": "cannamundus Stadt-Apotheke, Köln ",
+        "city": "Köln",
+        "plz": "50933",
         "price": 4.95,
         "available": true,
         "source": "Cannaleo"
@@ -2222,6 +2222,17 @@
         "source": "Cannaleo"
       }
     ],
+    "social choice 18/1 alb ush": [
+      {
+        "pharmacy_id": "yyva3bdg1zje9o9owqr5f74k",
+        "name": "Goldene Blüte",
+        "city": "Freystadt",
+        "plz": "92342",
+        "price": 3.39,
+        "available": true,
+        "source": "Cannaleo"
+      }
+    ],
     "remexian 27/1 gjy mun": [
       {
         "pharmacy_id": "wg27pix4qq46t0505nd3byd9",
@@ -2310,17 +2321,6 @@
         "city": "Reute",
         "plz": "79276",
         "price": 6.9,
-        "available": true,
-        "source": "Cannaleo"
-      }
-    ],
-    "social choice 18/1 alb ush": [
-      {
-        "pharmacy_id": "yyva3bdg1zje9o9owqr5f74k",
-        "name": "Goldene Blüte",
-        "city": "Freystadt",
-        "plz": "92342",
-        "price": 3.39,
         "available": true,
         "source": "Cannaleo"
       }
@@ -2535,17 +2535,6 @@
         "source": "Canngo Apotheke"
       }
     ],
-    "siggis hblt 22 01": [
-      {
-        "pharmacy_id": "canthera",
-        "name": "Canthera",
-        "city": "Nürnberg",
-        "plz": "90403",
-        "price": 7.99,
-        "available": true,
-        "source": "canthera"
-      }
-    ],
     "canify 27/1 csf ku": [
       {
         "pharmacy_id": "odvyg8x6lc1jbh5y0ihpdywt",
@@ -2683,6 +2672,17 @@
         "source": "Cannaleo"
       }
     ],
+    "siggis hblt 22 01": [
+      {
+        "pharmacy_id": "canthera",
+        "name": "Canthera",
+        "city": "Nürnberg",
+        "plz": "90403",
+        "price": 7.99,
+        "available": true,
+        "source": "canthera"
+      }
+    ],
     "truu gt 27/01": [
       {
         "pharmacy_id": "shy3b46sv6s7akhz71zydgda",
@@ -2712,26 +2712,6 @@
         "price": 6.3,
         "available": true,
         "source": "Canngo Apotheke"
-      }
-    ],
-    "thai break 27/1 tgt frb": [
-      {
-        "pharmacy_id": "htun7a0qopjc8srkxcglxed2",
-        "name": "420brokkoli",
-        "city": "Paderborn",
-        "plz": "33100",
-        "price": 4.99,
-        "available": true,
-        "source": "Canngo Apotheke"
-      },
-      {
-        "pharmacy_id": "pg4wj56q5tsg9lj6jmr0obxd",
-        "name": "Helios Cannabis (Apotheke am Königsplatz OHG, München)",
-        "city": "Muenchen",
-        "plz": "80333",
-        "price": 6.5,
-        "available": true,
-        "source": "Cannaleo"
       }
     ],
     "kana craft 27/1 flj flap jack": [
@@ -2848,6 +2828,26 @@
         "name": "Prinzen Apotheke Frankfurt",
         "city": "Frankfurt",
         "plz": "60311",
+        "price": 6.5,
+        "available": true,
+        "source": "Cannaleo"
+      }
+    ],
+    "thai break 27/1 tgt frb": [
+      {
+        "pharmacy_id": "htun7a0qopjc8srkxcglxed2",
+        "name": "420brokkoli",
+        "city": "Paderborn",
+        "plz": "33100",
+        "price": 4.99,
+        "available": true,
+        "source": "Canngo Apotheke"
+      },
+      {
+        "pharmacy_id": "pg4wj56q5tsg9lj6jmr0obxd",
+        "name": "Helios Cannabis (Apotheke am Königsplatz OHG, München)",
+        "city": "Muenchen",
+        "plz": "80333",
         "price": 6.5,
         "available": true,
         "source": "Cannaleo"
