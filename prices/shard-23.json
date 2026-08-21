@@ -1,6 +1,6 @@
 {
   "shard": 23,
-  "updated_at": "2026-08-21T13:45:54.736539+02:00",
+  "updated_at": "2026-08-21T14:29:44.832358+02:00",
   "prices": {
     "pedanios 26/1 ehd ca": [
       {
@@ -156,6 +156,15 @@
         "source": "CannaFlow"
       },
       {
+        "pharmacy_id": "q103qgytdpm7pb8ba97y78pg",
+        "name": "Cannabis4Me (Dahlien-Apotheke, Bad Neuenahr)",
+        "city": "Bad Neuenahr",
+        "plz": "53474",
+        "price": 3.99,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
         "pharmacy_id": "i86o9y14bkcb2lsc3hv51tjq",
         "name": "apondium Cannabis (Süd-Apotheke, Düsseldorf)",
         "city": "Düsseldorf",
@@ -215,15 +224,6 @@
         "city": "Neunkirchen-Seelscheid",
         "plz": "53819",
         "price": 4.94,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "q103qgytdpm7pb8ba97y78pg",
-        "name": "Cannabis4Me (Dahlien-Apotheke, Bad Neuenahr)",
-        "city": "Bad Neuenahr",
-        "plz": "53474",
-        "price": 4.95,
         "available": true,
         "source": "Cannaleo"
       },
@@ -2306,17 +2306,6 @@
         "source": "Canngo Apotheke"
       }
     ],
-    "enua 25/1 bdo ca": [
-      {
-        "pharmacy_id": "adpkzfluakdfovur8fra6ez5",
-        "name": "Paracelsus Apotheke",
-        "city": "Keltern",
-        "plz": "75210",
-        "price": 4.99,
-        "available": true,
-        "source": "CannaFlow"
-      }
-    ],
     "madrecan 27/1 gb9 garlic budder minis": [
       {
         "pharmacy_id": "yyva3bdg1zje9o9owqr5f74k",
@@ -2326,6 +2315,17 @@
         "price": 4.19,
         "available": true,
         "source": "Cannaleo"
+      }
+    ],
+    "enua 25/1 bdo ca": [
+      {
+        "pharmacy_id": "adpkzfluakdfovur8fra6ez5",
+        "name": "Paracelsus Apotheke",
+        "city": "Keltern",
+        "plz": "75210",
+        "price": 4.99,
+        "available": true,
+        "source": "CannaFlow"
       }
     ],
     "canify cannabis flos 24/1 ls ku": [
@@ -2799,26 +2799,6 @@
         "source": "Cannaleo"
       }
     ],
-    "cookies 2 0 27/1": [
-      {
-        "pharmacy_id": "zt74hyn38sfr9e6hop1qsn3r",
-        "name": "Cannatopie (Stadt Apotheke, Saarbrücken)",
-        "city": "Saarbrücken",
-        "plz": "66111",
-        "price": 6.6,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "z4kj1agsgmr7xqptfazcrtss",
-        "name": "CannVita (nur Abholung & Botendienst)",
-        "city": "Bielefeld",
-        "plz": "33604",
-        "price": 7.95,
-        "available": true,
-        "source": "Cannaleo"
-      }
-    ],
     "omg 27/1 iml ggl": [
       {
         "pharmacy_id": "zt74hyn38sfr9e6hop1qsn3r",
@@ -2907,6 +2887,26 @@
         "city": "München",
         "plz": "80331",
         "price": 7.15,
+        "available": true,
+        "source": "Cannaleo"
+      }
+    ],
+    "cookies 2 0 27/1": [
+      {
+        "pharmacy_id": "zt74hyn38sfr9e6hop1qsn3r",
+        "name": "Cannatopie (Stadt Apotheke, Saarbrücken)",
+        "city": "Saarbrücken",
+        "plz": "66111",
+        "price": 6.6,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "z4kj1agsgmr7xqptfazcrtss",
+        "name": "CannVita (nur Abholung & Botendienst)",
+        "city": "Bielefeld",
+        "plz": "33604",
+        "price": 7.95,
         "available": true,
         "source": "Cannaleo"
       }
