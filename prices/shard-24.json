@@ -1,6 +1,6 @@
 {
   "shard": 24,
-  "updated_at": "2026-08-21T18:42:05.842674+02:00",
+  "updated_at": "2026-08-21T19:52:05.672936+02:00",
   "prices": {
     "avaay 35/1 scg|citra g super": [
       {
@@ -98,6 +98,15 @@
         "source": "Cannaleo"
       },
       {
+        "pharmacy_id": "l4iknx2pj06edutq8ojrgide",
+        "name": "Sauerlandkraut (Diemeltal Apotheke, Marsberg)",
+        "city": "Marsberg",
+        "plz": "34431",
+        "price": 7.69,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
         "pharmacy_id": "gflzy0roem5c6com5tjknkpw",
         "name": "Medicannabis Essen (easyApotheke Rathaus Galerie, Essen)",
         "city": "Essen",
@@ -107,19 +116,19 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "p12ulmu8ecggtigafp1rbcoe",
-        "name": "Bussicann (Bußmanns Apotheke, Ahlen)",
-        "city": "Ahlen",
-        "plz": "59229",
+        "pharmacy_id": "qauvawhebvw5176qdosjja76",
+        "name": "Bussicann Münster (Partus Hit-Apotheke, Münster)",
+        "city": "Münster",
+        "plz": "48163",
         "price": 7.88,
         "available": true,
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "qauvawhebvw5176qdosjja76",
-        "name": "Bussicann Münster (Partus Hit-Apotheke, Münster)",
-        "city": "Münster",
-        "plz": "48163",
+        "pharmacy_id": "p12ulmu8ecggtigafp1rbcoe",
+        "name": "Bussicann (Bußmanns Apotheke, Ahlen)",
+        "city": "Ahlen",
+        "plz": "59229",
         "price": 7.88,
         "available": true,
         "source": "Cannaleo"
@@ -134,13 +143,13 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "hb43q46kqo3onddkgsx5el0y",
-        "name": "Beste Blüte (Auerberg Apotheke Bonn)",
-        "city": "Bonn",
-        "plz": "53117",
+        "pharmacy_id": "b9xxgaypjfzef5rjb0yzejbj",
+        "name": "St. Antonius Apotheke",
+        "city": "Oberhausen",
+        "plz": "46045",
         "price": 7.9,
         "available": true,
-        "source": "Cannaleo"
+        "source": "CannaFlow"
       },
       {
         "pharmacy_id": "kkswgl2du4ldsb67xzb1c3dc",
@@ -152,13 +161,13 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "b9xxgaypjfzef5rjb0yzejbj",
-        "name": "St. Antonius Apotheke",
-        "city": "Oberhausen",
-        "plz": "46045",
+        "pharmacy_id": "hb43q46kqo3onddkgsx5el0y",
+        "name": "Beste Blüte (Auerberg Apotheke Bonn)",
+        "city": "Bonn",
+        "plz": "53117",
         "price": 7.9,
         "available": true,
-        "source": "CannaFlow"
+        "source": "Cannaleo"
       },
       {
         "pharmacy_id": "f4rfc6cz1kisnxzdiqpkgrn1",
@@ -1198,17 +1207,6 @@
         "source": "canthera"
       }
     ],
-    "eufloria 27/1 pch|churro purple": [
-      {
-        "pharmacy_id": "eou5l4p7zpw3ea4lec4anx8p",
-        "name": "Grüne Wirkstoffe (Anthemis Apotheke)",
-        "city": "Herrieden",
-        "plz": "91567",
-        "price": 5.29,
-        "available": true,
-        "source": "Canngo Apotheke"
-      }
-    ],
     "aleph water 6/12|amnesia balanced": [
       {
         "pharmacy_id": "tmwqooayfcrc8mz37xr8exfr",
@@ -1247,33 +1245,15 @@
         "source": "Canngo Apotheke"
       }
     ],
-    "remexian 14/1|white widow": [
+    "eufloria 27/1 pch|churro purple": [
       {
-        "pharmacy_id": "s6xdp3oyzfozefhh0p3xdqz3",
-        "name": "Goldene Blüte",
-        "city": "Freystadt",
-        "plz": "92342",
-        "price": 3.5,
+        "pharmacy_id": "eou5l4p7zpw3ea4lec4anx8p",
+        "name": "Grüne Wirkstoffe (Anthemis Apotheke)",
+        "city": "Herrieden",
+        "plz": "91567",
+        "price": 5.29,
         "available": true,
         "source": "Canngo Apotheke"
-      },
-      {
-        "pharmacy_id": "w53o7kjfsdte9pydvu2zftk0",
-        "name": "CannaQuell",
-        "city": "Düsseldorf",
-        "plz": "40625",
-        "price": 4.49,
-        "available": true,
-        "source": "Canngo Apotheke"
-      },
-      {
-        "pharmacy_id": "dit5bxx92u5iipcx8q3qcvb1",
-        "name": "Cannabis Champion (Central Apotheke Waiblingen)",
-        "city": "Waiblingen",
-        "plz": "71332",
-        "price": 7.99,
-        "available": true,
-        "source": "Cannaleo"
       }
     ],
     "canopy akh 22/1|afghan kush": [
@@ -1321,6 +1301,35 @@
         "price": 11.99,
         "available": true,
         "source": "CannaFlow"
+      }
+    ],
+    "remexian 14/1|white widow": [
+      {
+        "pharmacy_id": "s6xdp3oyzfozefhh0p3xdqz3",
+        "name": "Goldene Blüte",
+        "city": "Freystadt",
+        "plz": "92342",
+        "price": 3.5,
+        "available": true,
+        "source": "Canngo Apotheke"
+      },
+      {
+        "pharmacy_id": "w53o7kjfsdte9pydvu2zftk0",
+        "name": "CannaQuell",
+        "city": "Düsseldorf",
+        "plz": "40625",
+        "price": 4.49,
+        "available": true,
+        "source": "Canngo Apotheke"
+      },
+      {
+        "pharmacy_id": "dit5bxx92u5iipcx8q3qcvb1",
+        "name": "Cannabis Champion (Central Apotheke Waiblingen)",
+        "city": "Waiblingen",
+        "plz": "71332",
+        "price": 7.99,
+        "available": true,
+        "source": "Cannaleo"
       }
     ],
     "thc akut 25 rs11|11 rainbow sherbert": [
@@ -1501,19 +1510,19 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "b1cotx9gnyqovzzd387t0shw",
-        "name": "Karolinger Apotheke Aachen",
-        "city": "Aachen",
-        "plz": "52064",
+        "pharmacy_id": "br3e2qtamrdtflese6tssbop",
+        "name": "Cannabis Fähre",
+        "city": "Niederkassel",
+        "plz": "53859",
         "price": 3.99,
         "available": true,
         "source": "Canngo Apotheke"
       },
       {
-        "pharmacy_id": "br3e2qtamrdtflese6tssbop",
-        "name": "Cannabis Fähre",
-        "city": "Niederkassel",
-        "plz": "53859",
+        "pharmacy_id": "b1cotx9gnyqovzzd387t0shw",
+        "name": "Karolinger Apotheke Aachen",
+        "city": "Aachen",
+        "plz": "52064",
         "price": 3.99,
         "available": true,
         "source": "Canngo Apotheke"
@@ -2289,17 +2298,6 @@
         "city": "Freiburg",
         "plz": "79110",
         "price": 7.2,
-        "available": true,
-        "source": "Cannaleo"
-      }
-    ],
-    "nice 26/1 gba|barz guava": [
-      {
-        "pharmacy_id": "xhcj5hflj9nb8pjqvmem7641",
-        "name": "(CannaQuell) Apotheke am Quellenbusch",
-        "city": "Düsseldorf",
-        "plz": "40625",
-        "price": 2.99,
         "available": true,
         "source": "Cannaleo"
       }
