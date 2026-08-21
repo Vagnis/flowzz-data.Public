@@ -1,6 +1,6 @@
 {
   "shard": 15,
-  "updated_at": "2026-08-21T04:40:37.132733+02:00",
+  "updated_at": "2026-08-21T05:45:23.242106+02:00",
   "prices": {
     "bathera 33/1 pp": [
       {
@@ -2311,6 +2311,17 @@
         "source": "Cannaleo"
       }
     ],
+    "remexian 28/1 gfr": [
+      {
+        "pharmacy_id": "s6xdp3oyzfozefhh0p3xdqz3",
+        "name": "Goldene Blüte",
+        "city": "Freystadt",
+        "plz": "92342",
+        "price": 7.15,
+        "available": true,
+        "source": "Canngo Apotheke"
+      }
+    ],
     "enua 30/1 jfg ca": [
       {
         "pharmacy_id": "b1cotx9gnyqovzzd387t0shw",
@@ -2455,17 +2466,6 @@
         "price": 8.2,
         "available": true,
         "source": "Cannaleo"
-      }
-    ],
-    "remexian 28/1 gfr": [
-      {
-        "pharmacy_id": "s6xdp3oyzfozefhh0p3xdqz3",
-        "name": "Goldene Blüte",
-        "city": "Freystadt",
-        "plz": "92342",
-        "price": 7.15,
-        "available": true,
-        "source": "Canngo Apotheke"
       }
     ],
     "apex mtf 32/1": [
@@ -3181,71 +3181,6 @@
         "source": "Canngo Apotheke"
       }
     ],
-    "enua 25/1 udc ca": [
-      {
-        "pharmacy_id": "qh6gkq38fvhnhn63zx4iahm6",
-        "name": "3Königen Apotheke",
-        "city": "Krefeld",
-        "plz": "47798",
-        "price": 4.25,
-        "available": true,
-        "source": "Canngo Apotheke"
-      },
-      {
-        "pharmacy_id": "lramdha0a0kmvyo1hscrabef",
-        "name": "Canthera Süd (Mohren Apotheke, Nürnberg)",
-        "city": "Nürnberg",
-        "plz": "90459",
-        "price": 4.5,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "c3jnmh6ryo43uv084z6z9lxp",
-        "name": "Cannabis Apotheke Rheinland (Vitahris)",
-        "city": "Bad Neuenahr",
-        "plz": "53474",
-        "price": 4.99,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "yyva3bdg1zje9o9owqr5f74k",
-        "name": "Goldene Blüte",
-        "city": "Freystadt",
-        "plz": "92342",
-        "price": 6.4,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "s6xdp3oyzfozefhh0p3xdqz3",
-        "name": "Goldene Blüte",
-        "city": "Freystadt",
-        "plz": "92342",
-        "price": 8.5,
-        "available": true,
-        "source": "Canngo Apotheke"
-      },
-      {
-        "pharmacy_id": "wwgzr8nwdke6stnjelb1ekhh",
-        "name": "CannaTal",
-        "city": "Engelskirchen ",
-        "plz": "51766",
-        "price": 9.29,
-        "available": true,
-        "source": "Canngo Apotheke"
-      },
-      {
-        "pharmacy_id": "ufpy6zidssfl96qxrnezhuk8",
-        "name": "CannabisFürMich",
-        "city": "Landshut",
-        "plz": "84032",
-        "price": 9.99,
-        "available": true,
-        "source": "Canngo Apotheke"
-      }
-    ],
     "balancial ca s1 31/1 bc": [
       {
         "pharmacy_id": "i3spreb0xvbixau9e2auk1jd",
@@ -3372,6 +3307,71 @@
         "price": 10.95,
         "available": true,
         "source": "Cannaleo"
+      }
+    ],
+    "enua 25/1 udc ca": [
+      {
+        "pharmacy_id": "qh6gkq38fvhnhn63zx4iahm6",
+        "name": "3Königen Apotheke",
+        "city": "Krefeld",
+        "plz": "47798",
+        "price": 4.25,
+        "available": true,
+        "source": "Canngo Apotheke"
+      },
+      {
+        "pharmacy_id": "lramdha0a0kmvyo1hscrabef",
+        "name": "Canthera Süd (Mohren Apotheke, Nürnberg)",
+        "city": "Nürnberg",
+        "plz": "90459",
+        "price": 4.5,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "c3jnmh6ryo43uv084z6z9lxp",
+        "name": "Cannabis Apotheke Rheinland (Vitahris)",
+        "city": "Bad Neuenahr",
+        "plz": "53474",
+        "price": 4.99,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "yyva3bdg1zje9o9owqr5f74k",
+        "name": "Goldene Blüte",
+        "city": "Freystadt",
+        "plz": "92342",
+        "price": 6.4,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "s6xdp3oyzfozefhh0p3xdqz3",
+        "name": "Goldene Blüte",
+        "city": "Freystadt",
+        "plz": "92342",
+        "price": 8.5,
+        "available": true,
+        "source": "Canngo Apotheke"
+      },
+      {
+        "pharmacy_id": "wwgzr8nwdke6stnjelb1ekhh",
+        "name": "CannaTal",
+        "city": "Engelskirchen ",
+        "plz": "51766",
+        "price": 9.29,
+        "available": true,
+        "source": "Canngo Apotheke"
+      },
+      {
+        "pharmacy_id": "ufpy6zidssfl96qxrnezhuk8",
+        "name": "CannabisFürMich",
+        "city": "Landshut",
+        "plz": "84032",
+        "price": 9.99,
+        "available": true,
+        "source": "Canngo Apotheke"
       }
     ],
     "29/01 calimed craft no 8": [
