@@ -1,6 +1,6 @@
 {
   "shard": 11,
-  "updated_at": "2026-08-21T07:42:24.458875+02:00",
+  "updated_at": "2026-08-21T08:25:14.008215+02:00",
   "prices": {
     "zoiks 26/1 lk": [
       {
@@ -1134,6 +1134,15 @@
     ],
     "demecan craft aloha 31/1": [
       {
+        "pharmacy_id": "k9o5v1jfqv4taitn4g5p4reo",
+        "name": "3Leafs by Idris Apotheke",
+        "city": "Weinheim",
+        "plz": "69469",
+        "price": 6.89,
+        "available": true,
+        "source": "Canngo Apotheke"
+      },
+      {
         "pharmacy_id": "aa7cwasq91i50yqaoi1rdp3q",
         "name": "SVAPO",
         "city": "Offenbach",
@@ -1150,15 +1159,6 @@
         "price": 6.89,
         "available": true,
         "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "k9o5v1jfqv4taitn4g5p4reo",
-        "name": "3Leafs by Idris Apotheke",
-        "city": "Weinheim",
-        "plz": "69469",
-        "price": 6.89,
-        "available": true,
-        "source": "Canngo Apotheke"
       },
       {
         "pharmacy_id": "gtm9qfeujublspqp2ilwrudo",
@@ -1206,15 +1206,6 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "vpomybf0shv98s1bvlfs4rgk",
-        "name": "3Königen Apotheke (Dreikönigen Apotheke am Ostwall, Krefeld)",
-        "city": "Krefeld",
-        "plz": "47798",
-        "price": 6.97,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
         "pharmacy_id": "qh6gkq38fvhnhn63zx4iahm6",
         "name": "3Königen Apotheke",
         "city": "Krefeld",
@@ -1222,6 +1213,15 @@
         "price": 6.97,
         "available": true,
         "source": "Canngo Apotheke"
+      },
+      {
+        "pharmacy_id": "vpomybf0shv98s1bvlfs4rgk",
+        "name": "3Königen Apotheke (Dreikönigen Apotheke am Ostwall, Krefeld)",
+        "city": "Krefeld",
+        "plz": "47798",
+        "price": 6.97,
+        "available": true,
+        "source": "Cannaleo"
       },
       {
         "pharmacy_id": "hb43q46kqo3onddkgsx5el0y",
@@ -1323,28 +1323,19 @@
         "source": "Cannaleo"
       },
       {
+        "pharmacy_id": "s40xj3d1su87o9uzb9w8xd21",
+        "name": "Medicannabis Kaiserviertel (Apotheke im Kaiserviertel, Dortmund)",
+        "city": "Dortmund",
+        "plz": "44135",
+        "price": 7.99,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
         "pharmacy_id": "gflzy0roem5c6com5tjknkpw",
         "name": "Medicannabis Essen (easyApotheke Rathaus Galerie, Essen)",
         "city": "Essen",
         "plz": "45127",
-        "price": 7.99,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "t4xy9eser98r2c6gvwalywgw",
-        "name": "24happy.de",
-        "city": "Nürtingen",
-        "plz": "72622",
-        "price": 7.99,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "ywia6esjhiilbpr2y3kueopq",
-        "name": "Cannabis-Taxi",
-        "city": "Esslingen",
-        "plz": "73730",
         "price": 7.99,
         "available": true,
         "source": "Cannaleo"
@@ -1359,29 +1350,11 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "s40xj3d1su87o9uzb9w8xd21",
-        "name": "Medicannabis Kaiserviertel (Apotheke im Kaiserviertel, Dortmund)",
-        "city": "Dortmund",
-        "plz": "44135",
+        "pharmacy_id": "t4xy9eser98r2c6gvwalywgw",
+        "name": "24happy.de",
+        "city": "Nürtingen",
+        "plz": "72622",
         "price": 7.99,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "lvkvymu8q9uvz3d2aw2xglx5",
-        "name": "Rhein-Apotheke im Ärztehaus Mühlburg, Karlsruhe",
-        "city": "Karlsruhe",
-        "plz": "76185",
-        "price": 8.0,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "x13cm3eeqs267zcjwzmiuo7p",
-        "name": "Einhorn Apotheken Kassel und Baunatal (420unicorn)",
-        "city": "Baunatal",
-        "plz": "34225",
-        "price": 8.0,
         "available": true,
         "source": "Cannaleo"
       },
@@ -1393,6 +1366,24 @@
         "price": 8.0,
         "available": true,
         "source": "Canngo Apotheke"
+      },
+      {
+        "pharmacy_id": "x13cm3eeqs267zcjwzmiuo7p",
+        "name": "Einhorn Apotheken Kassel und Baunatal (420unicorn)",
+        "city": "Baunatal",
+        "plz": "34225",
+        "price": 8.0,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "lvkvymu8q9uvz3d2aw2xglx5",
+        "name": "Rhein-Apotheke im Ärztehaus Mühlburg, Karlsruhe",
+        "city": "Karlsruhe",
+        "plz": "76185",
+        "price": 8.0,
+        "available": true,
+        "source": "Cannaleo"
       },
       {
         "pharmacy_id": "k95di6yn1kb9h51oxdnvsye8",
@@ -1467,19 +1458,19 @@
         "source": "Canngo Apotheke"
       },
       {
-        "pharmacy_id": "ijp86erckl52lxswwdoqtkta",
-        "name": "Cansa - Bethanien Apotheke",
+        "pharmacy_id": "cjp4q6l7nk369gxvdwm2u4cb",
+        "name": "Cansa - Flemming Apotheke",
         "city": "Chemnitz",
-        "plz": "09130",
+        "plz": "09116",
         "price": 8.62,
         "available": true,
         "source": "Canngo Apotheke"
       },
       {
-        "pharmacy_id": "cjp4q6l7nk369gxvdwm2u4cb",
-        "name": "Cansa - Flemming Apotheke",
+        "pharmacy_id": "ijp86erckl52lxswwdoqtkta",
+        "name": "Cansa - Bethanien Apotheke",
         "city": "Chemnitz",
-        "plz": "09116",
+        "plz": "09130",
         "price": 8.62,
         "available": true,
         "source": "Canngo Apotheke"
@@ -1512,19 +1503,19 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "dk1pw8puzayendpv7ijv0le2",
-        "name": "Neue Apotheke Derne",
-        "city": "Dortmund",
-        "plz": "44329",
+        "pharmacy_id": "m12x6iwfrj1uay6fewidbmh3",
+        "name": "Cannabis Weinstrasse (Bacchus Apotheke Neustadt)",
+        "city": "Neustadt a.d. Weinstraße",
+        "plz": "67434",
         "price": 8.99,
         "available": true,
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "m12x6iwfrj1uay6fewidbmh3",
-        "name": "Cannabis Weinstrasse (Bacchus Apotheke Neustadt)",
-        "city": "Neustadt a.d. Weinstraße",
-        "plz": "67434",
+        "pharmacy_id": "dk1pw8puzayendpv7ijv0le2",
+        "name": "Neue Apotheke Derne",
+        "city": "Dortmund",
+        "plz": "44329",
         "price": 8.99,
         "available": true,
         "source": "Cannaleo"
@@ -3464,17 +3455,6 @@
         "source": "Cannaleo"
       }
     ],
-    "buuo 20/1 cdlc": [
-      {
-        "pharmacy_id": "k65upfauvvxshlsqybnkxa18",
-        "name": "Sinsheim Cannabis Apotheke ",
-        "city": "Sinsheim",
-        "plz": "74889",
-        "price": 5.6,
-        "available": true,
-        "source": "Canngo Apotheke"
-      }
-    ],
     "huala 22/1 ca gvz": [
       {
         "pharmacy_id": "canthera",
@@ -3486,6 +3466,17 @@
         "source": "canthera"
       }
     ],
+    "buuo 20/1 cdlc": [
+      {
+        "pharmacy_id": "k65upfauvvxshlsqybnkxa18",
+        "name": "Sinsheim Cannabis Apotheke ",
+        "city": "Sinsheim",
+        "plz": "74889",
+        "price": 5.6,
+        "available": true,
+        "source": "Canngo Apotheke"
+      }
+    ],
     "apothekenherstellung mct l bakerstreet 20/1 extrakt": [
       {
         "pharmacy_id": "n10agfa1382ht7kktqq87e41",
@@ -3493,6 +3484,17 @@
         "city": "Trostberg",
         "plz": "83308",
         "price": 2.75,
+        "available": true,
+        "source": "Cannaleo"
+      }
+    ],
+    "naxiva panaxol thc 10/cbd 10 cannabis extrakt": [
+      {
+        "pharmacy_id": "ve12fiueb8n0sg7o5qei37ik",
+        "name": "Cannibo (Bahnhof Apotheke, Bonn)",
+        "city": "Bonn",
+        "plz": "53111 ",
+        "price": 8.0,
         "available": true,
         "source": "Cannaleo"
       }
@@ -3526,17 +3528,6 @@
         "city": "Siegsdorf",
         "plz": "83313",
         "price": 3.8,
-        "available": true,
-        "source": "Cannaleo"
-      }
-    ],
-    "naxiva panaxol thc 10/cbd 10 cannabis extrakt": [
-      {
-        "pharmacy_id": "ve12fiueb8n0sg7o5qei37ik",
-        "name": "Cannibo (Bahnhof Apotheke, Bonn)",
-        "city": "Bonn",
-        "plz": "53111 ",
-        "price": 8.0,
         "available": true,
         "source": "Cannaleo"
       }
