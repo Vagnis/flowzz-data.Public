@@ -1,6 +1,6 @@
 {
   "shard": 23,
-  "updated_at": "2026-08-21T05:45:34.591922+02:00",
+  "updated_at": "2026-08-21T06:21:32.130117+02:00",
   "prices": {
     "pedanios 26/1 ehd ca": [
       {
@@ -812,6 +812,15 @@
         "source": "Cannaleo"
       },
       {
+        "pharmacy_id": "zbtslbr4edl7bf0om5rktmlv",
+        "name": "Rastatt",
+        "city": "Rastatt",
+        "plz": "76437",
+        "price": 5.99,
+        "available": true,
+        "source": "Canngo Apotheke"
+      },
+      {
         "pharmacy_id": "n10agfa1382ht7kktqq87e41",
         "name": "Christophorus Apotheke Trostberg",
         "city": "Trostberg",
@@ -821,13 +830,13 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "zbtslbr4edl7bf0om5rktmlv",
-        "name": "Rastatt",
-        "city": "Rastatt",
-        "plz": "76437",
-        "price": 5.99,
+        "pharmacy_id": "ohifw0gxv62743fn7j2sqco6",
+        "name": "hermann's green",
+        "city": "Berlin",
+        "plz": "10967",
+        "price": 6.49,
         "available": true,
-        "source": "Canngo Apotheke"
+        "source": "Cannaleo"
       },
       {
         "pharmacy_id": "uc8s7eynslwqdngjpx7k9oe7",
@@ -844,15 +853,6 @@
         "city": "Karlsruhe",
         "plz": "76133",
         "price": 6.5,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "ohifw0gxv62743fn7j2sqco6",
-        "name": "hermann's green",
-        "city": "Berlin",
-        "plz": "10967",
-        "price": 6.79,
         "available": true,
         "source": "Cannaleo"
       },
@@ -1873,15 +1873,6 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "ywia6esjhiilbpr2y3kueopq",
-        "name": "Cannabis-Taxi",
-        "city": "Esslingen",
-        "plz": "73730",
-        "price": 7.99,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
         "pharmacy_id": "r66ve2dcfqlp1sxrc12ew1kv",
         "name": "Canamedico - Cannabis-Mainfranken",
         "city": "Volkach",
@@ -1889,6 +1880,15 @@
         "price": 7.99,
         "available": true,
         "source": "CannaFlow"
+      },
+      {
+        "pharmacy_id": "ywia6esjhiilbpr2y3kueopq",
+        "name": "Cannabis-Taxi",
+        "city": "Esslingen",
+        "plz": "73730",
+        "price": 7.99,
+        "available": true,
+        "source": "Cannaleo"
       },
       {
         "pharmacy_id": "wrvvyxbuiwv20bzqym8td75j",
@@ -2145,6 +2145,71 @@
         "source": "Cannaleo"
       }
     ],
+    "natural buds 35/1 bby": [
+      {
+        "pharmacy_id": "jp1v01f08acvlwugav5httud",
+        "name": "Blasiuzz - St. Blasius Apotheke, München",
+        "city": "München",
+        "plz": "80333",
+        "price": 6.7,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "vr2yp9orgxf3ja3gpgm6bjav",
+        "name": "Cannabis Apo Deutschland (MEDICON Nürnberg) ",
+        "city": "Stein",
+        "plz": "90547",
+        "price": 7.37,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "weycfc18t46mnbnvec2kjp2r",
+        "name": "Schanzen-Cannabis (Stern Apotheke, Hamburg)",
+        "city": "Hamburg",
+        "plz": "20357",
+        "price": 7.5,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "lvkvymu8q9uvz3d2aw2xglx5",
+        "name": "Rhein-Apotheke im Ärztehaus Mühlburg, Karlsruhe",
+        "city": "Karlsruhe",
+        "plz": "76185",
+        "price": 8.0,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "mlsmfffzi4jp0e8kgivimxt4",
+        "name": "Rhein-Apotheke Karlsruhe",
+        "city": "Karlsruhe",
+        "plz": "76185",
+        "price": 8.0,
+        "available": true,
+        "source": "Canngo Apotheke"
+      },
+      {
+        "pharmacy_id": "ss9euh6eh6rzmmo8v4sd3rig",
+        "name": "KranichCann (Kranich Apotheke, München)",
+        "city": "München",
+        "plz": "80634",
+        "price": 8.35,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "vmfirgvjl9u4henayo93jacb",
+        "name": "Hauptstadt Apotheke Berlin",
+        "city": "Berlin",
+        "plz": "13581",
+        "price": 8.5,
+        "available": true,
+        "source": "Cannaleo"
+      }
+    ],
     "blayz 22/1 kk king s kush": [
       {
         "pharmacy_id": "n11o6xs4h95x4dxms8b8xira",
@@ -2219,80 +2284,6 @@
         "source": "Cannaleo"
       }
     ],
-    "natural buds 35/1 bby": [
-      {
-        "pharmacy_id": "jp1v01f08acvlwugav5httud",
-        "name": "Blasiuzz - St. Blasius Apotheke, München",
-        "city": "München",
-        "plz": "80333",
-        "price": 6.7,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "vr2yp9orgxf3ja3gpgm6bjav",
-        "name": "Cannabis Apo Deutschland (MEDICON Nürnberg) ",
-        "city": "Stein",
-        "plz": "90547",
-        "price": 7.37,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "htun7a0qopjc8srkxcglxed2",
-        "name": "420brokkoli",
-        "city": "Paderborn",
-        "plz": "33100",
-        "price": 7.49,
-        "available": true,
-        "source": "Canngo Apotheke"
-      },
-      {
-        "pharmacy_id": "weycfc18t46mnbnvec2kjp2r",
-        "name": "Schanzen-Cannabis (Stern Apotheke, Hamburg)",
-        "city": "Hamburg",
-        "plz": "20357",
-        "price": 7.5,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "lvkvymu8q9uvz3d2aw2xglx5",
-        "name": "Rhein-Apotheke im Ärztehaus Mühlburg, Karlsruhe",
-        "city": "Karlsruhe",
-        "plz": "76185",
-        "price": 8.0,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "mlsmfffzi4jp0e8kgivimxt4",
-        "name": "Rhein-Apotheke Karlsruhe",
-        "city": "Karlsruhe",
-        "plz": "76185",
-        "price": 8.0,
-        "available": true,
-        "source": "Canngo Apotheke"
-      },
-      {
-        "pharmacy_id": "ss9euh6eh6rzmmo8v4sd3rig",
-        "name": "KranichCann (Kranich Apotheke, München)",
-        "city": "München",
-        "plz": "80634",
-        "price": 8.35,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "vmfirgvjl9u4henayo93jacb",
-        "name": "Hauptstadt Apotheke Berlin",
-        "city": "Berlin",
-        "plz": "13581",
-        "price": 8.5,
-        "available": true,
-        "source": "Cannaleo"
-      }
-    ],
     "remexian 24/1 gjy chk": [
       {
         "pharmacy_id": "s6xdp3oyzfozefhh0p3xdqz3",
@@ -2333,17 +2324,6 @@
         "source": "Canngo Apotheke"
       }
     ],
-    "enua 25/1 bdo ca": [
-      {
-        "pharmacy_id": "adpkzfluakdfovur8fra6ez5",
-        "name": "Paracelsus Apotheke",
-        "city": "Keltern",
-        "plz": "75210",
-        "price": 4.99,
-        "available": true,
-        "source": "CannaFlow"
-      }
-    ],
     "madrecan 27/1 gb9 garlic budder minis": [
       {
         "pharmacy_id": "yyva3bdg1zje9o9owqr5f74k",
@@ -2353,6 +2333,17 @@
         "price": 4.19,
         "available": true,
         "source": "Cannaleo"
+      }
+    ],
+    "enua 25/1 bdo ca": [
+      {
+        "pharmacy_id": "adpkzfluakdfovur8fra6ez5",
+        "name": "Paracelsus Apotheke",
+        "city": "Keltern",
+        "plz": "75210",
+        "price": 4.99,
+        "available": true,
+        "source": "CannaFlow"
       }
     ],
     "canify cannabis flos 24/1 ls ku": [
@@ -2743,15 +2734,6 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "b1cotx9gnyqovzzd387t0shw",
-        "name": "Karolinger Apotheke Aachen",
-        "city": "Aachen",
-        "plz": "52064",
-        "price": 5.79,
-        "available": true,
-        "source": "Canngo Apotheke"
-      },
-      {
         "pharmacy_id": "zt74hyn38sfr9e6hop1qsn3r",
         "name": "Cannatopie (Stadt Apotheke, Saarbrücken)",
         "city": "Saarbrücken",
@@ -2759,6 +2741,15 @@
         "price": 5.79,
         "available": true,
         "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "b1cotx9gnyqovzzd387t0shw",
+        "name": "Karolinger Apotheke Aachen",
+        "city": "Aachen",
+        "plz": "52064",
+        "price": 5.79,
+        "available": true,
+        "source": "Canngo Apotheke"
       },
       {
         "pharmacy_id": "gflzy0roem5c6com5tjknkpw",
@@ -3006,22 +2997,13 @@
         "source": "Cannaleo"
       }
     ],
-    "cookies 2 0 27/1": [
+    "cannabistada 20/1 pik": [
       {
-        "pharmacy_id": "zt74hyn38sfr9e6hop1qsn3r",
-        "name": "Cannatopie (Stadt Apotheke, Saarbrücken)",
-        "city": "Saarbrücken",
-        "plz": "66111",
-        "price": 6.6,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "z4kj1agsgmr7xqptfazcrtss",
-        "name": "CannVita (nur Abholung & Botendienst)",
-        "city": "Bielefeld",
-        "plz": "33604",
-        "price": 7.95,
+        "pharmacy_id": "u97hxa5o9o7c1pl8uxmy716g",
+        "name": "pinkbloom, pharmaphant Apotheke (Apotheke Cannabis)",
+        "city": "Tübingen",
+        "plz": "72072",
+        "price": 12.67,
         "available": true,
         "source": "Cannaleo"
       }
@@ -3118,13 +3100,22 @@
         "source": "Cannaleo"
       }
     ],
-    "cannabistada 20/1 pik": [
+    "cookies 2 0 27/1": [
       {
-        "pharmacy_id": "u97hxa5o9o7c1pl8uxmy716g",
-        "name": "pinkbloom, pharmaphant Apotheke (Apotheke Cannabis)",
-        "city": "Tübingen",
-        "plz": "72072",
-        "price": 12.67,
+        "pharmacy_id": "zt74hyn38sfr9e6hop1qsn3r",
+        "name": "Cannatopie (Stadt Apotheke, Saarbrücken)",
+        "city": "Saarbrücken",
+        "plz": "66111",
+        "price": 6.6,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "z4kj1agsgmr7xqptfazcrtss",
+        "name": "CannVita (nur Abholung & Botendienst)",
+        "city": "Bielefeld",
+        "plz": "33604",
+        "price": 7.95,
         "available": true,
         "source": "Cannaleo"
       }
