@@ -1,6 +1,6 @@
 {
   "shard": 24,
-  "updated_at": "2026-08-21T05:45:36.285688+02:00",
+  "updated_at": "2026-08-21T06:21:33.427003+02:00",
   "prices": {
     "pedanios 27/1 frg ca": [
       {
@@ -1278,15 +1278,6 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "qhez3nuvisok1pjne648303k",
-        "name": "Hohenzollern Apotheke, Münster",
-        "city": "Münster",
-        "plz": "48145",
-        "price": 5.95,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
         "pharmacy_id": "k5hhgfqallvphv86zuao1hss",
         "name": "Hohenzollern Apotheke Münster",
         "city": "Münster",
@@ -1294,6 +1285,15 @@
         "price": 5.95,
         "available": true,
         "source": "Canngo Apotheke"
+      },
+      {
+        "pharmacy_id": "qhez3nuvisok1pjne648303k",
+        "name": "Hohenzollern Apotheke, Münster",
+        "city": "Münster",
+        "plz": "48145",
+        "price": 5.95,
+        "available": true,
+        "source": "Cannaleo"
       },
       {
         "pharmacy_id": "i14fbchr0tcymy6se72xb5ij",
@@ -2632,6 +2632,17 @@
         "source": "Cannaleo"
       }
     ],
+    "barongo 30/1 zp": [
+      {
+        "pharmacy_id": "shy3b46sv6s7akhz71zydgda",
+        "name": "Ahorn Medics (Ahorn-Apotheke, Mörfelden-Walldorf)",
+        "city": "Mörfelden-Walldorf",
+        "plz": "64546",
+        "price": 5.99,
+        "available": true,
+        "source": "Cannaleo"
+      }
+    ],
     "aleph amber 20/1": [
       {
         "pharmacy_id": "k65upfauvvxshlsqybnkxa18",
@@ -2650,17 +2661,6 @@
         "price": 7.49,
         "available": true,
         "source": "Canngo Apotheke"
-      }
-    ],
-    "barongo 30/1 zp": [
-      {
-        "pharmacy_id": "shy3b46sv6s7akhz71zydgda",
-        "name": "Ahorn Medics (Ahorn-Apotheke, Mörfelden-Walldorf)",
-        "city": "Mörfelden-Walldorf",
-        "plz": "64546",
-        "price": 5.99,
-        "available": true,
-        "source": "Cannaleo"
       }
     ],
     "barongo 26/1 jea": [
@@ -3298,32 +3298,21 @@
         "source": "Cannaleo"
       }
     ],
-    "cm craft no 1 30/1": [
-      {
-        "pharmacy_id": "fdi3ihiree0jrz4mdf3zmu69",
-        "name": "Cannabis Apotheke Blaue Blüten",
-        "city": "Passau ",
-        "plz": "94034",
-        "price": 9.97,
-        "available": true,
-        "source": "Canngo Apotheke"
-      }
-    ],
     "enua 33/1 pcb ca cs": [
-      {
-        "pharmacy_id": "aa7cwasq91i50yqaoi1rdp3q",
-        "name": "SVAPO",
-        "city": "Offenbach",
-        "plz": "63075",
-        "price": 5.29,
-        "available": true,
-        "source": "Canngo Apotheke"
-      },
       {
         "pharmacy_id": "k9o5v1jfqv4taitn4g5p4reo",
         "name": "3Leafs by Idris Apotheke",
         "city": "Weinheim",
         "plz": "69469",
+        "price": 5.29,
+        "available": true,
+        "source": "Canngo Apotheke"
+      },
+      {
+        "pharmacy_id": "aa7cwasq91i50yqaoi1rdp3q",
+        "name": "SVAPO",
+        "city": "Offenbach",
+        "plz": "63075",
         "price": 5.29,
         "available": true,
         "source": "Canngo Apotheke"
@@ -3401,15 +3390,6 @@
         "source": "CannaFlow"
       },
       {
-        "pharmacy_id": "nqve4o83opog3qpt17qqzhv4",
-        "name": "Augusta Green (Apotheke am Kornmarkt, Trier)",
-        "city": "Trier",
-        "plz": "54290 ",
-        "price": 6.99,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
         "pharmacy_id": "a2rp2qumbjroqbo4427licru",
         "name": "dieHanfothek",
         "city": "Münster",
@@ -3419,13 +3399,13 @@
         "source": "CannaFlow"
       },
       {
-        "pharmacy_id": "bv8tsdnyvd4bxcnv7ndzrje3",
-        "name": "Blüten-Apotheke in München",
-        "city": "München",
-        "plz": "80804",
-        "price": 7.3,
+        "pharmacy_id": "nqve4o83opog3qpt17qqzhv4",
+        "name": "Augusta Green (Apotheke am Kornmarkt, Trier)",
+        "city": "Trier",
+        "plz": "54290 ",
+        "price": 6.99,
         "available": true,
-        "source": "Canngo Apotheke"
+        "source": "Cannaleo"
       },
       {
         "pharmacy_id": "lm1smrzvwkgr6nh0jiisa9mg",
@@ -3435,6 +3415,15 @@
         "price": 7.3,
         "available": true,
         "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "bv8tsdnyvd4bxcnv7ndzrje3",
+        "name": "Blüten-Apotheke in München",
+        "city": "München",
+        "plz": "80804",
+        "price": 7.3,
+        "available": true,
+        "source": "Canngo Apotheke"
       },
       {
         "pharmacy_id": "z4kj1agsgmr7xqptfazcrtss",
@@ -3462,6 +3451,17 @@
         "price": 7.85,
         "available": true,
         "source": "Cannaleo"
+      }
+    ],
+    "cm craft no 1 30/1": [
+      {
+        "pharmacy_id": "fdi3ihiree0jrz4mdf3zmu69",
+        "name": "Cannabis Apotheke Blaue Blüten",
+        "city": "Passau ",
+        "plz": "94034",
+        "price": 9.97,
+        "available": true,
+        "source": "Canngo Apotheke"
       }
     ],
     "casper s no 52": [
@@ -3693,17 +3693,6 @@
         "source": "Canngo Apotheke"
       }
     ],
-    "nice 32/1 mbu": [
-      {
-        "pharmacy_id": "canthera",
-        "name": "Canthera",
-        "city": "Nürnberg",
-        "plz": "90403",
-        "price": 6.3,
-        "available": true,
-        "source": "canthera"
-      }
-    ],
     "cannamedical cm 20/1 lly": [
       {
         "pharmacy_id": "k65upfauvvxshlsqybnkxa18",
@@ -3713,6 +3702,17 @@
         "price": 6.7,
         "available": true,
         "source": "Canngo Apotheke"
+      }
+    ],
+    "nice 32/1 mbu": [
+      {
+        "pharmacy_id": "canthera",
+        "name": "Canthera",
+        "city": "Nürnberg",
+        "plz": "90403",
+        "price": 6.3,
+        "available": true,
+        "source": "canthera"
       }
     ],
     "wellford aquaponic 23/1 cop": [
