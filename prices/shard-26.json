@@ -1,6 +1,6 @@
 {
   "shard": 26,
-  "updated_at": "2026-08-21T15:25:01.059565+02:00",
+  "updated_at": "2026-08-21T16:25:24.709644+02:00",
   "prices": {
     "hidealz 24/1 ms honeydew haze smalls": [
       {
@@ -495,6 +495,15 @@
         "source": "Canngo Apotheke"
       },
       {
+        "pharmacy_id": "ywia6esjhiilbpr2y3kueopq",
+        "name": "Cannabis-Taxi",
+        "city": "Esslingen",
+        "plz": "73730",
+        "price": 6.79,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
         "pharmacy_id": "f4rfc6cz1kisnxzdiqpkgrn1",
         "name": "Medifloris by Rosen Apotheke",
         "city": "Melsungen",
@@ -508,15 +517,6 @@
         "name": "Hagenmarkt Apotheke, Braunschweig",
         "city": "Braunschweig",
         "plz": "38100",
-        "price": 6.99,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "ywia6esjhiilbpr2y3kueopq",
-        "name": "Cannabis-Taxi",
-        "city": "Esslingen",
-        "plz": "73730",
         "price": 6.99,
         "available": true,
         "source": "Cannaleo"
@@ -870,6 +870,15 @@
         "source": "Cannaleo"
       },
       {
+        "pharmacy_id": "paq1qlwdooncaij3eyd2gsi9",
+        "name": "cannama² (Neckar Apotheke Mannheim)",
+        "city": "Mannheim",
+        "plz": "68169",
+        "price": 4.95,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
         "pharmacy_id": "q9uob64rqcl3ocucna5ta7pw",
         "name": "Ratioapotheke, Otzberg",
         "city": "Otzberg",
@@ -977,16 +986,7 @@
         "name": "Cannabis-Taxi",
         "city": "Esslingen",
         "plz": "73730",
-        "price": 4.79,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "gkzudxy9lth2rqdditakpm8s",
-        "name": "Cannabis Apotheke Nord (Ring Apotheke)",
-        "city": "Neumünster",
-        "plz": "24534",
-        "price": 5.47,
+        "price": 4.99,
         "available": true,
         "source": "Cannaleo"
       },
@@ -1018,15 +1018,6 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "zo92fouir89x0kovabrpludp",
-        "name": "cannabis aspharm (Apotheke am Hauptbahnhof, Gelsenkirchen)",
-        "city": "Gelsenkirchen",
-        "plz": "45879 ",
-        "price": 5.99,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
         "pharmacy_id": "gbjpkkmxzbc1sv1cpbn9bx55",
         "name": "Apotheke im Hauptbahnhof",
         "city": "Gelsenkirchen",
@@ -1034,6 +1025,15 @@
         "price": 5.99,
         "available": true,
         "source": "Canngo Apotheke"
+      },
+      {
+        "pharmacy_id": "zo92fouir89x0kovabrpludp",
+        "name": "cannabis aspharm (Apotheke am Hauptbahnhof, Gelsenkirchen)",
+        "city": "Gelsenkirchen",
+        "plz": "45879 ",
+        "price": 5.99,
+        "available": true,
+        "source": "Cannaleo"
       },
       {
         "pharmacy_id": "f2012nsdgx6p0jynx8lk8hke",
@@ -1958,17 +1958,6 @@
         "source": "Canngo Apotheke"
       }
     ],
-    "demecan craft sky 25 01": [
-      {
-        "pharmacy_id": "w53o7kjfsdte9pydvu2zftk0",
-        "name": "CannaQuell",
-        "city": "Düsseldorf",
-        "plz": "40625",
-        "price": 11.49,
-        "available": true,
-        "source": "Canngo Apotheke"
-      }
-    ],
     "briah lcp 30": [
       {
         "pharmacy_id": "jmcykhbuqlb42zruzeh8z9jm",
@@ -2014,6 +2003,17 @@
         "price": 5.99,
         "available": true,
         "source": "CannaFlow"
+      }
+    ],
+    "demecan craft sky 25 01": [
+      {
+        "pharmacy_id": "w53o7kjfsdte9pydvu2zftk0",
+        "name": "CannaQuell",
+        "city": "Düsseldorf",
+        "plz": "40625",
+        "price": 11.49,
+        "available": true,
+        "source": "Canngo Apotheke"
       }
     ],
     "truth holdings lh 31/1": [
@@ -2108,17 +2108,6 @@
         "price": 4.85,
         "available": true,
         "source": "Canngo Apotheke"
-      }
-    ],
-    "craft kings 27/1 aps": [
-      {
-        "pharmacy_id": "canthera",
-        "name": "Canthera",
-        "city": "Nürnberg",
-        "plz": "90403",
-        "price": 4.96,
-        "available": true,
-        "source": "canthera"
       }
     ],
     "aleph green 24/1": [
@@ -2356,6 +2345,17 @@
         "city": "Nürnberg",
         "plz": "90403",
         "price": 6.29,
+        "available": true,
+        "source": "canthera"
+      }
+    ],
+    "craft kings 27/1 aps": [
+      {
+        "pharmacy_id": "canthera",
+        "name": "Canthera",
+        "city": "Nürnberg",
+        "plz": "90403",
+        "price": 4.96,
         "available": true,
         "source": "canthera"
       }
