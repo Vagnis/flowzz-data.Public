@@ -1,6 +1,6 @@
 {
   "shard": 0,
-  "updated_at": "2026-08-23T01:07:41.782366+02:00",
+  "updated_at": "2026-08-23T01:46:50.301218+02:00",
   "prices": {
     "canopy kmi 28/1 kush mints|kush mintz": [
       {
@@ -1049,15 +1049,6 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "ijp86erckl52lxswwdoqtkta",
-        "name": "Cansa - Bethanien Apotheke",
-        "city": "Chemnitz",
-        "plz": "09130",
-        "price": 6.96,
-        "available": true,
-        "source": "Canngo Apotheke"
-      },
-      {
         "pharmacy_id": "cjp4q6l7nk369gxvdwm2u4cb",
         "name": "Cansa - Flemming Apotheke",
         "city": "Chemnitz",
@@ -1067,19 +1058,28 @@
         "source": "Canngo Apotheke"
       },
       {
-        "pharmacy_id": "oanw6n9tnav4u52isnf5hi8c",
-        "name": "Augusta Green (Apotheke Kraus, Schönenberg-Kübelberg)",
-        "city": "Schönenberg-Kübelberg",
-        "plz": "66901",
-        "price": 6.99,
+        "pharmacy_id": "ijp86erckl52lxswwdoqtkta",
+        "name": "Cansa - Bethanien Apotheke",
+        "city": "Chemnitz",
+        "plz": "09130",
+        "price": 6.96,
         "available": true,
-        "source": "Cannaleo"
+        "source": "Canngo Apotheke"
       },
       {
         "pharmacy_id": "hnvguvgdjdixdcspd0dljneg",
         "name": "Augusta Green (St. Stephanus Apotheke, Illingen)",
         "city": "Illingen",
         "plz": "66557",
+        "price": 6.99,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "oanw6n9tnav4u52isnf5hi8c",
+        "name": "Augusta Green (Apotheke Kraus, Schönenberg-Kübelberg)",
+        "city": "Schönenberg-Kübelberg",
+        "plz": "66901",
         "price": 6.99,
         "available": true,
         "source": "Cannaleo"
@@ -2112,80 +2112,6 @@
         "source": "Cannaleo"
       }
     ],
-    "32/1 iuvo sq|apples bananas": [
-      {
-        "pharmacy_id": "n11o6xs4h95x4dxms8b8xira",
-        "name": "Grafen Cannabis Apotheke",
-        "city": "Düsseldorf",
-        "plz": "40235",
-        "price": 6.99,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "l644mqlrh69hg8ifh1l2alzm",
-        "name": "HolyHerb (St. Michael-Apotheke, Solingen)",
-        "city": "Solingen",
-        "plz": "42657",
-        "price": 7.79,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "aa7cwasq91i50yqaoi1rdp3q",
-        "name": "SVAPO",
-        "city": "Offenbach",
-        "plz": "63075",
-        "price": 7.79,
-        "available": true,
-        "source": "Canngo Apotheke"
-      },
-      {
-        "pharmacy_id": "ot20zd772qgxy0dmkm2prbr5",
-        "name": "Rosativa",
-        "city": "Eisleben",
-        "plz": "06295",
-        "price": 8.69,
-        "available": true,
-        "source": "Canngo Apotheke"
-      },
-      {
-        "pharmacy_id": "sb6d76rl9hsp5bghphdn9smx",
-        "name": "Taunus Blüten (Amts Apotheke Usingen)",
-        "city": "Usingen",
-        "plz": "61250",
-        "price": 8.75,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "itcz5oyp1cham9l22setidok",
-        "name": "CannaMontana (Livus Apotheke)",
-        "city": "Bensheim",
-        "plz": "64625",
-        "price": 9.2,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "njz3suf2f2hoi8aokaodsygq",
-        "name": "Christophorus Apotheke",
-        "city": "Mannheim",
-        "plz": "68163",
-        "price": 9.99,
-        "available": true,
-        "source": "Canngo Apotheke"
-      },
-      {
-        "pharmacy_id": "canthera",
-        "name": "Canthera",
-        "city": "Nürnberg",
-        "plz": "90403",
-        "price": 8.45,
-        "available": true,
-        "source": "canthera"
-      }
-    ],
     "mc regular drop 25/1|cake cake divorce jungle": [
       {
         "pharmacy_id": "gflzy0roem5c6com5tjknkpw",
@@ -2276,6 +2202,80 @@
         "price": 7.5,
         "available": true,
         "source": "Cannaleo"
+      }
+    ],
+    "32/1 iuvo sq|apples bananas": [
+      {
+        "pharmacy_id": "n11o6xs4h95x4dxms8b8xira",
+        "name": "Grafen Cannabis Apotheke",
+        "city": "Düsseldorf",
+        "plz": "40235",
+        "price": 6.99,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "l644mqlrh69hg8ifh1l2alzm",
+        "name": "HolyHerb (St. Michael-Apotheke, Solingen)",
+        "city": "Solingen",
+        "plz": "42657",
+        "price": 7.79,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "aa7cwasq91i50yqaoi1rdp3q",
+        "name": "SVAPO",
+        "city": "Offenbach",
+        "plz": "63075",
+        "price": 7.79,
+        "available": true,
+        "source": "Canngo Apotheke"
+      },
+      {
+        "pharmacy_id": "ot20zd772qgxy0dmkm2prbr5",
+        "name": "Rosativa",
+        "city": "Eisleben",
+        "plz": "06295",
+        "price": 8.69,
+        "available": true,
+        "source": "Canngo Apotheke"
+      },
+      {
+        "pharmacy_id": "sb6d76rl9hsp5bghphdn9smx",
+        "name": "Taunus Blüten (Amts Apotheke Usingen)",
+        "city": "Usingen",
+        "plz": "61250",
+        "price": 8.75,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "itcz5oyp1cham9l22setidok",
+        "name": "CannaMontana (Livus Apotheke)",
+        "city": "Bensheim",
+        "plz": "64625",
+        "price": 9.2,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "njz3suf2f2hoi8aokaodsygq",
+        "name": "Christophorus Apotheke",
+        "city": "Mannheim",
+        "plz": "68163",
+        "price": 9.99,
+        "available": true,
+        "source": "Canngo Apotheke"
+      },
+      {
+        "pharmacy_id": "canthera",
+        "name": "Canthera",
+        "city": "Nürnberg",
+        "plz": "90403",
+        "price": 8.45,
+        "available": true,
+        "source": "canthera"
       }
     ],
     "vayamed balanced 12/9|cannatonic": [
@@ -4206,6 +4206,26 @@
         "source": "Canngo Apotheke"
       }
     ],
+    "tilray craft cannabisbl ten thc22 ppv|pave platinum": [
+      {
+        "pharmacy_id": "vrsd1ebvyr5v1l7npcj7hden",
+        "name": "ElbGrün (Apotheke am Collegienhof, Wittenberg)",
+        "city": "Wittenberg",
+        "plz": "06886",
+        "price": 5.95,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "ggpdcsn17csqfybr2sq4vsxz",
+        "name": "CANNATÜRLICH (Arnika Apotheke, Bad Kötzting)",
+        "city": "Bad Kötzting",
+        "plz": "93444",
+        "price": 6.2,
+        "available": true,
+        "source": "Cannaleo"
+      }
+    ],
     "apex dnc ca 35/1|durban nectar": [
       {
         "pharmacy_id": "n11o6xs4h95x4dxms8b8xira",
@@ -4298,26 +4318,6 @@
         "source": "Cannaleo"
       }
     ],
-    "tilray craft cannabisbl ten thc22 ppv|pave platinum": [
-      {
-        "pharmacy_id": "vrsd1ebvyr5v1l7npcj7hden",
-        "name": "ElbGrün (Apotheke am Collegienhof, Wittenberg)",
-        "city": "Wittenberg",
-        "plz": "06886",
-        "price": 5.95,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "ggpdcsn17csqfybr2sq4vsxz",
-        "name": "CANNATÜRLICH (Arnika Apotheke, Bad Kötzting)",
-        "city": "Bad Kötzting",
-        "plz": "93444",
-        "price": 6.2,
-        "available": true,
-        "source": "Cannaleo"
-      }
-    ],
     "madrecan 21/1 wop|punch wonder": [
       {
         "pharmacy_id": "s6xdp3oyzfozefhh0p3xdqz3",
@@ -4400,17 +4400,6 @@
         "source": "Canngo Apotheke"
       }
     ],
-    "canify cannabis flos 20/1 uy ku gorilla glue 4|glue gorilla": [
-      {
-        "pharmacy_id": "k65upfauvvxshlsqybnkxa18",
-        "name": "Sinsheim Cannabis Apotheke ",
-        "city": "Sinsheim",
-        "plz": "74889",
-        "price": 5.6,
-        "available": true,
-        "source": "Canngo Apotheke"
-      }
-    ],
     "remexian 27/1 heg|gold helios": [
       {
         "pharmacy_id": "dqs8999o6m0mo9xbcmtzu32t",
@@ -4418,6 +4407,17 @@
         "city": "Dortmund",
         "plz": "44263",
         "price": 8.3,
+        "available": true,
+        "source": "Canngo Apotheke"
+      }
+    ],
+    "canify cannabis flos 20/1 uy ku gorilla glue 4|glue gorilla": [
+      {
+        "pharmacy_id": "k65upfauvvxshlsqybnkxa18",
+        "name": "Sinsheim Cannabis Apotheke ",
+        "city": "Sinsheim",
+        "plz": "74889",
+        "price": 5.6,
         "available": true,
         "source": "Canngo Apotheke"
       }
