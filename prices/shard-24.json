@@ -1,6 +1,6 @@
 {
   "shard": 24,
-  "updated_at": "2026-08-22T21:42:13.875341+02:00",
+  "updated_at": "2026-08-22T22:25:59.471224+02:00",
   "prices": {
     "avaay 35/1 scg|citra g super": [
       {
@@ -2707,15 +2707,6 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "br3e2qtamrdtflese6tssbop",
-        "name": "Cannabis Fähre",
-        "city": "Niederkassel",
-        "plz": "53859",
-        "price": 3.99,
-        "available": true,
-        "source": "Canngo Apotheke"
-      },
-      {
         "pharmacy_id": "b1cotx9gnyqovzzd387t0shw",
         "name": "Karolinger Apotheke Aachen",
         "city": "Aachen",
@@ -2727,6 +2718,15 @@
       {
         "pharmacy_id": "hdtypbu8ocscgnhzndx9pxht",
         "name": "Cannalivery",
+        "city": "Niederkassel",
+        "plz": "53859",
+        "price": 3.99,
+        "available": true,
+        "source": "Canngo Apotheke"
+      },
+      {
+        "pharmacy_id": "br3e2qtamrdtflese6tssbop",
+        "name": "Cannabis Fähre",
         "city": "Niederkassel",
         "plz": "53859",
         "price": 3.99,
@@ -3567,17 +3567,6 @@
         "source": "canthera"
       }
     ],
-    "slouu 20/1 crl ca|crumbled lime": [
-      {
-        "pharmacy_id": "r90mjqimmnboczwkhwvzdzw0",
-        "name": "Kraut Kurier",
-        "city": "Dortmund",
-        "plz": "44379",
-        "price": 3.99,
-        "available": true,
-        "source": "Cannaleo"
-      }
-    ],
     "khiron pp 29/1|peggys puff": [
       {
         "pharmacy_id": "kw6m1rc1mu9e9eqffp0hsoo4",
@@ -3639,6 +3628,17 @@
         "city": "Freiburg",
         "plz": "79110",
         "price": 7.2,
+        "available": true,
+        "source": "Cannaleo"
+      }
+    ],
+    "slouu 20/1 crl ca|crumbled lime": [
+      {
+        "pharmacy_id": "r90mjqimmnboczwkhwvzdzw0",
+        "name": "Kraut Kurier",
+        "city": "Dortmund",
+        "plz": "44379",
+        "price": 3.99,
         "available": true,
         "source": "Cannaleo"
       }
@@ -3932,35 +3932,6 @@
         "source": "Cannaleo"
       }
     ],
-    "sibanax extrakt 25/0|47 ak": [
-      {
-        "pharmacy_id": "ve12fiueb8n0sg7o5qei37ik",
-        "name": "Cannibo (Bahnhof Apotheke, Bonn)",
-        "city": "Bonn",
-        "plz": "53111 ",
-        "price": 4.99,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "lgrjv9x62z2ly1dvnr8jitwn",
-        "name": "Cannabis Boulevard (Boulevard Apotheke)",
-        "city": "Düsseldorf",
-        "plz": "40213",
-        "price": 6.49,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "upnfquggwejv5lmcknkrkkkd",
-        "name": "CannabisQuelle (Apotheke im Brandenburger Einkaufszentrum, Brandenburg)",
-        "city": "Brandenburg",
-        "plz": "14776",
-        "price": 7.66,
-        "available": true,
-        "source": "Cannaleo"
-      }
-    ],
     "tilray thc20 cbd6 cannabisextrakt": [
       {
         "pharmacy_id": "r13gza90f6t8i1ckrfz82nx3",
@@ -4112,6 +4083,35 @@
         "city": "Kuppenheim",
         "plz": "76456",
         "price": 18.95,
+        "available": true,
+        "source": "Cannaleo"
+      }
+    ],
+    "sibanax extrakt 25/0|47 ak": [
+      {
+        "pharmacy_id": "ve12fiueb8n0sg7o5qei37ik",
+        "name": "Cannibo (Bahnhof Apotheke, Bonn)",
+        "city": "Bonn",
+        "plz": "53111 ",
+        "price": 4.99,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "lgrjv9x62z2ly1dvnr8jitwn",
+        "name": "Cannabis Boulevard (Boulevard Apotheke)",
+        "city": "Düsseldorf",
+        "plz": "40213",
+        "price": 6.49,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "upnfquggwejv5lmcknkrkkkd",
+        "name": "CannabisQuelle (Apotheke im Brandenburger Einkaufszentrum, Brandenburg)",
+        "city": "Brandenburg",
+        "plz": "14776",
+        "price": 7.66,
         "available": true,
         "source": "Cannaleo"
       }
