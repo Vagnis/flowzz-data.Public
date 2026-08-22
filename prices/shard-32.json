@@ -1,6 +1,6 @@
 {
   "shard": 32,
-  "updated_at": "2026-08-23T01:08:30.256444+02:00",
+  "updated_at": "2026-08-23T01:47:40.073974+02:00",
   "prices": {
     "avaay 29/1 cp|candy pave": [
       {
@@ -1316,15 +1316,6 @@
         "source": "Canngo Apotheke"
       },
       {
-        "pharmacy_id": "ijp86erckl52lxswwdoqtkta",
-        "name": "Cansa - Bethanien Apotheke",
-        "city": "Chemnitz",
-        "plz": "09130",
-        "price": 7.95,
-        "available": true,
-        "source": "Canngo Apotheke"
-      },
-      {
         "pharmacy_id": "cjp4q6l7nk369gxvdwm2u4cb",
         "name": "Cansa - Flemming Apotheke",
         "city": "Chemnitz",
@@ -1334,19 +1325,28 @@
         "source": "Canngo Apotheke"
       },
       {
-        "pharmacy_id": "uc8s7eynslwqdngjpx7k9oe7",
-        "name": "CannaQuick (Eulen-Apotheke, Quickborn)",
-        "city": "Quickborn",
-        "plz": "25451",
-        "price": 7.99,
+        "pharmacy_id": "ijp86erckl52lxswwdoqtkta",
+        "name": "Cansa - Bethanien Apotheke",
+        "city": "Chemnitz",
+        "plz": "09130",
+        "price": 7.95,
         "available": true,
-        "source": "Cannaleo"
+        "source": "Canngo Apotheke"
       },
       {
         "pharmacy_id": "ln62jknr5ws6df2qapadnu9f",
         "name": "CANNABIS MURGTAL (Schwarzwald-Vital Apotheke Gaggenau)",
         "city": "Gaggenau",
         "plz": "76571",
+        "price": 7.99,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "uc8s7eynslwqdngjpx7k9oe7",
+        "name": "CannaQuick (Eulen-Apotheke, Quickborn)",
+        "city": "Quickborn",
+        "plz": "25451",
         "price": 7.99,
         "available": true,
         "source": "Cannaleo"
@@ -2623,17 +2623,6 @@
         "source": "Cannaleo"
       }
     ],
-    "adrex 24/1 can|cake vanilla": [
-      {
-        "pharmacy_id": "k65upfauvvxshlsqybnkxa18",
-        "name": "Sinsheim Cannabis Apotheke ",
-        "city": "Sinsheim",
-        "plz": "74889",
-        "price": 5.8,
-        "available": true,
-        "source": "Canngo Apotheke"
-      }
-    ],
     "drwatson 26 tb aus|blues tropical": [
       {
         "pharmacy_id": "m12x6iwfrj1uay6fewidbmh3",
@@ -2753,24 +2742,15 @@
         "source": "Cannaleo"
       }
     ],
-    "ceres cap j 25/1|cap junky": [
+    "adrex 24/1 can|cake vanilla": [
       {
         "pharmacy_id": "k65upfauvvxshlsqybnkxa18",
         "name": "Sinsheim Cannabis Apotheke ",
         "city": "Sinsheim",
         "plz": "74889",
-        "price": 7.3,
+        "price": 5.8,
         "available": true,
         "source": "Canngo Apotheke"
-      },
-      {
-        "pharmacy_id": "canthera",
-        "name": "Canthera",
-        "city": "Nürnberg",
-        "plz": "90403",
-        "price": 4.49,
-        "available": true,
-        "source": "canthera"
       }
     ],
     "skk fb 27/1|frostbite": [
@@ -2827,6 +2807,26 @@
         "price": 5.49,
         "available": true,
         "source": "Cannaleo"
+      }
+    ],
+    "ceres cap j 25/1|cap junky": [
+      {
+        "pharmacy_id": "k65upfauvvxshlsqybnkxa18",
+        "name": "Sinsheim Cannabis Apotheke ",
+        "city": "Sinsheim",
+        "plz": "74889",
+        "price": 7.3,
+        "available": true,
+        "source": "Canngo Apotheke"
+      },
+      {
+        "pharmacy_id": "canthera",
+        "name": "Canthera",
+        "city": "Nürnberg",
+        "plz": "90403",
+        "price": 4.49,
+        "available": true,
+        "source": "canthera"
       }
     ],
     "remexian 30/1 crn grb|breath garlic": [
@@ -3048,35 +3048,6 @@
         "source": "Cannaleo"
       }
     ],
-    "khiriox 12/14 cannabisextrakt|white widow": [
-      {
-        "pharmacy_id": "ss9euh6eh6rzmmo8v4sd3rig",
-        "name": "KranichCann (Kranich Apotheke, München)",
-        "city": "München",
-        "plz": "80634",
-        "price": 4.6,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "m3t29gn5a94vl2z455wdy5i1",
-        "name": "Cannabis Apotheke Herten (farma-plus Apotheke am Rathaus Herten)",
-        "city": "Herten",
-        "plz": "45699",
-        "price": 6.5,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "a11z8wgwsia2zwdlivtg2fqa",
-        "name": "Adler Apotheke, Kuppenheim",
-        "city": "Kuppenheim",
-        "plz": "76456",
-        "price": 9.95,
-        "available": true,
-        "source": "Cannaleo"
-      }
-    ],
     "cannamedical cannabisextrakt thc50 cbd50": [
       {
         "pharmacy_id": "odvyg8x6lc1jbh5y0ihpdywt",
@@ -3104,6 +3075,35 @@
         "price": 18.5,
         "available": true,
         "source": "CannaFlow"
+      }
+    ],
+    "khiriox 12/14 cannabisextrakt|white widow": [
+      {
+        "pharmacy_id": "ss9euh6eh6rzmmo8v4sd3rig",
+        "name": "KranichCann (Kranich Apotheke, München)",
+        "city": "München",
+        "plz": "80634",
+        "price": 4.6,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "m3t29gn5a94vl2z455wdy5i1",
+        "name": "Cannabis Apotheke Herten (farma-plus Apotheke am Rathaus Herten)",
+        "city": "Herten",
+        "plz": "45699",
+        "price": 6.5,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "a11z8wgwsia2zwdlivtg2fqa",
+        "name": "Adler Apotheke, Kuppenheim",
+        "city": "Kuppenheim",
+        "plz": "76456",
+        "price": 9.95,
+        "available": true,
+        "source": "Cannaleo"
       }
     ],
     "demecan craft rocket 28 01|gastro pave pop": [
