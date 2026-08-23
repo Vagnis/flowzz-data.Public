@@ -1,6 +1,6 @@
 {
   "shard": 23,
-  "updated_at": "2026-08-23T06:56:04.919716+02:00",
+  "updated_at": "2026-08-23T08:12:57.115982+02:00",
   "prices": {
     "420 compound 33/1 gap|gastro pop": [
       {
@@ -2223,15 +2223,6 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "kv1jm18ja0ydb1yszkc01mys",
-        "name": "Besser Gesund OHG ipunkt Apotheke",
-        "city": "Augsburg",
-        "plz": "86150",
-        "price": 5.24,
-        "available": true,
-        "source": "Canngo Apotheke"
-      },
-      {
         "pharmacy_id": "mw1iudtgisz5sxk7nzmwphtg",
         "name": "cannabispromed (besser gesund OHG ipunkt Apotheke)",
         "city": "Augsburg",
@@ -2239,6 +2230,15 @@
         "price": 5.24,
         "available": true,
         "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "kv1jm18ja0ydb1yszkc01mys",
+        "name": "Besser Gesund OHG ipunkt Apotheke",
+        "city": "Augsburg",
+        "plz": "86150",
+        "price": 5.24,
+        "available": true,
+        "source": "Canngo Apotheke"
       },
       {
         "pharmacy_id": "gy578a394pqlekh7bo94iub6",
@@ -4710,17 +4710,6 @@
         "source": "canthera"
       }
     ],
-    "remexian 30/1 nlc anm|animal mints": [
-      {
-        "pharmacy_id": "s6xdp3oyzfozefhh0p3xdqz3",
-        "name": "Goldene Blüte",
-        "city": "Freystadt",
-        "plz": "92342",
-        "price": 9.95,
-        "available": true,
-        "source": "Canngo Apotheke"
-      }
-    ],
     "remexian 18/1 jpm hwd|hollywood": [
       {
         "pharmacy_id": "uagcogrer86te4bqaklwl4en",
@@ -4728,6 +4717,17 @@
         "city": "Tegernheim",
         "plz": "93105",
         "price": 4.9,
+        "available": true,
+        "source": "Canngo Apotheke"
+      }
+    ],
+    "remexian 30/1 nlc anm|animal mints": [
+      {
+        "pharmacy_id": "s6xdp3oyzfozefhh0p3xdqz3",
+        "name": "Goldene Blüte",
+        "city": "Freystadt",
+        "plz": "92342",
+        "price": 9.95,
         "available": true,
         "source": "Canngo Apotheke"
       }
@@ -4930,6 +4930,17 @@
         "price": 4.98,
         "available": true,
         "source": "canthera"
+      }
+    ],
+    "noc g as 18/1 zerkl|amnesia shocker": [
+      {
+        "pharmacy_id": "ro0agy3vbtup5r00683tl8po",
+        "name": "CannaMedJena (Ginkgo Apotheke, Jena)",
+        "city": "Jena",
+        "plz": "07745",
+        "price": 2.38,
+        "available": true,
+        "source": "Cannaleo"
       }
     ],
     "sinceritas 25/25|gorilla zkittlez": [
