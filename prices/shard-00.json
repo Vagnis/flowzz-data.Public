@@ -1,6 +1,6 @@
 {
   "shard": 0,
-  "updated_at": "2026-08-23T06:55:26.372298+02:00",
+  "updated_at": "2026-08-23T08:12:22.225365+02:00",
   "prices": {
     "canopy kmi 28/1 kush mints|kush mintz": [
       {
@@ -350,19 +350,19 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "d110gl7ph509necw0888os7x",
-        "name": "CANNFLOW (Regenbogen Apotheke, Köthen)",
-        "city": "Köthen",
-        "plz": "06366",
+        "pharmacy_id": "r90mjqimmnboczwkhwvzdzw0",
+        "name": "Kraut Kurier",
+        "city": "Dortmund",
+        "plz": "44379",
         "price": 6.99,
         "available": true,
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "r90mjqimmnboczwkhwvzdzw0",
-        "name": "Kraut Kurier",
-        "city": "Dortmund",
-        "plz": "44379",
+        "pharmacy_id": "m13cf6fhl8o5aavg1h3eey2j",
+        "name": "cannalu (Apotheke zur alten Post Bad Berka)",
+        "city": "Bad Berka",
+        "plz": "99438",
         "price": 6.99,
         "available": true,
         "source": "Cannaleo"
@@ -377,10 +377,10 @@
         "source": "CannaFlow"
       },
       {
-        "pharmacy_id": "m13cf6fhl8o5aavg1h3eey2j",
-        "name": "cannalu (Apotheke zur alten Post Bad Berka)",
-        "city": "Bad Berka",
-        "plz": "99438",
+        "pharmacy_id": "d110gl7ph509necw0888os7x",
+        "name": "CANNFLOW (Regenbogen Apotheke, Köthen)",
+        "city": "Köthen",
+        "plz": "06366",
         "price": 6.99,
         "available": true,
         "source": "Cannaleo"
@@ -431,15 +431,6 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "vrsd1ebvyr5v1l7npcj7hden",
-        "name": "ElbGrün (Apotheke am Collegienhof, Wittenberg)",
-        "city": "Wittenberg",
-        "plz": "06886",
-        "price": 7.49,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
         "pharmacy_id": "uvzskgeohe084lkf9acf5e2m",
         "name": "Mohren Apotheke ",
         "city": "Wiesbaden",
@@ -453,6 +444,15 @@
         "name": "Medicannabis Essen (easyApotheke Rathaus Galerie, Essen)",
         "city": "Essen",
         "plz": "45127",
+        "price": 7.49,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "vrsd1ebvyr5v1l7npcj7hden",
+        "name": "ElbGrün (Apotheke am Collegienhof, Wittenberg)",
+        "city": "Wittenberg",
+        "plz": "06886",
         "price": 7.49,
         "available": true,
         "source": "Cannaleo"
@@ -512,15 +512,6 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "mw1iudtgisz5sxk7nzmwphtg",
-        "name": "cannabispromed (besser gesund OHG ipunkt Apotheke)",
-        "city": "Augsburg",
-        "plz": "86150",
-        "price": 7.74,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
         "pharmacy_id": "kv1jm18ja0ydb1yszkc01mys",
         "name": "Besser Gesund OHG ipunkt Apotheke",
         "city": "Augsburg",
@@ -528,6 +519,15 @@
         "price": 7.74,
         "available": true,
         "source": "Canngo Apotheke"
+      },
+      {
+        "pharmacy_id": "mw1iudtgisz5sxk7nzmwphtg",
+        "name": "cannabispromed (besser gesund OHG ipunkt Apotheke)",
+        "city": "Augsburg",
+        "plz": "86150",
+        "price": 7.74,
+        "available": true,
+        "source": "Cannaleo"
       },
       {
         "pharmacy_id": "e9eig0e5txi2bemw74rdfssx",
@@ -4318,17 +4318,6 @@
         "source": "Cannaleo"
       }
     ],
-    "madrecan 21/1 wop|punch wonder": [
-      {
-        "pharmacy_id": "s6xdp3oyzfozefhh0p3xdqz3",
-        "name": "Goldene Blüte",
-        "city": "Freystadt",
-        "plz": "92342",
-        "price": 5.95,
-        "available": true,
-        "source": "Canngo Apotheke"
-      }
-    ],
     "seven allegro 24/1|haze lemon super": [
       {
         "pharmacy_id": "o4mci2sgzne7vf3ea67dib4k",
@@ -4356,6 +4345,17 @@
         "price": 7.15,
         "available": true,
         "source": "Cannaleo"
+      }
+    ],
+    "madrecan 21/1 wop|punch wonder": [
+      {
+        "pharmacy_id": "s6xdp3oyzfozefhh0p3xdqz3",
+        "name": "Goldene Blüte",
+        "city": "Freystadt",
+        "plz": "92342",
+        "price": 5.95,
+        "available": true,
+        "source": "Canngo Apotheke"
       }
     ],
     "tilray thc10 cbd10 warlock no 1|cbd warlock": [
@@ -4400,17 +4400,6 @@
         "source": "Canngo Apotheke"
       }
     ],
-    "canify cannabis flos 20/1 uy ku gorilla glue 4|glue gorilla": [
-      {
-        "pharmacy_id": "k65upfauvvxshlsqybnkxa18",
-        "name": "Sinsheim Cannabis Apotheke ",
-        "city": "Sinsheim",
-        "plz": "74889",
-        "price": 5.6,
-        "available": true,
-        "source": "Canngo Apotheke"
-      }
-    ],
     "remexian 27/1 heg|gold helios": [
       {
         "pharmacy_id": "dqs8999o6m0mo9xbcmtzu32t",
@@ -4418,6 +4407,17 @@
         "city": "Dortmund",
         "plz": "44263",
         "price": 8.3,
+        "available": true,
+        "source": "Canngo Apotheke"
+      }
+    ],
+    "canify cannabis flos 20/1 uy ku gorilla glue 4|glue gorilla": [
+      {
+        "pharmacy_id": "k65upfauvvxshlsqybnkxa18",
+        "name": "Sinsheim Cannabis Apotheke ",
+        "city": "Sinsheim",
+        "plz": "74889",
+        "price": 5.6,
         "available": true,
         "source": "Canngo Apotheke"
       }
