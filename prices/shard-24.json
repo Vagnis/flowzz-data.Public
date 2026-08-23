@@ -1,6 +1,6 @@
 {
   "shard": 24,
-  "updated_at": "2026-08-23T12:04:38.187426+02:00",
+  "updated_at": "2026-08-23T13:36:01.056684+02:00",
   "prices": {
     "avaay 35/1 scg|citra g super": [
       {
@@ -1252,15 +1252,6 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "g12ffaf20ypqmy58qepqxxze",
-        "name": "Kahlhorst Apotheke Lübeck",
-        "city": "Lübeck",
-        "plz": "23562",
-        "price": 5.5,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
         "pharmacy_id": "ix7mbcj3di3qkhj2jc4iba7n",
         "name": "Cannaapo",
         "city": "Fulda",
@@ -1268,6 +1259,15 @@
         "price": 5.5,
         "available": true,
         "source": "CannaFlow"
+      },
+      {
+        "pharmacy_id": "g12ffaf20ypqmy58qepqxxze",
+        "name": "Kahlhorst Apotheke Lübeck",
+        "city": "Lübeck",
+        "plz": "23562",
+        "price": 5.5,
+        "available": true,
+        "source": "Cannaleo"
       },
       {
         "pharmacy_id": "t13gcugbmi4eabt0ooeak859",
@@ -2631,51 +2631,6 @@
         "source": "Canngo Apotheke"
       },
       {
-        "pharmacy_id": "ibipq23e8d5ajqtzxxeasd29",
-        "name": "Cannabis Loft (St. Elisabeth Apotheke)",
-        "city": "Geilenkirchen",
-        "plz": "52511 ",
-        "price": 6.44,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "qgfuv9a72bw1ahifa8jx4udw",
-        "name": "Asavita",
-        "city": "Berlin",
-        "plz": "10365",
-        "price": 6.45,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "hdxqag2wtc1be6c48cuxrhjm",
-        "name": "Cannabis4wuppertal (Widder-Apotheke)",
-        "city": "Wuppertal",
-        "plz": "42277",
-        "price": 6.69,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "k95di6yn1kb9h51oxdnvsye8",
-        "name": "Cannabis Köln (Pro Vita Apotheke, Köln)",
-        "city": "Köln",
-        "plz": "50823",
-        "price": 6.98,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "crzm01w47yi7mm5434gnewz8",
-        "name": "Kudamm Botanics (Apotheke am Zoo, Berlin)",
-        "city": "Berlin",
-        "plz": "10623",
-        "price": 6.99,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
         "pharmacy_id": "lox4xupth0cak19jika2wy2y",
         "name": "Löwen-Apotheke Sindelfingen ",
         "city": "Sindelfingen ",
@@ -3567,6 +3522,17 @@
         "source": "canthera"
       }
     ],
+    "slouu 20/1 crl ca|crumbled lime": [
+      {
+        "pharmacy_id": "r90mjqimmnboczwkhwvzdzw0",
+        "name": "Kraut Kurier",
+        "city": "Dortmund",
+        "plz": "44379",
+        "price": 3.99,
+        "available": true,
+        "source": "Cannaleo"
+      }
+    ],
     "nice 26/1 gba|barz guava": [
       {
         "pharmacy_id": "xhcj5hflj9nb8pjqvmem7641",
@@ -3639,17 +3605,6 @@
         "city": "Freiburg",
         "plz": "79110",
         "price": 7.2,
-        "available": true,
-        "source": "Cannaleo"
-      }
-    ],
-    "slouu 20/1 crl ca|crumbled lime": [
-      {
-        "pharmacy_id": "r90mjqimmnboczwkhwvzdzw0",
-        "name": "Kraut Kurier",
-        "city": "Dortmund",
-        "plz": "44379",
-        "price": 3.99,
         "available": true,
         "source": "Cannaleo"
       }
@@ -3932,35 +3887,6 @@
         "source": "Cannaleo"
       }
     ],
-    "sibanax extrakt 25/0|47 ak": [
-      {
-        "pharmacy_id": "ve12fiueb8n0sg7o5qei37ik",
-        "name": "Cannibo (Bahnhof Apotheke, Bonn)",
-        "city": "Bonn",
-        "plz": "53111 ",
-        "price": 4.99,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "lgrjv9x62z2ly1dvnr8jitwn",
-        "name": "Cannabis Boulevard (Boulevard Apotheke)",
-        "city": "Düsseldorf",
-        "plz": "40213",
-        "price": 6.49,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "upnfquggwejv5lmcknkrkkkd",
-        "name": "CannabisQuelle (Apotheke im Brandenburger Einkaufszentrum, Brandenburg)",
-        "city": "Brandenburg",
-        "plz": "14776",
-        "price": 7.66,
-        "available": true,
-        "source": "Cannaleo"
-      }
-    ],
     "tilray thc20 cbd6 cannabisextrakt": [
       {
         "pharmacy_id": "r13gza90f6t8i1ckrfz82nx3",
@@ -4112,6 +4038,35 @@
         "city": "Kuppenheim",
         "plz": "76456",
         "price": 18.95,
+        "available": true,
+        "source": "Cannaleo"
+      }
+    ],
+    "sibanax extrakt 25/0|47 ak": [
+      {
+        "pharmacy_id": "ve12fiueb8n0sg7o5qei37ik",
+        "name": "Cannibo (Bahnhof Apotheke, Bonn)",
+        "city": "Bonn",
+        "plz": "53111 ",
+        "price": 4.99,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "lgrjv9x62z2ly1dvnr8jitwn",
+        "name": "Cannabis Boulevard (Boulevard Apotheke)",
+        "city": "Düsseldorf",
+        "plz": "40213",
+        "price": 6.49,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "upnfquggwejv5lmcknkrkkkd",
+        "name": "CannabisQuelle (Apotheke im Brandenburger Einkaufszentrum, Brandenburg)",
+        "city": "Brandenburg",
+        "plz": "14776",
+        "price": 7.66,
         "available": true,
         "source": "Cannaleo"
       }
