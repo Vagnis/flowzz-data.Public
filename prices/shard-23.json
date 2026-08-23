@@ -1,6 +1,6 @@
 {
   "shard": 23,
-  "updated_at": "2026-08-23T02:20:39.976897+02:00",
+  "updated_at": "2026-08-23T03:26:26.066681+02:00",
   "prices": {
     "420 compound 33/1 gap|gastro pop": [
       {
@@ -2196,38 +2196,11 @@
         "source": "Canngo Apotheke"
       },
       {
-        "pharmacy_id": "r8cpx6oj00fnq0tm8mh1jz1x",
-        "name": "Aador.de (Hubertus-Apotheke)",
-        "city": "Hamburg",
-        "plz": "22453",
-        "price": 4.95,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
         "pharmacy_id": "rylsdg1ejmlc967k60bgpv71",
         "name": "Hirsch Apotheke Fürth (cannafino.de)",
         "city": "Fürth",
         "plz": "90762",
         "price": 4.99,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "ts5y0hwy1y90ff163oj651dz",
-        "name": "420 Flowers Kreis Warendorf (Apotheke Hake, Ennigerloh)",
-        "city": "Ennigerloh",
-        "plz": "59320",
-        "price": 5.2,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "mw1iudtgisz5sxk7nzmwphtg",
-        "name": "cannabispromed (besser gesund OHG ipunkt Apotheke)",
-        "city": "Augsburg",
-        "plz": "86150",
-        "price": 5.24,
         "available": true,
         "source": "Cannaleo"
       },
@@ -4710,17 +4683,6 @@
         "source": "canthera"
       }
     ],
-    "remexian 30/1 nlc anm|animal mints": [
-      {
-        "pharmacy_id": "s6xdp3oyzfozefhh0p3xdqz3",
-        "name": "Goldene Blüte",
-        "city": "Freystadt",
-        "plz": "92342",
-        "price": 9.95,
-        "available": true,
-        "source": "Canngo Apotheke"
-      }
-    ],
     "remexian 18/1 jpm hwd|hollywood": [
       {
         "pharmacy_id": "uagcogrer86te4bqaklwl4en",
@@ -4728,6 +4690,17 @@
         "city": "Tegernheim",
         "plz": "93105",
         "price": 4.9,
+        "available": true,
+        "source": "Canngo Apotheke"
+      }
+    ],
+    "remexian 30/1 nlc anm|animal mints": [
+      {
+        "pharmacy_id": "s6xdp3oyzfozefhh0p3xdqz3",
+        "name": "Goldene Blüte",
+        "city": "Freystadt",
+        "plz": "92342",
+        "price": 9.95,
         "available": true,
         "source": "Canngo Apotheke"
       }
@@ -4863,46 +4836,6 @@
         "price": 4.99,
         "available": true,
         "source": "Canngo Apotheke"
-      }
-    ],
-    "420 compound 27/1 pt tgy|eye tigerz": [
-      {
-        "pharmacy_id": "ye90y5ayzot5uexwcyldk9op",
-        "name": "cannalea (Forellen-Apotheke, Neunkirchen-Seelscheid)",
-        "city": "Neunkirchen-Seelscheid",
-        "plz": "53819",
-        "price": 6.5,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "c4135xyi7y4uempknhxpfvgz",
-        "name": "green-glows (MEDICON Apotheke, Fürth)",
-        "city": "Fürth",
-        "plz": "90762",
-        "price": 7.25,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
-        "pharmacy_id": "lijog898sce37woldqv19dgh",
-        "name": "Hansecannabis (Löns Apotheke, Bremen)",
-        "city": "Bremen",
-        "plz": "28239",
-        "price": 7.45,
-        "available": true,
-        "source": "Cannaleo"
-      }
-    ],
-    "cookies 22/1 md|medellin": [
-      {
-        "pharmacy_id": "vqma98ynwg0q92pjora82gtm",
-        "name": "cannabis-vor-ort.de - Die Hanf Apotheke (Tiergarten-Apotheke, Konstanz)",
-        "city": "Konstanz",
-        "plz": "78462",
-        "price": 10.5,
-        "available": true,
-        "source": "Cannaleo"
       }
     ],
     "amici 33/1 std|stardawg": [
@@ -5069,6 +5002,57 @@
         "source": "canthera"
       }
     ],
+    "420 compound 27/1 pt tgy|eye tigerz": [
+      {
+        "pharmacy_id": "ye90y5ayzot5uexwcyldk9op",
+        "name": "cannalea (Forellen-Apotheke, Neunkirchen-Seelscheid)",
+        "city": "Neunkirchen-Seelscheid",
+        "plz": "53819",
+        "price": 6.5,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "c4135xyi7y4uempknhxpfvgz",
+        "name": "green-glows (MEDICON Apotheke, Fürth)",
+        "city": "Fürth",
+        "plz": "90762",
+        "price": 7.25,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "lijog898sce37woldqv19dgh",
+        "name": "Hansecannabis (Löns Apotheke, Bremen)",
+        "city": "Bremen",
+        "plz": "28239",
+        "price": 7.45,
+        "available": true,
+        "source": "Cannaleo"
+      }
+    ],
+    "cookies 22/1 md|medellin": [
+      {
+        "pharmacy_id": "vqma98ynwg0q92pjora82gtm",
+        "name": "cannabis-vor-ort.de - Die Hanf Apotheke (Tiergarten-Apotheke, Konstanz)",
+        "city": "Konstanz",
+        "plz": "78462",
+        "price": 10.5,
+        "available": true,
+        "source": "Cannaleo"
+      }
+    ],
+    "noc g as 18/1 zerkl|amnesia shocker": [
+      {
+        "pharmacy_id": "ro0agy3vbtup5r00683tl8po",
+        "name": "CannaMedJena (Ginkgo Apotheke, Jena)",
+        "city": "Jena",
+        "plz": "07745",
+        "price": 2.38,
+        "available": true,
+        "source": "Cannaleo"
+      }
+    ],
     "30/1 iuvo oc|oranges platinum": [
       {
         "pharmacy_id": "aa7cwasq91i50yqaoi1rdp3q",
@@ -5094,17 +5078,6 @@
         "city": "Solingen",
         "plz": "42657",
         "price": 7.19,
-        "available": true,
-        "source": "Cannaleo"
-      }
-    ],
-    "noc g as 18/1 zerkl|amnesia shocker": [
-      {
-        "pharmacy_id": "ro0agy3vbtup5r00683tl8po",
-        "name": "CannaMedJena (Ginkgo Apotheke, Jena)",
-        "city": "Jena",
-        "plz": "07745",
-        "price": 2.38,
         "available": true,
         "source": "Cannaleo"
       }
