@@ -1,6 +1,6 @@
 {
   "shard": 29,
-  "updated_at": "2026-08-23T10:06:33.505632+02:00",
+  "updated_at": "2026-08-23T10:36:25.141791+02:00",
   "prices": {
     "nice 29/1 mos|morning sun": [
       {
@@ -359,6 +359,15 @@
     ],
     "420 evolution 30/1 ca pch|chementine peach": [
       {
+        "pharmacy_id": "v13hoqmgzzhg21iaumq0jg26",
+        "name": "WEEDCITY (Adler Apotheke, Wiesbaden)",
+        "city": "Wiesbaden",
+        "plz": "65185",
+        "price": 5.63,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
         "pharmacy_id": "t13gcugbmi4eabt0ooeak859",
         "name": "Hanfwerk-Sauerland (tri-Haus Apotheke Arnsberg)",
         "city": "Arnsberg",
@@ -431,11 +440,38 @@
         "source": "Canngo Apotheke"
       },
       {
+        "pharmacy_id": "a1j9mwv4b6dt3w0wdw8piwu4",
+        "name": "Markus-Apotheke Cannabis (Markus-Apotheke Steglitz, Berlin)",
+        "city": "Berlin",
+        "plz": "12167",
+        "price": 7.2,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
         "pharmacy_id": "ywia6esjhiilbpr2y3kueopq",
         "name": "Cannabis-Taxi",
         "city": "Esslingen",
         "plz": "73730",
         "price": 7.25,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "gflzy0roem5c6com5tjknkpw",
+        "name": "Medicannabis Essen (easyApotheke Rathaus Galerie, Essen)",
+        "city": "Essen",
+        "plz": "45127",
+        "price": 7.29,
+        "available": true,
+        "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "r481s1vjse40xv765uytf0qb",
+        "name": "Heidegras (easyApotheke Marktcenter Uelzen)",
+        "city": "Uelzen",
+        "plz": "29525",
+        "price": 7.49,
         "available": true,
         "source": "Cannaleo"
       },
@@ -1973,15 +2009,6 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "fx0kizdtmy00vt6nrq3a6acg",
-        "name": "Cannabis Bremen Apotheke (Greif-Apotheke, Bremen)",
-        "city": "Bremen",
-        "plz": "28201",
-        "price": 8.95,
-        "available": true,
-        "source": "Cannaleo"
-      },
-      {
         "pharmacy_id": "b11l4mwbyxlhvs53dmhi8g0s",
         "name": "Cannabis Apotheken Dr. Engelmann",
         "city": "Brühl",
@@ -1991,13 +2018,13 @@
         "source": "Cannaleo"
       },
       {
-        "pharmacy_id": "k1fv66xz9tfpngfk1dzcgjvn",
-        "name": "Cannabis Vital Apotheke (Rosen Apotheke im Center Hattersheim)",
-        "city": "Hattersheim",
-        "plz": "65795",
-        "price": 8.99,
+        "pharmacy_id": "fx0kizdtmy00vt6nrq3a6acg",
+        "name": "Cannabis Bremen Apotheke (Greif-Apotheke, Bremen)",
+        "city": "Bremen",
+        "plz": "28201",
+        "price": 8.95,
         "available": true,
-        "source": "Canngo Apotheke"
+        "source": "Cannaleo"
       },
       {
         "pharmacy_id": "htun7a0qopjc8srkxcglxed2",
@@ -2016,6 +2043,15 @@
         "price": 8.99,
         "available": true,
         "source": "Cannaleo"
+      },
+      {
+        "pharmacy_id": "k1fv66xz9tfpngfk1dzcgjvn",
+        "name": "Cannabis Vital Apotheke (Rosen Apotheke im Center Hattersheim)",
+        "city": "Hattersheim",
+        "plz": "65795",
+        "price": 8.99,
+        "available": true,
+        "source": "Canngo Apotheke"
       },
       {
         "pharmacy_id": "fsbk5u4481ge8by85dqwljj2",
@@ -3541,6 +3577,28 @@
         "source": "Cannaleo"
       }
     ],
+    "remexian 21/1 trf icw|cream ice wizard": [
+      {
+        "pharmacy_id": "yyva3bdg1zje9o9owqr5f74k",
+        "name": "Goldene Blüte",
+        "city": "Freystadt",
+        "plz": "92342",
+        "price": 3.99,
+        "available": true,
+        "source": "Cannaleo"
+      }
+    ],
+    "enua 20/1 usr ca|sour ultra": [
+      {
+        "pharmacy_id": "pivzpps5k32rre01ae2cjpx5",
+        "name": "B.Leaf (Meine Apotheke, Berlin)",
+        "city": "Berlin",
+        "plz": "10707",
+        "price": 3.99,
+        "available": true,
+        "source": "Cannaleo"
+      }
+    ],
     "gr nhorn gg 22/1|glue gorilla": [
       {
         "pharmacy_id": "k65upfauvvxshlsqybnkxa18",
@@ -3785,17 +3843,6 @@
         "city": "Köln",
         "plz": "50737",
         "price": 8.99,
-        "available": true,
-        "source": "Cannaleo"
-      }
-    ],
-    "candoro ethics 10 10 cannabisextrakt": [
-      {
-        "pharmacy_id": "ve12fiueb8n0sg7o5qei37ik",
-        "name": "Cannibo (Bahnhof Apotheke, Bonn)",
-        "city": "Bonn",
-        "plz": "53111 ",
-        "price": 10.4,
         "available": true,
         "source": "Cannaleo"
       }
