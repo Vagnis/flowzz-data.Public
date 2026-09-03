@@ -273,11 +273,6 @@
           "name": "Cannabis Apotheke Bayern (MEDICON-Apotheke Schweinfurt Stadtgalerie, Schweinfurt)",
           "plz": "97421",
           "stadt": "Schweinfurt"
-        },
-        {
-          "name": "WEEDCITY (Adler Apotheke, Wiesbaden)",
-          "plz": "65185",
-          "stadt": "Wiesbaden"
         }
       ]
     },
@@ -1133,7 +1128,7 @@
       "genetik": "Hybrid",
       "hersteller": "IUVO Therapeutics",
       "bewertung": 0.0,
-      "flowzz_verfuegbar": false,
+      "flowzz_verfuegbar": true,
       "url": "https://flowzz.com/product/24-1-iuvo-kc-petal-perfume",
       "match_key": "24/1 iuvo kc|perfume petal",
       "quellen": [
@@ -3139,7 +3134,7 @@
       "genetik": "Hybrid",
       "hersteller": "IUVO Therapeutics",
       "bewertung": 0.0,
-      "flowzz_verfuegbar": false,
+      "flowzz_verfuegbar": true,
       "url": "https://flowzz.com/product/28-1-iuvo-oc-loki",
       "match_key": "28/1 iuvo oc|loki",
       "quellen": [
@@ -5010,11 +5005,6 @@
           "stadt": "Borken"
         },
         {
-          "name": "Frankenblüten (Avie Apotheke im Luitpoldcenter, Dinkelsbühl)",
-          "plz": "91550",
-          "stadt": "Dinkelsbühl"
-        },
-        {
           "name": "1A Cannaduo",
           "plz": "40217",
           "stadt": "Düsseldorf"
@@ -5040,11 +5030,6 @@
           "stadt": "Hamburg"
         },
         {
-          "name": "Hanseblüten (apo-rot Apotheke, Rahlstedt)",
-          "plz": "22143",
-          "stadt": "Hamburg"
-        },
-        {
           "name": "Christophorus Apotheke",
           "plz": "68163",
           "stadt": "Mannheim"
@@ -5058,11 +5043,6 @@
           "name": "SVAPO",
           "plz": "63075",
           "stadt": "Offenbach"
-        },
-        {
-          "name": "HolyHerb (St. Michael-Apotheke, Solingen)",
-          "plz": "42657",
-          "stadt": "Solingen"
         },
         {
           "name": "Taunus Blüten (Amts Apotheke Usingen)",
@@ -6709,7 +6689,8 @@
       "url": "https://flowzz.com/product/420-compound-27-1-ca-ber-berlin-berries",
       "match_key": "420 compound 27/1 ca ber|berlin berries",
       "quellen": [
-        "canngo"
+        "canngo",
+        "canthera"
       ],
       "apotheken": [
         {
@@ -6931,6 +6912,11 @@
           "name": "LeoVerde (Löwen Apotheke Neumarkt)",
           "plz": "92318",
           "stadt": "Neumarkt"
+        },
+        {
+          "name": "Canthera",
+          "plz": "90403",
+          "stadt": "Nürnberg"
         },
         {
           "name": "Adler-Cannabis (Adler-Apotheke Regensburg, Regensburg)",
@@ -10722,7 +10708,7 @@
       "url": "https://flowzz.com/product/420-evolution-30-1-ca-icc-ice-cream-cake-kush-mints",
       "match_key": "420 evolution 30/1 ca icc ice cream cake|cake cream ice kush mints",
       "quellen": [
-        "canngo"
+        "flowzz"
       ],
       "apotheken": [
         {
@@ -12307,6 +12293,35 @@
       ]
     },
     {
+      "name": "420 Natural 14/1 CA TRP Tropicana Cookies",
+      "strain": "Tropicana Cookies",
+      "code": "420 Natural 14/1 CA TRP",
+      "thc": 14.0,
+      "cbd": 0.1,
+      "genetik": "Hybrid",
+      "hersteller": "Four 20 Pharma",
+      "bewertung": 5.0,
+      "flowzz_verfuegbar": true,
+      "url": "https://flowzz.com/product/420-natural-14-1-ca-trp-tropicana-cookies",
+      "match_key": "420 natural 14/1 ca trp|cookies tropicana",
+      "quellen": [
+        "canngo",
+        "canthera"
+      ],
+      "apotheken": [
+        {
+          "name": "Apotheke im Hauptbahnhof Darmstadt",
+          "plz": "64293",
+          "stadt": "Darmstadt"
+        },
+        {
+          "name": "Canthera",
+          "plz": "90403",
+          "stadt": "Nürnberg"
+        }
+      ]
+    },
+    {
       "name": "420 Natural 16/1 CA TRP Tropicana Cookies",
       "strain": "Tropicana Cookies",
       "code": "420 Natural 16/1 CA TRP",
@@ -13712,7 +13727,7 @@
       "url": "https://flowzz.com/product/adrex-26-ckd-cookie-dough",
       "match_key": "adrex 26 ckd can|cookie dough",
       "quellen": [
-        "canngo"
+        "flowzz"
       ],
       "apotheken": [
         {
@@ -16187,7 +16202,7 @@
       "genetik": "Hybrid",
       "hersteller": "Cantourage",
       "bewertung": 3.98,
-      "flowzz_verfuegbar": false,
+      "flowzz_verfuegbar": true,
       "url": "https://flowzz.com/product/all-nations-gg-34-1-grey-goose",
       "match_key": "all nations gg 34/1|goose grey",
       "quellen": [
@@ -16719,7 +16734,7 @@
       "genetik": "Hybrid",
       "hersteller": "Cantourage",
       "bewertung": 5.0,
-      "flowzz_verfuegbar": false,
+      "flowzz_verfuegbar": true,
       "url": "https://flowzz.com/product/all-nations-pe-27-1-pineapple-express",
       "match_key": "all nations pe 27/1|express pineapple",
       "quellen": [
@@ -17111,7 +17126,7 @@
       "url": "https://flowzz.com/product/amici-28-1-cld-clementine-dream",
       "match_key": "amici 28/1 cld|clementine dream",
       "quellen": [
-        "flowzz"
+        "canngo"
       ],
       "apotheken": [
         {
@@ -17139,7 +17154,7 @@
       "url": "https://flowzz.com/product/amici-29-1-sle-sour-lemon-og",
       "match_key": "amici 29/1 sle|lemon og sour",
       "quellen": [
-        "canngo"
+        "flowzz"
       ],
       "apotheken": [
         {
@@ -21516,9 +21531,19 @@
           "stadt": "Nürnberg"
         },
         {
+          "name": "Canthera Süd (Mohren Apotheke, Nürnberg)",
+          "plz": "90459",
+          "stadt": "Nürnberg"
+        },
+        {
           "name": "Landmann Apotheke Saarbrücken",
           "plz": "66111",
           "stadt": "Saarbrücken"
+        },
+        {
+          "name": "Augusta Green (Apotheke Kraus, Schönenberg-Kübelberg)",
+          "plz": "66901",
+          "stadt": "Schönenberg-Kübelberg"
         }
       ]
     },
@@ -21765,6 +21790,16 @@
           "stadt": "Düsseldorf"
         },
         {
+          "name": "cannabis-vor-ort.de - Die Hanf Apotheke (Tiergarten-Apotheke, Konstanz)",
+          "plz": "78462",
+          "stadt": "Konstanz"
+        },
+        {
+          "name": "Flora Apotheke, Köln-Nippes",
+          "plz": "50733",
+          "stadt": "Köln-Nippes"
+        },
+        {
           "name": "Cannabis Sunshine",
           "plz": "84028",
           "stadt": "Landshut"
@@ -21773,6 +21808,11 @@
           "name": "Goldene Blüte Nürnberg Fürth Erlangen // Gartenstadt-Apotheke",
           "plz": "90469",
           "stadt": "Nürnberg"
+        },
+        {
+          "name": "ABC Cannabis (ABC Apotheke am Werth, Wuppertal)",
+          "plz": "42275",
+          "stadt": "Wuppertal"
         }
       ]
     },
@@ -21980,7 +22020,7 @@
       "url": "https://flowzz.com/product/balancial-s1-24-1-wp-wappa",
       "match_key": "balancial pt s1 24/1 wp|wappa",
       "quellen": [
-        "canngo"
+        "flowzz"
       ],
       "apotheken": [
         {
@@ -26376,7 +26416,8 @@
       "url": "https://flowzz.com/product/bathera-33-1-lcg-lemon-cherry-gelato",
       "match_key": "bathera 33/1 lcg|cherry gelato lemon",
       "quellen": [
-        "canngo"
+        "canngo",
+        "canthera"
       ],
       "apotheken": [
         {
@@ -26633,6 +26674,11 @@
           "name": "SativaMedics (Rosen-Apotheke Neuwied)",
           "plz": "56564",
           "stadt": "Neuwied"
+        },
+        {
+          "name": "Canthera",
+          "plz": "90403",
+          "stadt": "Nürnberg"
         },
         {
           "name": "Medicon-Nordostbahnhof",
@@ -29780,16 +29826,6 @@
           "stadt": "München"
         },
         {
-          "name": "Blüten-Apotheke in München",
-          "plz": "80804",
-          "stadt": "München"
-        },
-        {
-          "name": "Hohenzollern Apotheke Münster",
-          "plz": "48145",
-          "stadt": "Münster"
-        },
-        {
           "name": "Hohenzollern Apotheke, Münster",
           "plz": "48145",
           "stadt": "Münster"
@@ -30092,11 +30128,6 @@
         "canngo"
       ],
       "apotheken": [
-        {
-          "name": "Cannabis-Taxi",
-          "plz": "73730",
-          "stadt": "Esslingen"
-        },
         {
           "name": "Rastatt",
           "plz": "76437",
@@ -30500,7 +30531,7 @@
       "cbd": 1.0,
       "genetik": "Hybrid",
       "hersteller": "WMG Pharma",
-      "bewertung": 3.5,
+      "bewertung": 3.0,
       "flowzz_verfuegbar": true,
       "url": "https://flowzz.com/product/buuo-24-1-bbb-banana-bonbon",
       "match_key": "buuo 24/1 bbb|banana bonbon",
@@ -31024,7 +31055,7 @@
       "cbd": 1.0,
       "genetik": "Hybrid",
       "hersteller": "WMG Pharma",
-      "bewertung": 4.29,
+      "bewertung": 4.38,
       "flowzz_verfuegbar": true,
       "url": "https://flowzz.com/product/buuo-30-1-bcc-banana-cream-cake",
       "match_key": "buuo 30/1 bcc|banana cake cream",
@@ -34877,6 +34908,29 @@
       ]
     },
     {
+      "name": "Canify Cannabis flos 22/1 CL - Papaya Bomb",
+      "strain": "Papaya Bomb",
+      "code": "Canify Cannabis flos 22/1 CL",
+      "thc": null,
+      "cbd": null,
+      "genetik": "",
+      "hersteller": "",
+      "bewertung": 0.0,
+      "flowzz_verfuegbar": false,
+      "url": "https://canthera.de/canify-cannabis-flos-22-1-cl-papaya-bomb/",
+      "match_key": "canify cannabis flos 22/1 cl|bomb papaya",
+      "quellen": [
+        "canthera"
+      ],
+      "apotheken": [
+        {
+          "name": "Canthera",
+          "plz": "90403",
+          "stadt": "Nürnberg"
+        }
+      ]
+    },
+    {
       "name": "Canify Cannabis flos 22/1 Ku. The Chef",
       "strain": "Krumpet OG x London Pound Cake",
       "code": "Canify Cannabis flos 22/1 Ku. The Chef",
@@ -35330,6 +35384,29 @@
           "name": "Sinsheim Cannabis Apotheke",
           "plz": "74889",
           "stadt": "Sinsheim"
+        }
+      ]
+    },
+    {
+      "name": "Canify Cannabis flos 27/1 CSF - Bunatic DP",
+      "strain": "Bunatic DP",
+      "code": "Canify Cannabis flos 27/1 CSF",
+      "thc": null,
+      "cbd": null,
+      "genetik": "",
+      "hersteller": "",
+      "bewertung": 0.0,
+      "flowzz_verfuegbar": false,
+      "url": "https://canthera.de/canify-cannabis-flos-27-1-csf-bunatic-dp/",
+      "match_key": "canify cannabis flos 27/1 csf|bunatic dp",
+      "quellen": [
+        "canthera"
+      ],
+      "apotheken": [
+        {
+          "name": "Canthera",
+          "plz": "90403",
+          "stadt": "Nürnberg"
         }
       ]
     },
@@ -36012,7 +36089,7 @@
       "genetik": "Hybrid",
       "hersteller": "Genetia Production",
       "bewertung": 0.0,
-      "flowzz_verfuegbar": false,
+      "flowzz_verfuegbar": true,
       "url": "https://flowzz.com/product/cannabec-culture-27-1-ftp-fruity-pebbles",
       "match_key": "cannabec culture 27/1 ftp|fruity pebbles",
       "quellen": [
@@ -36025,6 +36102,11 @@
           "stadt": "Baunatal"
         },
         {
+          "name": "Helios Cannabis Bayreuth",
+          "plz": "95447",
+          "stadt": "Bayreuth"
+        },
+        {
           "name": "easyApotheke Bayreuth-Süd",
           "plz": "95447",
           "stadt": "Bayreuth"
@@ -36033,6 +36115,11 @@
           "name": "Kudamm Botanics (Apotheke am Zoo, Berlin)",
           "plz": "10623",
           "stadt": "Berlin"
+        },
+        {
+          "name": "MEDCANAPO (Herzogen Apotheke, Düsseldorf)",
+          "plz": "40476",
+          "stadt": "Düsseldorf"
         },
         {
           "name": "Cannabis-Prime (Kappelberg-Apotheke)",
@@ -36827,11 +36914,6 @@
           "name": "Grünhorn",
           "plz": "04318",
           "stadt": "Leipzig"
-        },
-        {
-          "name": "easyBluete (easyApotheke, Ottobrunn)",
-          "plz": "85521",
-          "stadt": "Ottobrunn"
         },
         {
           "name": "Markus Apotheke Saarbrücken",
@@ -45863,19 +45945,9 @@
           "stadt": "Eschwege"
         },
         {
-          "name": "Schanzen-Cannabis (Stern Apotheke, Hamburg)",
-          "plz": "20357",
-          "stadt": "Hamburg"
-        },
-        {
           "name": "Sinsheim Cannabis Apotheke",
           "plz": "74889",
           "stadt": "Sinsheim"
-        },
-        {
-          "name": "all4cannabis (Wilhelms-Apotheke, Wiesbaden)",
-          "plz": "65185",
-          "stadt": "Wiesbaden"
         }
       ]
     },
@@ -55237,11 +55309,6 @@
           "stadt": "Aachen"
         },
         {
-          "name": "Frankenblüten (Avie Apotheke im Luitpoldcenter, Dinkelsbühl)",
-          "plz": "91550",
-          "stadt": "Dinkelsbühl"
-        },
-        {
           "name": "3Königen Apotheke",
           "plz": "47798",
           "stadt": "Krefeld"
@@ -55881,11 +55948,6 @@
           "stadt": "Sinsheim"
         },
         {
-          "name": "Heidegras (easyApotheke Marktcenter Uelzen)",
-          "plz": "29525",
-          "stadt": "Uelzen"
-        },
-        {
           "name": "CANN EBBES",
           "plz": "71332",
           "stadt": "Waiblingen"
@@ -55894,11 +55956,6 @@
           "name": "Cannabis Champion (Central Apotheke Waiblingen)",
           "plz": "71332",
           "stadt": "Waiblingen"
-        },
-        {
-          "name": "ElbGrün (Apotheke am Collegienhof, Wittenberg)",
-          "plz": "06886",
-          "stadt": "Wittenberg"
         }
       ]
     },
@@ -58775,7 +58832,7 @@
       "url": "https://flowzz.com/product/demecan-core-moonbow-27-1-moonbow-112-ix",
       "match_key": "demecan core moonbow 27/1|112 ix moonbow",
       "quellen": [
-        "canngo"
+        "flowzz"
       ],
       "apotheken": [
         {
@@ -58951,7 +59008,7 @@
       "genetik": "Hybrid",
       "hersteller": "Demecan",
       "bewertung": 0.0,
-      "flowzz_verfuegbar": false,
+      "flowzz_verfuegbar": true,
       "url": "https://flowzz.com/product/demecan-core-orng-19-01-orange-dreamsicle",
       "match_key": "demecan core orng 19 01|dreamsicle orange",
       "quellen": [
@@ -64443,6 +64500,11 @@
           "stadt": "Essen"
         },
         {
+          "name": "Cannaapo",
+          "plz": "36037",
+          "stadt": "Fulda"
+        },
+        {
           "name": "Dragonweed (Drachen Apotheke)",
           "plz": "47608",
           "stadt": "Geldern"
@@ -65048,34 +65110,9 @@
           "stadt": "Hattersheim"
         },
         {
-          "name": "Cannabis Vital Apotheke (Rosen-Apotheke im Center Hattersheim)",
-          "plz": "65795",
-          "stadt": "Hattersheim am Main"
-        },
-        {
-          "name": "Cannabronn (Apotheke am Bahnhof, Heilbronn)",
-          "plz": "74072",
-          "stadt": "Heilbronn"
-        },
-        {
-          "name": "Ahorn Medics (Ahorn-Apotheke, Mörfelden-Walldorf)",
-          "plz": "64546",
-          "stadt": "Mörfelden-Walldorf"
-        },
-        {
           "name": "Löwen-Apotheke Sindelfingen",
           "plz": "71063",
           "stadt": "Sindelfingen"
-        },
-        {
-          "name": "Cannabis Shop der TE.AM Apotheken",
-          "plz": "45549",
-          "stadt": "Sprockhövel"
-        },
-        {
-          "name": "Cannabis Apo Deutschland (MEDICON Nürnberg)",
-          "plz": "90547",
-          "stadt": "Stein"
         }
       ]
     },
@@ -65265,7 +65302,7 @@
       "url": "https://flowzz.com/product/demecan-rf-epic-drop-30-01-98-aloha-white-widow-trainwreck",
       "match_key": "demecan rf epic drop 30 01|98 aloha trainwreck white widow",
       "quellen": [
-        "canngo"
+        "flowzz"
       ],
       "apotheken": [
         {
@@ -66212,7 +66249,7 @@
       "genetik": "Hybrid",
       "hersteller": "ADREXpharma",
       "bewertung": 5.0,
-      "flowzz_verfuegbar": false,
+      "flowzz_verfuegbar": true,
       "url": "https://flowzz.com/product/drwatson-26-df-aus-dafunk",
       "match_key": "drwatson 26 df aus|da funk",
       "quellen": [
@@ -69662,11 +69699,6 @@
           "stadt": "Baunatal"
         },
         {
-          "name": "CannaRoKo Shop - (Robert-Koch-Apotheke, Bitterfeld-Wolfen)",
-          "plz": "06766",
-          "stadt": "Bitterfeld-Wolfen"
-        },
-        {
           "name": "Cannablies / Rats-Apotheke",
           "plz": "66440",
           "stadt": "Blieskastel"
@@ -69680,11 +69712,6 @@
           "name": "Schwanen-Apotheke Hamburg",
           "plz": "22549",
           "stadt": "Hamburg"
-        },
-        {
-          "name": "Cannabis Köln (Pro Vita Apotheke, Köln)",
-          "plz": "50823",
-          "stadt": "Köln"
         },
         {
           "name": "Cannabis Südbaden (Apotheke am Schillerplatz)",
@@ -71179,11 +71206,6 @@
           "stadt": "Köln"
         },
         {
-          "name": "Martinus Apotheke Olpe",
-          "plz": "57462",
-          "stadt": "Olpe"
-        },
-        {
           "name": "Schwarzwaldblüte",
           "plz": "72285",
           "stadt": "Pfalzgrafenweiler"
@@ -72377,7 +72399,7 @@
       "genetik": "Hybrid",
       "hersteller": "Tilray",
       "bewertung": 0.0,
-      "flowzz_verfuegbar": false,
+      "flowzz_verfuegbar": true,
       "url": "https://flowzz.com/product/good-supply-thc28-pps-purps",
       "match_key": "good supply thc28 pps|purps",
       "quellen": [
@@ -72894,11 +72916,6 @@
           "stadt": "Essen"
         },
         {
-          "name": "Medicannabis Essen (easyApotheke Rathaus Galerie, Essen)",
-          "plz": "45127",
-          "stadt": "Essen"
-        },
-        {
           "name": "thcundco.de",
           "plz": "21073",
           "stadt": "Hamburg"
@@ -72914,44 +72931,14 @@
           "stadt": "Kempten"
         },
         {
-          "name": "Kahlhorst Apotheke Lübeck",
-          "plz": "23562",
-          "stadt": "Lübeck"
-        },
-        {
-          "name": "cannama² (Neckar Apotheke Mannheim)",
-          "plz": "68169",
-          "stadt": "Mannheim"
-        },
-        {
-          "name": "GRASTHEKE (St. Alexius Apotheke)",
-          "plz": "41464",
-          "stadt": "Neuss"
-        },
-        {
-          "name": "Canna Nord (Vital Apotheke, Oldenburg)",
-          "plz": "26129",
-          "stadt": "Oldenburg"
-        },
-        {
           "name": "Blaue Apotheke",
           "plz": "94034",
           "stadt": "Passau"
         },
         {
-          "name": "Ulrichskraut (St. Ulrich Apotheke, Pocking)",
-          "plz": "94060",
-          "stadt": "Pocking"
-        },
-        {
           "name": "Kronen Cannabis",
           "plz": "53757",
           "stadt": "Sankt Augustin"
-        },
-        {
-          "name": "Heidekreis Apotheken (Michaelis-Apotheke, Walsrode)",
-          "plz": "29699",
-          "stadt": "Walsrode"
         }
       ]
     },
@@ -74521,7 +74508,7 @@
       "url": "https://flowzz.com/product/hempstedt-boernsen-27-1",
       "match_key": "hempstedt b rnsen 27/1|medellin",
       "quellen": [
-        "canngo"
+        "flowzz"
       ],
       "apotheken": [
         {
@@ -74875,7 +74862,7 @@
       "url": "https://flowzz.com/product/herbasana-medellin-midnight-20-01-el-patron",
       "match_key": "herbasana medellin midnight 20 01|el patron",
       "quellen": [
-        "canngo"
+        "flowzz"
       ],
       "apotheken": [
         {
@@ -79442,21 +79429,6 @@
           "stadt": "Düsseldorf"
         },
         {
-          "name": "Medicannabis Essen (easyApotheke Rathaus Galerie, Essen)",
-          "plz": "45127",
-          "stadt": "Essen"
-        },
-        {
-          "name": "Cannabis-Taxi",
-          "plz": "73730",
-          "stadt": "Esslingen"
-        },
-        {
-          "name": "1A GREENMED (MUC Apotheke e. Kfr., München)",
-          "plz": "80686",
-          "stadt": "München"
-        },
-        {
           "name": "Bavarian Cannabis",
           "plz": "82178",
           "stadt": "Puchheim"
@@ -80316,19 +80288,9 @@
           "stadt": "Berlin"
         },
         {
-          "name": "1A Apoweed (farma-plus Apotheke Glückauf, Bochum)",
-          "plz": "44807",
-          "stadt": "Bochum"
-        },
-        {
           "name": "Cannatree – Rats-Apotheke Düsseldorf",
           "plz": "40625",
           "stadt": "Düsseldorf"
-        },
-        {
-          "name": "Medicannabis Essen (easyApotheke Rathaus Galerie, Essen)",
-          "plz": "45127",
-          "stadt": "Essen"
         },
         {
           "name": "Apotheke in der Römergalerie",
@@ -80346,11 +80308,6 @@
           "stadt": "München"
         },
         {
-          "name": "Stachus-Apotheke",
-          "plz": "80335",
-          "stadt": "München"
-        },
-        {
           "name": "Bussicann Muenster · Cannabis Apotheke",
           "plz": "48163",
           "stadt": "Münster"
@@ -80361,16 +80318,6 @@
           "stadt": "Münster"
         },
         {
-          "name": "Ostsee Cannabis (Marien Apotheke, Neubrandenburg)",
-          "plz": "17033",
-          "stadt": "Neubrandenburg"
-        },
-        {
-          "name": "GRASTHEKE (St. Alexius Apotheke)",
-          "plz": "41464",
-          "stadt": "Neuss"
-        },
-        {
           "name": "Canthera",
           "plz": "90403",
           "stadt": "Nürnberg"
@@ -80379,16 +80326,6 @@
           "name": "PharmaTerps",
           "plz": "93083",
           "stadt": "Obertraubling"
-        },
-        {
-          "name": "Canna Nord (Vital Apotheke, Oldenburg)",
-          "plz": "26129",
-          "stadt": "Oldenburg"
-        },
-        {
-          "name": "Bussicann Rheda (Bußmanns Schloss-Apotheke, Rheda-Wiedenbrück)",
-          "plz": "33378",
-          "stadt": "Rheda-Wiedenbrück"
         }
       ]
     },
@@ -81845,6 +81782,11 @@
           "stadt": "Düsseldorf"
         },
         {
+          "name": "Alemannen Cannabis",
+          "plz": "77948",
+          "stadt": "Friesenheim"
+        },
+        {
           "name": "Stachus-Apotheke",
           "plz": "80335",
           "stadt": "München"
@@ -82694,7 +82636,8 @@
       "url": "https://flowzz.com/product/huala-30-1-ca-bkm-banana-kush-mints",
       "match_key": "huala 30/1 ca bkm|banana kush mints",
       "quellen": [
-        "canngo"
+        "canngo",
+        "canthera"
       ],
       "apotheken": [
         {
@@ -82851,6 +82794,11 @@
           "name": "Bussicann Münster (Partus Hit-Apotheke, Münster)",
           "plz": "48163",
           "stadt": "Münster"
+        },
+        {
+          "name": "Canthera",
+          "plz": "90403",
+          "stadt": "Nürnberg"
         },
         {
           "name": "SVAPO",
@@ -84904,7 +84852,7 @@
       "url": "https://flowzz.com/product/imc-cannabisblueten-grz-thc-25-mids-jungle-pop",
       "match_key": "imc grz thc25 mids|jungle pop",
       "quellen": [
-        "canngo"
+        "flowzz"
       ],
       "apotheken": [
         {
@@ -85125,7 +85073,7 @@
       "genetik": "Hybrid",
       "hersteller": "IMC",
       "bewertung": 3.0,
-      "flowzz_verfuegbar": false,
+      "flowzz_verfuegbar": true,
       "url": "https://flowzz.com/product/imc-mids-gf-thc24-grape-fuel",
       "match_key": "imc mids gf thc24|fuel grape",
       "quellen": [
@@ -85328,7 +85276,7 @@
       "genetik": "Hybrid",
       "hersteller": "IMC",
       "bewertung": 3.0,
-      "flowzz_verfuegbar": false,
+      "flowzz_verfuegbar": true,
       "url": "https://flowzz.com/product/imc-mids-mc-thc24-melon-candy",
       "match_key": "imc mids mc thc24|candy melon",
       "quellen": [
@@ -86469,12 +86417,42 @@
       ],
       "apotheken": [
         {
+          "name": "Backnang Cannabis (Vitalwelt Apotheke am Obstmarkt, Backnang)",
+          "plz": "71522",
+          "stadt": "Backnang"
+        },
+        {
+          "name": "Einhorn Apotheken Kassel und Baunatal (420unicorn)",
+          "plz": "34225",
+          "stadt": "Baunatal"
+        },
+        {
+          "name": "CANNAWEST (Westend Apotheke, Berlin)",
+          "plz": "14050",
+          "stadt": "Berlin"
+        },
+        {
+          "name": "Blütenpott (Apotheke am alten Markt Bochum)",
+          "plz": "44866",
+          "stadt": "Bochum"
+        },
+        {
           "name": "CANNACOMPANY",
           "plz": "53225",
           "stadt": "Bonn"
         },
         {
+          "name": "Adler Cannabis Ruhrort (Adler Apotheke, Duisburg)",
+          "plz": "47119",
+          "stadt": "Duisburg"
+        },
+        {
           "name": "Medicannabis Essen",
+          "plz": "45127",
+          "stadt": "Essen"
+        },
+        {
+          "name": "Medicannabis Essen (easyApotheke Rathaus Galerie, Essen)",
           "plz": "45127",
           "stadt": "Essen"
         },
@@ -86499,6 +86477,11 @@
           "stadt": "Fulda"
         },
         {
+          "name": "CANNABIS MURGTAL (Schwarzwald-Vital Apotheke Gaggenau)",
+          "plz": "76571",
+          "stadt": "Gaggenau"
+        },
+        {
           "name": "Santa Green",
           "plz": "49744",
           "stadt": "Geeste"
@@ -86519,12 +86502,27 @@
           "stadt": "Hannover"
         },
         {
+          "name": "Cannabronn (Apotheke am Bahnhof, Heilbronn)",
+          "plz": "74072",
+          "stadt": "Heilbronn"
+        },
+        {
           "name": "Burg Apotheke Kempten (Allgäu Cannabis)",
           "plz": "87435",
           "stadt": "Kempten"
         },
         {
+          "name": "Gartenmed (Erftland Apotheke, Kerpen)",
+          "plz": "50170",
+          "stadt": "Kerpen"
+        },
+        {
           "name": "3Königen Apotheke",
+          "plz": "47798",
+          "stadt": "Krefeld"
+        },
+        {
+          "name": "3Königen Apotheke (Dreikönigen Apotheke am Ostwall, Krefeld)",
           "plz": "47798",
           "stadt": "Krefeld"
         },
@@ -86534,14 +86532,29 @@
           "stadt": "Leonberg"
         },
         {
+          "name": "Kahlhorst Apotheke Lübeck",
+          "plz": "23562",
+          "stadt": "Lübeck"
+        },
+        {
           "name": "SVAPO",
           "plz": "63075",
           "stadt": "Offenbach"
         },
         {
+          "name": "CannaQuick (Eulen-Apotheke, Quickborn)",
+          "plz": "25451",
+          "stadt": "Quickborn"
+        },
+        {
           "name": "Apocannabis24",
           "plz": "45661",
           "stadt": "Recklinghausen"
+        },
+        {
+          "name": "MARIEN APOTHEKE, Siegsdorf",
+          "plz": "83313",
+          "stadt": "Siegsdorf"
         },
         {
           "name": "Löwen-Apotheke Sindelfingen",
@@ -89882,7 +89895,7 @@
       "url": "https://flowzz.com/product/khiron-gp-30-1-gordito-pequeno",
       "match_key": "khiron gp 30/1 gordito pequeno|el gordo",
       "quellen": [
-        "flowzz"
+        "canngo"
       ],
       "apotheken": [
         {
@@ -92313,7 +92326,7 @@
       "url": "https://flowzz.com/product/lot-420-ab-apples-bananas",
       "match_key": "lot 420 ab apple bananas|apples bananas",
       "quellen": [
-        "canngo"
+        "flowzz"
       ],
       "apotheken": [
         {
@@ -97007,27 +97020,12 @@
           "stadt": "Augsburg"
         },
         {
-          "name": "Witzleben Cannabis (Witzleben Apotheken OHG, Berlin)",
-          "plz": "14057",
-          "stadt": "Berlin"
-        },
-        {
-          "name": "Frankenblüten (Avie Apotheke im Luitpoldcenter, Dinkelsbühl)",
-          "plz": "91550",
-          "stadt": "Dinkelsbühl"
-        },
-        {
           "name": "Medicannabis Essen (easyApotheke Rathaus Galerie, Essen)",
           "plz": "45127",
           "stadt": "Essen"
         },
         {
           "name": "3Königen Apotheke",
-          "plz": "47798",
-          "stadt": "Krefeld"
-        },
-        {
-          "name": "3Königen Apotheke (Dreikönigen Apotheke am Ostwall, Krefeld)",
           "plz": "47798",
           "stadt": "Krefeld"
         },
@@ -97040,11 +97038,6 @@
           "name": "Herbery Dresden",
           "plz": "01471",
           "stadt": "Radeburg"
-        },
-        {
-          "name": "Cannabis Reutlingen (Bahnhof Apotheke Reutlingen, Reutlingen)",
-          "plz": "72764",
-          "stadt": "Reutlingen"
         }
       ]
     },
@@ -97712,21 +97705,6 @@
           "stadt": "Eichenbarleben"
         },
         {
-          "name": "DocCannabis (Apotheke zu Erle, Ellerau)",
-          "plz": "25479",
-          "stadt": "Ellerau"
-        },
-        {
-          "name": "Ostsee Cannabis (Marien Apotheke, Neubrandenburg)",
-          "plz": "17033",
-          "stadt": "Neubrandenburg"
-        },
-        {
-          "name": "CURA GREEN (Heide Apotheke, Paderborn)",
-          "plz": "33102",
-          "stadt": "Paderborn"
-        },
-        {
           "name": "Sebastian Apotheke Tegernheim (NUR ABHOLUNG!)",
           "plz": "93105",
           "stadt": "Tegernheim"
@@ -97749,11 +97727,6 @@
         "canngo"
       ],
       "apotheken": [
-        {
-          "name": "DocCannabis (Apotheke zu Erle, Ellerau)",
-          "plz": "25479",
-          "stadt": "Ellerau"
-        },
         {
           "name": "24happy.de",
           "plz": "72622",
@@ -103695,11 +103668,6 @@
           "stadt": "Düsseldorf"
         },
         {
-          "name": "apondium Cannabis (Süd-Apotheke, Düsseldorf)",
-          "plz": "40225",
-          "stadt": "Düsseldorf"
-        },
-        {
           "name": "Cannatilia",
           "plz": "99974",
           "stadt": "Mühlhausen"
@@ -104671,7 +104639,8 @@
       "url": "https://flowzz.com/product/nice-29-1-km-kush-mints",
       "match_key": "nice 29/1 km|kush mints",
       "quellen": [
-        "canngo"
+        "canngo",
+        "canthera"
       ],
       "apotheken": [
         {
@@ -104783,6 +104752,11 @@
           "name": "Ludgeri Apotheke",
           "plz": "48143",
           "stadt": "Münster"
+        },
+        {
+          "name": "Canthera",
+          "plz": "90403",
+          "stadt": "Nürnberg"
         },
         {
           "name": "Canna Nord (Vital Apotheke, Oldenburg)",
@@ -107745,11 +107719,6 @@
           "name": "Cannabis Vital Apotheke (Rosen Apotheke im Center Hattersheim)",
           "plz": "65795",
           "stadt": "Hattersheim"
-        },
-        {
-          "name": "Adler Apotheke Rostock",
-          "plz": "18057",
-          "stadt": "Rostock"
         }
       ]
     },
@@ -108538,21 +108507,6 @@
           "name": "GreenCalm",
           "plz": "40231",
           "stadt": "Düsseldorf"
-        },
-        {
-          "name": "Cannabis Apotheken Ortenau (Stadt Apotheken, Gengenbach)",
-          "plz": "77723",
-          "stadt": "Gengenbach"
-        },
-        {
-          "name": "Cannabis Apo Shop (Farma plus Beuth, Gladbeck)",
-          "plz": "45964",
-          "stadt": "Gladbeck"
-        },
-        {
-          "name": "Canna Ludwig (Ludwigs-Apotheke, Ludwigshafen)",
-          "plz": "67059",
-          "stadt": "Ludwigshafen"
         },
         {
           "name": "WvB Apotheke",
@@ -111339,7 +111293,7 @@
       "genetik": "Hybrid",
       "hersteller": "Cantourage",
       "bewertung": 0.0,
-      "flowzz_verfuegbar": false,
+      "flowzz_verfuegbar": true,
       "url": "https://flowzz.com/product/organic-sweetgrass-cb-30-1-crunch-berries",
       "match_key": "organic sweetgrass cb 30/1|berries crunch",
       "quellen": [
@@ -111683,7 +111637,7 @@
       "genetik": "Hybrid",
       "hersteller": "Cantourage",
       "bewertung": 5.0,
-      "flowzz_verfuegbar": false,
+      "flowzz_verfuegbar": true,
       "url": "https://flowzz.com/product/organic-sweetgrass-tqn-27-1-triangle-queen",
       "match_key": "organic sweetgrass tqn 27/1|queen triangle",
       "quellen": [
@@ -112303,9 +112257,19 @@
       ],
       "apotheken": [
         {
+          "name": "Prinzen Apotheke Frankfurt",
+          "plz": "60311",
+          "stadt": "Frankfurt"
+        },
+        {
           "name": "ApoSweet",
           "plz": "22041",
           "stadt": "Hamburg"
+        },
+        {
+          "name": "Dr. Müller Leafs (Engel-Apotheke Am Rathaus)",
+          "plz": "34117",
+          "stadt": "Kassel"
         }
       ]
     },
@@ -116816,9 +116780,9 @@
       "cbd": 0.9,
       "genetik": "Indica",
       "hersteller": "Aurora",
-      "bewertung": 4.01,
-      "flowzz_verfuegbar": true,
-      "url": "https://flowzz.com/product/pedanios-27-1-frg-ca-farm-gas",
+      "bewertung": 4.08,
+      "flowzz_verfuegbar": false,
+      "url": "https://canngo.express/market/product/pedanios-27-1-frg-ca-farm-gas",
       "match_key": "pedanios 27/1 frg ca|farm gas",
       "quellen": [
         "canngo",
@@ -118885,8 +118849,7 @@
       "url": "https://flowzz.com/product/pedanios-31-1-cos-ca-cosmic-cream",
       "match_key": "pedanios 31/1 cos ca|cosmic cream",
       "quellen": [
-        "canngo",
-        "canthera"
+        "flowzz"
       ],
       "apotheken": [
         {
@@ -121286,7 +121249,7 @@
       "genetik": "Hybrid",
       "hersteller": "PureCan",
       "bewertung": 0.0,
-      "flowzz_verfuegbar": false,
+      "flowzz_verfuegbar": true,
       "url": "https://flowzz.com/product/raphie-39-gastro-pop",
       "match_key": "raphie 39 thc26|gastro pop",
       "quellen": [
@@ -124714,7 +124677,7 @@
       "url": "https://flowzz.com/product/remexian-27-1-hcc-gra-gran-francorino",
       "match_key": "remexian 27/1 hcc gra|francorino gran",
       "quellen": [
-        "canngo"
+        "flowzz"
       ],
       "apotheken": [
         {
@@ -125590,7 +125553,7 @@
       "url": "https://flowzz.com/product/rexexian-27-1-qui-fcf-fight-club-flower",
       "match_key": "remexian 27/1 qui fcf|club fight flower",
       "quellen": [
-        "canngo"
+        "flowzz"
       ],
       "apotheken": [
         {
@@ -130768,11 +130731,6 @@
       ],
       "apotheken": [
         {
-          "name": "cannabisapo24",
-          "plz": "86150",
-          "stadt": "Augsburg"
-        },
-        {
           "name": "CANNACOMPANY",
           "plz": "53225",
           "stadt": "Bonn"
@@ -134033,7 +133991,7 @@
       "genetik": "Hybrid",
       "hersteller": "Heyday",
       "bewertung": 5.0,
-      "flowzz_verfuegbar": false,
+      "flowzz_verfuegbar": true,
       "url": "https://flowzz.com/product/sibanax-z-umami-28-1-gmo-zkittlez",
       "match_key": "sibanax z umami 28/1|gmo zkittlez",
       "quellen": [
@@ -134260,7 +134218,7 @@
       "genetik": "Hybrid",
       "hersteller": "Demecan",
       "bewertung": 5.0,
-      "flowzz_verfuegbar": false,
+      "flowzz_verfuegbar": true,
       "url": "https://flowzz.com/product/siggis-kblt-16-1-siggis-kirschbluete",
       "match_key": "siggis kblt 16 1|kirschblute siggis",
       "quellen": [
@@ -137459,6 +137417,29 @@
       ]
     },
     {
+      "name": "Slouu 22/1 WCC - Wedding Cake Cross",
+      "strain": "Wedding Cake Cross",
+      "code": "Slouu 22/1 WCC",
+      "thc": null,
+      "cbd": null,
+      "genetik": "",
+      "hersteller": "",
+      "bewertung": 0.0,
+      "flowzz_verfuegbar": false,
+      "url": "https://canthera.de/slouu-22-1-wcc-wedding-cake-cross/",
+      "match_key": "slouu 22/1 wcc|cake cross wedding",
+      "quellen": [
+        "canthera"
+      ],
+      "apotheken": [
+        {
+          "name": "Canthera",
+          "plz": "90403",
+          "stadt": "Nürnberg"
+        }
+      ]
+    },
+    {
       "name": "Slouu 25/1 AGM CA SBH Strawberry Haze",
       "strain": "Strawberry Haze",
       "code": "Slouu 25/1 AGM CA SBH",
@@ -138332,6 +138313,11 @@
           "stadt": "Darmstadt"
         },
         {
+          "name": "Hitbluete",
+          "plz": "41540",
+          "stadt": "Dormagen"
+        },
+        {
           "name": "Adler Cannabis Ruhrort (Adler Apotheke, Duisburg)",
           "plz": "47119",
           "stadt": "Duisburg"
@@ -138674,11 +138660,6 @@
       ],
       "apotheken": [
         {
-          "name": "CannaBAM (MEDICON Apotheke, Bamberg)",
-          "plz": "96052",
-          "stadt": "Bamberg"
-        },
-        {
           "name": "Cannasana (Hirsch Apotheke Eichenbarleben)",
           "plz": "39167",
           "stadt": "Eichenbarleben"
@@ -138842,6 +138823,11 @@
           "name": "Hagenmarkt Apotheke, Braunschweig",
           "plz": "38100",
           "stadt": "Braunschweig"
+        },
+        {
+          "name": "Apotheke im Hauptbahnhof Darmstadt",
+          "plz": "64293",
+          "stadt": "Darmstadt"
         },
         {
           "name": "Adler Cannabis Ruhrort (Adler Apotheke, Duisburg)",
@@ -142432,11 +142418,6 @@
           "stadt": "Friesenheim"
         },
         {
-          "name": "CANNABIS MURGTAL (Schwarzwald-Vital Apotheke Gaggenau)",
-          "plz": "76571",
-          "stadt": "Gaggenau"
-        },
-        {
           "name": "GREEN CITY CANNABIS (Apotheke am Obermarkt, Bad Dürkheim)",
           "plz": "67269",
           "stadt": "Grünstadt"
@@ -145511,11 +145492,12 @@
       "genetik": "Hybrid",
       "hersteller": "Nimbus Health",
       "bewertung": 0.0,
-      "flowzz_verfuegbar": false,
-      "url": "https://canngo.express/market/product/tyson-22-1-exodus",
+      "flowzz_verfuegbar": true,
+      "url": "https://flowzz.com/product/tyson-22-1-exodus",
       "match_key": "tyson 2 0 22/1|exodus",
       "quellen": [
-        "canngo"
+        "canngo",
+        "canthera"
       ],
       "apotheken": [
         {
@@ -145532,6 +145514,11 @@
           "name": "Helios Cannabis (Apotheke am Königsplatz OHG, München)",
           "plz": "80333",
           "stadt": "Muenchen"
+        },
+        {
+          "name": "Canthera",
+          "plz": "90403",
+          "stadt": "Nürnberg"
         }
       ]
     },
@@ -149940,16 +149927,6 @@
       ],
       "apotheken": [
         {
-          "name": "Theresien Apotheke, Augsburg",
-          "plz": "86159",
-          "stadt": "Augsburg"
-        },
-        {
-          "name": "Berlin Cannabis (Lessing Apotheke Berlin-Wedding)",
-          "plz": "13347",
-          "stadt": "Berlin"
-        },
-        {
           "name": "Cannablies / Rats-Apotheke",
           "plz": "66440",
           "stadt": "Blieskastel"
@@ -149960,19 +149937,9 @@
           "stadt": "Blieskastel"
         },
         {
-          "name": "CannaGhost (Löwen-Apotheke, Bochum)",
-          "plz": "44866",
-          "stadt": "Bochum"
-        },
-        {
           "name": "CANNACOMPANY",
           "plz": "53225",
           "stadt": "Bonn"
-        },
-        {
-          "name": "Cannabis Apotheke Niedersachsen (Apotheke Brome)",
-          "plz": "38465",
-          "stadt": "Brome"
         },
         {
           "name": "Grafen Cannabis Apotheke",
@@ -149995,44 +149962,9 @@
           "stadt": "Essen"
         },
         {
-          "name": "Rhein-Main-Cannabis (Apotheke an der Warte, Frankfurt)",
-          "plz": "60326",
-          "stadt": "Frankfurt"
-        },
-        {
-          "name": "Mari-Jane (Moor-Apotheke, Friesoythe)",
-          "plz": "26169",
-          "stadt": "Friesoythe"
-        },
-        {
-          "name": "Hanauer Cannabis Apotheke (Buchen-Apotheke)",
-          "plz": "63454",
-          "stadt": "Hanau"
-        },
-        {
-          "name": "Hibucann (Theresen-Apotheke, Hildburghausen)",
-          "plz": "98646",
-          "stadt": "Hildburghausen"
-        },
-        {
-          "name": "KARLCHENGRAS (Karl Apotheke Karlsruhe)",
-          "plz": "76133",
-          "stadt": "Karlsruhe"
-        },
-        {
           "name": "Burg Apotheke Kempten (Allgäu Cannabis)",
           "plz": "87435",
           "stadt": "Kempten"
-        },
-        {
-          "name": "Kahlhorst Apotheke Lübeck",
-          "plz": "23562",
-          "stadt": "Lübeck"
-        },
-        {
-          "name": "Ahorn Medics (Ahorn-Apotheke, Mörfelden-Walldorf)",
-          "plz": "64546",
-          "stadt": "Mörfelden-Walldorf"
         },
         {
           "name": "Apotheke im Franziskanerhof",
@@ -150055,11 +149987,6 @@
           "stadt": "Münster"
         },
         {
-          "name": "cannalea (Forellen-Apotheke, Neunkirchen-Seelscheid)",
-          "plz": "53819",
-          "stadt": "Neunkirchen-Seelscheid"
-        },
-        {
           "name": "Behring Apotheke",
           "plz": "41464",
           "stadt": "Neuss"
@@ -150068,16 +149995,6 @@
           "name": "CanMans - Berg-Apotheke",
           "plz": "06526",
           "stadt": "Sangerhausen"
-        },
-        {
-          "name": "neue Apotheke markt. Sinzheim",
-          "plz": "76547",
-          "stadt": "Sinzheim"
-        },
-        {
-          "name": "Rhein-Main-Cannabis (Park-Apotheke Wiesbaden)",
-          "plz": "65193",
-          "stadt": "Wiesbaden"
         }
       ]
     },
@@ -150158,7 +150075,7 @@
       "genetik": "Hybrid",
       "hersteller": "Cantourage",
       "bewertung": 0.0,
-      "flowzz_verfuegbar": false,
+      "flowzz_verfuegbar": true,
       "url": "https://flowzz.com/product/truth-holdings-slh-30-1-super-lemon-haze",
       "match_key": "truth holdings slh 30/1|haze lemon super",
       "quellen": [
@@ -150194,6 +150111,11 @@
           "name": "Hansecannabis (Löns Apotheke, Bremen)",
           "plz": "28239",
           "stadt": "Bremen"
+        },
+        {
+          "name": "MEDCANAPO (Herzogen Apotheke, Düsseldorf)",
+          "plz": "40476",
+          "stadt": "Düsseldorf"
         },
         {
           "name": "Cannabis-Taxi",
@@ -150304,11 +150226,6 @@
           "name": "Kronen Cannabis",
           "plz": "53757",
           "stadt": "Sankt Augustin"
-        },
-        {
-          "name": "Canamedico - Cannabis-Mainfranken",
-          "plz": "97332",
-          "stadt": "Volkach"
         },
         {
           "name": "3Leafs by Idris Apotheke",
@@ -151059,11 +150976,6 @@
           "stadt": "Augsburg"
         },
         {
-          "name": "cannabispromed (besser gesund OHG ipunkt Apotheke)",
-          "plz": "86150",
-          "stadt": "Augsburg"
-        },
-        {
           "name": "Alemannen Cannabis",
           "plz": "77948",
           "stadt": "Friesenheim"
@@ -151072,16 +150984,6 @@
           "name": "Cannabis Vital Apotheke (Rosen Apotheke im Center Hattersheim)",
           "plz": "65795",
           "stadt": "Hattersheim"
-        },
-        {
-          "name": "Cannabis Vital Apotheke (Rosen-Apotheke im Center Hattersheim)",
-          "plz": "65795",
-          "stadt": "Hattersheim am Main"
-        },
-        {
-          "name": "cannabis-vor-ort.de - Die Hanf Apotheke (Tiergarten-Apotheke, Konstanz)",
-          "plz": "78462",
-          "stadt": "Konstanz"
         },
         {
           "name": "Christophorus Apotheke",
@@ -151107,11 +151009,6 @@
           "name": "Landmann Apotheke Saarbrücken",
           "plz": "66111",
           "stadt": "Saarbrücken"
-        },
-        {
-          "name": "neue Apotheke markt. Sinzheim",
-          "plz": "76547",
-          "stadt": "Sinzheim"
         },
         {
           "name": "Apotheke am Berliner-Tor-Platz",
@@ -153372,18 +153269,8 @@
           "stadt": "Augsburg"
         },
         {
-          "name": "Cannaplus Apotheke",
-          "plz": "86154",
-          "stadt": "Augsburg"
-        },
-        {
           "name": "Theresien Apotheke, Augsburg",
           "plz": "86159",
-          "stadt": "Augsburg"
-        },
-        {
-          "name": "cannabisapo24",
-          "plz": "86150",
           "stadt": "Augsburg"
         },
         {
@@ -153427,21 +153314,6 @@
           "stadt": "Berlin"
         },
         {
-          "name": "Cantoura",
-          "plz": "12103",
-          "stadt": "Berlin"
-        },
-        {
-          "name": "jiroo",
-          "plz": "12107",
-          "stadt": "Berlin-Tempelhof"
-        },
-        {
-          "name": "Cannablies / Rats-Apotheke",
-          "plz": "66440",
-          "stadt": "Blieskastel"
-        },
-        {
           "name": "Cannaprof",
           "plz": "66440",
           "stadt": "Blieskastel"
@@ -153472,29 +153344,9 @@
           "stadt": "Brühl"
         },
         {
-          "name": "WeeDoc.",
-          "plz": "44263",
-          "stadt": "Dortmund"
-        },
-        {
-          "name": "Cannatree – Rats-Apotheke Düsseldorf",
-          "plz": "40625",
-          "stadt": "Düsseldorf"
-        },
-        {
-          "name": "MYCANNABIS",
-          "plz": "40589",
-          "stadt": "Düsseldorf"
-        },
-        {
           "name": "cannaheld24 (Bahnhof-Apotheke, Eberbach)",
           "plz": "69412",
           "stadt": "Eberbach"
-        },
-        {
-          "name": "CannaTal",
-          "plz": "51766",
-          "stadt": "Engelskirchen"
         },
         {
           "name": "Cannabis Apotheke Essen (Glocken Apotheke)",
@@ -153562,19 +153414,9 @@
           "stadt": "Hamburg"
         },
         {
-          "name": "Cannabis Vital Apotheke (Rosen Apotheke im Center Hattersheim)",
-          "plz": "65795",
-          "stadt": "Hattersheim"
-        },
-        {
           "name": "Cannabis Vital Apotheke (Rosen-Apotheke im Center Hattersheim)",
           "plz": "65795",
           "stadt": "Hattersheim am Main"
-        },
-        {
-          "name": "Grüne Wirkstoffe (Anthemis Apotheke)",
-          "plz": "91567",
-          "stadt": "Herrieden"
         },
         {
           "name": "Schlei-Cannabis",
@@ -153597,11 +153439,6 @@
           "stadt": "Konstanz"
         },
         {
-          "name": "Apotheke in der Römergalerie",
-          "plz": "71229",
-          "stadt": "Leonberg"
-        },
-        {
           "name": "CANNALEV (Altstadt Apotheke, Leverkusen)",
           "plz": "51379",
           "stadt": "Leverkusen"
@@ -153615,11 +153452,6 @@
           "name": "Mannheims Finest (Odenwald Apotheke, Mannheim)",
           "plz": "68167",
           "stadt": "Mannheim"
-        },
-        {
-          "name": "Grüne Blüte",
-          "plz": "04416",
-          "stadt": "Markkleeberg"
         },
         {
           "name": "SOPHIE GREEN (Sophien Apotheke Meppen)",
@@ -153642,19 +153474,9 @@
           "stadt": "München"
         },
         {
-          "name": "Blüten-Apotheke in München",
-          "plz": "80804",
-          "stadt": "München"
-        },
-        {
           "name": "Stachus-Apotheke",
           "plz": "80335",
           "stadt": "München"
-        },
-        {
-          "name": "Hohenzollern Apotheke Münster",
-          "plz": "48145",
-          "stadt": "Münster"
         },
         {
           "name": "Hohenzollern Apotheke, Münster",
@@ -153697,19 +153519,9 @@
           "stadt": "Oberursel"
         },
         {
-          "name": "SVAPO",
-          "plz": "63075",
-          "stadt": "Offenbach"
-        },
-        {
           "name": "Ratioapotheke, Otzberg",
           "plz": "64853",
           "stadt": "Otzberg"
-        },
-        {
-          "name": "Ratioapotheke",
-          "plz": "64853",
-          "stadt": "Otzberg-Lengfeld"
         },
         {
           "name": "CURA GREEN (Heide Apotheke, Paderborn)",
@@ -153722,11 +153534,6 @@
           "stadt": "Pansdorf"
         },
         {
-          "name": "CannaLimes",
-          "plz": "35415",
-          "stadt": "Pohlheim"
-        },
-        {
           "name": "WvB Apotheke",
           "plz": "63110",
           "stadt": "Rodgau"
@@ -153735,11 +153542,6 @@
           "name": "Kronen Cannabis",
           "plz": "53757",
           "stadt": "Sankt Augustin"
-        },
-        {
-          "name": "Löwen-Apotheke Sindelfingen",
-          "plz": "71063",
-          "stadt": "Sindelfingen"
         },
         {
           "name": "24cannapoint (Apotheke am Bahnhof Speyer)",
@@ -153760,11 +153562,6 @@
           "name": "Cannabis Champion (Central Apotheke Waiblingen)",
           "plz": "71332",
           "stadt": "Waiblingen"
-        },
-        {
-          "name": "3Leafs by Idris Apotheke",
-          "plz": "69469",
-          "stadt": "Weinheim"
         },
         {
           "name": "Rhein-Main-Cannabis (Park-Apotheke Wiesbaden)",
@@ -154840,6 +154637,11 @@
           "name": "Medicanis (Godshorn Apotheke, Langenhagen)",
           "plz": "30855",
           "stadt": "Langenhagen"
+        },
+        {
+          "name": "MARIEN APOTHEKE, Siegsdorf",
+          "plz": "83313",
+          "stadt": "Siegsdorf"
         }
       ]
     },
@@ -154975,7 +154777,7 @@
       "cbd": 1.0,
       "genetik": "Hybrid",
       "hersteller": "Cannamedical",
-      "bewertung": 4.27,
+      "bewertung": 4.26,
       "flowzz_verfuegbar": true,
       "url": "https://flowzz.com/product/wieze-bcm-28-1-black-cherry-mint",
       "match_key": "wieze bcm 28/1|black cherry mint",
@@ -160084,6 +159886,11 @@
           "stadt": "Dinkelsbühl"
         },
         {
+          "name": "Hitbluete",
+          "plz": "41540",
+          "stadt": "Dormagen"
+        },
+        {
           "name": "Adler Cannabis Ruhrort (Adler Apotheke, Duisburg)",
           "plz": "47119",
           "stadt": "Duisburg"
@@ -162037,6 +161844,11 @@
           "name": "Bremer Blüten",
           "plz": "28357",
           "stadt": "Bremen"
+        },
+        {
+          "name": "Hitbluete",
+          "plz": "41540",
+          "stadt": "Dormagen"
         },
         {
           "name": "Kraut Kurier",
@@ -168559,7 +168371,7 @@
       "url": "https://flowzz.com/product/avaay-23-1-signature-waffle-bites",
       "match_key": "avaay signature 23/1 wb|bites waffle",
       "quellen": [
-        "canngo"
+        "flowzz"
       ],
       "apotheken": [
         {
@@ -168582,7 +168394,7 @@
       "url": "https://flowzz.com/product/avaay-signature-26-1-byy-blueberry-yum-yum",
       "match_key": "avaay signature 26/1 byy|blueberry yum yum",
       "quellen": [
-        "canngo"
+        "flowzz"
       ],
       "apotheken": [
         {
@@ -170513,7 +170325,7 @@
       "url": "https://flowzz.com/product/enua-21-1-sc-ca-strawberry-cake",
       "match_key": "enua 21/1 sc ca|cake strawberry",
       "quellen": [
-        "canngo"
+        "flowzz"
       ],
       "apotheken": [
         {
@@ -170954,11 +170766,6 @@
       ],
       "apotheken": [
         {
-          "name": "Cannabisversandapotheke (Löwen-Apotheke Altdorf)",
-          "plz": "84032",
-          "stadt": "Altdorf"
-        },
-        {
           "name": "Goldene Blüte",
           "plz": "92342",
           "stadt": "Freystadt"
@@ -171014,6 +170821,11 @@
         "canngo"
       ],
       "apotheken": [
+        {
+          "name": "Cannabis Mühlheim (Neue Raths Apotheke)",
+          "plz": "63165",
+          "stadt": "Mühlheim"
+        },
         {
           "name": "3Leafs by Idris Apotheke",
           "plz": "69469",
@@ -171303,7 +171115,8 @@
       "url": "https://flowzz.com/product/enua-22-1-sbb-ca-strawberry-banana-bang",
       "match_key": "enua 22/1 sbb ca|banana bang strawberry",
       "quellen": [
-        "canngo"
+        "canngo",
+        "canthera"
       ],
       "apotheken": [
         {
@@ -171450,6 +171263,11 @@
           "name": "SativaMedics (Rosen-Apotheke Neuwied)",
           "plz": "56564",
           "stadt": "Neuwied"
+        },
+        {
+          "name": "Canthera",
+          "plz": "90403",
+          "stadt": "Nürnberg"
         },
         {
           "name": "Goldene Blüte Nürnberg Fürth Erlangen // Gartenstadt-Apotheke",
@@ -171946,9 +171764,9 @@
       "cbd": 0.9,
       "genetik": "Hybrid",
       "hersteller": "enua Pharma",
-      "bewertung": 4.14,
-      "flowzz_verfuegbar": true,
-      "url": "https://flowzz.com/product/enua-25-1-cck-ca-cold-creek-kush",
+      "bewertung": 4.5,
+      "flowzz_verfuegbar": false,
+      "url": "https://canngo.express/market/product/enua-25-1-cck-ca-cold-creek-kush",
       "match_key": "enua 25/1 cck ca|cold creek kush",
       "quellen": [
         "canngo"
@@ -172165,7 +171983,7 @@
       "genetik": "Hybrid",
       "hersteller": "enua Pharma",
       "bewertung": 0.0,
-      "flowzz_verfuegbar": false,
+      "flowzz_verfuegbar": true,
       "url": "https://flowzz.com/product/enua-25-1-glz-ca-garlic-z",
       "match_key": "enua 25/1 glz ca|garlic z",
       "quellen": [
@@ -173320,9 +173138,9 @@
       "cbd": 0.9,
       "genetik": "Hybrid",
       "hersteller": "enua Pharma",
-      "bewertung": 3.97,
-      "flowzz_verfuegbar": true,
-      "url": "https://flowzz.com/product/enua-27-1-cck-ca-cold-creek-kush",
+      "bewertung": 4.0,
+      "flowzz_verfuegbar": false,
+      "url": "https://canngo.express/market/product/enua-27-1-cck-ca-cold-creek-kush",
       "match_key": "enua 27/1 cck ca|cold creek kush",
       "quellen": [
         "canngo"
@@ -174156,7 +173974,8 @@
       "url": "https://flowzz.com/product/enua-27-1-glz-ca-garlic-z",
       "match_key": "enua 27/1 glz ca|garlic z",
       "quellen": [
-        "canngo"
+        "canngo",
+        "canthera"
       ],
       "apotheken": [
         {
@@ -174193,6 +174012,11 @@
           "name": "Eifel Cannabis (Cannabis Apotheke Dr. Schlags)",
           "plz": "56743",
           "stadt": "Mendig"
+        },
+        {
+          "name": "Canthera",
+          "plz": "90403",
+          "stadt": "Nürnberg"
         }
       ]
     },
@@ -174897,11 +174721,6 @@
           "name": "CURA GREEN (Heide Apotheke, Paderborn)",
           "plz": "33102",
           "stadt": "Paderborn"
-        },
-        {
-          "name": "CANNA COAST (Apotheke Pansdorf, Pansdorf)",
-          "plz": "23689",
-          "stadt": "Pansdorf"
         },
         {
           "name": "Cannabis Pforzheim (HW Stadt Apotheke, Pforzheim)",
@@ -178591,11 +178410,6 @@
       ],
       "apotheken": [
         {
-          "name": "City Weed (farma-plus Apotheke, Düsseldorf)",
-          "plz": "40213",
-          "stadt": "Düsseldorf"
-        },
-        {
           "name": "Blütenwerk Durlach (Bahnhof Apotheke Durlach, Karlsruhe)",
           "plz": "76227",
           "stadt": "Karlsruhe"
@@ -180074,6 +179888,21 @@
           "stadt": "Berlin"
         },
         {
+          "name": "SKY CANNABIS KREUZBERG (Sky Apotheke, Berlin-Kreuzberg)",
+          "plz": "10961",
+          "stadt": "Berlin"
+        },
+        {
+          "name": "SKY CANNABIS KUDAMM (Sky-Apotheke, Berlin-Kudamm)",
+          "plz": "10711",
+          "stadt": "Berlin"
+        },
+        {
+          "name": "SKY CANNABIS WEDDING (Sky Apotheke, Berlin Wedding)",
+          "plz": "13353",
+          "stadt": "Berlin"
+        },
+        {
           "name": "CannVita (nur Abholung & Botendienst)",
           "plz": "33604",
           "stadt": "Bielefeld"
@@ -180099,6 +179928,11 @@
           "stadt": "Bonn"
         },
         {
+          "name": "Adler Cannabis Ruhrort (Adler Apotheke, Duisburg)",
+          "plz": "47119",
+          "stadt": "Duisburg"
+        },
+        {
           "name": "Cannatree – Rats-Apotheke Düsseldorf",
           "plz": "40625",
           "stadt": "Düsseldorf"
@@ -180109,9 +179943,19 @@
           "stadt": "Düsseldorf"
         },
         {
+          "name": "cannaheld24 (Bahnhof-Apotheke, Eberbach)",
+          "plz": "69412",
+          "stadt": "Eberbach"
+        },
+        {
           "name": "CannaTal",
           "plz": "51766",
           "stadt": "Engelskirchen"
+        },
+        {
+          "name": "420 Flowers Kreis Warendorf (Apotheke Hake, Ennigerloh)",
+          "plz": "59320",
+          "stadt": "Ennigerloh"
         },
         {
           "name": "Cannabis Apotheke Essen (Glocken Apotheke)",
@@ -180144,6 +179988,11 @@
           "stadt": "Gelsenkirchen"
         },
         {
+          "name": "Cannabis Apo Shop (Farma plus Beuth, Gladbeck)",
+          "plz": "45964",
+          "stadt": "Gladbeck"
+        },
+        {
           "name": "GREEN CITY CANNABIS (Apotheke am Obermarkt, Bad Dürkheim)",
           "plz": "67269",
           "stadt": "Grünstadt"
@@ -180156,6 +180005,11 @@
         {
           "name": "Cannabill",
           "plz": "22111",
+          "stadt": "Hamburg"
+        },
+        {
+          "name": "Cannadorf (Dorfplatz Apotheke, Hamburg-Bramfeld)",
+          "plz": "22177",
           "stadt": "Hamburg"
         },
         {
@@ -180184,6 +180038,16 @@
           "stadt": "Karlsruhe"
         },
         {
+          "name": "Rhein-Apotheke im Ärztehaus Mühlburg, Karlsruhe",
+          "plz": "76185",
+          "stadt": "Karlsruhe"
+        },
+        {
+          "name": "cannamundus Stadt-Apotheke, Köln",
+          "plz": "50933",
+          "stadt": "Köln"
+        },
+        {
           "name": "LIONSHERB (Löwen-Apotheke Langenfeld)",
           "plz": "40764",
           "stadt": "Langenfeld"
@@ -180207,6 +180071,11 @@
           "name": "Eifel Cannabis (Cannabis Apotheke Dr. Schlags)",
           "plz": "56743",
           "stadt": "Mendig"
+        },
+        {
+          "name": "SOPHIE GREEN (Sophien Apotheke Meppen)",
+          "plz": "49716",
+          "stadt": "Meppen"
         },
         {
           "name": "Ahorn Medics (Ahorn-Apotheke, Mörfelden-Walldorf)",
@@ -180269,6 +180138,11 @@
           "stadt": "Reute"
         },
         {
+          "name": "Cannatopie (Stadt Apotheke, Saarbrücken)",
+          "plz": "66111",
+          "stadt": "Saarbrücken"
+        },
+        {
           "name": "Sinsheim Cannabis Apotheke",
           "plz": "74889",
           "stadt": "Sinsheim"
@@ -180304,6 +180178,11 @@
           "stadt": "Waiblingen"
         },
         {
+          "name": "Heidekreis Apotheken (Michaelis-Apotheke, Walsrode)",
+          "plz": "29699",
+          "stadt": "Walsrode"
+        },
+        {
           "name": "Reinbluete (Stadt Apotheke Weil am Rhein)",
           "plz": "79576",
           "stadt": "Weil am Rhein"
@@ -180312,6 +180191,11 @@
           "name": "3Leafs by Idris Apotheke",
           "plz": "69469",
           "stadt": "Weinheim"
+        },
+        {
+          "name": "ElbGrün (Apotheke am Collegienhof, Wittenberg)",
+          "plz": "06886",
+          "stadt": "Wittenberg"
         },
         {
           "name": "myCANNEA",
@@ -180745,11 +180629,6 @@
           "stadt": "Düsseldorf"
         },
         {
-          "name": "CANNABIS MURGTAL (Schwarzwald-Vital Apotheke Gaggenau)",
-          "plz": "76571",
-          "stadt": "Gaggenau"
-        },
-        {
           "name": "Schwanen-Apotheke Hamburg",
           "plz": "22549",
           "stadt": "Hamburg"
@@ -180762,11 +180641,6 @@
         {
           "name": "Canthera",
           "plz": "90403",
-          "stadt": "Nürnberg"
-        },
-        {
-          "name": "Canthera Süd (Mohren Apotheke, Nürnberg)",
-          "plz": "90459",
           "stadt": "Nürnberg"
         },
         {
@@ -181778,7 +181652,7 @@
       "genetik": "Hybrid",
       "hersteller": "Remexian Pharma",
       "bewertung": 0.0,
-      "flowzz_verfuegbar": false,
+      "flowzz_verfuegbar": true,
       "url": "https://flowzz.com/product/frdm-30-1-mjk-master-jack",
       "match_key": "frdm 30/1 mjk|jack master",
       "quellen": [
@@ -183291,7 +183165,7 @@
       "url": "https://flowzz.com/product/madrecan-27-1-gb9-garlic-budder",
       "match_key": "madrecan 27/1 gb9|budder garlic",
       "quellen": [
-        "canngo"
+        "flowzz"
       ],
       "apotheken": [
         {
@@ -183454,16 +183328,6 @@
         "canngo"
       ],
       "apotheken": [
-        {
-          "name": "Karolinger Apotheke Aachen",
-          "plz": "52064",
-          "stadt": "Aachen"
-        },
-        {
-          "name": "Cannabis Vital Apotheke (Rosen Apotheke im Center Hattersheim)",
-          "plz": "65795",
-          "stadt": "Hattersheim"
-        },
         {
           "name": "Cannabis Vital Apotheke (Rosen-Apotheke im Center Hattersheim)",
           "plz": "65795",
@@ -183911,7 +183775,7 @@
       "genetik": "Hybrid",
       "hersteller": "enua Pharma",
       "bewertung": 0.0,
-      "flowzz_verfuegbar": false,
+      "flowzz_verfuegbar": true,
       "url": "https://flowzz.com/product/slouu-22-1-mac-ca-master-ac",
       "match_key": "slouu 22/1 mac ca|ac master",
       "quellen": [
@@ -184063,7 +183927,7 @@
       "genetik": "Indica",
       "hersteller": "enua Pharma",
       "bewertung": 1.0,
-      "flowzz_verfuegbar": false,
+      "flowzz_verfuegbar": true,
       "url": "https://flowzz.com/product/slouu-22-1-zks-ca-z-kush",
       "match_key": "slouu 22/1 zks ca|kush z",
       "quellen": [
@@ -184262,7 +184126,8 @@
       "url": "https://flowzz.com/product/slouu-27-1-fpg-ca-frosted-platin-girl",
       "match_key": "slouu 27/1 fpg ca|frosted girl platin",
       "quellen": [
-        "canngo"
+        "canngo",
+        "canthera"
       ],
       "apotheken": [
         {
@@ -184301,6 +184166,11 @@
           "stadt": "Mendig"
         },
         {
+          "name": "Canthera",
+          "plz": "90403",
+          "stadt": "Nürnberg"
+        },
+        {
           "name": "CannaQuick (Eulen-Apotheke, Quickborn)",
           "plz": "25451",
           "stadt": "Quickborn"
@@ -184330,7 +184200,7 @@
       "url": "https://flowzz.com/product/slouu-27-1-glz-ca-garlic-z",
       "match_key": "slouu 27/1 glz ca|garlic z",
       "quellen": [
-        "canngo"
+        "flowzz"
       ],
       "apotheken": [
         {
@@ -184566,7 +184436,7 @@
       ]
     }
   ],
-  "anzahl": 2490,
+  "anzahl": 2494,
   "apotheken": [
     {
       "name": "CANNAAACHEN (Hirsch-Apotheke, Aachen)",
