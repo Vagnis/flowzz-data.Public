@@ -8532,11 +8532,6 @@
           "stadt": "München"
         },
         {
-          "name": "Blüten-Apotheke in München",
-          "plz": "80804",
-          "stadt": "München"
-        },
-        {
           "name": "LeoVerde (Löwen Apotheke Neumarkt)",
           "plz": "92318",
           "stadt": "Neumarkt"
@@ -22335,7 +22330,7 @@
       "genetik": "Hybrid",
       "hersteller": "Nimbus Health",
       "bewertung": 4.48,
-      "flowzz_verfuegbar": false,
+      "flowzz_verfuegbar": true,
       "url": "https://flowzz.com/product/botanics-tonic-fuel-22-1-gary-payton",
       "match_key": "botanics tonic fuel 22/1|gary payton",
       "quellen": [
@@ -47729,7 +47724,7 @@
       "genetik": "Indica",
       "hersteller": "Canopy Medical",
       "bewertung": 0.0,
-      "flowzz_verfuegbar": true,
+      "flowzz_verfuegbar": false,
       "url": "https://flowzz.com/product/rcanopy-red-no-4-afghan-kush",
       "match_key": "canopy 25/1 red no 4|afghan kush",
       "quellen": [
@@ -47830,6 +47825,11 @@
         "canngo"
       ],
       "apotheken": [
+        {
+          "name": "cannabisapo24",
+          "plz": "86150",
+          "stadt": "Augsburg"
+        },
         {
           "name": "Einhorn Apotheken Kassel und Baunatal (420unicorn)",
           "plz": "34225",
@@ -67532,6 +67532,11 @@
           "stadt": "Neuwied"
         },
         {
+          "name": "easyBluete (easyApotheke, Ottobrunn)",
+          "plz": "85521",
+          "stadt": "Ottobrunn"
+        },
+        {
           "name": "Herbery Dresden",
           "plz": "01471",
           "stadt": "Radeburg"
@@ -69262,11 +69267,6 @@
           "name": "Cannabis Südbaden (Apotheke am Schillerplatz)",
           "plz": "79379",
           "stadt": "Müllheim"
-        },
-        {
-          "name": "Blüten-Apotheke in München",
-          "plz": "80804",
-          "stadt": "München"
         },
         {
           "name": "Ostsee Cannabis (Marien Apotheke, Neubrandenburg)",
@@ -90906,11 +90906,6 @@
           "stadt": "München"
         },
         {
-          "name": "Blüten-Apotheke in München",
-          "plz": "80804",
-          "stadt": "München"
-        },
-        {
           "name": "Ludgeri Apotheke",
           "plz": "48143",
           "stadt": "Münster"
@@ -111779,11 +111774,6 @@
           "stadt": "Waiblingen"
         },
         {
-          "name": "Cannabis Champion (Central Apotheke Waiblingen)",
-          "plz": "71332",
-          "stadt": "Waiblingen"
-        },
-        {
           "name": "3Leafs by Idris Apotheke",
           "plz": "69469",
           "stadt": "Weinheim"
@@ -114389,6 +114379,11 @@
           "name": "B.Leaf (Meine Apotheke, Berlin)",
           "plz": "10707",
           "stadt": "Berlin"
+        },
+        {
+          "name": "hermann's green",
+          "plz": "10967",
+          "stadt": "Berlin"
         }
       ]
     },
@@ -114411,6 +114406,11 @@
         {
           "name": "B.Leaf (Meine Apotheke, Berlin)",
           "plz": "10707",
+          "stadt": "Berlin"
+        },
+        {
+          "name": "hermann's green",
+          "plz": "10967",
           "stadt": "Berlin"
         }
       ]
@@ -193603,5 +193603,5 @@
   ],
   "anzahl_apotheken": 528,
   "quelle": "alle",
-  "stand": "2026-09-16T21:00+02:00"
+  "stand": "2026-09-16T22:00+02:00"
 }
