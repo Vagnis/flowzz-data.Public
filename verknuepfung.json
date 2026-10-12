@@ -3353,11 +3353,6 @@
           "stadt": "Augsburg"
         },
         {
-          "name": "Asavita",
-          "plz": "10365",
-          "stadt": "Berlin"
-        },
-        {
           "name": "SKY CANNABIS SPANDAU",
           "plz": "13581",
           "stadt": "Berlin"
@@ -3396,6 +3391,11 @@
           "name": "Cannabis Vital Apotheke (Rosen Apotheke im Center Hattersheim)",
           "plz": "65795",
           "stadt": "Hattersheim"
+        },
+        {
+          "name": "Cannabis Vital Apotheke (Rosen-Apotheke im Center Hattersheim)",
+          "plz": "65795",
+          "stadt": "Hattersheim am Main"
         },
         {
           "name": "Steinern Apotheke",
@@ -8555,6 +8555,11 @@
           "stadt": "München"
         },
         {
+          "name": "Fox20 (Oberländer Apotheke, München)",
+          "plz": "81371",
+          "stadt": "München"
+        },
+        {
           "name": "PharmaTerps",
           "plz": "93083",
           "stadt": "Obertraubling"
@@ -10582,6 +10587,11 @@
           "stadt": "München"
         },
         {
+          "name": "KranichCann (Kranich Apotheke, München)",
+          "plz": "80634",
+          "stadt": "München"
+        },
+        {
           "name": "Stachus-Apotheke",
           "plz": "80335",
           "stadt": "München"
@@ -12103,11 +12113,6 @@
           "name": "Rhein-Main-Cannabis (Park-Apotheke Wiesbaden)",
           "plz": "65193",
           "stadt": "Wiesbaden"
-        },
-        {
-          "name": "Cannabis Apotheke (farma-plus Apotheke, Worms)",
-          "plz": "67547",
-          "stadt": "Worms"
         }
       ]
     },
@@ -12642,11 +12647,6 @@
           "name": "Bären Apotheke",
           "plz": "91052",
           "stadt": "Erlangen"
-        },
-        {
-          "name": "Medicannabis Essen",
-          "plz": "45127",
-          "stadt": "Essen"
         },
         {
           "name": "Hansecannabis (Alexander Apotheke City Süd, Hamburg)",
@@ -17552,11 +17552,6 @@
           "stadt": "Gelsenkirchen"
         },
         {
-          "name": "Cannabis Vital Apotheke (Rosen-Apotheke im Center Hattersheim)",
-          "plz": "65795",
-          "stadt": "Hattersheim am Main"
-        },
-        {
           "name": "Dr. Müller Leafs (Engel-Apotheke Am Rathaus)",
           "plz": "34117",
           "stadt": "Kassel"
@@ -17932,7 +17927,7 @@
       "genetik": "Hybrid",
       "hersteller": "Cantourage",
       "bewertung": 4.15,
-      "flowzz_verfuegbar": true,
+      "flowzz_verfuegbar": false,
       "url": "https://flowzz.com/product/all-nations-lt-25-1-pt-lemon-tartz",
       "match_key": "all nations lt 25/1|lemon tartz",
       "quellen": [
@@ -22033,19 +22028,9 @@
           "stadt": "Berlin"
         },
         {
-          "name": "SKY CANNABIS WEDDING (Sky Apotheke, Berlin Wedding)",
-          "plz": "13353",
-          "stadt": "Berlin"
-        },
-        {
           "name": "Cannabis Apotheken Dr. Engelmann",
           "plz": "50321",
           "stadt": "Brühl"
-        },
-        {
-          "name": "Adler Cannabis Ruhrort (Adler Apotheke, Duisburg)",
-          "plz": "47119",
-          "stadt": "Duisburg"
         },
         {
           "name": "Cannatree – Rats-Apotheke Düsseldorf",
@@ -22483,11 +22468,6 @@
           "name": "Cannabis Apotheke Bayern (MEDICON-Apotheke Schweinfurt Stadtgalerie, Schweinfurt)",
           "plz": "97421",
           "stadt": "Schweinfurt"
-        },
-        {
-          "name": "Augusta Green (Apotheke Kraus, Schönenberg-Kübelberg)",
-          "plz": "66901",
-          "stadt": "Schönenberg-Kübelberg"
         },
         {
           "name": "Park-Apotheke Stuttgart",
@@ -27486,6 +27466,11 @@
           "stadt": "Kempten"
         },
         {
+          "name": "Myweed24 (Kleeblatt Apotheke am Ostwall)",
+          "plz": "47798",
+          "stadt": "Krefeld"
+        },
+        {
           "name": "Kahlhorst Apotheke Lübeck",
           "plz": "23562",
           "stadt": "Lübeck"
@@ -31344,11 +31329,6 @@
           "stadt": "Ottobrunn"
         },
         {
-          "name": "KESSELBLÜTE (Apotheke am Berliner Platz, Stuttgart)",
-          "plz": "70174",
-          "stadt": "Stuttgart"
-        },
-        {
           "name": "HERBALUH (Taunus-Apotheke, Wiesbaden)",
           "plz": "65183",
           "stadt": "Wiesbaden"
@@ -33752,6 +33732,29 @@
       ]
     },
     {
+      "name": "CM 25/1 SKC Sun County Kush",
+      "strain": "Sun County Kush",
+      "code": "CM 25/1 SKC",
+      "thc": 25.0,
+      "cbd": 1.0,
+      "genetik": "Hybrid",
+      "hersteller": "Cannamedical",
+      "bewertung": 4.0,
+      "flowzz_verfuegbar": true,
+      "url": "https://flowzz.com/product/cm-25-1-skc-sun-county-kush",
+      "match_key": "cm 25/1 skc|county kush sun",
+      "quellen": [
+        "canngo"
+      ],
+      "apotheken": [
+        {
+          "name": "cannalu (Apotheke zur alten Post Bad Berka)",
+          "plz": "99438",
+          "stadt": "Bad Berka"
+        }
+      ]
+    },
+    {
       "name": "CM Craft No.1 30/1 Scratch n Sniff",
       "strain": "Scratch n Sniff",
       "code": "CM Craft No.1 30/1",
@@ -34488,11 +34491,6 @@
           "name": "Cannabis Apotheke Essen (Glocken Apotheke)",
           "plz": "45130",
           "stadt": "Essen"
-        },
-        {
-          "name": "Kapuziner-Apotheke, Köln",
-          "plz": "50737",
-          "stadt": "Köln"
         },
         {
           "name": "Apotheke im Franziskanerhof",
@@ -38402,11 +38400,6 @@
           "name": "Cannabis Vital Apotheke (Rosen Apotheke im Center Hattersheim)",
           "plz": "65795",
           "stadt": "Hattersheim"
-        },
-        {
-          "name": "Cannabis Vital Apotheke (Rosen-Apotheke im Center Hattersheim)",
-          "plz": "65795",
-          "stadt": "Hattersheim am Main"
         },
         {
           "name": "Cannabronn (Apotheke am Bahnhof, Heilbronn)",
@@ -44927,6 +44920,11 @@
           "stadt": "Datteln"
         },
         {
+          "name": "Kraut Kurier",
+          "plz": "44379",
+          "stadt": "Dortmund"
+        },
+        {
           "name": "cannabis-bodensee (Nestle-Apotheke am See)",
           "plz": "88046",
           "stadt": "Friedrichshafen"
@@ -45088,11 +45086,6 @@
           "name": "Cannabis Vital Apotheke (Rosen Apotheke im Center Hattersheim)",
           "plz": "65795",
           "stadt": "Hattersheim"
-        },
-        {
-          "name": "Cannabis Vital Apotheke (Rosen-Apotheke im Center Hattersheim)",
-          "plz": "65795",
-          "stadt": "Hattersheim am Main"
         },
         {
           "name": "Grüne Blüte",
@@ -46178,6 +46171,11 @@
           "stadt": "Datteln"
         },
         {
+          "name": "Kraut Kurier",
+          "plz": "44379",
+          "stadt": "Dortmund"
+        },
+        {
           "name": "Cannabis Loft (St. Elisabeth Apotheke)",
           "plz": "52511",
           "stadt": "Geilenkirchen"
@@ -46664,11 +46662,6 @@
           "name": "Cannabis Vital Apotheke (Rosen Apotheke im Center Hattersheim)",
           "plz": "65795",
           "stadt": "Hattersheim"
-        },
-        {
-          "name": "Cannabis Vital Apotheke (Rosen-Apotheke im Center Hattersheim)",
-          "plz": "65795",
-          "stadt": "Hattersheim am Main"
         },
         {
           "name": "Kloster Apotheke, München",
@@ -47479,11 +47472,6 @@
           "stadt": "Ansbach"
         },
         {
-          "name": "Besser Gesund OHG ipunkt Apotheke",
-          "plz": "86150",
-          "stadt": "Augsburg"
-        },
-        {
           "name": "cannabisapo24",
           "plz": "86150",
           "stadt": "Augsburg"
@@ -47517,6 +47505,11 @@
           "name": "Helios Cannabis Bayreuth",
           "plz": "95447",
           "stadt": "Bayreuth"
+        },
+        {
+          "name": "Apotheke am Rathaus Lichtenberg",
+          "plz": "10367",
+          "stadt": "Berlin"
         },
         {
           "name": "Asavita",
@@ -47967,11 +47960,6 @@
       ],
       "apotheken": [
         {
-          "name": "Asavita",
-          "plz": "10365",
-          "stadt": "Berlin"
-        },
-        {
           "name": "CannabisQuelle (Apotheke im Brandenburger Einkaufszentrum, Brandenburg)",
           "plz": "14776",
           "stadt": "Brandenburg"
@@ -48005,6 +47993,11 @@
           "name": "Remedium420 (City Apotheke, Neu-Isenburg)",
           "plz": "63263",
           "stadt": "Neu-Isenburg"
+        },
+        {
+          "name": "CANNABIS APO OLDENBURG (Löwen-Apotheke, Oldenburg)",
+          "plz": "26135",
+          "stadt": "Oldenburg"
         },
         {
           "name": "Cannabis Apotheke Bayern (MEDICON-Apotheke Schweinfurt Stadtgalerie, Schweinfurt)",
@@ -49240,6 +49233,11 @@
           "stadt": "Melle"
         },
         {
+          "name": "CANNABIS APO OLDENBURG (Löwen-Apotheke, Oldenburg)",
+          "plz": "26135",
+          "stadt": "Oldenburg"
+        },
+        {
           "name": "Cannabis Apotheke Blaue Blüten",
           "plz": "94034",
           "stadt": "Passau"
@@ -50156,11 +50154,6 @@
           "stadt": "Hofheim am Taunus"
         },
         {
-          "name": "cannabis-vor-ort.de - Die Hanf Apotheke (Tiergarten-Apotheke, Konstanz)",
-          "plz": "78462",
-          "stadt": "Konstanz"
-        },
-        {
           "name": "Canniam",
           "plz": "85092",
           "stadt": "Kösching"
@@ -50437,6 +50430,11 @@
           "stadt": "Düsseldorf"
         },
         {
+          "name": "apondium Cannabis (Süd-Apotheke, Düsseldorf)",
+          "plz": "40225",
+          "stadt": "Düsseldorf"
+        },
+        {
           "name": "Medicannabis Essen",
           "plz": "45127",
           "stadt": "Essen"
@@ -50606,19 +50604,9 @@
           "stadt": "Hattersheim"
         },
         {
-          "name": "Cannabis Vital Apotheke (Rosen-Apotheke im Center Hattersheim)",
-          "plz": "65795",
-          "stadt": "Hattersheim am Main"
-        },
-        {
           "name": "Rezepturhof (Wallau-Apotheke, Hofheim)",
           "plz": "65719",
           "stadt": "Hofheim am Taunus"
-        },
-        {
-          "name": "Rhein-Apotheke im Ärztehaus Mühlburg, Karlsruhe",
-          "plz": "76185",
-          "stadt": "Karlsruhe"
         },
         {
           "name": "Cannabis Marburg (Vital Apotheke Marburg)",
@@ -50633,11 +50621,6 @@
         {
           "name": "Canthera",
           "plz": "90403",
-          "stadt": "Nürnberg"
-        },
-        {
-          "name": "Goldene Blüte Nürnberg Fürth Erlangen // Gartenstadt-Apotheke",
-          "plz": "90469",
           "stadt": "Nürnberg"
         },
         {
@@ -51398,6 +51381,39 @@
       ]
     },
     {
+      "name": "Care MIK THC20 Mindfreak",
+      "strain": "Mindfreak",
+      "code": "Care MIK THC20",
+      "thc": 20.0,
+      "cbd": 1.0,
+      "genetik": "Hybrid",
+      "hersteller": "AMP",
+      "bewertung": 0.0,
+      "flowzz_verfuegbar": true,
+      "url": "https://flowzz.com/product/care-mik-thc20-mindfreak",
+      "match_key": "care mik thc20|mindfreak",
+      "quellen": [
+        "canngo"
+      ],
+      "apotheken": [
+        {
+          "name": "easygras (easyApotheke, Donauwörth)",
+          "plz": "86609",
+          "stadt": "Donauwörth"
+        },
+        {
+          "name": "Blütenrhein",
+          "plz": "76726",
+          "stadt": "Germersheim"
+        },
+        {
+          "name": "Apotheke LUX 99",
+          "plz": "50354",
+          "stadt": "Hürth"
+        }
+      ]
+    },
+    {
       "name": "Care PM THC20 Permanent Marker",
       "strain": "Permanent Marker",
       "code": "Care PM THC20",
@@ -51440,6 +51456,34 @@
           "name": "Margarethen Apotheke, Reichertshofen",
           "plz": "85084",
           "stadt": "Reichertshofen"
+        }
+      ]
+    },
+    {
+      "name": "Care POL THC25 Porto Lece",
+      "strain": "Porto Lece",
+      "code": "Care POL THC25",
+      "thc": 25.0,
+      "cbd": 1.0,
+      "genetik": "Hybrid",
+      "hersteller": "AMP",
+      "bewertung": 0.0,
+      "flowzz_verfuegbar": true,
+      "url": "https://flowzz.com/product/care-pol-thc25-porto-lece",
+      "match_key": "care pol thc25|lece porto",
+      "quellen": [
+        "canngo"
+      ],
+      "apotheken": [
+        {
+          "name": "easygras (easyApotheke, Donauwörth)",
+          "plz": "86609",
+          "stadt": "Donauwörth"
+        },
+        {
+          "name": "Blütenrhein",
+          "plz": "76726",
+          "stadt": "Germersheim"
         }
       ]
     },
@@ -53742,11 +53786,6 @@
         {
           "name": "Blasiuzz - St. Blasius Apotheke, München",
           "plz": "80333",
-          "stadt": "München"
-        },
-        {
-          "name": "KranichCann (Kranich Apotheke, München)",
-          "plz": "80634",
           "stadt": "München"
         },
         {
@@ -57764,11 +57803,6 @@
           "stadt": "Hattersheim"
         },
         {
-          "name": "Cannabis Vital Apotheke (Rosen-Apotheke im Center Hattersheim)",
-          "plz": "65795",
-          "stadt": "Hattersheim am Main"
-        },
-        {
           "name": "Dr. Müller Leafs (Engel-Apotheke Am Rathaus)",
           "plz": "34117",
           "stadt": "Kassel"
@@ -59238,6 +59272,11 @@
           "name": "Apotheke am Berliner-Tor-Platz",
           "plz": "46483",
           "stadt": "Wesel"
+        },
+        {
+          "name": "ABC Cannabis (ABC Apotheke am Werth, Wuppertal)",
+          "plz": "42275",
+          "stadt": "Wuppertal"
         }
       ]
     },
@@ -61418,11 +61457,6 @@
           "stadt": "Hattersheim"
         },
         {
-          "name": "Cannabis Vital Apotheke (Rosen-Apotheke im Center Hattersheim)",
-          "plz": "65795",
-          "stadt": "Hattersheim am Main"
-        },
-        {
           "name": "Cannabis Apotheke Hilden",
           "plz": "40721",
           "stadt": "Hilden"
@@ -61690,11 +61724,6 @@
           "name": "Cannabis Vital Apotheke (Rosen Apotheke im Center Hattersheim)",
           "plz": "65795",
           "stadt": "Hattersheim"
-        },
-        {
-          "name": "Cannabis Vital Apotheke (Rosen-Apotheke im Center Hattersheim)",
-          "plz": "65795",
-          "stadt": "Hattersheim am Main"
         },
         {
           "name": "KranichCann (Kranich Apotheke, München)",
@@ -67266,6 +67295,11 @@
           "stadt": "Markkleeberg"
         },
         {
+          "name": "Fox20 (Oberländer Apotheke, München)",
+          "plz": "81371",
+          "stadt": "München"
+        },
+        {
           "name": "Kloster Apotheke, München",
           "plz": "81675",
           "stadt": "München"
@@ -67934,11 +67968,6 @@
         {
           "name": "(Cabemed) Apotheke im Polikum Berlin",
           "plz": "12157",
-          "stadt": "Berlin"
-        },
-        {
-          "name": "Asavita",
-          "plz": "10365",
           "stadt": "Berlin"
         },
         {
@@ -68780,11 +68809,6 @@
           "stadt": "Hamburg"
         },
         {
-          "name": "Paracelsus Apotheke",
-          "plz": "75210",
-          "stadt": "Keltern"
-        },
-        {
           "name": "3Königen Apotheke",
           "plz": "47798",
           "stadt": "Krefeld"
@@ -69396,11 +69420,6 @@
           "name": "Cannabis Vital Apotheke (Rosen Apotheke im Center Hattersheim)",
           "plz": "65795",
           "stadt": "Hattersheim"
-        },
-        {
-          "name": "Cannabis Vital Apotheke (Rosen-Apotheke im Center Hattersheim)",
-          "plz": "65795",
-          "stadt": "Hattersheim am Main"
         },
         {
           "name": "Cannabronn (Apotheke am Bahnhof, Heilbronn)",
@@ -72592,6 +72611,11 @@
           "stadt": "Müllheim"
         },
         {
+          "name": "Fox20 (Oberländer Apotheke, München)",
+          "plz": "81371",
+          "stadt": "München"
+        },
+        {
           "name": "Stachus-Apotheke",
           "plz": "80335",
           "stadt": "München"
@@ -72924,11 +72948,6 @@
         "canngo"
       ],
       "apotheken": [
-        {
-          "name": "TAUNUS CANNABIS (Taunus Apotheke)",
-          "plz": "61350",
-          "stadt": "Bad Homburg"
-        },
         {
           "name": "(Cabemed) Apotheke im Polikum Berlin",
           "plz": "12157",
@@ -73478,11 +73497,6 @@
           "name": "easyBluete (easyApotheke, Ottobrunn)",
           "plz": "85521",
           "stadt": "Ottobrunn"
-        },
-        {
-          "name": "Cannabis Freiburg (Apotheke am Rathaus, Reute)",
-          "plz": "79276",
-          "stadt": "Reute"
         },
         {
           "name": "Landmann Apotheke Saarbrücken",
@@ -75108,11 +75122,6 @@
           "stadt": "Berlin"
         },
         {
-          "name": "Hirsch Apotheke Fürth (cannafino.de)",
-          "plz": "90762",
-          "stadt": "Fürth"
-        },
-        {
           "name": "Apotheke im Hauptbahnhof",
           "plz": "45879",
           "stadt": "Gelsenkirchen"
@@ -75934,11 +75943,6 @@
           "stadt": "Solingen"
         },
         {
-          "name": "Christophorus Apotheke Trostberg",
-          "plz": "83308",
-          "stadt": "Trostberg"
-        },
-        {
           "name": "pinkbloom, pharmaphant Apotheke (Apotheke Cannabis)",
           "plz": "72072",
           "stadt": "Tübingen"
@@ -76052,6 +76056,11 @@
           "stadt": "Ludwigshafen"
         },
         {
+          "name": "Fox20 (Oberländer Apotheke, München)",
+          "plz": "81371",
+          "stadt": "München"
+        },
+        {
           "name": "KranichCann (Kranich Apotheke, München)",
           "plz": "80634",
           "stadt": "München"
@@ -76106,7 +76115,7 @@
       "cbd": 1.0,
       "genetik": "Hybrid",
       "hersteller": "Remexian Pharma",
-      "bewertung": 4.0,
+      "bewertung": 4.25,
       "flowzz_verfuegbar": true,
       "url": "https://flowzz.com/product/fire-gold-30-1-pmm-permanent-marker",
       "match_key": "fire gold 30/1 pmm|marker permanent",
@@ -80068,11 +80077,6 @@
           "stadt": "Berlin"
         },
         {
-          "name": "SKY CANNABIS SPANDAU",
-          "plz": "13581",
-          "stadt": "Berlin"
-        },
-        {
           "name": "Blütenpott (Apotheke am alten Markt Bochum)",
           "plz": "44866",
           "stadt": "Bochum"
@@ -80126,11 +80130,6 @@
           "name": "Cannabis Vital Apotheke (Rosen Apotheke im Center Hattersheim)",
           "plz": "65795",
           "stadt": "Hattersheim"
-        },
-        {
-          "name": "Cannabis Vital Apotheke (Rosen-Apotheke im Center Hattersheim)",
-          "plz": "65795",
-          "stadt": "Hattersheim am Main"
         },
         {
           "name": "Dr. Müller Leafs (Engel-Apotheke Am Rathaus)",
@@ -80489,11 +80488,6 @@
           "stadt": "Berlin"
         },
         {
-          "name": "CannaRoKo Shop - (Robert-Koch-Apotheke, Bitterfeld-Wolfen)",
-          "plz": "06766",
-          "stadt": "Bitterfeld-Wolfen"
-        },
-        {
           "name": "Cannablies / Rats-Apotheke",
           "plz": "66440",
           "stadt": "Blieskastel"
@@ -80502,11 +80496,6 @@
           "name": "Cannabis Freiburg (Apotheke am Berliner Tor Freiburg)",
           "plz": "79110",
           "stadt": "Freiburg"
-        },
-        {
-          "name": "Goldene Blüte",
-          "plz": "92342",
-          "stadt": "Freystadt"
         }
       ]
     },
@@ -80712,6 +80701,11 @@
           "name": "Cannabis Apotheke Rheinland (Vitahris)",
           "plz": "53474",
           "stadt": "Bad Neuenahr"
+        },
+        {
+          "name": "Apotheke am Rathaus Lichtenberg",
+          "plz": "10367",
+          "stadt": "Berlin"
         },
         {
           "name": "MediGreen44.de",
@@ -82114,11 +82108,6 @@
           "stadt": "Hattersheim"
         },
         {
-          "name": "Cannabis Vital Apotheke (Rosen-Apotheke im Center Hattersheim)",
-          "plz": "65795",
-          "stadt": "Hattersheim am Main"
-        },
-        {
           "name": "Canthera",
           "plz": "90403",
           "stadt": "Nürnberg"
@@ -82241,11 +82230,6 @@
           "name": "Hanfberg",
           "plz": "21029",
           "stadt": "Hamburg"
-        },
-        {
-          "name": "Friesen-Gras (Friesen Apotheke, Karlsruhe)",
-          "plz": "76137",
-          "stadt": "Karlsruhe"
         },
         {
           "name": "Cannabis Südbaden (Apotheke am Schillerplatz)",
@@ -82690,7 +82674,7 @@
       "url": "https://flowzz.com/product/hidealz-22-1-aec-poj-purple-octane-jealousy",
       "match_key": "hidealz 22/1 aec poj|jealousy octane purple",
       "quellen": [
-        "canngo"
+        "flowzz"
       ],
       "apotheken": [
         {
@@ -83798,19 +83782,9 @@
           "stadt": "Gelsenkirchen"
         },
         {
-          "name": "3Königen Apotheke",
-          "plz": "47798",
-          "stadt": "Krefeld"
-        },
-        {
           "name": "cannamundus Stadt-Apotheke, Köln",
           "plz": "50933",
           "stadt": "Köln"
-        },
-        {
-          "name": "CANNALEV (Altstadt Apotheke, Leverkusen)",
-          "plz": "51379",
-          "stadt": "Leverkusen"
         },
         {
           "name": "Goldene Blüte Nürnberg Fürth Erlangen // Gartenstadt-Apotheke",
@@ -87716,6 +87690,11 @@
           "stadt": "Werne"
         },
         {
+          "name": "Canabloom (Daimler Apotheke, Wiesbaden)",
+          "plz": "65197",
+          "stadt": "Wiesbaden"
+        },
+        {
           "name": "NeroWeed (Mohren Apotheke, Wiesbaden)",
           "plz": "65203",
           "stadt": "Wiesbaden Biebrich"
@@ -90179,11 +90158,6 @@
           "stadt": "Düsseldorf"
         },
         {
-          "name": "Eifel Cannabis (Cannabis Apotheke Dr. Schlags)",
-          "plz": "56743",
-          "stadt": "Mendig"
-        },
-        {
           "name": "Ahorn Medics (Ahorn-Apotheke, Mörfelden-Walldorf)",
           "plz": "64546",
           "stadt": "Mörfelden-Walldorf"
@@ -92073,6 +92047,11 @@
           "name": "Santa Green",
           "plz": "49744",
           "stadt": "Geeste"
+        },
+        {
+          "name": "St. Barbara Apotheke",
+          "plz": "66352",
+          "stadt": "Großrosseln"
         },
         {
           "name": "Linden-Apotheke",
@@ -102623,11 +102602,6 @@
           "stadt": "Hattersheim"
         },
         {
-          "name": "Cannabis Vital Apotheke (Rosen-Apotheke im Center Hattersheim)",
-          "plz": "65795",
-          "stadt": "Hattersheim am Main"
-        },
-        {
           "name": "Ahorn Medics (Ahorn-Apotheke, Mörfelden-Walldorf)",
           "plz": "64546",
           "stadt": "Mörfelden-Walldorf"
@@ -103393,11 +103367,6 @@
           "name": "SVAPO",
           "plz": "63075",
           "stadt": "Offenbach"
-        },
-        {
-          "name": "Canna Nord (Vital Apotheke, Oldenburg)",
-          "plz": "26129",
-          "stadt": "Oldenburg"
         },
         {
           "name": "CannaCoast Pansdorf (Apotheke Pansdorf)",
@@ -104798,11 +104767,6 @@
           "stadt": "Hattersheim"
         },
         {
-          "name": "Cannabis Vital Apotheke (Rosen-Apotheke im Center Hattersheim)",
-          "plz": "65795",
-          "stadt": "Hattersheim am Main"
-        },
-        {
           "name": "KARLCHENGRAS (Karl Apotheke Karlsruhe)",
           "plz": "76133",
           "stadt": "Karlsruhe"
@@ -106162,6 +106126,11 @@
           "name": "Canna Nord (Vital Apotheke, Oldenburg)",
           "plz": "26129",
           "stadt": "Oldenburg"
+        },
+        {
+          "name": "Cannabis Apotheke Bayern (MEDICON-Apotheke Schweinfurt Stadtgalerie, Schweinfurt)",
+          "plz": "97421",
+          "stadt": "Schweinfurt"
         },
         {
           "name": "Sinsheim Cannabis Apotheke",
@@ -109130,11 +109099,6 @@
           "stadt": "Köln"
         },
         {
-          "name": "CANNALEV (Altstadt Apotheke, Leverkusen)",
-          "plz": "51379",
-          "stadt": "Leverkusen"
-        },
-        {
           "name": "Blüten-Apotheke in München",
           "plz": "80804",
           "stadt": "München"
@@ -110203,11 +110167,6 @@
           "name": "Alle Farben Apotheke",
           "plz": "49324",
           "stadt": "Melle"
-        },
-        {
-          "name": "Canthera Süd (Mohren Apotheke, Nürnberg)",
-          "plz": "90459",
-          "stadt": "Nürnberg"
         }
       ]
     },
@@ -115436,11 +115395,6 @@
           "stadt": "Nürnberg"
         },
         {
-          "name": "Medicon-Nordostbahnhof",
-          "plz": "90409",
-          "stadt": "Nürnberg"
-        },
-        {
           "name": "Canna Nord (Vital Apotheke, Oldenburg)",
           "plz": "26129",
           "stadt": "Oldenburg"
@@ -116276,6 +116230,29 @@
       ]
     },
     {
+      "name": "NICE 31/1 LSP Lemon Splash",
+      "strain": "Lemon Splash",
+      "code": "NICE 31/1 LSP",
+      "thc": 30.0,
+      "cbd": 1.0,
+      "genetik": "Hybrid",
+      "hersteller": "Cansativa",
+      "bewertung": 0.0,
+      "flowzz_verfuegbar": true,
+      "url": "https://flowzz.com/product/nice-31-1-lsp-lemon-splash",
+      "match_key": "nice 31/1 lsp|lemon splash",
+      "quellen": [
+        "canngo"
+      ],
+      "apotheken": [
+        {
+          "name": "Markus Apotheke Saarbrücken",
+          "plz": "66133",
+          "stadt": "Saarbrücken"
+        }
+      ]
+    },
+    {
       "name": "NICE 32/1 CHM GMO Chem Mintz",
       "strain": "GMO Chem Mintz",
       "code": "NICE 32/1 CHM",
@@ -116401,6 +116378,11 @@
           "name": "Cannabis Kinzigtal (Schloss-Apotheke Wolfach)",
           "plz": "77709",
           "stadt": "Wolfach"
+        },
+        {
+          "name": "ABC Cannabis (ABC Apotheke am Werth, Wuppertal)",
+          "plz": "42275",
+          "stadt": "Wuppertal"
         }
       ]
     },
@@ -118704,11 +118686,6 @@
           "name": "Cannabis Apotheke Rheinland (Vitahris)",
           "plz": "53474",
           "stadt": "Bad Neuenahr"
-        },
-        {
-          "name": "Hansecannabis (Löns Apotheke, Bremen)",
-          "plz": "28239",
-          "stadt": "Bremen"
         },
         {
           "name": "Cannabis-apotheke-duisburg.de",
@@ -121270,16 +121247,6 @@
           "stadt": "Gladbeck"
         },
         {
-          "name": "Cannabis Vital Apotheke (Rosen Apotheke im Center Hattersheim)",
-          "plz": "65795",
-          "stadt": "Hattersheim"
-        },
-        {
-          "name": "Cannabis Vital Apotheke (Rosen-Apotheke im Center Hattersheim)",
-          "plz": "65795",
-          "stadt": "Hattersheim am Main"
-        },
-        {
           "name": "KARLCHENGRAS (Karl Apotheke Karlsruhe)",
           "plz": "76133",
           "stadt": "Karlsruhe"
@@ -121477,11 +121444,6 @@
         {
           "name": "Canthera",
           "plz": "90403",
-          "stadt": "Nürnberg"
-        },
-        {
-          "name": "Medicon-Nordostbahnhof",
-          "plz": "90409",
           "stadt": "Nürnberg"
         },
         {
@@ -121792,11 +121754,6 @@
           "name": "City Apotheke Ratingen (purplebuds.de)",
           "plz": "40878",
           "stadt": "Ratingen"
-        },
-        {
-          "name": "Cannabis Reutlingen (Bahnhof Apotheke Reutlingen, Reutlingen)",
-          "plz": "72764",
-          "stadt": "Reutlingen"
         },
         {
           "name": "Cannabis Shop der TE.AM Apotheken",
@@ -126987,11 +126944,6 @@
           "name": "Cannabis Ottobrunn (Tannen Apotheke, Ottobrunn)",
           "plz": "85521",
           "stadt": "Ottobrunn"
-        },
-        {
-          "name": "Ratioapotheke, Otzberg",
-          "plz": "64853",
-          "stadt": "Otzberg"
         },
         {
           "name": "CannaCoast Pansdorf (Apotheke Pansdorf)",
@@ -135763,6 +135715,11 @@
       ],
       "apotheken": [
         {
+          "name": "Bussicann (Bußmanns Apotheke, Ahlen)",
+          "plz": "59229",
+          "stadt": "Ahlen"
+        },
+        {
           "name": "Einhorn Apotheken Kassel und Baunatal (420unicorn)",
           "plz": "34225",
           "stadt": "Baunatal"
@@ -136332,11 +136289,6 @@
         "canthera"
       ],
       "apotheken": [
-        {
-          "name": "SKY CANNABIS SPANDAU",
-          "plz": "13581",
-          "stadt": "Berlin"
-        },
         {
           "name": "SKY CANNABIS WEDDING (Sky Apotheke, Berlin Wedding)",
           "plz": "13353",
@@ -144554,11 +144506,6 @@
           "stadt": "Bad Neuenahr"
         },
         {
-          "name": "Grafen Cannabis Apotheke",
-          "plz": "40235",
-          "stadt": "Düsseldorf"
-        },
-        {
           "name": "Cannabis Apotheke Essen (Glocken Apotheke)",
           "plz": "45130",
           "stadt": "Essen"
@@ -144572,11 +144519,6 @@
           "name": "Cannabis-Prime (Kappelberg-Apotheke)",
           "plz": "70734",
           "stadt": "Fellbach"
-        },
-        {
-          "name": "Cannabis Vital Apotheke (Rosen-Apotheke im Center Hattersheim)",
-          "plz": "65795",
-          "stadt": "Hattersheim am Main"
         },
         {
           "name": "Medifloris by Rosen Apotheke",
@@ -150121,6 +150063,11 @@
           "stadt": "Karlsruhe"
         },
         {
+          "name": "Helios Cannabis (Apotheke am Königsplatz OHG, München)",
+          "plz": "80333",
+          "stadt": "Muenchen"
+        },
+        {
           "name": "Fox20 (Oberländer Apotheke, München)",
           "plz": "81371",
           "stadt": "München"
@@ -151508,11 +151455,6 @@
           "stadt": "Hattersheim"
         },
         {
-          "name": "Cannabis Vital Apotheke (Rosen-Apotheke im Center Hattersheim)",
-          "plz": "65795",
-          "stadt": "Hattersheim am Main"
-        },
-        {
           "name": "LIONSHERB (Löwen-Apotheke Langenfeld)",
           "plz": "40764",
           "stadt": "Langenfeld"
@@ -151890,11 +151832,6 @@
           "name": "Cannabis Vital Apotheke (Rosen Apotheke im Center Hattersheim)",
           "plz": "65795",
           "stadt": "Hattersheim"
-        },
-        {
-          "name": "Cannabis Vital Apotheke (Rosen-Apotheke im Center Hattersheim)",
-          "plz": "65795",
-          "stadt": "Hattersheim am Main"
         },
         {
           "name": "LIONSHERB (Löwen-Apotheke Langenfeld)",
@@ -153440,11 +153377,6 @@
           "stadt": "Hohen Neuendorf"
         },
         {
-          "name": "1A Marienhuana Karlsruhe (Marien Apotheke, Karlsruhe)",
-          "plz": "76137",
-          "stadt": "Karlsruhe"
-        },
-        {
           "name": "Dr. Müller Leafs (Engel-Apotheke Am Rathaus)",
           "plz": "34117",
           "stadt": "Kassel"
@@ -153508,6 +153440,11 @@
           "name": "City Apotheke Ratingen (purplebuds.de)",
           "plz": "40878",
           "stadt": "Ratingen"
+        },
+        {
+          "name": "Cannabis Freiburg (Apotheke am Rathaus, Reute)",
+          "plz": "79276",
+          "stadt": "Reute"
         },
         {
           "name": "Bussicann Rheda (Bußmanns Schloss-Apotheke, Rheda-Wiedenbrück)",
@@ -157208,11 +157145,6 @@
           "stadt": "Hattersheim"
         },
         {
-          "name": "Cannabis Vital Apotheke (Rosen-Apotheke im Center Hattersheim)",
-          "plz": "65795",
-          "stadt": "Hattersheim am Main"
-        },
-        {
           "name": "CANNApalu (Park-Apotheke, Ludwigshafen)",
           "plz": "67063",
           "stadt": "Ludwigshafen"
@@ -159533,6 +159465,11 @@
           "stadt": "Dortmund"
         },
         {
+          "name": "Cannabis Dresden (Schiller Apotheke, Dresden)",
+          "plz": "01309",
+          "stadt": "Dresden"
+        },
+        {
           "name": "Cannatree – Rats-Apotheke Düsseldorf",
           "plz": "40625",
           "stadt": "Düsseldorf"
@@ -160378,11 +160315,6 @@
           "name": "Ahorn Medics (Ahorn-Apotheke, Mörfelden-Walldorf)",
           "plz": "64546",
           "stadt": "Mörfelden-Walldorf"
-        },
-        {
-          "name": "Canthera Süd (Mohren Apotheke, Nürnberg)",
-          "plz": "90459",
-          "stadt": "Nürnberg"
         }
       ]
     },
@@ -162246,11 +162178,6 @@
           "stadt": "München"
         },
         {
-          "name": "cannalea (Forellen-Apotheke, Neunkirchen-Seelscheid)",
-          "plz": "53819",
-          "stadt": "Neunkirchen-Seelscheid"
-        },
-        {
           "name": "Cannabis Apotheke Bayern (MEDICON-Apotheke Schweinfurt Stadtgalerie, Schweinfurt)",
           "plz": "97421",
           "stadt": "Schweinfurt"
@@ -162511,11 +162438,6 @@
           "name": "Cannabis-Taxi",
           "plz": "73730",
           "stadt": "Esslingen"
-        },
-        {
-          "name": "Cannabis-Prime (Kappelberg-Apotheke)",
-          "plz": "70734",
-          "stadt": "Fellbach"
         },
         {
           "name": "Noravie Cannabis (Löwen-Apotheke, Flensburg)",
@@ -162878,11 +162800,6 @@
           "stadt": "Waiblingen"
         },
         {
-          "name": "Cannabis Champion (Central Apotheke Waiblingen)",
-          "plz": "71332",
-          "stadt": "Waiblingen"
-        },
-        {
           "name": "Heidekreis Apotheken (Michaelis-Apotheke, Walsrode)",
           "plz": "29699",
           "stadt": "Walsrode"
@@ -162941,6 +162858,11 @@
       ],
       "apotheken": [
         {
+          "name": "Cannaapo",
+          "plz": "36037",
+          "stadt": "Fulda"
+        },
+        {
           "name": "CANNABIS MURGTAL (Schwarzwald-Vital Apotheke Gaggenau)",
           "plz": "76571",
           "stadt": "Gaggenau"
@@ -162968,6 +162890,11 @@
         "canngo"
       ],
       "apotheken": [
+        {
+          "name": "Cannaapo",
+          "plz": "36037",
+          "stadt": "Fulda"
+        },
         {
           "name": "CANNABIS MURGTAL (Schwarzwald-Vital Apotheke Gaggenau)",
           "plz": "76571",
@@ -165068,11 +164995,6 @@
           "name": "Cannabis Loft (St. Elisabeth Apotheke)",
           "plz": "52511",
           "stadt": "Geilenkirchen"
-        },
-        {
-          "name": "Cannabis Vital Apotheke (Rosen-Apotheke im Center Hattersheim)",
-          "plz": "65795",
-          "stadt": "Hattersheim am Main"
         },
         {
           "name": "Apotheke im Franziskanerhof",
@@ -167347,11 +167269,6 @@
           "stadt": "Hattersheim am Main"
         },
         {
-          "name": "cannabis-vor-ort.de - Die Hanf Apotheke (Tiergarten-Apotheke, Konstanz)",
-          "plz": "78462",
-          "stadt": "Konstanz"
-        },
-        {
           "name": "Canthera",
           "plz": "90403",
           "stadt": "Nürnberg"
@@ -167844,6 +167761,11 @@
           "stadt": "Mainz"
         },
         {
+          "name": "Fox20 (Oberländer Apotheke, München)",
+          "plz": "81371",
+          "stadt": "München"
+        },
+        {
           "name": "Nürnberg",
           "plz": "90431",
           "stadt": "Nürnberg"
@@ -168004,11 +167926,6 @@
         {
           "name": "Landmann Apotheke Saarbrücken",
           "plz": "66111",
-          "stadt": "Saarbrücken"
-        },
-        {
-          "name": "Markus Apotheke Saarbrücken",
-          "plz": "66133",
           "stadt": "Saarbrücken"
         },
         {
@@ -168328,11 +168245,6 @@
         },
         {
           "name": "Behring Apotheke",
-          "plz": "41464",
-          "stadt": "Neuss"
-        },
-        {
-          "name": "GRASTHEKE (St. Alexius Apotheke)",
           "plz": "41464",
           "stadt": "Neuss"
         },
@@ -171883,11 +171795,6 @@
           "stadt": "Hattersheim"
         },
         {
-          "name": "Cannabis Vital Apotheke (Rosen-Apotheke im Center Hattersheim)",
-          "plz": "65795",
-          "stadt": "Hattersheim am Main"
-        },
-        {
           "name": "3Königen Apotheke (Dreikönigen Apotheke am Ostwall, Krefeld)",
           "plz": "47798",
           "stadt": "Krefeld"
@@ -174577,11 +174484,6 @@
           "name": "Cannabis Apotheke Essen (Glocken Apotheke)",
           "plz": "45130",
           "stadt": "Essen"
-        },
-        {
-          "name": "Cannabis-Taxi",
-          "plz": "73730",
-          "stadt": "Esslingen"
         },
         {
           "name": "ApoSweet",
@@ -177558,6 +177460,11 @@
           "stadt": "Düsseldorf"
         },
         {
+          "name": "THC Rheinland (Kleeblatt Apotheke, Düsseldorf Heerdt)",
+          "plz": "40549",
+          "stadt": "Düsseldorf"
+        },
+        {
           "name": "GRASTHEKE (St. Alexius Apotheke)",
           "plz": "41464",
           "stadt": "Neuss"
@@ -177585,6 +177492,11 @@
         "canngo"
       ],
       "apotheken": [
+        {
+          "name": "cannalu (Apotheke zur alten Post Bad Berka)",
+          "plz": "99438",
+          "stadt": "Bad Berka"
+        },
         {
           "name": "Kraut Kurier",
           "plz": "44379",
@@ -178733,7 +178645,7 @@
       "genetik": "Hybrid",
       "hersteller": "avaay",
       "bewertung": 4.08,
-      "flowzz_verfuegbar": true,
+      "flowzz_verfuegbar": false,
       "url": "https://flowzz.com/product/zoiks-26-1-bb-ben-berries",
       "match_key": "zoiks 26/1 bb|ben berries",
       "quellen": [
@@ -180520,11 +180432,6 @@
           "stadt": "Halle"
         },
         {
-          "name": "ApoSweet",
-          "plz": "22041",
-          "stadt": "Hamburg"
-        },
-        {
           "name": "Cannadorf (Dorfplatz Apotheke, Hamburg-Bramfeld)",
           "plz": "22177",
           "stadt": "Hamburg"
@@ -180553,11 +180460,6 @@
           "name": "Cannalles.de",
           "plz": "39444",
           "stadt": "Hecklingen"
-        },
-        {
-          "name": "Grüne Wirkstoffe (Anthemis Apotheke)",
-          "plz": "91567",
-          "stadt": "Herrieden"
         },
         {
           "name": "CannA3 (Medicon A3, Heßdorf)",
@@ -181207,6 +181109,11 @@
           "stadt": "Bochum"
         },
         {
+          "name": "Hagenmarkt Apotheke, Braunschweig",
+          "plz": "38100",
+          "stadt": "Braunschweig"
+        },
+        {
           "name": "Cansa - Bethanien Apotheke",
           "plz": "09130",
           "stadt": "Chemnitz"
@@ -181604,11 +181511,6 @@
           "name": "CannaRoKo Shop - (Robert-Koch-Apotheke, Bitterfeld-Wolfen)",
           "plz": "06766",
           "stadt": "Bitterfeld-Wolfen"
-        },
-        {
-          "name": "cannama² (Neckar Apotheke Mannheim)",
-          "plz": "68169",
-          "stadt": "Mannheim"
         },
         {
           "name": "Sinsheim Cannabis Apotheke",
@@ -183521,11 +183423,6 @@
           "stadt": "Freiburg"
         },
         {
-          "name": "Cannabis Vital Apotheke (Rosen-Apotheke im Center Hattersheim)",
-          "plz": "65795",
-          "stadt": "Hattersheim am Main"
-        },
-        {
           "name": "KARLCHENGRAS (Karl Apotheke Karlsruhe)",
           "plz": "76133",
           "stadt": "Karlsruhe"
@@ -184676,6 +184573,11 @@
           "stadt": "Augsburg"
         },
         {
+          "name": "cannalu (Apotheke zur alten Post Bad Berka)",
+          "plz": "99438",
+          "stadt": "Bad Berka"
+        },
+        {
           "name": "TAUNUS CANNABIS (Taunus Apotheke)",
           "plz": "61350",
           "stadt": "Bad Homburg"
@@ -184694,6 +184596,11 @@
           "name": "CannaBAM (MEDICON Apotheke, Bamberg)",
           "plz": "96052",
           "stadt": "Bamberg"
+        },
+        {
+          "name": "Apotheke am Rathaus Lichtenberg",
+          "plz": "10367",
+          "stadt": "Berlin"
         },
         {
           "name": "B.Leaf (Meine Apotheke, Berlin)",
@@ -187437,11 +187344,6 @@
           "name": "Cannabis Apo Shop (Farma plus Beuth, Gladbeck)",
           "plz": "45964",
           "stadt": "Gladbeck"
-        },
-        {
-          "name": "Cannabis Vital Apotheke (Rosen-Apotheke im Center Hattersheim)",
-          "plz": "65795",
-          "stadt": "Hattersheim am Main"
         },
         {
           "name": "Grüne Wirkstoffe (Anthemis Apotheke)",
@@ -192752,6 +192654,11 @@
           "stadt": "München"
         },
         {
+          "name": "KranichCann (Kranich Apotheke, München)",
+          "plz": "80634",
+          "stadt": "München"
+        },
+        {
           "name": "cannalea (Forellen-Apotheke, Neunkirchen-Seelscheid)",
           "plz": "53819",
           "stadt": "Neunkirchen-Seelscheid"
@@ -196080,6 +195987,29 @@
       ]
     },
     {
+      "name": "enua 27/1 SDG CA Sourdough",
+      "strain": "Sourdough",
+      "code": "enua 27/1 SDG CA",
+      "thc": 27.0,
+      "cbd": 1.0,
+      "genetik": "Hybrid",
+      "hersteller": "enua Pharma",
+      "bewertung": 0.0,
+      "flowzz_verfuegbar": true,
+      "url": "https://flowzz.com/product/enua-27-1-sdg-ca-sourdough",
+      "match_key": "enua 27/1 sdg ca|sourdough",
+      "quellen": [
+        "canngo"
+      ],
+      "apotheken": [
+        {
+          "name": "WEEDCITY (Adler Apotheke, Wiesbaden)",
+          "plz": "65185",
+          "stadt": "Wiesbaden"
+        }
+      ]
+    },
+    {
       "name": "enua 27/1 SJ CA Splitter Jelato",
       "strain": "Splitter Jelato",
       "code": "enua 27/1 SJ CA",
@@ -197980,11 +197910,6 @@
           "stadt": "München"
         },
         {
-          "name": "Fox20 (Oberländer Apotheke, München)",
-          "plz": "81371",
-          "stadt": "München"
-        },
-        {
           "name": "Hanfbahnhof (Internationale Hauptbahnhof Apotheke)",
           "plz": "80335",
           "stadt": "München"
@@ -198862,11 +198787,6 @@
         {
           "name": "Cannatree – Rats-Apotheke Düsseldorf",
           "plz": "40625",
-          "stadt": "Düsseldorf"
-        },
-        {
-          "name": "THC Rheinland (Kleeblatt Apotheke, Düsseldorf Heerdt)",
-          "plz": "40549",
           "stadt": "Düsseldorf"
         },
         {
@@ -201211,11 +201131,6 @@
           "stadt": "Hattersheim"
         },
         {
-          "name": "Cannabis Vital Apotheke (Rosen-Apotheke im Center Hattersheim)",
-          "plz": "65795",
-          "stadt": "Hattersheim am Main"
-        },
-        {
           "name": "calmuno (Barbara Apotheke, Kamen)",
           "plz": "59174",
           "stadt": "Kamen"
@@ -201314,11 +201229,6 @@
           "name": "Bavarian Cannabis",
           "plz": "82178",
           "stadt": "Puchheim"
-        },
-        {
-          "name": "Cannabis Freiburg (Apotheke am Rathaus, Reute)",
-          "plz": "79276",
-          "stadt": "Reute"
         },
         {
           "name": "Sinsheim Cannabis Apotheke",
@@ -203098,6 +203008,11 @@
         "canngo"
       ],
       "apotheken": [
+        {
+          "name": "Cannaapo",
+          "plz": "36037",
+          "stadt": "Fulda"
+        },
         {
           "name": "Burg Apotheke Kempten (Allgäu Cannabis)",
           "plz": "87435",
@@ -205038,11 +204953,6 @@
           "stadt": "Berlin"
         },
         {
-          "name": "SKY CANNABIS WEDDING (Sky Apotheke, Berlin Wedding)",
-          "plz": "13353",
-          "stadt": "Berlin"
-        },
-        {
           "name": "CannVita (nur Abholung & Botendienst)",
           "plz": "33604",
           "stadt": "Bielefeld"
@@ -205739,6 +205649,11 @@
         {
           "name": "Bussicann Münster (Partus Hit-Apotheke, Münster)",
           "plz": "48163",
+          "stadt": "Münster"
+        },
+        {
+          "name": "Ludgeri Apotheke",
+          "plz": "48143",
           "stadt": "Münster"
         },
         {
@@ -206665,7 +206580,7 @@
       ]
     }
   ],
-  "anzahl": 2904,
+  "anzahl": 2909,
   "apotheken": [
     {
       "name": "CANNAAACHEN (Hirsch-Apotheke, Aachen)",
@@ -207731,6 +207646,11 @@
       "name": "wirfürdich Cannabis",
       "plz": "48268",
       "stadt": "Greven"
+    },
+    {
+      "name": "St. Barbara Apotheke",
+      "plz": "66352",
+      "stadt": "Großrosseln"
     },
     {
       "name": "GREEN CITY CANNABIS (Apotheke am Obermarkt, Bad Dürkheim)",
@@ -209388,7 +209308,7 @@
       "stadt": "Zwickau"
     }
   ],
-  "anzahl_apotheken": 544,
+  "anzahl_apotheken": 545,
   "quelle": "alle",
   "stand": "2026-10-12T12:00+02:00"
 }
