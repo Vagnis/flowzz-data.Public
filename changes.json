@@ -1,29 +1,917 @@
 {
-  "ScrapedAt": "2026-10-16T17:11:56.255213+02:00",
+  "ScrapedAt": "2026-10-16T17:54:52.552216+02:00",
   "NewStrains": [
     {
       "Id": 0,
-      "Name": "Strawberry MAC",
-      "Producer": "Remexian/Madrecan",
-      "MinPrice": 4.49,
+      "Name": "Cannamedical Hybrid forte DK SMS",
+      "Producer": "Cannamedical",
+      "MinPrice": 3.67,
       "Available": true,
-      "Url": "https://shop.dransay.com/product/strawberry-mac/7436762"
+      "Url": "https://canngo.express/market/product/cannamedical-hybrid-forte-sms"
     },
     {
       "Id": 0,
-      "Name": "Lemonade Haze",
-      "Producer": "Adjupharm GmbH",
-      "MinPrice": 5.49,
+      "Name": "Angelo 33 THC31 Red Bullz",
+      "Producer": "MGF Via Medical",
+      "MinPrice": 2.95,
       "Available": true,
-      "Url": "https://shop.dransay.com/product/lemonade-haze/8278752"
+      "Url": "https://canngo.express/market/product/angelo-33-thc31-red-bullz"
     },
     {
       "Id": 0,
-      "Name": "Black Cherry Punch",
-      "Producer": "Adjupharm GmbH",
+      "Name": "22/1 Amici FTY Fruity Pebbles",
+      "Producer": "Cansativa",
       "MinPrice": 3.99,
       "Available": true,
-      "Url": "https://shop.dransay.com/product/black-cherry-punch/8290926"
+      "Url": "https://privatrezept.net/product/22-1-amici-fty-fruity-pebbles"
+    },
+    {
+      "Id": 0,
+      "Name": "22/1 IUVO OC Killer Cupcake",
+      "Producer": "IUVO Therapeutics",
+      "MinPrice": 6.99,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/22-1-iuvo-oc-killer-cupcake-j25uki"
+    },
+    {
+      "Id": 0,
+      "Name": "24/1 Amici RBO Rose Bomb",
+      "Producer": "Cansativa",
+      "MinPrice": 4.89,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/24-1-amici-rbo-rose-bomb"
+    },
+    {
+      "Id": 0,
+      "Name": "24/1 IUVO Animal face",
+      "Producer": "IUVO Therapeutics",
+      "MinPrice": 8.9,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/24-1-iuvo-animal-face"
+    },
+    {
+      "Id": 0,
+      "Name": "24/1 IUVO KC Kucci",
+      "Producer": "IUVO Therapeutics",
+      "MinPrice": 7.49,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/24-1-iuvo-kc-kucci"
+    },
+    {
+      "Id": 0,
+      "Name": "420 Compound 25/1 CA RGR Rose Gold Runtz",
+      "Producer": "Four 20 Pharma",
+      "MinPrice": 13.99,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/420-compound-251-ca-rgr-rose-gold-runtz"
+    },
+    {
+      "Id": 0,
+      "Name": "420 Evolution 30/1 CA MSP Masterpiece",
+      "Producer": "Four 20 Pharma",
+      "MinPrice": 7.99,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/420-evolution-301-ca-msp-masterpiece"
+    },
+    {
+      "Id": 0,
+      "Name": "Amici 30/1 BR Blueberry Runtz",
+      "Producer": "Cansativa",
+      "MinPrice": 6.99,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/amici-30-1-br-blueberry-runtz"
+    },
+    {
+      "Id": 0,
+      "Name": "Amici 31/1 STD Stardawg",
+      "Producer": "Cansativa",
+      "MinPrice": 4.44,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/amici-31-1-std-stardawg"
+    },
+    {
+      "Id": 0,
+      "Name": "Amici 32/1 UL Ultra Limelight",
+      "Producer": "Cansativa",
+      "MinPrice": 5.98,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/amici-32-1-ul-ultra-limelight"
+    },
+    {
+      "Id": 0,
+      "Name": "Amici 33/1 STD Stardawg",
+      "Producer": "Cansativa",
+      "MinPrice": 5.9,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/amici-33-1-std-stardawg"
+    },
+    {
+      "Id": 0,
+      "Name": "Amici 34/1 BZ Blue Zushi",
+      "Producer": "Cansativa",
+      "MinPrice": 6.19,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/amici-34-1-bz-blue-zushi"
+    },
+    {
+      "Id": 0,
+      "Name": "AMP ACT CAN THC20 Candy",
+      "Producer": "AMP",
+      "MinPrice": 4.49,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/amp-act-can-thc20-candy"
+    },
+    {
+      "Id": 0,
+      "Name": "AMP ACT-GM TCG THC20 Trop Cherry Gas",
+      "Producer": "AMP",
+      "MinPrice": 3.95,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/amp-act-gm-tcg-thc20-trop-cherry-gas"
+    },
+    {
+      "Id": 0,
+      "Name": "AMP KHI BC THC33 Blue Candy",
+      "Producer": "Khiron",
+      "MinPrice": 5.89,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/amp-khi-bc-thc33-blue-candy"
+    },
+    {
+      "Id": 0,
+      "Name": "Bathera 28/1 Permanent Marker",
+      "Producer": "Bathera",
+      "MinPrice": 5.99,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/bathera-28-1-permanent-marker-9vov6s"
+    },
+    {
+      "Id": 0,
+      "Name": "Bathera 29/1 CA SB Super Boof",
+      "Producer": "Bathera",
+      "MinPrice": 5.9,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/bathera-29-1-ca-sb-super-boof"
+    },
+    {
+      "Id": 0,
+      "Name": "Bathera 29/1 CA TK Triangle Kush",
+      "Producer": "Bathera",
+      "MinPrice": 3.97,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/bathera-29-1-ca-tk-triangle-kush"
+    },
+    {
+      "Id": 0,
+      "Name": "Bathera 30/1 FA Facetz",
+      "Producer": "Bathera",
+      "MinPrice": 4.45,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/bathera-30-1-fa-facetz-0y9ypp"
+    },
+    {
+      "Id": 0,
+      "Name": "Bathera 33/1 CA CJ Cap Junky",
+      "Producer": "Bathera",
+      "MinPrice": 4.9,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/bathera-33-1-ca-cj-cap-junky"
+    },
+    {
+      "Id": 0,
+      "Name": "Bathera 33/1 CA GB2 Garlic Breath 2.0",
+      "Producer": "Bathera",
+      "MinPrice": 4.84,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/bathera-33-1-ca-gb2-garlic-breath-2-0"
+    },
+    {
+      "Id": 0,
+      "Name": "Bathera 33/1 LCG Lemon Cherry Gelato",
+      "Producer": "Bathera",
+      "MinPrice": 5.76,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/bathera-33-1-lcg-lemon-cherry-gelato"
+    },
+    {
+      "Id": 0,
+      "Name": "Bathera 35/1 PP Polar Pop",
+      "Producer": "Bathera",
+      "MinPrice": 5.99,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/bathera-351-pp-polar-pop"
+    },
+    {
+      "Id": 0,
+      "Name": "Bathera 37/1 PP Polar Pop",
+      "Producer": "Bathera",
+      "MinPrice": 7.59,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/bathera-37-1-pp-polar-pop"
+    },
+    {
+      "Id": 0,
+      "Name": "bava med 27/1 BLA-GA Permanent Marker",
+      "Producer": "bavamedical",
+      "MinPrice": 6.19,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/bava-med-27-1-bla-ga-permanent-marker-cu3gm7"
+    },
+    {
+      "Id": 0,
+      "Name": "BC Green 30/1 PG Pink Grapes",
+      "Producer": "BC Green",
+      "MinPrice": 3.99,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/bc-green-30-1-pg-pink-grapes-hdrlgy"
+    },
+    {
+      "Id": 0,
+      "Name": "BC Green 30/1 Tiger Cake",
+      "Producer": "BC Green",
+      "MinPrice": 4.49,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/bc-green-30-1-tiger-cake-rzezkk"
+    },
+    {
+      "Id": 0,
+      "Name": "BC Green HGH 27/1 HGH",
+      "Producer": "",
+      "MinPrice": 4.49,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/bc-green-hgh-271-hgh"
+    },
+    {
+      "Id": 0,
+      "Name": "BC Green SCK 25/1 Scotti's Cake",
+      "Producer": "BC Green",
+      "MinPrice": 6.39,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/bc-green-sck-251-scotti-s-cake-scottis-cake"
+    },
+    {
+      "Id": 0,
+      "Name": "BC Green SCK 27/1 Scotti´s Cake",
+      "Producer": "BC Green",
+      "MinPrice": 3.79,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/bc-green-sck-27-1-scotti-s-cake"
+    },
+    {
+      "Id": 0,
+      "Name": "Cannamedical Indica Ultra SM Mintwave",
+      "Producer": "Cannamedical",
+      "MinPrice": 6.49,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/cannamedical-indica-ultra-sm-mintwave-1apsdr"
+    },
+    {
+      "Id": 0,
+      "Name": "Cannamedical Indica Ultra SM Pineapple Express",
+      "Producer": "Cannamedical",
+      "MinPrice": 4.99,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/cannamedical-indica-ultra-sm-pineapple-express-213dtc"
+    },
+    {
+      "Id": 0,
+      "Name": "Cannamedical Sativa classic AU Tangie Chem",
+      "Producer": "Cannamedical",
+      "MinPrice": 4.48,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/cannamedical-sativa-classic-au-tangie-chem"
+    },
+    {
+      "Id": 0,
+      "Name": "Cannamedical Sativa classic DK Super Lemon Haze",
+      "Producer": "Cannamedical",
+      "MinPrice": 4.2,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/cannamedical-sativa-classic-dk-super-lemon-haze"
+    },
+    {
+      "Id": 0,
+      "Name": "Cannamedical Sativa Classic Jack Herer",
+      "Producer": "Cannamedical",
+      "MinPrice": 4.99,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/cannamedical-sativa-classic-jack-herer-ytkga6"
+    },
+    {
+      "Id": 0,
+      "Name": "Cannamedical Sativa Forte ES Banjo",
+      "Producer": "Cannamedical",
+      "MinPrice": 5.49,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/cannamedical-sativa-forte-es-banjo"
+    },
+    {
+      "Id": 0,
+      "Name": "Cannamedical Sativa Forte NM Amsterdam Amnesia",
+      "Producer": "Cannamedical",
+      "MinPrice": 5.99,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/cannamedical-sativa-forte-nm-amsterdam-amnesia"
+    },
+    {
+      "Id": 0,
+      "Name": "Cannamedical Sativa Forte NM Candyland",
+      "Producer": "Cannamedical",
+      "MinPrice": 6.96,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/cannamedical-sativa-forte-nm-candyland"
+    },
+    {
+      "Id": 0,
+      "Name": "Cannamedical Sativa forte NM Gelato Dream",
+      "Producer": "Cannamedical",
+      "MinPrice": 4.96,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/cannamedical-sativa-forte-nm-gelato-dream"
+    },
+    {
+      "Id": 0,
+      "Name": "Cannamedical Sativa forte NM Gelato Dream 25/1",
+      "Producer": "Cannamedical",
+      "MinPrice": 4.97,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/cannamedical-sativa-forte-nm-gelato-dream-251"
+    },
+    {
+      "Id": 0,
+      "Name": "Casper's No. 7 Sweetie Pie",
+      "Producer": "medizinalhanf GmbH",
+      "MinPrice": 6.25,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/casper-s-no-7-sweetie-pie-gsnl5h"
+    },
+    {
+      "Id": 0,
+      "Name": "Casper’s No. 8 Poison Runtz 26/1 Pastors Poison x Obama Runtz",
+      "Producer": "medizinalhanf GmbH",
+      "MinPrice": 9.3,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/casper-s-no-8-rnhngo"
+    },
+    {
+      "Id": 0,
+      "Name": "Caspers No. 5 Blueberry Redbull 23/1",
+      "Producer": "medizinalhanf GmbH",
+      "MinPrice": 5.4,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/caspers-no-5-blueberry-redbull-23-1-wcks1v"
+    },
+    {
+      "Id": 0,
+      "Name": "Ceres No. 2 25/1 Slurricane Mint",
+      "Producer": "",
+      "MinPrice": 5.95,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/ceres-no-2-25-1-slurricane-mint-23e87308"
+    },
+    {
+      "Id": 0,
+      "Name": "Ceres RP 29/1 Rainbow Pavé",
+      "Producer": "Cantourage",
+      "MinPrice": 8.9,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/ceres-rp-29-1-rainbow-pav-56z9e9"
+    },
+    {
+      "Id": 0,
+      "Name": "CzechOut 24/1 PMM Permanent Marker",
+      "Producer": "Remexian Pharma",
+      "MinPrice": 4.9,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/czechout-24-1-pmm-permanent-marker-yirdc"
+    },
+    {
+      "Id": 0,
+      "Name": "Demecan CRAFT FCF 28:01 First Class Funk",
+      "Producer": "Demecan",
+      "MinPrice": 6.49,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/demecan-craft-fcf-28-01-first-class-funk-0ff02ae9"
+    },
+    {
+      "Id": 0,
+      "Name": "Demecan CRAFT FCF 30:01 First Class Funk",
+      "Producer": "Demecan",
+      "MinPrice": 5.49,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/demecan-craft-fcf-30-01-first-class-funk-cuvwoc"
+    },
+    {
+      "Id": 0,
+      "Name": "Demecan Craft Frozen 27:01 Frozen Fuel",
+      "Producer": "Demecan",
+      "MinPrice": 7.49,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/demecan-craft-frozen-27-01-frozen-fuel"
+    },
+    {
+      "Id": 0,
+      "Name": "Demecan Craft GO 24/01 Game Over #4",
+      "Producer": "Demecan",
+      "MinPrice": 7.74,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/demecan-craft-go-24-01-game-over-4-8aq1no"
+    },
+    {
+      "Id": 0,
+      "Name": "Demecan Craft GO 26/01 Game Over #4",
+      "Producer": "Demecan",
+      "MinPrice": 7.69,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/demecan-craft-go-26-01-game-over-4-uwjg9g"
+    },
+    {
+      "Id": 0,
+      "Name": "Demecan Craft Luana 31:01 Peechy Keen",
+      "Producer": "Demecan",
+      "MinPrice": 5.99,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/demecan-craft-luana-31-01-peechy-keen-b3bed624"
+    },
+    {
+      "Id": 0,
+      "Name": "Demecan Craft Luna 31:01 Peechy Keen",
+      "Producer": "Demecan",
+      "MinPrice": 5.33,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/demecan-craft-luna-31-01-uetue8"
+    },
+    {
+      "Id": 0,
+      "Name": "Demecan Craft Magister 24/1 BM Black Marker",
+      "Producer": "Demecan",
+      "MinPrice": 5.12,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/demecan-craft-magister-24-1-bm-black-marker-momsyv"
+    },
+    {
+      "Id": 0,
+      "Name": "Demecan Craft Pineapple 30:01 Pineapple Bang",
+      "Producer": "Demecan",
+      "MinPrice": 6.19,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/demecan-craft-pineapple-30-01-pineapple-bang"
+    },
+    {
+      "Id": 0,
+      "Name": "Demecan Craft Platinum 31:1 Platinum Mac",
+      "Producer": "Demecan",
+      "MinPrice": 6.39,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/demecan-craft-platinum-31-1-platinum-mac"
+    },
+    {
+      "Id": 0,
+      "Name": "DEMECAN Craft Pulso 27/1 Liquid Imagination",
+      "Producer": "Demecan",
+      "MinPrice": 8.99,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/demecan-craft-pulso-27-1-liquid-imagination"
+    },
+    {
+      "Id": 0,
+      "Name": "Demecan CRAFT Pulso 31:01 Liquid Imagination",
+      "Producer": "Demecan",
+      "MinPrice": 6.99,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/demecan-craft-pulso-31-01-liquid-imagination-6cf5f256"
+    },
+    {
+      "Id": 0,
+      "Name": "Demecan Craft Rocket 28:01 Pave x Gastro Pop Facetz",
+      "Producer": "Demecan",
+      "MinPrice": 4.52,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/demecan-craft-rocket-28-01-pave-x-gastro-pop-facetz-a5743478"
+    },
+    {
+      "Id": 0,
+      "Name": "Demecan Craft Rocket 31:01 Pave x Gastro Pop Facetz",
+      "Producer": "Demecan",
+      "MinPrice": 4.99,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/demecan-craft-rocket-31-01-pave-x-gastro-pop-facetz-b939721b"
+    },
+    {
+      "Id": 0,
+      "Name": "Demecan Craft Tigerz Eye 31/1 Jokerz 31 x Gastro Pop",
+      "Producer": "Demecan",
+      "MinPrice": 6.99,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/demecan-craft-tigerz-eye-31-01-406rel"
+    },
+    {
+      "Id": 0,
+      "Name": "Demecan Craft Velvet 30:01 Velvet Jungle",
+      "Producer": "Demecan",
+      "MinPrice": 7.59,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/demecan-craft-velvet-30-01-velvet-jungle"
+    },
+    {
+      "Id": 0,
+      "Name": "Demecan CRAFT Walkie Talkie 27:01 Sugar Cake",
+      "Producer": "Demecan",
+      "MinPrice": 3.98,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/demecan-craft-walkie-talkie-27-01-sugar-cake-f76c2d66"
+    },
+    {
+      "Id": 0,
+      "Name": "Demecan CRAFT Walkie Talkie 29:01 Sugar Cake",
+      "Producer": "Demecan",
+      "MinPrice": 6.79,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/demecan-craft-walkie-talkie-29-01-sugar-cake"
+    },
+    {
+      "Id": 0,
+      "Name": "Demecan CRAFT Walkie Talkie 31:01 Sugar Cake",
+      "Producer": "Demecan",
+      "MinPrice": 6.99,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/demecan-craft-walkie-talkie-31-01-sugar-cake-1e398674"
+    },
+    {
+      "Id": 0,
+      "Name": "Drapalin 27/1 Full Gas Mandarin Sunset x Ethos Cookies",
+      "Producer": "Drapalin Pharmaceuticals",
+      "MinPrice": 4.33,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/drapalin-271-full-gas-mandarin-sunset-x-ethos-cookies"
+    },
+    {
+      "Id": 0,
+      "Name": "Drapalin 29/1 Cape Canaveral Cape Cookies",
+      "Producer": "Drapalin Pharmaceuticals",
+      "MinPrice": 6.61,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/drapalin-291-cape-canaveral-cape-cookies"
+    },
+    {
+      "Id": 0,
+      "Name": "Drapalin 29/1 Cape Canaveral Girl Scout Cookies x Mandarin Sunset",
+      "Producer": "Drapalin Pharmaceuticals",
+      "MinPrice": 4.74,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/drapalin-291-cape-canaveral-girl-scout-cookies-x-mandarin-sunset"
+    },
+    {
+      "Id": 0,
+      "Name": "Drapalin 31/1 Da Fux Gary Payton x Gushers",
+      "Producer": "Drapalin Pharmaceuticals",
+      "MinPrice": 4.69,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/drapalin-311-da-fux-gary-payton-x-gushers"
+    },
+    {
+      "Id": 0,
+      "Name": "DrWatson 22 BR AUS Black Runtz",
+      "Producer": "ADREXpharma",
+      "MinPrice": 3.95,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/drwatson-22-br-aus-black-runtz"
+    },
+    {
+      "Id": 0,
+      "Name": "DrWatson 22 CS AUS Cream Smoothie",
+      "Producer": "ADREXpharma",
+      "MinPrice": 3.95,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/drwatson-22-cs-aus-cream-smoothie"
+    },
+    {
+      "Id": 0,
+      "Name": "DrWatson 24 TO AUS Tamarindo",
+      "Producer": "ADREXpharma",
+      "MinPrice": 4.49,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/drwatson-24-to-aus-tamarindo-arlvds"
+    },
+    {
+      "Id": 0,
+      "Name": "DrWatson 26 DF AUS Da Funk",
+      "Producer": "ADREXpharma",
+      "MinPrice": 4.7,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/drwatson-26-df-aus-da-funk"
+    },
+    {
+      "Id": 0,
+      "Name": "DrWatson 26 DF AUS Da Funk",
+      "Producer": "ADREXpharma",
+      "MinPrice": 4.29,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/drwatson-26-df-aus-da-funk-2"
+    },
+    {
+      "Id": 0,
+      "Name": "DrWatson 26 PBG CAN Peanut Butter Gelato",
+      "Producer": "ADREXpharma",
+      "MinPrice": 3.95,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/drwatson-26-pbg-can-peanut-butter-gelato"
+    },
+    {
+      "Id": 0,
+      "Name": "DrWatson 26 TMC AUS Top Mints Cake",
+      "Producer": "ADREXpharma",
+      "MinPrice": 2.99,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/drwatson-26-tmc-aus-top-mints-cake-krumis"
+    },
+    {
+      "Id": 0,
+      "Name": "DrWatson 31 AM AUS Alien Mint Alien Mints",
+      "Producer": "ADREXpharma",
+      "MinPrice": 4.25,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/drwatson-31-am-aus-alien-mint-alien-mints"
+    },
+    {
+      "Id": 0,
+      "Name": "Edelweiss Zkittlez PCG TBF 20/1",
+      "Producer": "YouCann",
+      "MinPrice": 4.19,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/edelweiss-zkittlez-pcg-tbf-20-1"
+    },
+    {
+      "Id": 0,
+      "Name": "Ekolicious 27/1 GPG Grape Goat",
+      "Producer": "Genetia Production",
+      "MinPrice": 4.75,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/ekolicious-27-1-gpg-grape-goat"
+    },
+    {
+      "Id": 0,
+      "Name": "enua 27/1 Blue L CA Blue Lobster",
+      "Producer": "enua Pharma",
+      "MinPrice": 7.49,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/enua-27-1-blue-l-ca-blue-lobster-rn62c59f"
+    },
+    {
+      "Id": 0,
+      "Name": "enua 27/1 COZ CA Cookies OZ",
+      "Producer": "enua Pharma",
+      "MinPrice": 3.89,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/enua-27-1-coz-ca-cookies-oz"
+    },
+    {
+      "Id": 0,
+      "Name": "enua 27/1 CPC Cherry Pie Cookies",
+      "Producer": "enua Pharma",
+      "MinPrice": 3.95,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/enua-27-1-cpc-cherry-pie-cookies"
+    },
+    {
+      "Id": 0,
+      "Name": "enua 27/1 CYM CA Cherry Mints",
+      "Producer": "enua Pharma",
+      "MinPrice": 5.9,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/enua-27-1-cym-ca-cherry-mints-i0l7ro"
+    },
+    {
+      "Id": 0,
+      "Name": "enua 27/1 DGB CA Durban Gorilla",
+      "Producer": "enua Pharma",
+      "MinPrice": 4.99,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/enua-27-1-dgb-ca-durban-gorilla-3jfbjo"
+    },
+    {
+      "Id": 0,
+      "Name": "enua 30/1 PCB CA Purps Crystal Breath",
+      "Producer": "enua Pharma",
+      "MinPrice": 6.2,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/enua-30-1-pcb-ca-purps-crystal-breath"
+    },
+    {
+      "Id": 0,
+      "Name": "enua 30/1 PS3 CA BCP Black Cherry Punch",
+      "Producer": "enua Pharma",
+      "MinPrice": 4.14,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/enua-30-1-ps3-ca-bcp-black-cherry-punch"
+    },
+    {
+      "Id": 0,
+      "Name": "enua 30/1 PS3 CA MYC Minty Cookies",
+      "Producer": "enua Pharma",
+      "MinPrice": 3.75,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/enua-30-1-ps3-ca-myc-0eskd"
+    },
+    {
+      "Id": 0,
+      "Name": "enua 30/1 PS3 CA PCP Pineapple Cherry Punch",
+      "Producer": "enua Pharma",
+      "MinPrice": 4.13,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/enua-30-1-ps3-ca-pcp-pineapple-cherry-punch-aiedxm"
+    },
+    {
+      "Id": 0,
+      "Name": "enua 30/1 PS3 JFG CA Jet Fuel Gelato",
+      "Producer": "enua Pharma",
+      "MinPrice": 5.49,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/enua-30-1-ps3-jfg-ca-jet-fuel-gelato-fdpgte"
+    },
+    {
+      "Id": 0,
+      "Name": "enua 30/1 RFL CA Royal Frosted Lemon",
+      "Producer": "enua Pharma",
+      "MinPrice": 4.39,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/enua-30-1-rfl-ca-royal-frosted-lemon"
+    },
+    {
+      "Id": 0,
+      "Name": "enua 30/1 SBD CA Strawberry Diesel",
+      "Producer": "enua Pharma",
+      "MinPrice": 6.99,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/enua-301-sbd-ca-strawberry-diesel"
+    },
+    {
+      "Id": 0,
+      "Name": "enua 30/1 SF4 CA BBK Bubba Kush",
+      "Producer": "enua Pharma",
+      "MinPrice": 4.49,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/enua-30-1-sf4-ca-bbk-bubba-kush-k76f3t"
+    },
+    {
+      "Id": 0,
+      "Name": "enua 30/1 SJ CA Splitter Jelato",
+      "Producer": "enua Pharma",
+      "MinPrice": 4.15,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/enua-30-1-sj-ca-splitter-jelato"
+    },
+    {
+      "Id": 0,
+      "Name": "enua 30/1 SLT CA Sunset Lemon Tree",
+      "Producer": "enua Pharma",
+      "MinPrice": 5.49,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/enua-30-1-slt-ca-sunset-lemon-tree"
+    },
+    {
+      "Id": 0,
+      "Name": "enua 30/1 STP CA Strawberry Pavé",
+      "Producer": "enua Pharma",
+      "MinPrice": 7.95,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/enua-301-stp-ca-strawberry-pave"
+    },
+    {
+      "Id": 0,
+      "Name": "enua 30/1 TPM CA Tropical Meltdown",
+      "Producer": "enua Pharma",
+      "MinPrice": 4.59,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/enua-30-1-tpm-ca-tropical-meltdown-y8btch"
+    },
+    {
+      "Id": 0,
+      "Name": "enua 33/1 AM14 CA SBG Strawberry Bubble Gum",
+      "Producer": "enua Pharma",
+      "MinPrice": 4.88,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/enua-33-1-am14-ca-sbg-strawberry-bubble-gum"
+    },
+    {
+      "Id": 0,
+      "Name": "enua 33/1 BC CA Best Cap",
+      "Producer": "enua Pharma",
+      "MinPrice": 4.7,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/enua-33-1-bc-ca-best-cap"
+    },
+    {
+      "Id": 0,
+      "Name": "Green Mile 33/1 LCS Lemon Cream Sherbert",
+      "Producer": "Remexian Pharma",
+      "MinPrice": 4.99,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/green-mile-33-1-lcs-lemon-cream-sherbert"
+    },
+    {
+      "Id": 0,
+      "Name": "Green Mile 33/1 LIN LA Inferno",
+      "Producer": "Remexian Pharma",
+      "MinPrice": 4.49,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/green-mile-33-1-lin-la-inferno"
+    },
+    {
+      "Id": 0,
+      "Name": "Greenseal 24/1 PMM Permanent Marker",
+      "Producer": "Remexian Pharma",
+      "MinPrice": 6.5,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/greenseal-24-1-pmm-permanent-marker-p0slnb"
+    },
+    {
+      "Id": 0,
+      "Name": "Greenseal 30/1 GUB Guava Bars Guava Barz",
+      "Producer": "Remexian Pharma",
+      "MinPrice": 3.95,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/greenseal-30-1-gub-guava-bars-guava-barz"
+    },
+    {
+      "Id": 0,
+      "Name": "Greenseal 30/1 PLM Indica",
+      "Producer": "Remexian Pharma",
+      "MinPrice": 5.99,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/greenseal-30-1-plm-indica"
+    },
+    {
+      "Id": 0,
+      "Name": "Greenseal 33/1 SGU Strawberry Guava",
+      "Producer": "Remexian Pharma",
+      "MinPrice": 7.49,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/greenseal-33-1-sgu-strawberry-guava-tu2rfk"
+    },
+    {
+      "Id": 0,
+      "Name": "Greyscales FJ 26/1 Flapjacks Flap Jacks",
+      "Producer": "Cantourage",
+      "MinPrice": 8.3,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/greyscales-fj-261-flapjacks-flap-jacks"
+    },
+    {
+      "Id": 0,
+      "Name": "Gripon420 24/1 FLF Fruitloops & Fuel",
+      "Producer": "Remexian Pharma",
+      "MinPrice": 5.49,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/gripon420-24-1-flf-fruitloops-fuel"
+    },
+    {
+      "Id": 0,
+      "Name": "Hempstedt Börnsen 27/1",
+      "Producer": "medizinalhanf GmbH",
+      "MinPrice": 3.99,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/hempstedt-boernsen-27-1"
+    },
+    {
+      "Id": 0,
+      "Name": "HiDealz 24/1 MS Lemonatti Smalls",
+      "Producer": "Remexian Pharma",
+      "MinPrice": 2.98,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/hidealz-24-1-ms-lemonatti-smalls-tuv48gr8"
+    },
+    {
+      "Id": 0,
+      "Name": "Huala 27/1 BDL Bakers Delight",
+      "Producer": "Four 20 Pharma",
+      "MinPrice": 3.65,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/huala-27-1-bdl-bakers-delight"
+    },
+    {
+      "Id": 0,
+      "Name": "Huala 27/1 CA ALM Alien Mints",
+      "Producer": "Four 20 Pharma",
+      "MinPrice": 3.58,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/huala-271-ca-alm-alien-mints"
+    },
+    {
+      "Id": 0,
+      "Name": "Huala 27/1 CA GOL Goldkirsch",
+      "Producer": "Four 20 Pharma",
+      "MinPrice": 3.59,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/huala-27-1-ca-gol-goldkirsch"
+    },
+    {
+      "Id": 0,
+      "Name": "Huala 27/1 CA GVZ Guavaz",
+      "Producer": "Four 20 Pharma",
+      "MinPrice": 4.33,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/huala-27-1-ca-gvz-guavaz"
     },
     {
       "Id": 0,
@@ -31,2764 +919,2008 @@
       "Producer": "Four 20 Pharma",
       "MinPrice": 4.99,
       "Available": true,
-      "Url": "https://canngo.express/market/product/huala-27-1-ca-jfl-jack-flash"
+      "Url": "https://privatrezept.net/product/huala-27-1-ca-jfl-jack-flash"
     },
     {
       "Id": 0,
-      "Name": "Apothekenherstellung MCT-Öl: Bakerstreet 50/1 Extrakt",
-      "Producer": "",
-      "MinPrice": 3.99,
+      "Name": "Huala 27/1 CA MOJ Blue Mojito",
+      "Producer": "420 Pharma",
+      "MinPrice": 4.45,
       "Available": true,
-      "Url": "https://canngo.express/market/product/chp-50-1-bakerstreet-mct-ol"
+      "Url": "https://privatrezept.net/product/huala-27-1-ca-moj-blue-mojito"
     },
     {
       "Id": 0,
-      "Name": "avaay 21/1 BKR Black Krush",
-      "Producer": "avaay",
-      "MinPrice": 5.49,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/avaay-211-bkr-black-krush"
-    },
-    {
-      "Id": 0,
-      "Name": "avaay 24/1 CP Candy Pavé Candy Pave",
-      "Producer": "avaay",
-      "MinPrice": 5.49,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/avaay-24-1-cp-candy-pav-candy-pave-wu91g1"
-    },
-    {
-      "Id": 0,
-      "Name": "avaay Signature 28/1 WB Waffle Bites",
-      "Producer": "avaay",
-      "MinPrice": 5.98,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/avaay-signature-281-wb-waffle-bites"
-    },
-    {
-      "Id": 0,
-      "Name": "420 Evolution 27/1 CA GMO Cookies",
+      "Name": "Huala 27/1 CA OSB Orange Sherbet",
       "Producer": "Four 20 Pharma",
-      "MinPrice": 5.49,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/420-evolution-271-ca-gmo-cookies-gmo-breath"
-    },
-    {
-      "Id": 0,
-      "Name": "420 Evolution 27/1 CA ICC Ice Cream Cake Kush Mints",
-      "Producer": "Four 20 Pharma",
-      "MinPrice": 5.95,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/420-evolution-271-ca-icc-ice-cream-cake-kush-mints-icecream-cake-kush-mints"
-    },
-    {
-      "Id": 0,
-      "Name": "420 Evolution 27/1 CA MFG Modified Grapes",
-      "Producer": "Four 20 Pharma",
-      "MinPrice": 6.4,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/420-evolution-271-ca-mfg-modified-grapes"
-    },
-    {
-      "Id": 0,
-      "Name": "420 Evolution 27/1 CA PGM Purple Gas Mask",
-      "Producer": "Four 20 Pharma",
-      "MinPrice": 5.99,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/420-evolution-27-1-ca-pgm-purple-gas-mask"
-    },
-    {
-      "Id": 0,
-      "Name": "420 Evolution 27/1 CA RZY Red Rozay",
-      "Producer": "Four 20 Pharma",
-      "MinPrice": 5.99,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/420-evolution-27-1-ca-rzy-red-rozay-bbptu"
-    },
-    {
-      "Id": 0,
-      "Name": "420 Evolution 27/1 CA SCM Scented Marker",
-      "Producer": "Four 20 Pharma",
-      "MinPrice": 7.95,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/420-evolution-27-1-ca-scm-scented-marker"
-    },
-    {
-      "Id": 0,
-      "Name": "420 Evolution 27/1 CA SSK Strawberry Skrilla",
-      "Producer": "Four 20 Pharma",
-      "MinPrice": 5.54,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/420-evolution-27-1-ca-ssk-strawberry-skrilla"
-    },
-    {
-      "Id": 0,
-      "Name": "420 Evolution 27/1 CA WES Wedding Singer",
-      "Producer": "Four 20 Pharma",
-      "MinPrice": 8.99,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/420-evolution-271-ca-wes-wedding-singer"
-    },
-    {
-      "Id": 0,
-      "Name": "420 Evolution 27/1 FLM CA Frozen Lemon Mints",
-      "Producer": "Four 20 Pharma",
-      "MinPrice": 6.94,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/420-evolution-271-flm-ca-frozen-lemon-mints"
-    },
-    {
-      "Id": 0,
-      "Name": "420 Evolution 30/1 CA CBB",
-      "Producer": "Four 20 Pharma",
-      "MinPrice": 6.15,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/420-evolution-30-1-ca-cbb"
-    },
-    {
-      "Id": 0,
-      "Name": "420 Evolution 30/1 CA FFC Frosted Fruit Cake",
-      "Producer": "Four 20 Pharma",
-      "MinPrice": 3.98,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/420-evolution-30-1-ca-ffc-frosted-fruit-cake-1tuxkpd"
-    },
-    {
-      "Id": 0,
-      "Name": "420 Evolution 30/1 CA ICC Ice Cream Cake",
-      "Producer": "Four 20 Pharma",
-      "MinPrice": 6.99,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/420-evolution-301-ca-icc-ice-cream-cake-ice-cream-cake-x-kush-mints"
-    },
-    {
-      "Id": 0,
-      "Name": "420 Evolution 30/1 CA PCH Peach Chementine",
-      "Producer": "Four 20 Pharma",
-      "MinPrice": 6.99,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/420-evolution-301-ca-pch-peach-chementine"
-    },
-    {
-      "Id": 0,
-      "Name": "420 Evolution 30/1 CA PEX Pineapple Fruz",
-      "Producer": "Four 20 Pharma",
-      "MinPrice": 5.2,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/420-evolution-30-1-ca-pex-pineapple-fruz-jhgl1s"
-    },
-    {
-      "Id": 0,
-      "Name": "Balancial PT S1 Balanced Caramel",
-      "Producer": "Balancial GmbH",
-      "MinPrice": 4.39,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/balancial-pt-s1-balanced-caramel-wd0e5p"
-    },
-    {
-      "Id": 0,
-      "Name": "Balancial S1 23/1 SS Sunset Sherbet",
-      "Producer": "Balancial GmbH",
-      "MinPrice": 3.95,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/balancial-s1-23-1-ss-sunset-sherbet-9ug32t"
-    },
-    {
-      "Id": 0,
-      "Name": "Balancial S1 26/1 SS Sunset Sherbet",
-      "Producer": "Balancial GmbH",
-      "MinPrice": 3.64,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/balancial-s1-26-1-ss-sunset-sherbet-j2zp9"
-    },
-    {
-      "Id": 0,
-      "Name": "Balancial S1 31/1 BC Banana Cake",
-      "Producer": "Balancial GmbH",
-      "MinPrice": 4.77,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/balancial-s1-31-1-bc-banana-cake-5sp87"
-    },
-    {
-      "Id": 0,
-      "Name": "Balancial S1 33/1 ML Mona Lisa",
-      "Producer": "Balancial GmbH",
-      "MinPrice": 5.49,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/balancial-s1-33-1-ml-mona-lisa-eegrzn"
-    },
-    {
-      "Id": 0,
-      "Name": "Barongo 24/1 BC Black Caviar",
-      "Producer": "",
-      "MinPrice": 6.5,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/barongo-24-1-bc-black-caviar"
-    },
-    {
-      "Id": 0,
-      "Name": "Barongo 24/1 LAX Ultra Dose Candy",
-      "Producer": "",
-      "MinPrice": 4.99,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/barongo-24-1-lax-ultra-dosed-candy-6fxdcn"
-    },
-    {
-      "Id": 0,
-      "Name": "Barongo 26/1 DD Devil´s Driver",
-      "Producer": "WMG Pharma",
-      "MinPrice": 5.65,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/barongo-26-1-dd-devil-s-driver-f9d4h"
-    },
-    {
-      "Id": 0,
-      "Name": "Barongo 26/1 JEA Banana Candy",
-      "Producer": "WMG Pharma",
-      "MinPrice": 4.99,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/barongo-26-1-jea-banana-candy-wg0fzy"
-    },
-    {
-      "Id": 0,
-      "Name": "Barongo 26/1 LAX Ultra Dosed Candy",
-      "Producer": "",
-      "MinPrice": 6.49,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/barongo-26-1-lax-ultra-dosed-candy"
-    },
-    {
-      "Id": 0,
-      "Name": "Barongo 26/1 PUC Purro Churro Drip",
-      "Producer": "WMG Pharma",
-      "MinPrice": 4.99,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/barongo-26-1-puc-purro-churro-drip"
-    },
-    {
-      "Id": 0,
-      "Name": "Barongo 28/1 PP Pink Panther",
-      "Producer": "",
-      "MinPrice": 6.45,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/barongo-28-1-pp-pink-panther"
-    },
-    {
-      "Id": 0,
-      "Name": "Barongo 28/1 SB Sticky Bath",
-      "Producer": "",
-      "MinPrice": 5.94,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/barongo-28-1-sb-sticky-bath"
-    },
-    {
-      "Id": 0,
-      "Name": "Barongo 30/1 DG Doperman",
-      "Producer": "",
-      "MinPrice": 3.99,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/barongo-30-1-dg-doperman"
-    },
-    {
-      "Id": 0,
-      "Name": "Barongo 32/1 SOR SFV OG x Candy Rain",
-      "Producer": "",
-      "MinPrice": 4.69,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/barongo-32-1-sor-077cb"
-    },
-    {
-      "Id": 0,
-      "Name": "Bathera 23/1 BZ Blue Z",
-      "Producer": "Bathera",
-      "MinPrice": 5.49,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/bathera-23-1-bz-blue-z-z4n77"
-    },
-    {
-      "Id": 0,
-      "Name": "Bathera 24/1 BZ Blue Z",
-      "Producer": "Bathera",
-      "MinPrice": 5.49,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/bathera-241-bz-blue-z"
-    },
-    {
-      "Id": 0,
-      "Name": "Bathera 24/1 DB Donny Burger",
-      "Producer": "Bathera",
-      "MinPrice": 2.48,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/bathera-24-1-db-donny-burger"
-    },
-    {
-      "Id": 0,
-      "Name": "Bathera 25/1 SSH Super Silver Haze",
-      "Producer": "Bathera",
-      "MinPrice": 6.2,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/bathera-25-1-ssh-super-silver-haze-o5enk7a"
-    },
-    {
-      "Id": 0,
-      "Name": "Beacon T24 Pink Kush",
-      "Producer": "Beacon Medical Germany",
-      "MinPrice": 3.45,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/beacon-t24-pink-kush"
-    },
-    {
-      "Id": 0,
-      "Name": "Beacon T24/1 Pink Kush",
-      "Producer": "",
       "MinPrice": 3.75,
       "Available": true,
-      "Url": "https://privatrezept.net/product/beacon-t241-pink-kush"
+      "Url": "https://privatrezept.net/product/huala-27-1-ca-osb-orange-sherbet"
     },
     {
       "Id": 0,
-      "Name": "Beacon T30 Lavender Haze",
-      "Producer": "Beacon Medical Germany",
-      "MinPrice": 4.55,
+      "Name": "Huala 27/1 CA TRM Triangle Mints",
+      "Producer": "Four 20 Pharma",
+      "MinPrice": 4.99,
       "Available": true,
-      "Url": "https://privatrezept.net/product/beacon-t30-lavender-haze-v2w26f"
+      "Url": "https://privatrezept.net/product/huala-27-1-ca-trm-triangle-mints"
     },
     {
       "Id": 0,
-      "Name": "Bedrocan Cannabis Flos 22/1 Afina",
-      "Producer": "Bedrocan",
-      "MinPrice": 5.35,
+      "Name": "Huala 27/1 CA ZOP Zoap The Zoap",
+      "Producer": "Four 20 Pharma",
+      "MinPrice": 3.95,
       "Available": true,
-      "Url": "https://privatrezept.net/product/bedrocan-cannabis-flos-221-afina"
+      "Url": "https://privatrezept.net/product/huala-27-1-ca-zop-zoap-the-zoap"
     },
     {
       "Id": 0,
-      "Name": "Bedrocan Cannabis Flos 25/1 Afina",
-      "Producer": "Bedrocan",
-      "MinPrice": 4.61,
+      "Name": "Huala 27/1 PT GLE Gas Leak",
+      "Producer": "Four 20 Pharma",
+      "MinPrice": 3.79,
       "Available": true,
-      "Url": "https://privatrezept.net/product/bedrocan-cannabis-flos-25-1-afina-6spqe4"
+      "Url": "https://privatrezept.net/product/huala-27-1-pt-gle-gas-leak"
     },
     {
       "Id": 0,
-      "Name": "Bedrocan Forte 25/1 Afina",
-      "Producer": "Bedrocan",
+      "Name": "Huala 27/1 UK CIN Cinderella Kush",
+      "Producer": "Four 20 Pharma",
+      "MinPrice": 3.39,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/huala-271-uk-cin-cinderella-kush"
+    },
+    {
+      "Id": 0,
+      "Name": "Huala 27/1 UK PIG Pink Gasoline",
+      "Producer": "Four 20 Pharma",
+      "MinPrice": 3.58,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/huala-27-1-uk-pig-pink-gasoline"
+    },
+    {
+      "Id": 0,
+      "Name": "Huala 27/1 UK WTR Waffle Truffle",
+      "Producer": "Four 20 Pharma",
+      "MinPrice": 4.42,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/huala-271-uk-wtr-waffle-truffle"
+    },
+    {
+      "Id": 0,
+      "Name": "Huala 30/1 BDL Bakers Delight",
+      "Producer": "Four 20 Pharma",
+      "MinPrice": 4.27,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/huala-30-1-bdl-bakers-delight"
+    },
+    {
+      "Id": 0,
+      "Name": "Huala 30/1 CA ALM Alien Mints",
+      "Producer": "Four 20 Pharma",
+      "MinPrice": 3.65,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/huala-30-1-ca-alm-alien-mints-5nh3rc"
+    },
+    {
+      "Id": 0,
+      "Name": "Huala 30/1 CA BKM Banana Kush Mints",
+      "Producer": "Four 20 Pharma",
+      "MinPrice": 3.39,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/huala-30-1-ca-bkm-banana-kush-mints"
+    },
+    {
+      "Id": 0,
+      "Name": "KnL 30//1 POS Popsicles",
+      "Producer": "Remexian Pharma",
+      "MinPrice": 4.79,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/knl-30-1-pos-popsicles"
+    },
+    {
+      "Id": 0,
+      "Name": "Koots Canna 30/1 KCC Kc Crush",
+      "Producer": "Remexian Pharma",
+      "MinPrice": 5.99,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/koots-canna-30-1-kcc-kc-crush"
+    },
+    {
+      "Id": 0,
+      "Name": "krft 24/1 MC1 MAC1 MAC 1",
+      "Producer": "Remexian Pharma",
+      "MinPrice": 4.99,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/krft-24-1-mc1-mac1-mac-1"
+    },
+    {
+      "Id": 0,
+      "Name": "Kush Collective 30/1 LDS Lilac Diesel",
+      "Producer": "Natural Pharma",
+      "MinPrice": 5.25,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/kush-collective-30-1-lds-lilac-diesel"
+    },
+    {
+      "Id": 0,
+      "Name": "Kush Collective 30/1 LPP Lemon Pepper Punch",
+      "Producer": "Natural Pharma",
+      "MinPrice": 5.99,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/kush-collective-30-1-lpp-lemon-pepper-punch"
+    },
+    {
+      "Id": 0,
+      "Name": "Legend's GZ 32/1 Garlic Zkittlez",
+      "Producer": "Cantourage",
+      "MinPrice": 6.19,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/legend-s-gz-32-1-garlic-zkittlez"
+    },
+    {
+      "Id": 0,
+      "Name": "Legend's RP 34/1 Rainbow Pavé",
+      "Producer": "Cantourage",
+      "MinPrice": 6.89,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/legend-s-rp-34-1-rainbow-pav-01i72"
+    },
+    {
+      "Id": 0,
+      "Name": "LIGHV Trials 25/1 EG Egyptian Gold",
+      "Producer": "NOVVIA PHARM GmbH",
+      "MinPrice": 6.74,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/lighv-trials-25-1-eg-egyptian-gold"
+    },
+    {
+      "Id": 0,
+      "Name": "LIGHV Trials 26/1 BBL Blueberry Banana Lobster",
+      "Producer": "NOVVIA PHARM GmbH",
+      "MinPrice": 6.99,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/lighv-trials-26-1-bbl-blueberry-banana-lobster"
+    },
+    {
+      "Id": 0,
+      "Name": "Madrecan 27/1 SKY Skywalker",
+      "Producer": "Remexian Pharma",
+      "MinPrice": 5.95,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/madrecan-271-sky-skywalker"
+    },
+    {
+      "Id": 0,
+      "Name": "Mama Horizon 9/10 Gush Mints 1:1",
+      "Producer": "medizinalhanf GmbH",
+      "MinPrice": 7.5,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/mama-horizon-9-10-gush-mints-1-1"
+    },
+    {
+      "Id": 0,
+      "Name": "Materia 8BK 30/1 8 Ball Kush",
+      "Producer": "",
+      "MinPrice": 4.65,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/materia-8bk-301-8-ball-kush"
+    },
+    {
+      "Id": 0,
+      "Name": "Materia AND 16/1 Andes",
+      "Producer": "Materia",
+      "MinPrice": 2.89,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/materia-and-16-1-andes-ihmmzn"
+    },
+    {
+      "Id": 0,
+      "Name": "Materia FFC 25/1 Frosted Fruit Cake",
+      "Producer": "Materia",
+      "MinPrice": 4.68,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/materia-ffc-25-1-frosted-fruit-cake-bk6jtz"
+    },
+    {
+      "Id": 0,
+      "Name": "NICE 22/1 COA Cosmic Gas",
+      "Producer": "Cansativa",
+      "MinPrice": 2.99,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/nice-22-1-coa-cosmic-gas"
+    },
+    {
+      "Id": 0,
+      "Name": "NICE 22/1 SWC Strawberry Cake",
+      "Producer": "Cansativa",
+      "MinPrice": 3.87,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/nice-22-1-swc-strawberry-cake"
+    },
+    {
+      "Id": 0,
+      "Name": "NICE 24/1 COA Cosmic Gas",
+      "Producer": "Cansativa",
       "MinPrice": 4.52,
       "Available": true,
-      "Url": "https://privatrezept.net/product/bedrocan-forte-25-1-afina-mgz6kn"
+      "Url": "https://privatrezept.net/product/nice-24-1-coa-cosmic-gas"
     },
     {
       "Id": 0,
-      "Name": "Beyond Bloom GWRTZ 22/1 White Runtz",
-      "Producer": "Cantourage",
-      "MinPrice": 6.55,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/beyond-bloom-gwrtz-22-1-white-runtz"
-    },
-    {
-      "Id": 0,
-      "Name": "BG 26/1 CPY COL Capaxky",
-      "Producer": "ADREXpharma",
-      "MinPrice": 2.75,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/bg-26-1-cpy-col-capaxky"
-    },
-    {
-      "Id": 0,
-      "Name": "Big Dreams 21/1 PSF PIK Pink Kush",
-      "Producer": "",
-      "MinPrice": 3.29,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/big-dreams-211-psf-pik-pink-kush"
-    },
-    {
-      "Id": 0,
-      "Name": "Big Dreams 24/1 PSF BAA Baked Animal",
-      "Producer": "",
-      "MinPrice": 6.99,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/big-dreams-241-psf-baa-baked-animal"
-    },
-    {
-      "Id": 0,
-      "Name": "BLAYZ 22/1 KK King's Kush Kings Kush",
-      "Producer": "WMG Pharma",
+      "Name": "NICE 24/1 DD Do-Si-Dos",
+      "Producer": "Cansativa",
       "MinPrice": 2.99,
       "Available": true,
-      "Url": "https://privatrezept.net/product/blayz-22-1-kk-king-s-kush-kings-kush"
+      "Url": "https://privatrezept.net/product/nice-24-1-dd-do-si-dos"
     },
     {
       "Id": 0,
-      "Name": "Blayz 24/1 SRS Sour Sherb",
-      "Producer": "",
-      "MinPrice": 2.97,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/blayz-24-1-srs-sour-sherb"
-    },
-    {
-      "Id": 0,
-      "Name": "BLAYZ 28/1 HM Hawaiian Marker",
-      "Producer": "",
-      "MinPrice": 3.97,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/blayz-28-1-hm-hawaiian-marker"
-    },
-    {
-      "Id": 0,
-      "Name": "BLAYZ 30/1 SWC Strawberry Cloud 9",
-      "Producer": "WMG Pharma",
-      "MinPrice": 4.49,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/blayz-30-1-swc-strawberry-cloud-9"
-    },
-    {
-      "Id": 0,
-      "Name": "BOTANICS Purple Cream 24/1 Purple Ice Water",
-      "Producer": "Nimbus Health",
-      "MinPrice": 9.64,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/botanics-purple-cream-24-1-purple-ice-water"
-    },
-    {
-      "Id": 0,
-      "Name": "BOTANICS Purple Cream 26/1 Purple Ice Water",
-      "Producer": "Nimbus Health",
-      "MinPrice": 4.99,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/botanics-purple-cream-26-1-purple-ice-water-t6rl2at"
-    },
-    {
-      "Id": 0,
-      "Name": "BOTANICS Tonic Fuel 24/1 Gary Payton",
-      "Producer": "Nimbus Health",
-      "MinPrice": 5.89,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/botanics-tonic-fuel-24-1-gary-payton-6hasmg"
-    },
-    {
-      "Id": 0,
-      "Name": "Breezy Organics RB 22/1 Rainbow Belts",
-      "Producer": "Ilios Santé",
-      "MinPrice": 6.79,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/breezy-organics-rb-22-1-rainbow-belts-lfou1"
-    },
-    {
-      "Id": 0,
-      "Name": "Briah GP 29 Grape Pie",
-      "Producer": "Day3 Pharma",
-      "MinPrice": 4.49,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/briah-gp-29-grape-pie"
-    },
-    {
-      "Id": 0,
-      "Name": "Cannamedical Hybrid Ultra KA Cosmic Mac",
-      "Producer": "Cannamedical",
-      "MinPrice": 4.37,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/cannamedical-hybrid-ultra-ka-cosmic-mac"
-    },
-    {
-      "Id": 0,
-      "Name": "Cannamedical Indica classic 20/1 ZAF Dank Wafers",
-      "Producer": "Cannamedical",
-      "MinPrice": 5.19,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/cannamedical-indica-classic-201-zaf-dank-wafers"
-    },
-    {
-      "Id": 0,
-      "Name": "Cannamedical Indica classic AU El Jefe",
-      "Producer": "Cannamedical",
-      "MinPrice": 5.95,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/cannamedical-indica-classic-au-el-jefe"
-    },
-    {
-      "Id": 0,
-      "Name": "Cannamedical Indica classic AU London Pound Cake",
-      "Producer": "Cannamedical",
-      "MinPrice": 5.83,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/cannamedical-indica-classic-au-london-pound-cake-5hj0o8"
-    },
-    {
-      "Id": 0,
-      "Name": "Cannamedical Indica Classic DK 20/1 Cookies Kerosene Punch",
-      "Producer": "",
-      "MinPrice": 5.95,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/cannamedical-indica-classic-dk-201-cookies-kerosene-punch"
-    },
-    {
-      "Id": 0,
-      "Name": "Cannamedical Indica Classic DK 22/1 Gelat Skyfloater",
-      "Producer": "Cannamedical",
-      "MinPrice": 7.49,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/cannamedical-indica-classic-dk-22-1-gelat-skyfloater-8slu1a"
-    },
-    {
-      "Id": 0,
-      "Name": "Cannamedical Indica Classic DK Sky Berry Kush",
-      "Producer": "Cannamedical",
-      "MinPrice": 3.69,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/cannamedical-indica-classic-dk-sky-berry-kush"
-    },
-    {
-      "Id": 0,
-      "Name": "Cannamedical Indica Classic ZAF Grape Galena",
-      "Producer": "Cannamedical",
+      "Name": "NICE 24/1 HBR Hashburger",
+      "Producer": "Cansativa",
       "MinPrice": 3.99,
       "Available": true,
-      "Url": "https://privatrezept.net/product/cannamedical-indica-classic-zaf-grape-galena"
+      "Url": "https://privatrezept.net/product/nice-24-1-hbr-hashburger-sm0zx"
     },
     {
       "Id": 0,
-      "Name": "Cannamedical Indica Forte AU LKC LA Kush Cake",
-      "Producer": "Cannamedical",
-      "MinPrice": 4.79,
+      "Name": "NICE 25/1 LP Lotus Punch",
+      "Producer": "Cansativa",
+      "MinPrice": 7.15,
       "Available": true,
-      "Url": "https://privatrezept.net/product/cannamedical-indica-forte-au-lkc-la-kush-cake"
+      "Url": "https://privatrezept.net/product/nice-25-1-lp-lotus-punch-2msxy"
     },
     {
       "Id": 0,
-      "Name": "Cannamedical Indica Forte BC Banana Cream Cake",
-      "Producer": "Cannamedical",
-      "MinPrice": 5.29,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/cannamedical-indica-forte-bc-banana-cream-cake-3vxzwj"
-    },
-    {
-      "Id": 0,
-      "Name": "Cannamedical Indica Forte BC Bubblegum Kush Mintz",
-      "Producer": "Cannamedical",
-      "MinPrice": 4.94,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/cannamedical-indica-forte-bc-bubblegum-kush-mintz"
-    },
-    {
-      "Id": 0,
-      "Name": "Cannamedical Indica forte BC Sweet Sunset",
-      "Producer": "Cannamedical",
+      "Name": "NICE 25/1 WW White Walker",
+      "Producer": "Cansativa",
       "MinPrice": 3.99,
       "Available": true,
-      "Url": "https://privatrezept.net/product/cannamedical-indica-forte-bc-sweet-sunset"
+      "Url": "https://privatrezept.net/product/nice-25-1-ww-white-walker"
     },
     {
       "Id": 0,
-      "Name": "Cannamedical Indica Forte DK 22/1 Gelat Skyfloater",
-      "Producer": "Cannamedical",
-      "MinPrice": 4.49,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/cannamedical-indica-forte-dk-221-gelat-skyfloater"
-    },
-    {
-      "Id": 0,
-      "Name": "Cannamedical Indica Forte DK Blue Cheese",
-      "Producer": "Cannamedical",
+      "Name": "NICE 26/1 CHA Capri Haze",
+      "Producer": "Cansativa",
       "MinPrice": 3.98,
       "Available": true,
-      "Url": "https://privatrezept.net/product/cannamedical-indica-forte-dk-blue-cheese"
+      "Url": "https://privatrezept.net/product/nice-26-1-cha-capri-haze-7rm8fc"
     },
     {
       "Id": 0,
-      "Name": "Canopy AKH 24/1 Afghan Kush",
-      "Producer": "",
-      "MinPrice": 2.99,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/canopy-akh-24-afghan-kush"
-    },
-    {
-      "Id": 0,
-      "Name": "Canopy AKH 25/1 Afghan Kush",
-      "Producer": "Canopy Medical",
-      "MinPrice": 3.49,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/canopy-akh-25-1-afghan-kush"
-    },
-    {
-      "Id": 0,
-      "Name": "Canopy Bakerstreet 22/1 Hindu Kush",
-      "Producer": "Canopy Medical",
-      "MinPrice": 3.69,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/canopy-bakerstreet-221-hindu-kush"
-    },
-    {
-      "Id": 0,
-      "Name": "Canopy HB 30/1 Hero Baby",
-      "Producer": "Canopy Medical",
-      "MinPrice": 4.99,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/canopy-hb-30-1-hero-baby"
-    },
-    {
-      "Id": 0,
-      "Name": "Canopy KM 25/1 Kryptonite Mist",
-      "Producer": "Canopy Medical",
-      "MinPrice": 4.29,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/canopy-km-25-1-kryptonite-mist"
-    },
-    {
-      "Id": 0,
-      "Name": "Canopy KMI 28/1 Kush Mints",
-      "Producer": "Canopy Medical",
-      "MinPrice": 3.19,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/canopy-kmi-281-kush-mints"
-    },
-    {
-      "Id": 0,
-      "Name": "Canopy KMI 30/1 Kush Mints Kush Mintz",
-      "Producer": "Canopy Medical",
-      "MinPrice": 3.29,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/canopy-kmi-301-kush-mints-kush-mintz"
-    },
-    {
-      "Id": 0,
-      "Name": "CanPharma Flos 20/1 Hindu Kush",
-      "Producer": "CanPharma",
-      "MinPrice": 6.5,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/canpharma-flos-201-hindu-kush"
-    },
-    {
-      "Id": 0,
-      "Name": "canymed BC 24/1 Pollux Green Pump",
-      "Producer": "Canymed",
-      "MinPrice": 4.49,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/canymed-bc-241-pollux-green-pump-pollux-green-pump"
-    },
-    {
-      "Id": 0,
-      "Name": "Care Cannabisflower GEL THC 20 Gelatti",
-      "Producer": "AMP",
-      "MinPrice": 5.99,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/care-cannabisflower-gel-thc-20-gelatti"
-    },
-    {
-      "Id": 0,
-      "Name": "Care PWW THC25 Purple White Wedding Cake RBX",
-      "Producer": "AMP",
-      "MinPrice": 4.99,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/care-pww-thc25-purple-white-wedding-cake-rbx"
-    },
-    {
-      "Id": 0,
-      "Name": "Casper's No. 3 Space Velvet 26/1 Deep Space x Black Velvet",
-      "Producer": "medizinalhanf GmbH",
-      "MinPrice": 7.0,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/casper-s-no-3-0fprlr"
-    },
-    {
-      "Id": 0,
-      "Name": "Casper's No. 52 Tamalez",
-      "Producer": "medizinalhanf GmbH",
-      "MinPrice": 9.5,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/casper-s-no-52-tamalez"
-    },
-    {
-      "Id": 0,
-      "Name": "Casper's No. 69 LGBTQ",
-      "Producer": "medizinalhanf GmbH",
-      "MinPrice": 9.5,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/casper-s-no-69-lgbtq-17hms5"
-    },
-    {
-      "Id": 0,
-      "Name": "Dank Craft 30 DMS CAN Diamont Mints Diamond Mints",
-      "Producer": "ADREXpharma",
-      "MinPrice": 7.95,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/dank-craft-30-dms-can-diamont-mints-diamond-mints-4t7fhh"
-    },
-    {
-      "Id": 0,
-      "Name": "Dank Craft 30 RM CAN Royal Mints",
-      "Producer": "ADREXpharma",
-      "MinPrice": 3.52,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/dank-craft-30-rm-can-royal-mints"
-    },
-    {
-      "Id": 0,
-      "Name": "Demecan Core 21:01 LimeZ",
-      "Producer": "Demecan",
-      "MinPrice": 4.94,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/demecan-core-21-01-limez-uwr1rm"
-    },
-    {
-      "Id": 0,
-      "Name": "Demecan Core 22:01 Banana Milkshake",
-      "Producer": "Demecan",
-      "MinPrice": 4.9,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/demecan-core-22-01-banana-milkshake-tmddjd"
-    },
-    {
-      "Id": 0,
-      "Name": "Demecan Core 22:01 Peach Gelato",
-      "Producer": "Demecan",
-      "MinPrice": 5.44,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/demecan-core-22-01-peach-gelato-u2e7fc"
-    },
-    {
-      "Id": 0,
-      "Name": "Demecan GT Lean Drop 22/1 Citron Cookies x Biker Kush",
-      "Producer": "Demecan",
-      "MinPrice": 3.75,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/demecan-gt-lean-drop-22-1-citron-cookies-x-biker-kush"
-    },
-    {
-      "Id": 0,
-      "Name": "Demecan GT MRSW Drop 25:01 Marshmallow OG",
-      "Producer": "Demecan",
-      "MinPrice": 2.89,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/demecan-gt-mrsw-drop-25-01-marshmallow-og"
-    },
-    {
-      "Id": 0,
-      "Name": "Demecan GT Regular Drop 25/1 Citron Cookies X Biker Kush",
-      "Producer": "Demecan",
-      "MinPrice": 3.88,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/demecan-gt-regular-drop-25-1-citron-cookies-x-biker-kush"
-    },
-    {
-      "Id": 0,
-      "Name": "Demecan GT SBCQ 27:01 Drop Strawberry Cheesequake",
-      "Producer": "Demecan",
-      "MinPrice": 4.79,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/demecan-gt-sbcq-27-01-drop-strawberry-cheesequake"
-    },
-    {
-      "Id": 0,
-      "Name": "Demecan GT Strong Drop 27/1 smalls Girl Scout Kush",
-      "Producer": "Demecan",
-      "MinPrice": 2.99,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/demecan-gt-strong-drop-girl-scout-kush-27-01-5zobfs"
-    },
-    {
-      "Id": 0,
-      "Name": "Demecan MC Regular Drop Royal Cake",
-      "Producer": "Demecan",
-      "MinPrice": 4.29,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/demecan-mc-regular-drop-royal-cake"
-    },
-    {
-      "Id": 0,
-      "Name": "Demecan PG Epic Drop 30/1 Gas Face",
-      "Producer": "Demecan",
-      "MinPrice": 7.58,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/demecan-pg-epic-drop-30-1-gas-face-kygy9k"
-    },
-    {
-      "Id": 0,
-      "Name": "Demecan PS Drop Noir 30:01 Mint Noir",
-      "Producer": "Demecan",
-      "MinPrice": 2.89,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/demecan-ps-drop-noir-30-01-mint-noir"
-    },
-    {
-      "Id": 0,
-      "Name": "Demecan PS Epic Drop 30/1 Fruit Punch",
-      "Producer": "Demecan",
-      "MinPrice": 3.99,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/ps-epic-drop-fruit-punch-qjvis8"
-    },
-    {
-      "Id": 0,
-      "Name": "Demecan PS Epic Drop 30/1 Fruit Punch",
-      "Producer": "Demecan",
-      "MinPrice": 2.89,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/demecan-ps-epic-drop-30-1-fruit-punch-ewv3si"
-    },
-    {
-      "Id": 0,
-      "Name": "Demecan PS Epic Drop 30/1 Mintz Kush",
-      "Producer": "Demecan",
-      "MinPrice": 3.99,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/demecan-ps-epic-drop-30-1-mintz-kush"
-    },
-    {
-      "Id": 0,
-      "Name": "Demecan PS Epic Drop Animal Cookies x SinMint Cookies",
-      "Producer": "Demecan",
-      "MinPrice": 5.85,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/demecan-ps-epic-drop-animal-cookies-x-sinmint-cookies"
-    },
-    {
-      "Id": 0,
-      "Name": "Demecan PS Mint 27:01 Drop Mintz Kush",
-      "Producer": "Demecan",
-      "MinPrice": 3.38,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/demecan-ps-mint-27-01-drop-mintz-kush"
-    },
-    {
-      "Id": 0,
-      "Name": "Demecan PS Strong Drop 27:01 Fruit Punch",
-      "Producer": "Demecan",
-      "MinPrice": 4.23,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/demecan-ps-strong-drop-27-01-fruit-punch"
-    },
-    {
-      "Id": 0,
-      "Name": "Demecan RF Ultra Drop Biscotti x Mendo Purps",
-      "Producer": "Demecan",
-      "MinPrice": 5.75,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/demecan-rf-ultra-drop-biscotti-x-mendo-purps"
-    },
-    {
-      "Id": 0,
-      "Name": "Demecan Strong Drop Han Solo Burger x Gmo",
-      "Producer": "Demecan",
-      "MinPrice": 3.99,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/demecan-strong-drop-han-solo-burger-x-gmo-evmb5"
-    },
-    {
-      "Id": 0,
-      "Name": "Demecan Typ 1 26:01 Bubba Kush",
-      "Producer": "Demecan",
-      "MinPrice": 6.8,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/demecan-typ-1-26-01-bubba-kush"
-    },
-    {
-      "Id": 0,
-      "Name": "Demecan Ultra Drop Biscotti x Mendo Purps",
-      "Producer": "Demecan",
-      "MinPrice": 5.79,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/demecan-ultra-drop-biscotti-x-mendo-purps"
-    },
-    {
-      "Id": 0,
-      "Name": "DMC Lean Drop 22:01 Holy Roller #11",
-      "Producer": "Demecan",
-      "MinPrice": 3.99,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/dmc-lean-drop-22-01-efmc8q"
-    },
-    {
-      "Id": 0,
-      "Name": "enua SSV CA 25/1 Sweet San Valley",
-      "Producer": "enua Pharma",
-      "MinPrice": 6.15,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/enua-ssv-ca-251-sweet-san-valley"
-    },
-    {
-      "Id": 0,
-      "Name": "Eufloria 24/1 FDR Fou Du Roi",
-      "Producer": "Remexian Pharma",
-      "MinPrice": 3.99,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/eufloria-24-1-fdr-fou-du-roi"
-    },
-    {
-      "Id": 0,
-      "Name": "Eufloria 27/1 ECV El Chivo",
-      "Producer": "Remexian Pharma",
-      "MinPrice": 4.6,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/eufloria-27-1-ecv-el-chivo"
-    },
-    {
-      "Id": 0,
-      "Name": "Eufloria 27/1 FCO Frosted Cookies",
-      "Producer": "Remexian Pharma",
-      "MinPrice": 6.99,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/eufloria-271-fco-frosted-cookies"
-    },
-    {
-      "Id": 0,
-      "Name": "Eufloria 27/1 MOG Marshmallow OG",
-      "Producer": "Remexian Pharma",
-      "MinPrice": 4.49,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/eufloria-27-1-mog-marshmallow-og-1qeor"
-    },
-    {
-      "Id": 0,
-      "Name": "Eufloria 27/1 MSH Moonshine",
-      "Producer": "Remexian Pharma",
-      "MinPrice": 3.8,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/eufloria-27-1-msh-moonshine-fb3fio"
-    },
-    {
-      "Id": 0,
-      "Name": "Eufloria 27/1 PSL Pink Slurricane",
-      "Producer": "Remexian Pharma",
-      "MinPrice": 4.39,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/eufloria-271-psl-pink-slurricane"
-    },
-    {
-      "Id": 0,
-      "Name": "Eufloria 27/1 SFR Strawberry Froyo",
-      "Producer": "Remexian Pharma",
-      "MinPrice": 3.75,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/eufloria-27-1-sfr-strawberry-froyo-ujm278"
-    },
-    {
-      "Id": 0,
-      "Name": "Eufloria 30/1 CLG Cool Grapes",
-      "Producer": "Remexian Pharma",
-      "MinPrice": 4.4,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/eufloria-30-1-clg-cool-grapes-mh1hyw"
-    },
-    {
-      "Id": 0,
-      "Name": "Eufloria 30/1 GFZ Goofiez",
-      "Producer": "Remexian Pharma",
-      "MinPrice": 5.7,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/eufloria-30-1-gfz-goofiez-s1vjkd"
-    },
-    {
-      "Id": 0,
-      "Name": "Eufloria 30/1 GSZ Garlic Skittlez",
-      "Producer": "Remexian Pharma",
-      "MinPrice": 4.95,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/eufloria-30-1-gsz-garlic-skittlez-5kbfpgk"
-    },
-    {
-      "Id": 0,
-      "Name": "Eufloria 30/1 ITG Integrator",
-      "Producer": "Remexian Pharma",
-      "MinPrice": 5.94,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/eufloria-30-1-igt-integrator-cbz8ne"
-    },
-    {
-      "Id": 0,
-      "Name": "Eufloria 30/1 KUM Kush Mints",
-      "Producer": "Remexian Pharma",
-      "MinPrice": 5.99,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/eufloria-301-kum-kush-mints"
-    },
-    {
-      "Id": 0,
-      "Name": "Eufloria 30/1 LBA LA Baker",
-      "Producer": "Remexian Pharma",
-      "MinPrice": 5.89,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/eufloria-30-1-lba-la-baker-alvnuc"
-    },
-    {
-      "Id": 0,
-      "Name": "Eufloria 30/1 MCD MAC Deluxe",
-      "Producer": "Remexian Pharma",
-      "MinPrice": 4.49,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/eufloria-301-mcd-mac-deluxe"
-    },
-    {
-      "Id": 0,
-      "Name": "Eufloria 33/1 LBA LA Baker",
-      "Producer": "Remexian Pharma",
-      "MinPrice": 5.99,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/eufloria-33-1-lba-la-baker-214yuu"
-    },
-    {
-      "Id": 0,
-      "Name": "Eufloria 33/1 RCC Runtz Coffin Candy",
-      "Producer": "Remexian Pharma",
-      "MinPrice": 6.39,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/eufloria-33-1-rcc-runtz-coffin-candy-nwbcc9"
-    },
-    {
-      "Id": 0,
-      "Name": "FAAFO Cannabis 24/1 MJR Runtz",
-      "Producer": "Remexian Pharma",
-      "MinPrice": 4.99,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/faafo-cannabis-24-1-mjr-runtz"
-    },
-    {
-      "Id": 0,
-      "Name": "FAAFO Cannabis 27/1 GPO Gastro Pop",
-      "Producer": "Remexian Pharma",
-      "MinPrice": 4.69,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/faafo-cannabis-27-1-gpo-gastro-pop"
-    },
-    {
-      "Id": 0,
-      "Name": "High Greens PS 30/1 Pink Slurricane",
-      "Producer": "Cantourage",
-      "MinPrice": 5.34,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/high-greens-ps-30-1-pink-slurricane-ar5snh"
-    },
-    {
-      "Id": 0,
-      "Name": "High Greens SG 28/1 Sunset Gas",
-      "Producer": "Cantourage",
-      "MinPrice": 4.39,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/high-greens-sg-28-1-sunset-gas"
-    },
-    {
-      "Id": 0,
-      "Name": "High Quadz FV 31/1 Flawless Victory",
-      "Producer": "Natural Pharma",
-      "MinPrice": 6.69,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/high-quadz-fv-31-1-flawless-victory"
-    },
-    {
-      "Id": 0,
-      "Name": "High Quadz MSN 29/1 Moonshine",
-      "Producer": "Natural Pharma",
-      "MinPrice": 5.99,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/high-quadz-msn-29-1-moonshine"
-    },
-    {
-      "Id": 0,
-      "Name": "High Society CK 28/1 Creamy Kush Animal Mints x Bubba Kush",
-      "Producer": "Cantourage",
-      "MinPrice": 4.6,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/high-society-ck-28-1-creamy-kush-animal-mints-x-bubba-kush"
-    },
-    {
-      "Id": 0,
-      "Name": "Hollymood 23/1 PD Pink Drip",
-      "Producer": "Bathera",
-      "MinPrice": 5.19,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/hollymood-23-1-pd-pink-drip"
-    },
-    {
-      "Id": 0,
-      "Name": "Hollymood 25 G41 Gelato 41",
-      "Producer": "Bathera",
-      "MinPrice": 3.95,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/hollymood-25-g41-gelato-41"
-    },
-    {
-      "Id": 0,
-      "Name": "Hollymood 25/1 TT Tea Time",
-      "Producer": "Bathera",
-      "MinPrice": 4.79,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/hollymood-25-1-tt-tea-time"
-    },
-    {
-      "Id": 0,
-      "Name": "Huala 22/1 CA BDL Bakers Delight",
-      "Producer": "Four 20 Pharma",
-      "MinPrice": 2.99,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/huala-22-1-ca-bdl-bakers-delight"
-    },
-    {
-      "Id": 0,
-      "Name": "Huala 22/1 CA GVZ Guavaz",
-      "Producer": "Four 20 Pharma",
-      "MinPrice": 2.89,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/huala-22-1-ca-gvz-guavaz"
-    },
-    {
-      "Id": 0,
-      "Name": "Huala 22/1 CA OSB Orange Sherbet",
-      "Producer": "Four 20 Pharma",
-      "MinPrice": 4.79,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/huala-22-1-ca-osb-orange-sherbet"
-    },
-    {
-      "Id": 0,
-      "Name": "Huala 22/1 CA SCO Scoops",
-      "Producer": "Four 20 Pharma",
-      "MinPrice": 3.49,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/huala-22-1-ca-sco-scoops-movmqj"
-    },
-    {
-      "Id": 0,
-      "Name": "Huala 22/1 CA TRM Triangle Mints",
-      "Producer": "Four 20 Pharma",
-      "MinPrice": 3.72,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/huala-22-1-ca-trm-triangle-mints"
-    },
-    {
-      "Id": 0,
-      "Name": "Huala 22/1 UK CIN Cinderella Kush",
-      "Producer": "Four 20 Pharma",
-      "MinPrice": 3.59,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/huala-221-uk-cin-cinderella-kush"
-    },
-    {
-      "Id": 0,
-      "Name": "Huala 25/1 CA ALM Alien Mints",
-      "Producer": "Four 20 Pharma",
-      "MinPrice": 2.89,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/huala-251-ca-alm-alien-mints"
-    },
-    {
-      "Id": 0,
-      "Name": "Huala 25/1 CA GRF Grape Face",
-      "Producer": "Four 20 Pharma",
-      "MinPrice": 4.09,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/huala-251-ca-grf-grape-face"
-    },
-    {
-      "Id": 0,
-      "Name": "Huala 25/1 CA GVZ Guavaz",
-      "Producer": "420 Pharma",
-      "MinPrice": 4.49,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/huala-25-1-ca-gvz-guavaz"
-    },
-    {
-      "Id": 0,
-      "Name": "Huala 25/1 CA KBK Kebab Kush",
-      "Producer": "Four 20 Pharma",
-      "MinPrice": 4.79,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/huala-25-1-ca-kbk-kebab-kush"
-    },
-    {
-      "Id": 0,
-      "Name": "Huala 25/1 CA OCT Purple Octane",
-      "Producer": "Four 20 Pharma",
-      "MinPrice": 3.99,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/huala-25-1-ca-oct-purple-octane"
-    },
-    {
-      "Id": 0,
-      "Name": "IMC Mids GF THC24 Grape Fuel",
-      "Producer": "IMC",
-      "MinPrice": 2.9,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/imc-mids-gf-thc24-grape-fuel"
-    },
-    {
-      "Id": 0,
-      "Name": "IMC Mids MC THC24 Melon Candy",
-      "Producer": "IMC",
-      "MinPrice": 3.44,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/imc-mids-mc-thc24-melon-candy"
-    },
-    {
-      "Id": 0,
-      "Name": "IMC Mids TC 25/1 Tropic Candy",
-      "Producer": "IMC",
-      "MinPrice": 2.99,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/imc-mids-tc-25-1-tropic-candy"
-    },
-    {
-      "Id": 0,
-      "Name": "IMC Mids TC 27/1 Tropic Candy",
-      "Producer": "IMC",
-      "MinPrice": 3.45,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/imc-mids-tc-27-1-tropic-candy"
-    },
-    {
-      "Id": 0,
-      "Name": "IMC Mids VK THC25 Velvet Cake",
-      "Producer": "IMC",
-      "MinPrice": 3.09,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/imc-mids-vk-thc25-velvet-cake"
-    },
-    {
-      "Id": 0,
-      "Name": "IMC MK THC25 Token Thai Kush",
-      "Producer": "IMC",
-      "MinPrice": 2.95,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/imc-mk-thc25-token-thai-kush-v73zv6"
-    },
-    {
-      "Id": 0,
-      "Name": "IMC OOG THC 28 Outdoor OG Kush",
-      "Producer": "IMC",
-      "MinPrice": 3.99,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/imc-oog-thc-28-outdoor-og-kush-ahxxpq"
-    },
-    {
-      "Id": 0,
-      "Name": "IMC RO THC25 Roma",
-      "Producer": "IMC",
-      "MinPrice": 2.99,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/imc-ro-thc25-roma-e8g0u7"
-    },
-    {
-      "Id": 0,
-      "Name": "IMC TF THC26 Selected Taffy Fuel",
-      "Producer": "IMC",
-      "MinPrice": 3.69,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/imc-tf-thc26-selected-taffy-fuel"
-    },
-    {
-      "Id": 0,
-      "Name": "IMC THC20 GGA Purple Grape",
-      "Producer": "IMC",
-      "MinPrice": 2.95,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/imc-thc20-gga-purple-grape"
-    },
-    {
-      "Id": 0,
-      "Name": "IMC THC20 T02 OG Kush",
-      "Producer": "IMC",
-      "MinPrice": 3.4,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/imc-thc20-t02-og-kush"
-    },
-    {
-      "Id": 0,
-      "Name": "IMC THC22 GGA Purple Grape",
-      "Producer": "IMC",
-      "MinPrice": 6.99,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/imc-thc22-gga-purple-grape"
-    },
-    {
-      "Id": 0,
-      "Name": "IMC THC22 T01 Hindu Kush",
-      "Producer": "IMC",
-      "MinPrice": 3.45,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/imc-thc22-t01-hindu-kush"
-    },
-    {
-      "Id": 0,
-      "Name": "IMC THC22 T02 OG Kush",
-      "Producer": "IMC",
-      "MinPrice": 3.75,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/imc-thc22-t02-og-kush"
-    },
-    {
-      "Id": 0,
-      "Name": "IMC THC25 T03 GG4 Gorilla Glue",
-      "Producer": "IMC",
-      "MinPrice": 3.4,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/imc-thc25-t03-gg4-gorilla-glue"
-    },
-    {
-      "Id": 0,
-      "Name": "IMC THC27 T03 GG4 Gorilla Glue",
-      "Producer": "IMC",
-      "MinPrice": 4.79,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/imc-thc27-t03-gg4-gorilla-glue"
-    },
-    {
-      "Id": 0,
-      "Name": "IMC THC27 T04 Strawberry OG",
-      "Producer": "IMC",
-      "MinPrice": 4.15,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/imc-thc27-t04-strawberry-og"
-    },
-    {
-      "Id": 0,
-      "Name": "IMC THC28 T10 Black Pineapple",
-      "Producer": "IMC",
-      "MinPrice": 3.48,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/imc-thc28-t10-black-pineapple-xg9ne"
-    },
-    {
-      "Id": 0,
-      "Name": "IMC THC30 T03 GG4 Gorilla Glue",
-      "Producer": "IMC",
-      "MinPrice": 9.0,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/imc-thc30-t03-gg4-gorilla-glue"
-    },
-    {
-      "Id": 0,
-      "Name": "LIT 33/1 MKU Master Kush",
-      "Producer": "Cansativa",
-      "MinPrice": 4.18,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/lit-33-1-mku-master-kush"
-    },
-    {
-      "Id": 0,
-      "Name": "LIT 35/1 STA Sticky Ape",
-      "Producer": "Cansativa",
-      "MinPrice": 4.94,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/lit-35-1-sta-sticky-ape"
-    },
-    {
-      "Id": 0,
-      "Name": "LIT 35/1 STA Sticky Apple",
-      "Producer": "Cansativa",
-      "MinPrice": 4.49,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/lit-35-1-sta-sticky-apple"
-    },
-    {
-      "Id": 0,
-      "Name": "LOT 420 - Greyscales HF 29/1 Hawaiian Faanta",
-      "Producer": "Cantourage",
-      "MinPrice": 7.3,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/lot-420-greyscales-hf-29-1-hawaiian-faanta-mw5zeq"
-    },
-    {
-      "Id": 0,
-      "Name": "LOT 420 29/1 GLOC Gelato x Orange Cake",
-      "Producer": "Cantourage",
-      "MinPrice": 6.49,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/lot-420-gloc-gelato-x-orange-cake"
-    },
-    {
-      "Id": 0,
-      "Name": "LOT 420 AB 25/1 Apples & Bananas",
-      "Producer": "Cantourage",
-      "MinPrice": 8.29,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/lot-420-ab-251-apples-and-bananas"
-    },
-    {
-      "Id": 0,
-      "Name": "LOT 420 AB PT Apples & Bananas",
-      "Producer": "Cantourage",
-      "MinPrice": 7.8,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/lot-420-ab-pt-apples-amp-bananas-yxtuqh"
-    },
-    {
-      "Id": 0,
-      "Name": "LOT 420 AxB Apple & Bananas",
-      "Producer": "Cantourage",
-      "MinPrice": 5.95,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/lot-420-axb-apple-and-bananas-apples-and-bananas"
-    },
-    {
-      "Id": 0,
-      "Name": "LOT 420 GLT Gelato33",
-      "Producer": "Cantourage",
-      "MinPrice": 9.49,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/lot-420-glt-gelato33"
-    },
-    {
-      "Id": 0,
-      "Name": "LOT 420 GNDI Gandi",
-      "Producer": "Cantourage",
-      "MinPrice": 3.99,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/lot-420-gndi-gandi"
-    },
-    {
-      "Id": 0,
-      "Name": "LOT 420 LEM PT Lemonatti",
-      "Producer": "Cantourage",
-      "MinPrice": 8.25,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/lot-420-lem-pt-lemonatti"
-    },
-    {
-      "Id": 0,
-      "Name": "LOT 420 OC Orange Cake",
-      "Producer": "Cantourage",
-      "MinPrice": 6.93,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/lot-420-oc-orange-cake"
-    },
-    {
-      "Id": 0,
-      "Name": "Luana 12/1 White Herer",
-      "Producer": "Cannamedical",
-      "MinPrice": 3.99,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/luana-12-1-white-herer"
-    },
-    {
-      "Id": 0,
-      "Name": "Luana 16/1 MAC Miracle Alien Cookies",
-      "Producer": "Cannamedical",
-      "MinPrice": 2.93,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/luana-161-mac-miracle-alien-cookies"
-    },
-    {
-      "Id": 0,
-      "Name": "Luana 20/1 GMS GMO Mints",
-      "Producer": "Cannamedical",
-      "MinPrice": 3.99,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/luana-20-1-gms-gmo-mints"
-    },
-    {
-      "Id": 0,
-      "Name": "Luana 20/1 GSC Girl Scout Cookies",
-      "Producer": "Cannamedical",
-      "MinPrice": 3.95,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/luana-20-1-gsc-girl-scout-cookies-gityeg"
-    },
-    {
-      "Id": 0,
-      "Name": "Luana 20/1 MOB Mango Sherb",
-      "Producer": "Cannamedical",
-      "MinPrice": 3.99,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/luana-20-1-mob-mango-sherb"
-    },
-    {
-      "Id": 0,
-      "Name": "Luana 20/1 Mochi",
-      "Producer": "Cannamedical",
-      "MinPrice": 3.43,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/luana-20-1-mochi"
-    },
-    {
-      "Id": 0,
-      "Name": "Luana 20/1 OG Watermelon",
-      "Producer": "Cannamedical",
-      "MinPrice": 3.69,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/luana-201-og-watermelon"
-    },
-    {
-      "Id": 0,
-      "Name": "madrecan 21/1 HiFi 4G",
-      "Producer": "Remexian Pharma",
-      "MinPrice": 2.97,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/madrecan-211-hifi-4g"
-    },
-    {
-      "Id": 0,
-      "Name": "Madrecan 21/1 MDR Mac Driver",
-      "Producer": "Remexian Pharma",
-      "MinPrice": 2.9,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/madrecan-211-mdr-mac-driver"
-    },
-    {
-      "Id": 0,
-      "Name": "madrecan 21/1 Punch Cake",
-      "Producer": "Remexian Pharma",
-      "MinPrice": 5.99,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/madrecan-211-punch-cake"
-    },
-    {
-      "Id": 0,
-      "Name": "madrecan 24/1 DGV Dougs Varin",
-      "Producer": "madrecan",
-      "MinPrice": 3.28,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/madrecan-241-dgv-dougs-varin"
-    },
-    {
-      "Id": 0,
-      "Name": "madrecan 24/1 GB9 Garlic Budder",
-      "Producer": "Remexian Pharma",
-      "MinPrice": 3.4,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/madrecan-241-gb9-garlic-budder"
-    },
-    {
-      "Id": 0,
-      "Name": "madrecan 24/1 HiFi 4G",
-      "Producer": "Remexian Pharma",
-      "MinPrice": 4.39,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/madrecan-241-hifi-4g"
-    },
-    {
-      "Id": 0,
-      "Name": "madrecan 24/1 MDR MAC Driver",
-      "Producer": "madrecan",
-      "MinPrice": 3.45,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/madrecan-241-mdr-mac-driver-mac-driver"
-    },
-    {
-      "Id": 0,
-      "Name": "madrecan 24/1 MDR Minis MAC Driver",
-      "Producer": "Remexian Pharma",
-      "MinPrice": 3.19,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/madrecan-24-1-mdr-minis-mac-driver-jtkkv"
-    },
-    {
-      "Id": 0,
-      "Name": "madrecan 24/1 SKY Minis Skywalker",
-      "Producer": "Remexian Pharma",
-      "MinPrice": 4.2,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/madrecan-241-sky-minis-skywalker"
-    },
-    {
-      "Id": 0,
-      "Name": "madrecan 27/1 GB9 Garlic Budder",
-      "Producer": "Remexian Pharma",
-      "MinPrice": 4.29,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/madrecan-27-1-gb9-garlic-budder-1evjs5"
-    },
-    {
-      "Id": 0,
-      "Name": "madrecan 27/1 GB9 Garlic Budder minis",
-      "Producer": "Remexian Pharma",
-      "MinPrice": 4.19,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/madrecan-27-1-gb9-garlic-budder-minis-1sy7pc"
-    },
-    {
-      "Id": 0,
-      "Name": "madrecan 27/1 MDR MAC Driver",
-      "Producer": "Remexian Pharma",
-      "MinPrice": 4.23,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/madrecan-27-1-mdr-mac-driver-0buwlk"
-    },
-    {
-      "Id": 0,
-      "Name": "madrecan 27/1 MDR Minis MAC Driver",
-      "Producer": "Remexian Pharma",
-      "MinPrice": 3.95,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/madrecan-27-1-mdr-minis-mac-driver-yzuk1h"
-    },
-    {
-      "Id": 0,
-      "Name": "Madrecan 27/1 Pineapple Purps",
-      "Producer": "Remexian Pharma",
-      "MinPrice": 3.89,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/madrecan-271-pineapple-purps"
-    },
-    {
-      "Id": 0,
-      "Name": "NICE 30/1 LK Lemon Kush",
-      "Producer": "Cansativa",
-      "MinPrice": 4.49,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/nice-30-1-lk-9kzkvo"
-    },
-    {
-      "Id": 0,
-      "Name": "NICE 30/1 MS Munson",
+      "Name": "NICE 26/1 CJ Cap Junky",
       "Producer": "Cansativa",
       "MinPrice": 6.95,
       "Available": true,
-      "Url": "https://privatrezept.net/product/nice-30-1-ms-munson-dgq9zf"
+      "Url": "https://privatrezept.net/product/nice-26-1-cj-cap-junky-xqntoa"
     },
     {
       "Id": 0,
-      "Name": "NICE 31/1 GSC Girl Scout Cookies",
+      "Name": "NICE 29/1 LP Lotus Punch",
       "Producer": "Cansativa",
-      "MinPrice": 4.89,
+      "MinPrice": 4.57,
       "Available": true,
-      "Url": "https://privatrezept.net/product/nice-31-1-gsc-girl-scout-cookies-nrr4f"
+      "Url": "https://privatrezept.net/product/nice-29-1-lp-lotus-punch-7b872f"
     },
     {
       "Id": 0,
-      "Name": "NICE 31/1 GT Garlic Truffle",
-      "Producer": "Cansativa",
-      "MinPrice": 4.69,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/nice-31-1-gt-garlic-truffle-khjir"
-    },
-    {
-      "Id": 0,
-      "Name": "NICE 31/1 LSP Lemon Splash",
-      "Producer": "Cansativa",
-      "MinPrice": 4.49,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/nice-31-1-lsp-lemon-splash"
-    },
-    {
-      "Id": 0,
-      "Name": "Petit Vert 24/1 GTE KCO Kush Cookies",
+      "Name": "Remexian 27/1 GJY GRG Grape Galena",
       "Producer": "Remexian Pharma",
-      "MinPrice": 3.99,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/petit-vert-24-1-gte-kco-kush-cookies-r08e5j"
-    },
-    {
-      "Id": 0,
-      "Name": "PhCann Exotics 24/1 Red Pop",
-      "Producer": "Nimbus Health",
-      "MinPrice": 4.49,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/phcann-exotics-24-1-red-pop"
-    },
-    {
-      "Id": 0,
-      "Name": "PhCann Exotics 28/1 Spritzer",
-      "Producer": "Nimbus Health",
-      "MinPrice": 3.94,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/phcann-exotics-28-1-spritzer"
-    },
-    {
-      "Id": 0,
-      "Name": "PHCANN Exotics 30/1 Black Amber",
-      "Producer": "Nimbus Health",
-      "MinPrice": 4.55,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/phcann-exotics-30-1-black-amber-8xok7s"
-    },
-    {
-      "Id": 0,
-      "Name": "Phcann Exotics 30/1 Spritzer",
-      "Producer": "Nimbus Health",
-      "MinPrice": 4.99,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/phcann-exotics-30-1-spritzer-oe4rdi"
-    },
-    {
-      "Id": 0,
-      "Name": "Remexian 27/1 BBR CRS Crossbow",
-      "Producer": "Remexian Pharma",
-      "MinPrice": 5.95,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/remexian-271-bbr-crs-crossbow"
-    },
-    {
-      "Id": 0,
-      "Name": "Remexian 27/1 BBR LAW LA Wedding Pop",
-      "Producer": "Remexian Pharma",
-      "MinPrice": 4.99,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/remexian-271-bbr-law-la-wedding-pop"
-    },
-    {
-      "Id": 0,
-      "Name": "Remexian 27/1 CBT CHK Chemical Kush",
-      "Producer": "Remexian Pharma",
-      "MinPrice": 5.98,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/remexian-271-cbt-chk-chemical-kush"
-    },
-    {
-      "Id": 0,
-      "Name": "Remexian 27/1 CIV BDY Banana Daddy",
-      "Producer": "Remexian Pharma",
-      "MinPrice": 4.25,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/remexian-271-civ-bdy-banana-daddy"
-    },
-    {
-      "Id": 0,
-      "Name": "Remexian 27/1 CRF PBC Peanut Butter Crunch",
-      "Producer": "Remexian Pharma",
-      "MinPrice": 4.99,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/remexian-27-1-crf-pbc-peanut-butter-crunch"
-    },
-    {
-      "Id": 0,
-      "Name": "SKK SH 29/1 Super Hero",
-      "Producer": "Remexian Pharma",
-      "MinPrice": 3.97,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/skk-sh-29-1-super-hero"
-    },
-    {
-      "Id": 0,
-      "Name": "SKK SHB 27/1 SherBangar SherBanger",
-      "Producer": "Remexian Pharma",
-      "MinPrice": 3.49,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/skk-shb-27-1-sherbangar-sherbanger"
-    },
-    {
-      "Id": 0,
-      "Name": "SKK SN 26/1 Shadow Neon",
-      "Producer": "Remexian Pharma",
-      "MinPrice": 3.85,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/skk-sn-26-1-shadow-neon"
-    },
-    {
-      "Id": 0,
-      "Name": "SKK WWZ 21/1 White Widow Haze",
-      "Producer": "",
-      "MinPrice": 2.99,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/skk-wwz-21-1-white-widow-haze"
-    },
-    {
-      "Id": 0,
-      "Name": "Slouu 22/1 AGM CA SBH Strawberry Haze",
-      "Producer": "enua Pharma",
-      "MinPrice": 4.2,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/slouu-22-1-agm-ca-sbh-strawberry-haze-fn3zq"
-    },
-    {
-      "Id": 0,
-      "Name": "slouu 22/1 BAG CA Berry Arctic Gelato",
-      "Producer": "enua Pharma",
-      "MinPrice": 5.4,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/slouu-22-1-bag-ca-berry-arctic-gelato"
-    },
-    {
-      "Id": 0,
-      "Name": "slouu 22/1 BAG CA Berry Artic Gelato",
-      "Producer": "enua Pharma",
-      "MinPrice": 2.95,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/slouu-22-1-bag-ca-berry-artic-gelato-uy3a7b"
-    },
-    {
-      "Id": 0,
-      "Name": "slouu 22/1 MAC CA Master AC",
-      "Producer": "enua Pharma",
-      "MinPrice": 3.21,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/slouu-22-1-mac-ca-master-ac"
-    },
-    {
-      "Id": 0,
-      "Name": "slouu 22/1 WCC CA Wedding Cake Cross",
-      "Producer": "enua Pharma",
-      "MinPrice": 3.99,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/slouu-22-1-wcc-ca-wedding-cake-cross"
-    },
-    {
-      "Id": 0,
-      "Name": "slouu 22/1 ZKS CA Z Kush",
-      "Producer": "enua Pharma",
-      "MinPrice": 3.35,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/slouu-22-1-zks-ca-z-kush"
-    },
-    {
-      "Id": 0,
-      "Name": "Slouu 25/1 BBY CA Blueberry",
-      "Producer": "enua Pharma",
-      "MinPrice": 3.74,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/slouu-25-1-bby-ca-blueberry"
-    },
-    {
-      "Id": 0,
-      "Name": "slouu 25/1 FPG Frosted Platinum Girl",
-      "Producer": "enua Pharma",
-      "MinPrice": 2.99,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/slouu-25-1-fpg-jhqsr"
-    },
-    {
-      "Id": 0,
-      "Name": "Slouu 25/1 PS3 CA GCB God Cherry Bud",
-      "Producer": "enua Pharma",
-      "MinPrice": 3.33,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/slouu-25-1-ps3-ca-gcb-god-cherry-bud-fqo0he"
-    },
-    {
-      "Id": 0,
-      "Name": "Slouu 25/1 PS3 CA OGK OG Kush",
-      "Producer": "enua Pharma",
-      "MinPrice": 4.09,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/slouu-25-1-ps3-ca-ogk-og-kush-q2f5kg"
-    },
-    {
-      "Id": 0,
-      "Name": "Sumo MDLX 29/1 MAC Deluxe",
-      "Producer": "",
-      "MinPrice": 4.88,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/sumo-mdlx-291-mac-deluxe"
-    },
-    {
-      "Id": 0,
-      "Name": "Sumo MDLX 30/1",
-      "Producer": "Cantourage",
-      "MinPrice": 5.49,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/sumo-mdlx-30-1"
-    },
-    {
-      "Id": 0,
-      "Name": "Sumo MDLX 30/1 MAC Deluxe",
-      "Producer": "Cantourage",
-      "MinPrice": 6.99,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/sumo-mdlx-30-1-mac-deluxe"
-    },
-    {
-      "Id": 0,
-      "Name": "Sumo PAB 25/1 Papaya Bomb",
-      "Producer": "Cantourage",
-      "MinPrice": 3.95,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/sumo-pab-25-1-papaya-bomb-zkhpc"
-    },
-    {
-      "Id": 0,
-      "Name": "Sumo PAB 28/1 Papaya Bomb",
-      "Producer": "",
-      "MinPrice": 4.6,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/sumo-pab-28-1-papaya-bomb"
-    },
-    {
-      "Id": 0,
-      "Name": "TETRA THC22 BB",
-      "Producer": "adjupharm GmbH",
-      "MinPrice": 3.29,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/tetra-thc22-bb"
-    },
-    {
-      "Id": 0,
-      "Name": "TETRA THC22 S.L.F - Sonic Lemon Fuel",
-      "Producer": "Adjupharm",
-      "MinPrice": 3.99,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/tetra-thc22-s-l-f-sonic-lemon-fuel"
-    },
-    {
-      "Id": 0,
-      "Name": "TETRA THC27 Chemango Kush",
-      "Producer": "Adjupharm",
-      "MinPrice": 4.49,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/tetra-thc27-chemango-kush"
-    },
-    {
-      "Id": 0,
-      "Name": "Tikun Midnight 10/14",
-      "Producer": "",
-      "MinPrice": 7.69,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/tikun-midnight-1014"
-    },
-    {
-      "Id": 0,
-      "Name": "Tikun Noga 27/1",
-      "Producer": "Dopiopharm",
-      "MinPrice": 6.89,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/tikun-noga-271"
-    },
-    {
-      "Id": 0,
-      "Name": "Tikun OZ 22/1 OZ",
-      "Producer": "Dopiopharm",
-      "MinPrice": 3.19,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/tikun-oz-221-oz"
-    },
-    {
-      "Id": 0,
-      "Name": "Tilray Craft Cannabisblüten THC25 BCR Beach Crasher",
-      "Producer": "Tilray",
-      "MinPrice": 2.99,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/tilray-craft-cannabisbluten-thc25-bcr-beach-crasher"
-    },
-    {
-      "Id": 0,
-      "Name": "Tilray THC 15 Spotlight Porto Blueberry",
-      "Producer": "Tilray",
-      "MinPrice": 2.95,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/tilray-thc-15-spotlight-porto-blueberry"
-    },
-    {
-      "Id": 0,
-      "Name": "Tilray THC 18 Hybrid No. 2 Pink Kush",
-      "Producer": "Tilray",
-      "MinPrice": 3.9,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/tilray-thc-18-hybrid-no-2-pink-kush"
-    },
-    {
-      "Id": 0,
-      "Name": "Tilray THC 18 Spotlight Porto Blueberry",
-      "Producer": "Tilray",
-      "MinPrice": 2.99,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/tilray-thc-18-spotlight-porto-blueberry"
-    },
-    {
-      "Id": 0,
-      "Name": "Tilray THC 25 Hybrid No. 2 Pink Kush",
-      "Producer": "Tilray",
-      "MinPrice": 4.99,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/tilray-thc-25-hybrid-no-2-pink-kush"
-    },
-    {
-      "Id": 0,
-      "Name": "Tilray THC 25 Indica No. 2 Master Kush",
-      "Producer": "Tilray",
-      "MinPrice": 2.99,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/tilray-thc-25-indica-no-2-master-kush-cd6d8eb8"
-    },
-    {
-      "Id": 0,
-      "Name": "Tilray THC 25 Spotlight Porto Island Sweet Skunk",
-      "Producer": "Tilray",
-      "MinPrice": 2.99,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/tilray-thc-25-spotlight-porto-island-sweet-skunk"
-    },
-    {
-      "Id": 0,
-      "Name": "Tilray THC10:CBD10 Warlock No.1",
-      "Producer": "Tilray",
-      "MinPrice": 7.99,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/tilray-thc10-cbd10-warlock-no-1-1cea3df6"
-    },
-    {
-      "Id": 0,
-      "Name": "Tilray THC10:CBD10 Warlock No.2",
-      "Producer": "Tilray",
-      "MinPrice": 5.49,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/tilray-thc10-cbd10-warlock-no-2-dc65247e"
-    },
-    {
-      "Id": 0,
-      "Name": "TILRAY THC25 Hybrid No.4 Galaxy Walker OG",
-      "Producer": "Tilray",
-      "MinPrice": 2.99,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/tilray-thc25-hybrid-no-4-galaxy-walker-og-w9geff"
-    },
-    {
-      "Id": 0,
-      "Name": "Tilray THC25 Sativa No 4 Island Sweet Skunk",
-      "Producer": "Tilray",
-      "MinPrice": 2.99,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/tilray-thc25-sativa-no-4-island-sweet-skunk"
-    },
-    {
-      "Id": 0,
-      "Name": "Tilray THC25 Spotlight Porto Purps",
-      "Producer": "Tilray",
-      "MinPrice": 2.99,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/tilray-thc25-spotlight-porto-purps"
-    },
-    {
-      "Id": 0,
-      "Name": "TREATZ FZ 21/1 Frostiez",
-      "Producer": "Cantourage",
-      "MinPrice": 5.5,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/treatz-fz-21-1-frostiez"
-    },
-    {
-      "Id": 0,
-      "Name": "TREATZ HB 29/1 Honey Biscotti",
-      "Producer": "Cantourage",
       "MinPrice": 5.79,
       "Available": true,
-      "Url": "https://privatrezept.net/product/treatz-hb-29-1-honey-biscotti-j9h96sl"
+      "Url": "https://privatrezept.net/product/remexian-271-gjy-grg-grape-galena"
     },
     {
       "Id": 0,
-      "Name": "TREATZ LC 30/1 Lemon Cheesecake",
-      "Producer": "Cantourage",
-      "MinPrice": 5.27,
+      "Name": "Remexian 27/1 SUM AOG Alien OG",
+      "Producer": "Remexian Pharma",
+      "MinPrice": 4.38,
       "Available": true,
-      "Url": "https://privatrezept.net/product/treatz-lc-30-1-lemon-cheesecake"
+      "Url": "https://privatrezept.net/product/remexian-27-1-sum-aog-alien-og"
     },
     {
       "Id": 0,
-      "Name": "TREATZ SZ 29/1 Sticky Skittlez",
-      "Producer": "Cantourage",
-      "MinPrice": 4.3,
+      "Name": "Remexian 27/1 TWE OGD OG Deluxe",
+      "Producer": "Remexian Pharma",
+      "MinPrice": 4.99,
       "Available": true,
-      "Url": "https://privatrezept.net/product/treatz-sz-29-1-sticky-skittlez"
+      "Url": "https://privatrezept.net/product/remexian-27-1-twe-ogd-og-deluxe-t6zaqj"
     },
     {
       "Id": 0,
-      "Name": "Weeco Duke 24/1 Purple Rain",
-      "Producer": "Aurora",
-      "MinPrice": 3.75,
+      "Name": "Remexian 28/1 CRF TO Triangle Octane",
+      "Producer": "Remexian Pharma",
+      "MinPrice": 4.75,
       "Available": true,
-      "Url": "https://privatrezept.net/product/weeco-duke-241-purple-rain-purple-rain-by-the-gram"
+      "Url": "https://privatrezept.net/product/remexian-28-1-crf-to-triangle-octane-qheats"
     },
     {
       "Id": 0,
-      "Name": "Weeco Duke 27/1 DK",
-      "Producer": "Weeco",
-      "MinPrice": 3.39,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/weeco-duke-27-1-dk"
-    },
-    {
-      "Id": 0,
-      "Name": "Weeco Duke 30/1 DK Duke - Purple Rain",
-      "Producer": "Weeco",
-      "MinPrice": 3.79,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/weeco-duke-30-1-dk-duke-purple-rain-anmpfi"
-    },
-    {
-      "Id": 0,
-      "Name": "Weeco HK 20/1 Hindu Kush",
-      "Producer": "Weeco",
-      "MinPrice": 3.6,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/weeco-hk-201-hindu-kush"
-    },
-    {
-      "Id": 0,
-      "Name": "Weeco LMC 30/1 DK Lemoncello",
-      "Producer": "Weeco",
-      "MinPrice": 5.25,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/weeco-lmc-30-1-dk-lemoncello"
-    },
-    {
-      "Id": 0,
-      "Name": "ZOIKS 26/1 ALM Alienmax",
-      "Producer": "avaay",
-      "MinPrice": 4.09,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/zoiks-26-1-alm-alienmax"
-    },
-    {
-      "Id": 0,
-      "Name": "ZOIKS 26/1 BLBC Black Berry Chai",
-      "Producer": "avaay",
-      "MinPrice": 4.39,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/zoiks-26-1-blbc-black-berry-chai"
-    },
-    {
-      "Id": 0,
-      "Name": "Zoiks 26/1 FK Fairy Kush",
-      "Producer": "Vayamed",
-      "MinPrice": 3.9,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/zoiks-26-1-fk-fairy-kush"
-    },
-    {
-      "Id": 0,
-      "Name": "ZOIKS 26/1 GCK GG4 x Critical Kush",
-      "Producer": "Vayamed",
-      "MinPrice": 4.95,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/zoiks-26-1-gck-gg4-x-critical-kush-vut48u"
-    },
-    {
-      "Id": 0,
-      "Name": "ZOIKS 26/1 LK OG Lime Kush",
-      "Producer": "avaay",
-      "MinPrice": 4.57,
-      "Available": true,
-      "Url": "https://privatrezept.net/product/zoiks-261-lk-og-lime-kush"
-    },
-    {
-      "Id": 0,
-      "Name": "Demecan HS Light Drop Rainbow Dawg",
-      "Producer": "",
-      "MinPrice": 2.99,
-      "Available": true,
-      "Url": "https://canthera.de/demecan-hs-light-drop-rainbow-dawg/"
-    },
-    {
-      "Id": 0,
-      "Name": "Demecan Core Saxonia 28/01 - Wedding Cake x Jet Fuel Gelato",
-      "Producer": "",
-      "MinPrice": 5.47,
-      "Available": true,
-      "Url": "https://canthera.de/demecan-core-saxonia-28-01-wedding-cake-x-jet-fuel-gelato/"
-    }
-  ],
-  "RemovedCount": 254,
-  "BackInStock": [
-    {
-      "Id": 3331,
-      "Name": "Origine Nature MED 32/1 Medellin",
-      "Producer": "Cantourage",
-      "MinPrice": 5.99,
-      "Available": true,
-      "Url": "https://flowzz.com/product/origine-nature-med-32-1-medellin"
-    },
-    {
-      "Id": 3332,
-      "Name": "Demecan PS Strong Drop Animal Cookies x SinMint Cookies",
-      "Producer": "Demecan",
-      "MinPrice": 3.74,
-      "Available": true,
-      "Url": "https://flowzz.com/product/demecan-ps-strong-drop-animal-cookies-x-sinmint-cookies"
-    },
-    {
-      "Id": 3335,
-      "Name": "Demecan Craft GO 24/01 Game Over #4",
-      "Producer": "Demecan",
-      "MinPrice": 4.9,
-      "Available": true,
-      "Url": "https://flowzz.com/product/demecan-craft-go-24-01-game-over-4"
-    },
-    {
-      "Id": 3334,
-      "Name": "Siggis WBLT 22:01 Siggis Waldbeerblüte",
-      "Producer": "Demecan",
-      "MinPrice": 7.49,
-      "Available": true,
-      "Url": "https://flowzz.com/product/siggis-wblt-2201-super-lemon-haze-x-end-game-3"
-    },
-    {
-      "Id": 3328,
-      "Name": "NICE 26/1 CHA Capri Haze",
-      "Producer": "Cansativa",
-      "MinPrice": 3.37,
-      "Available": true,
-      "Url": "https://flowzz.com/product/nice-26-1-cha-capri-haze"
-    },
-    {
-      "Id": 3329,
-      "Name": "Suprobion PB 22/1 Papaya Bomb",
-      "Producer": "Suprobion",
-      "MinPrice": 3.74,
-      "Available": true,
-      "Url": "https://flowzz.com/product/suprobion-pb-22-1-papaya-bomb"
-    },
-    {
-      "Id": 3330,
-      "Name": "bava med 27/1 BLA-GA Permanent Marker",
-      "Producer": "bavamedical",
+      "Name": "Remexian 30/1 BBR HOT High Octane 94",
+      "Producer": "Remexian Pharma",
       "MinPrice": 3.99,
       "Available": true,
-      "Url": "https://flowzz.com/product/bava-med-27-1-bla-ga-permanent-marker"
+      "Url": "https://privatrezept.net/product/remexian-30-1-bbr-hot-high-octane-94"
     },
     {
-      "Id": 3333,
-      "Name": "TRUU PS 30:01 Animal Mints x Bubba Kush",
-      "Producer": "Demecan",
-      "MinPrice": 4.49,
+      "Id": 0,
+      "Name": "Remexian 30/1 BPU THR Thunderrot",
+      "Producer": "Remexian Pharma",
+      "MinPrice": 4.8,
       "Available": true,
-      "Url": "https://flowzz.com/product/truu-ps-3001-animal-mints-x-bubba-kush"
+      "Url": "https://privatrezept.net/product/remexian-30-1-bpu-thr-thunderrot-5d6eky"
     },
     {
-      "Id": 3234,
-      "Name": "APEX SBP CA 28/1 Strawberry Passion",
-      "Producer": "Cannovum",
-      "MinPrice": 4.49,
-      "Available": true,
-      "Url": "https://flowzz.com/product/apex-sbp-ca-28-1-strawberry-passion"
-    },
-    {
-      "Id": 3326,
-      "Name": "Luana 28/1 CM Cherry Mints",
-      "Producer": "Cannamedical",
-      "MinPrice": 3.98,
-      "Available": true,
-      "Url": "https://flowzz.com/product/luana-28-1-cm-cherry-mints"
-    },
-    {
-      "Id": 3324,
-      "Name": "Cannamedical Sativa forte Zkittlez Mintz",
-      "Producer": "Cannamedical",
+      "Id": 0,
+      "Name": "Remexian 30/1 CAV HOT High Octane 94",
+      "Producer": "Remexian Pharma",
       "MinPrice": 3.99,
       "Available": true,
-      "Url": "https://flowzz.com/product/cannamedical-sativa-forte-zkittlez-mintz"
+      "Url": "https://privatrezept.net/product/remexian-30-1-cav-hot-high-octane-94"
     },
     {
-      "Id": 3323,
-      "Name": "Cannamedical Sativa forte Crescendo Cookies",
-      "Producer": "Cannamedical",
-      "MinPrice": 4.31,
+      "Id": 0,
+      "Name": "Remexian 30/1 CEE CJU Cap Junky",
+      "Producer": "Remexian Pharma",
+      "MinPrice": 8.95,
       "Available": true,
-      "Url": "https://flowzz.com/product/cannamedical-sativa-forte-crescendo-cookies"
+      "Url": "https://privatrezept.net/product/remexian-30-1-cee-cju-cap-junky-8e7wzz"
     },
     {
-      "Id": 3322,
-      "Name": "Cannamedical Hybrid ultimate SF Afghan Bubba Kush",
-      "Producer": "Cannamedical",
-      "MinPrice": 5.62,
-      "Available": true,
-      "Url": "https://flowzz.com/product/cannamedical-hybrid-ultimate-sf-afghan-bubba-kush"
-    },
-    {
-      "Id": 3291,
-      "Name": "Siggis ZBLT 24:01 Siggis Zitronenblüte",
-      "Producer": "Demecan",
-      "MinPrice": 6.97,
-      "Available": true,
-      "Url": "https://flowzz.com/product/siggis-zbtl-24-01-siggis-zitronenbluete"
-    },
-    {
-      "Id": 3305,
-      "Name": "Canify 28/1 CSF Ku. Solpina Magic",
-      "Producer": "Canify",
-      "MinPrice": 3.95,
-      "Available": true,
-      "Url": "https://flowzz.com/product/canify-28-1-csf-ku-solpina-magic"
-    },
-    {
-      "Id": 3306,
-      "Name": "Demecan Craft Aloha 31/1 98 Aloha White Widow x Trainwreck",
-      "Producer": "Demecan",
-      "MinPrice": 5.99,
-      "Available": true,
-      "Url": "https://flowzz.com/product/demecan-craft-aloha-31-1-98-aloha-white-widow-x-trainwreck"
-    },
-    {
-      "Id": 3309,
-      "Name": "TRUU LX 24:01 GMO Cookies x Kush Mintz",
-      "Producer": "Demecan",
-      "MinPrice": 3.2,
-      "Available": true,
-      "Url": "https://flowzz.com/product/truu-lx-2401-gmo-cookies-x-kush-mintz"
-    },
-    {
-      "Id": 3281,
-      "Name": "GT Epic Drop Girl Scout Kush 30:1",
-      "Producer": "Demecan",
-      "MinPrice": 5.49,
-      "Available": true,
-      "Url": "https://flowzz.com/product/gt-epic-drop-girl-scout-kush-30-1"
-    },
-    {
-      "Id": 3307,
-      "Name": "CRQSH CPJs 33/1 Cap Junky smalls",
-      "Producer": "ROOBS",
+      "Id": 0,
+      "Name": "Remexian 30/1 CHE Chem Cookies",
+      "Producer": "",
       "MinPrice": 5.95,
       "Available": true,
-      "Url": "https://flowzz.com/product/crqsh-cpjs-33-1-cap-junky"
-    },
-    {
-      "Id": 3311,
-      "Name": "BC Green PPB 20/1 Pink Platinum Banana",
-      "Producer": "canymed",
-      "MinPrice": 3.49,
-      "Available": true,
-      "Url": "https://flowzz.com/product/bc-green-pbb-20-1-pink-platinum-banana"
-    },
-    {
-      "Id": 3318,
-      "Name": "Luana 24/1 GSC Girl Scout Cookies",
-      "Producer": "Cannamedical",
-      "MinPrice": 4.57,
-      "Available": true,
-      "Url": "https://flowzz.com/product/luana-24-1-gsc-girl-scout-cookies"
-    },
-    {
-      "Id": 3321,
-      "Name": "NICE 26/1 GP Georgia Pie",
-      "Producer": "Cansativa",
-      "MinPrice": 3.6,
-      "Available": true,
-      "Url": "https://flowzz.com/product/nice-26-1-gp-georgia-pie"
+      "Url": "https://privatrezept.net/product/remexian-301-che-chem-cookies"
     },
     {
       "Id": 0,
-      "Name": "Demecan Core Moonbow 23/1 - Moonbow 112 IX",
-      "Producer": "",
-      "MinPrice": 4.64,
+      "Name": "Remexian 30/1 CHK Chemical Kush",
+      "Producer": "Remexian Pharma",
+      "MinPrice": 5.75,
       "Available": true,
-      "Url": "https://canthera.de/demecan-core-moonbow-23-1-moonbow-112-ix/"
+      "Url": "https://privatrezept.net/product/remexian-301-chk-chemical-kush"
+    },
+    {
+      "Id": 0,
+      "Name": "Remexian 30/1 CIV BOB Booberry Cookies",
+      "Producer": "Remexian Pharma",
+      "MinPrice": 4.35,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/remexian-301-civ-bob-booberry-cookies"
+    },
+    {
+      "Id": 0,
+      "Name": "Remexian 30/1 CRF UNP Unicorn Poop",
+      "Producer": "Remexian Pharma",
+      "MinPrice": 4.8,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/remexian-30-1-crf-unp-unicorn-poop"
+    },
+    {
+      "Id": 0,
+      "Name": "Remexian 30/1 CRX DOD Diablo Dreamer",
+      "Producer": "Remexian Pharma",
+      "MinPrice": 3.95,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/remexian-30-1-crx-dod-diablo-dreamer"
+    },
+    {
+      "Id": 0,
+      "Name": "Remexian 30/1 CRX EXG Exotic Gas",
+      "Producer": "Remexian Pharma",
+      "MinPrice": 4.49,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/remexian-30-1-crx-exg-exotic-gas"
+    },
+    {
+      "Id": 0,
+      "Name": "Remexian 30/1 CRX JTO Jetlato",
+      "Producer": "Remexian Pharma",
+      "MinPrice": 3.95,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/remexian-30-1-crx-jto-jetlato"
+    },
+    {
+      "Id": 0,
+      "Name": "Remexian 30/1 CRX LTA Lemonata",
+      "Producer": "Remexian Pharma",
+      "MinPrice": 4.9,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/remexian-30-1-crx-lta-lemonata"
+    },
+    {
+      "Id": 0,
+      "Name": "Remexian 30/1 GCC GUB Guava Bars Guava Barz",
+      "Producer": "Remexian Pharma",
+      "MinPrice": 4.49,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/remexian-301-gcc-gub-guava-bars-guava-barz"
+    },
+    {
+      "Id": 0,
+      "Name": "Remexian 30/1 HCC ARR Arctic Reaper",
+      "Producer": "Remexian Pharma",
+      "MinPrice": 5.2,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/remexian-30-1-hcc-arr-u9jbnv"
+    },
+    {
+      "Id": 0,
+      "Name": "Remexian 30/1 HCC PLT Purple Toque",
+      "Producer": "Remexian Pharma",
+      "MinPrice": 4.8,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/remexian-30-1-hcc-plt-purple-toque-grd8u"
+    },
+    {
+      "Id": 0,
+      "Name": "Remexian 30/1 JOI MTC Mojito Cookies",
+      "Producer": "Remexian Pharma",
+      "MinPrice": 4.35,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/remexian-30-1-joi-mtc-mojito-cookies-jykaoc"
+    },
+    {
+      "Id": 0,
+      "Name": "Siggis Feature No. 1 Siggis Marple Sour",
+      "Producer": "Demecan",
+      "MinPrice": 8.95,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/siggis-feature-no-1-siggis-marple-sour"
+    },
+    {
+      "Id": 0,
+      "Name": "Siggis ZBLT 28:01 Siggis Zitronenblüte",
+      "Producer": "Demecan",
+      "MinPrice": 8.99,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/siggis-zblt-28-01-siggis-zitronenbl-te-2enxur"
+    },
+    {
+      "Id": 0,
+      "Name": "Sinceritas Hybrid Verum 24/1 BK Banana Kush",
+      "Producer": "Sinceritas",
+      "MinPrice": 4.35,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/sinceritas-hybrid-verum-24-1-bk-banana-kush-dg0ym"
+    },
+    {
+      "Id": 0,
+      "Name": "Sinceritas Sativa Verum 24/1 BG Blueberry Gelato",
+      "Producer": "Sinceritas",
+      "MinPrice": 5.45,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/sinceritas-sativa-verum-24-1-bg-blueberry-gelato"
+    },
+    {
+      "Id": 0,
+      "Name": "Sinceritas Sativa Verum 24/1 Kush Mints",
+      "Producer": "",
+      "MinPrice": 3.98,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/sinceritas-sativa-verum-241-kush-mints"
+    },
+    {
+      "Id": 0,
+      "Name": "Sinceritas Sativa Verum 24/1 TC Tropical Cake",
+      "Producer": "Sinceritas",
+      "MinPrice": 5.95,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/sinceritas-sativa-verum-24-1-tc-tropical-cake-35vaw745"
+    },
+    {
+      "Id": 0,
+      "Name": "SIQQ 25/1 CA GP: Gumbo Pow",
+      "Producer": "Grünhorn",
+      "MinPrice": 4.25,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/siqq-25-1-ca-gp-gumbo-pow"
+    },
+    {
+      "Id": 0,
+      "Name": "SIQQ 27/1 CA SLU: Sliced Up",
+      "Producer": "Canymed",
+      "MinPrice": 4.99,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/siqq-27-1-ca-slu-sliced-up"
+    },
+    {
+      "Id": 0,
+      "Name": "Sitka Legends 24/1 FUP Funk Petals",
+      "Producer": "Remexian Pharma",
+      "MinPrice": 4.5,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/sitka-legends-24-1-fup-funk-petals"
+    },
+    {
+      "Id": 0,
+      "Name": "Sitka Legends 24/1 KSD Kim's Sweet Diesel",
+      "Producer": "Remexian Pharma",
+      "MinPrice": 4.79,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/sitka-legends-24-1-ksd-kim-s-sweet-diesel"
+    },
+    {
+      "Id": 0,
+      "Name": "Sitka Legends 24/1 RUH Ruby Haze",
+      "Producer": "Remexian Pharma",
+      "MinPrice": 3.95,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/sitka-legends-24-1-ruh-ruby-haze"
+    },
+    {
+      "Id": 0,
+      "Name": "Sitka Legends 24/1 WHG White Hot Guava",
+      "Producer": "Remexian Pharma",
+      "MinPrice": 4.17,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/sitka-legends-24-1-whg-white-hot-guava"
+    },
+    {
+      "Id": 0,
+      "Name": "Sitka Legends 27/1 ROS Royal Sherbert",
+      "Producer": "Remexian Pharma",
+      "MinPrice": 3.99,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/sitka-legends-27-1-ros-royal-sherbert"
+    },
+    {
+      "Id": 0,
+      "Name": "Slouu 33/1 COZ CA Cookies OZ",
+      "Producer": "enua Pharma",
+      "MinPrice": 4.25,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/slouu-33-1-coz-ca-cookies-oz"
+    },
+    {
+      "Id": 0,
+      "Name": "Social Choice! 18/1 ALB CSH Cement Shoes",
+      "Producer": "Remexian Pharma",
+      "MinPrice": 3.2,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/social-choice-18-1-alb-csh-cement-shoes-yj6bpm"
+    },
+    {
+      "Id": 0,
+      "Name": "Social Choice! 18/1 ALB USH Unicorn Shoes",
+      "Producer": "Remexian Pharma",
+      "MinPrice": 3.2,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/social-choice-18-1-alb-ush-unicorn-shoes-7dk5a6"
+    },
+    {
+      "Id": 0,
+      "Name": "Social Choice! 18/1 MCP GMO Cookies",
+      "Producer": "Remexian Pharma",
+      "MinPrice": 3.49,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/social-choice-18-1-mcp-gmo-cookies-60f51864"
+    },
+    {
+      "Id": 0,
+      "Name": "SOMA OG 28/1 Super Boof",
+      "Producer": "medizinalhanf GmbH",
+      "MinPrice": 3.95,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/soma-og-28-1-super-boof-i03nbe"
+    },
+    {
+      "Id": 0,
+      "Name": "Soma OG 30/1 BCP Black Cherry Punch",
+      "Producer": "Remexian Pharma",
+      "MinPrice": 5.79,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/soma-og-30-1-bcp-black-cherry-punch-yi20ga"
+    },
+    {
+      "Id": 0,
+      "Name": "Soma OG 32/1 PF Spritzer",
+      "Producer": "Cansativa",
+      "MinPrice": 4.98,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/soma-og-32-1-pf-spritzer-w43uon"
+    },
+    {
+      "Id": 0,
+      "Name": "Soma OG 34/1 PF Cap junky",
+      "Producer": "Cansativa",
+      "MinPrice": 7.99,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/soma-og-341-pf-cap-junky-cap-junky"
+    },
+    {
+      "Id": 0,
+      "Name": "stabil. FLF CA 26/1 Fruitloops & Fuel",
+      "Producer": "Cannovum",
+      "MinPrice": 3.49,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/stabil-flf-ca-26-1-fruitloops-fuel"
+    },
+    {
+      "Id": 0,
+      "Name": "stabil. JTK-COL 20/1 Jack Attack",
+      "Producer": "Cannovum",
+      "MinPrice": 4.89,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/stabil-jtk-col-20-1-jack-attack-cka3hk"
+    },
+    {
+      "Id": 0,
+      "Name": "stabil. ROS PT 26/1 Rose Darling",
+      "Producer": "Cannovum",
+      "MinPrice": 3.63,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/stabil-ros-pt-26-1-rose-darling"
+    },
+    {
+      "Id": 0,
+      "Name": "Sumo Canada Craft No.3 23/1 Garlic Chem",
+      "Producer": "Cantourage",
+      "MinPrice": 5.99,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/sumo-canada-craft-no-3-23-1-garlic-chem-4207581a"
+    },
+    {
+      "Id": 0,
+      "Name": "Sumo MDLX 24/1 MAC Deluxe",
+      "Producer": "Cantourage",
+      "MinPrice": 4.45,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/sumo-mdlx-24-1-mac-deluxe"
+    },
+    {
+      "Id": 0,
+      "Name": "Sumo MDLX 27/1 MAC Deluxe",
+      "Producer": "Cantourage",
+      "MinPrice": 4.4,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/sumo-mdlx-27-1-mac-deluxe-m00ht"
+    },
+    {
+      "Id": 0,
+      "Name": "Tweed PSR 30/1 Pablo’s Revenge",
+      "Producer": "Canopy Medical",
+      "MinPrice": 4.25,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/tweed-psr-30-1-cfte3n"
+    },
+    {
+      "Id": 0,
+      "Name": "TYSON 2.0 22/1 Exodus",
+      "Producer": "Pharmcann",
+      "MinPrice": 3.99,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/tyson-2-0-22-1-exodus"
+    },
+    {
+      "Id": 0,
+      "Name": "TYSON 2.0 22/1 Frozen Fist",
+      "Producer": "Nimbus Health",
+      "MinPrice": 5.99,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/tyson-2-0-22-1-frozen-fist-b58c1dc9"
+    },
+    {
+      "Id": 0,
+      "Name": "TYSON 2.0 24/1 Exodus",
+      "Producer": "Nimbus Health",
+      "MinPrice": 2.98,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/tyson-2-0-24-1-exodus-cc4ec243"
+    },
+    {
+      "Id": 0,
+      "Name": "TYSON 2.0 26/1 Alexander The Great",
+      "Producer": "Nimbus Health",
+      "MinPrice": 6.49,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/tyson-2-0-26-1-alexander-the-great-6fbf91bd"
+    },
+    {
+      "Id": 0,
+      "Name": "TYSON 2.0 28/1 Alexander The Great",
+      "Producer": "Nimbus Health",
+      "MinPrice": 8.09,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/tyson-2-0-28-1-alexander-the-great-884f5279"
+    },
+    {
+      "Id": 0,
+      "Name": "Uncle Bob GD 25/1 Granddaddy",
+      "Producer": "Cantourage",
+      "MinPrice": 3.91,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/uncle-bob-gd-25-1-granddaddy"
+    },
+    {
+      "Id": 0,
+      "Name": "Uncle Bob GD 27/1 Granddaddy",
+      "Producer": "Cantourage",
+      "MinPrice": 4.44,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/uncle-bob-gd-27-1-granddaddy"
+    },
+    {
+      "Id": 0,
+      "Name": "Unit17 30/1 MCJ MAC1 x Cap Junky",
+      "Producer": "Remexian Pharma",
+      "MinPrice": 5.89,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/unit17-30-1-mcj-mac1-x-cap-junky"
+    },
+    {
+      "Id": 0,
+      "Name": "UNLTD 24/1 PNCK STMPR Pancake Stomper",
+      "Producer": "undefined",
+      "MinPrice": 3.49,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/unltd-24-1-pnck-stmpr-pancake-stomper"
+    },
+    {
+      "Id": 0,
+      "Name": "Upstate 24/1 RZ Rozay",
+      "Producer": "Montu Group",
+      "MinPrice": 3.8,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/upstate-24-1-rz-rozay"
+    },
+    {
+      "Id": 0,
+      "Name": "Upstate 24/1 SN Shadow Neon",
+      "Producer": "Cansativa",
+      "MinPrice": 4.46,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/upstate-24-1-sn-shadow-neon"
+    },
+    {
+      "Id": 0,
+      "Name": "Upstate 25/1 FOG Face Off OG",
+      "Producer": "Montu Group",
+      "MinPrice": 4.49,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/upstate-25-1-fog-face-off-og"
+    },
+    {
+      "Id": 0,
+      "Name": "Upstate 26/1 HP Humboldt Poundcake",
+      "Producer": "Montu Group",
+      "MinPrice": 5.49,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/upstate-26-1-hp-humboldt-poundcake-a70vqs"
+    },
+    {
+      "Id": 0,
+      "Name": "Upstate 27/1 CJ Concrete Jungle",
+      "Producer": "Montu Group",
+      "MinPrice": 3.59,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/upstate-27-1-cj-concrete-jungle"
+    },
+    {
+      "Id": 0,
+      "Name": "Upstate 28/1 GJ Grape Jelly",
+      "Producer": "ADREXpharma",
+      "MinPrice": 3.59,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/upstate-28-1-gj-grape-jelly"
+    },
+    {
+      "Id": 0,
+      "Name": "Upstate 29/1 C5 Slurricane",
+      "Producer": "Montu Group",
+      "MinPrice": 5.49,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/upstate-29-1-c5-slurricane"
+    },
+    {
+      "Id": 0,
+      "Name": "Upstate 30/1 GZ Garlic Zkittlez",
+      "Producer": "Montu Group",
+      "MinPrice": 5.3,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/upstate-30-1-gz-garlic-zkittlez"
+    },
+    {
+      "Id": 0,
+      "Name": "V-LUE FaZ9 27/1 FalconZ",
+      "Producer": "ROOBS GmbH",
+      "MinPrice": 3.99,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/v-lue-faz9-27-1-falconz"
+    },
+    {
+      "Id": 0,
+      "Name": "Wellford Aeroponic 30/1 ZA CAP Candy Pave",
+      "Producer": "Therismos",
+      "MinPrice": 5.29,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/wellford-aeroponic-30-1-za-cap-candy-pave"
+    },
+    {
+      "Id": 0,
+      "Name": "Wellford Aeroponic 33/1 ZA FAZ Facetz",
+      "Producer": "Therismos",
+      "MinPrice": 5.49,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/wellford-aeroponic-33-1-za-faz-facetz"
+    },
+    {
+      "Id": 0,
+      "Name": "Wellford Aquaponic 26/1 ATG Atlantic Glue GG4",
+      "Producer": "Therismos",
+      "MinPrice": 3.75,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/wellford-aquaponic-26-1-atg-atlantic-glue-mg4va8"
+    },
+    {
+      "Id": 0,
+      "Name": "Wellford Aquaponic 26/1 GTH Ghost Train Haze",
+      "Producer": "Therismos",
+      "MinPrice": 3.95,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/wellford-aquaponic-261-gth-ghost-train-haze"
+    },
+    {
+      "Id": 0,
+      "Name": "Wellford Aquaponic 26/1 QSG Queen SanG",
+      "Producer": "Therismos",
+      "MinPrice": 4.25,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/wellford-aquaponic-261-qsg-queen-sang"
+    },
+    {
+      "Id": 0,
+      "Name": "Wellford Aquaponic 29/1 LBO Legendary Bozy",
+      "Producer": "Therismos",
+      "MinPrice": 4.49,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/wellford-aquaponic-29-1-lbo-legendary-bozy-0rjgyc"
+    },
+    {
+      "Id": 0,
+      "Name": "Wellford Aquaponic 30/1 ATG Atlantic Glue Atlantic Glue GG4",
+      "Producer": "",
+      "MinPrice": 8.95,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/wellford-aquaponic-301-atg-atlantic-glue-atlantic-glue-gg4"
+    },
+    {
+      "Id": 0,
+      "Name": "Wellford Luma 24/1 ZA SOC Sour OG Cheese",
+      "Producer": "Therismos",
+      "MinPrice": 3.4,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/wellford-luma-241-za-soc-sour-og-cheese"
+    },
+    {
+      "Id": 0,
+      "Name": "Wellford Peak 30/1 CA T95 Tres Dawg x I-95",
+      "Producer": "Therismos",
+      "MinPrice": 3.85,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/wellford-peak-301-ca-t95-tres-dawg-x-i-95-tres-dawg-x-i-95"
+    },
+    {
+      "Id": 0,
+      "Name": "Wellford Peak CA PKM 33/1 Pink Kush Mints",
+      "Producer": "Therismos",
+      "MinPrice": 4.7,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/wellford-peak-ca-pkm-33-1-pink-kush-mints-vcu6ax"
+    },
+    {
+      "Id": 0,
+      "Name": "WIEZE BCM 28/1 Black Cherry Mint",
+      "Producer": "Cannamedical",
+      "MinPrice": 4.99,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/wieze-bcm-28-1-black-cherry-mint"
+    },
+    {
+      "Id": 0,
+      "Name": "Wildlife 22 GB CAN Glueberry",
+      "Producer": "ADREXpharma",
+      "MinPrice": 3.79,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/wildlife-22-gb-can-glueberry"
+    },
+    {
+      "Id": 0,
+      "Name": "enua 22/1 BCP CA Black Cherry Punch",
+      "Producer": "enua Pharma",
+      "MinPrice": 3.95,
+      "Available": true,
+      "Url": "https://privatrezept.net/product/enua-221-bcp-ca-black-cherry-punch"
+    },
+    {
+      "Id": 0,
+      "Name": "AphriaRX THC25 SNS - Sunset Sherbet",
+      "Producer": "",
+      "MinPrice": 4.17,
+      "Available": true,
+      "Url": "https://canthera.de/aphriarx-thc25-sns-sunset-sherbet/"
     }
   ],
-  "OutOfStock": [
+  "RemovedCount": 163,
+  "BackInStock": [
     {
-      "Id": 2192,
-      "Name": "Good Supply THC22 AOG Amnesia OG",
-      "Producer": "Tilray",
-      "MinPrice": null,
-      "Available": false,
-      "Url": "https://flowzz.com/product/good-supply-thc-22-aog-amnesia-og"
+      "Id": 1517,
+      "Name": "Demecan HS Light Drop Rainbow Dawg",
+      "Producer": "Demecan",
+      "MinPrice": 2.99,
+      "Available": true,
+      "Url": "https://flowzz.com/product/demecan-hs-light-drop-rainbow-dawg"
     },
     {
       "Id": 779,
       "Name": "Green Karat PV PT Pavé S1",
       "Producer": "Cantourage",
-      "MinPrice": null,
-      "Available": false,
+      "MinPrice": 5.35,
+      "Available": true,
       "Url": "https://flowzz.com/product/green-karat-pv-pt-pave-s1"
     },
     {
       "Id": 777,
       "Name": "enua 22/1 AFSC CA Animal Face Sherb Crasher",
       "Producer": "enua Pharma",
-      "MinPrice": null,
-      "Available": false,
+      "MinPrice": 7.3,
+      "Available": true,
       "Url": "https://flowzz.com/product/enua-22-1-afsc-ca-animal-face-sherb-crasher"
     },
     {
       "Id": 765,
       "Name": "BOTANICS Tonic Fuel 22/1 Gary Payton",
       "Producer": "Nimbus Health",
-      "MinPrice": null,
-      "Available": false,
+      "MinPrice": 8.49,
+      "Available": true,
       "Url": "https://flowzz.com/product/botanics-tonic-fuel-22-1-gary-payton"
     },
     {
       "Id": 758,
       "Name": "Navcora THC 18 Spotlight Porto Mango",
       "Producer": "Tilray",
-      "MinPrice": null,
-      "Available": false,
+      "MinPrice": 3.9,
+      "Available": true,
       "Url": "https://flowzz.com/product/navcora-thc-18-spotlight-porto-mango-mango"
     },
     {
       "Id": 757,
       "Name": "Bathera 25/1 Velvet Glove",
       "Producer": "Bathera",
-      "MinPrice": null,
-      "Available": false,
+      "MinPrice": 8.4,
+      "Available": true,
       "Url": "https://flowzz.com/product/bathera-25-1-velvet-glove"
     },
     {
       "Id": 756,
       "Name": "Cannamedical Balanced classic 6/10 Cali-O California Orange",
       "Producer": "Cannamedical",
-      "MinPrice": null,
-      "Available": false,
+      "MinPrice": 10.35,
+      "Available": true,
       "Url": "https://flowzz.com/product/cannamedical-balanced-classic-6-10-cali-o-california-orange"
     },
     {
       "Id": 752,
       "Name": "All Nations GM PT Mac Doughnut",
       "Producer": "Cantourage",
+      "MinPrice": 8.58,
+      "Available": true,
+      "Url": "https://flowzz.com/product/all-nations-gm-pt-mac-doughnut"
+    },
+    {
+      "Id": 3033,
+      "Name": "Demecan Lean Drop 22/1 Cherry Pie Kush x OG Kush",
+      "Producer": "Demecan",
+      "MinPrice": 4.29,
+      "Available": true,
+      "Url": "https://flowzz.com/product/demecan-lean-drop-22-1-cherry-pie-kush-x-og-kush"
+    }
+  ],
+  "OutOfStock": [
+    {
+      "Id": 3571,
+      "Name": "Coyote Valley 16/1 SBLI Sticky Bomb Liberty City",
+      "Producer": "WMG Pharma",
       "MinPrice": null,
       "Available": false,
-      "Url": "https://flowzz.com/product/all-nations-gm-pt-mac-doughnut"
+      "Url": "https://flowzz.com/product/coyote-valley-16-1-sbli-sticky-bomb-liberty-city"
+    },
+    {
+      "Id": 3265,
+      "Name": "MED KUSH RELAX PHSOF 28/1 Strong Orange Fritter",
+      "Producer": "phyto-hemp",
+      "MinPrice": null,
+      "Available": false,
+      "Url": "https://flowzz.com/product/med-kush-relax-phsof-28-1-strong-orange-fritter"
     }
   ],
   "PriceUp": [
     {
       "P": {
-        "Id": 3522,
-        "Name": "enua 30/1 AT2 CA MAM Miracle Alien Mintz",
-        "Producer": "enua Pharma",
-        "MinPrice": 4.58,
+        "Id": 2685,
+        "Name": "Candoro ethics 25:1 Indica StrOG Strawberry OG",
+        "Producer": "Candoro Ethics",
+        "MinPrice": 5.28,
         "Available": true,
-        "Url": "https://flowzz.com/product/enua-30-1-at2-ca-mam-miracle-alien-mintz"
+        "Url": "https://flowzz.com/product/candoro-ethics-25-1-indica-strog-strawberry-og"
+      },
+      "Old": 3.5,
+      "New": 5.28
+    },
+    {
+      "P": {
+        "Id": 2391,
+        "Name": "Weeco 26/1 Big Purple Dragon",
+        "Producer": "Weeco",
+        "MinPrice": 3.94,
+        "Available": true,
+        "Url": "https://flowzz.com/product/weeco-26-1-big-purple-dragon"
+      },
+      "Old": 3.29,
+      "New": 3.94
+    },
+    {
+      "P": {
+        "Id": 2031,
+        "Name": "bava med 27/1 BLA-GA Black Gas",
+        "Producer": "bavamedical",
+        "MinPrice": 5.27,
+        "Available": true,
+        "Url": "https://flowzz.com/product/bava-med-27-1-bla-ga-black-gas"
+      },
+      "Old": 4.05,
+      "New": 5.27
+    },
+    {
+      "P": {
+        "Id": 1970,
+        "Name": "KHIRON SLH 26/1 Super Lemon Haze",
+        "Producer": "KHIRON Europe",
+        "MinPrice": 6.99,
+        "Available": true,
+        "Url": "https://flowzz.com/product/khiron-slh-26-1-super-lemon-haze"
+      },
+      "Old": 4.99,
+      "New": 6.99
+    },
+    {
+      "P": {
+        "Id": 1200,
+        "Name": "Pedanios 31/1 CMK-CA Chemango Kush",
+        "Producer": "Aurora",
+        "MinPrice": 5.86,
+        "Available": true,
+        "Url": "https://flowzz.com/product/pedanios-31-1-cmk-ca-chemango-kush"
+      },
+      "Old": 4.99,
+      "New": 5.86
+    },
+    {
+      "P": {
+        "Id": 955,
+        "Name": "Cannamedical Hybrid Forte DK 22/1 Ghost Train Haze",
+        "Producer": "Cannamedical",
+        "MinPrice": 3.98,
+        "Available": true,
+        "Url": "https://flowzz.com/product/cannamedical-hybridforte-dk-22-1-ghost-train-haze"
+      },
+      "Old": 3.45,
+      "New": 3.98
+    },
+    {
+      "P": {
+        "Id": 799,
+        "Name": "KHIRON LBO 24/1 Lemon Berry OG",
+        "Producer": "KHIRON Europe",
+        "MinPrice": 4.44,
+        "Available": true,
+        "Url": "https://flowzz.com/product/khiron-lbo-24-1-lemon-berry-og"
       },
       "Old": 4.2,
-      "New": 4.58
+      "New": 4.44
     },
     {
       "P": {
-        "Id": 2122,
-        "Name": "Luana 24/1 Delight Carnez Citric",
+        "Id": 320,
+        "Name": "Weeco Duke 24/1 Purple Rain",
+        "Producer": "Weeco",
+        "MinPrice": 3.74,
+        "Available": true,
+        "Url": "https://flowzz.com/product/weeco-24-1-purple-rain"
+      },
+      "Old": 3.4,
+      "New": 3.74
+    },
+    {
+      "P": {
+        "Id": 271,
+        "Name": "Tilray THC10:CBD10 Warlock No.2",
+        "Producer": "Tilray",
+        "MinPrice": 4.49,
+        "Available": true,
+        "Url": "https://flowzz.com/product/tilray-thc-10-cbd-10-no-2-warlock-cbd"
+      },
+      "Old": 3.5,
+      "New": 4.49
+    },
+    {
+      "P": {
+        "Id": 4777,
+        "Name": "enua 25/1 FLH CA Frozen Lemon Haze",
+        "Producer": "enua Pharma",
+        "MinPrice": 4.59,
+        "Available": true,
+        "Url": "https://flowzz.com/product/enua-25-1-fhl-ca-frozen-lemon-haze"
+      },
+      "Old": 4.5,
+      "New": 4.59
+    },
+    {
+      "P": {
+        "Id": 4780,
+        "Name": "enua 27/1 FGS CA Farm Gas",
+        "Producer": "enua Pharma",
+        "MinPrice": 4.69,
+        "Available": true,
+        "Url": "https://flowzz.com/product/enua-27-1-fgs-ca-farm-gas"
+      },
+      "Old": 4.15,
+      "New": 4.69
+    },
+    {
+      "P": {
+        "Id": 3919,
+        "Name": "MGF 22/1 Copper Rose",
+        "Producer": "MGF Via Medical",
+        "MinPrice": 6.48,
+        "Available": true,
+        "Url": "https://flowzz.com/product/mgf-22-1-copper-rose"
+      },
+      "Old": 3.99,
+      "New": 6.48
+    },
+    {
+      "P": {
+        "Id": 3883,
+        "Name": "Apollo Aurora 30/1 Cream Cake 22",
+        "Producer": "Cannprisma",
+        "MinPrice": 4.4,
+        "Available": true,
+        "Url": "https://flowzz.com/product/apollo-aurora-30-1-cream-cake-22"
+      },
+      "Old": 3.99,
+      "New": 4.4
+    },
+    {
+      "P": {
+        "Id": 3882,
+        "Name": "Apollo Picasso 30/1 Spritzer",
+        "Producer": "Cannprisma",
+        "MinPrice": 4.7,
+        "Available": true,
+        "Url": "https://flowzz.com/product/apollo-picasso-30-1-spritzer"
+      },
+      "Old": 4.4,
+      "New": 4.7
+    },
+    {
+      "P": {
+        "Id": 3824,
+        "Name": "flighh no. XVII 24/1 Do-Si-Dos",
+        "Producer": "Heyday",
+        "MinPrice": 5.94,
+        "Available": true,
+        "Url": "https://flowzz.com/product/flighh-no-xvii-24-1-do-si-dos"
+      },
+      "Old": 3.5,
+      "New": 5.94
+    },
+    {
+      "P": {
+        "Id": 3815,
+        "Name": "Siggis WLDM 28:01 Siggis Waldmeister",
+        "Producer": "Demecan",
+        "MinPrice": 6.95,
+        "Available": true,
+        "Url": "https://flowzz.com/product/siggis-wldm-2801-siggis-waldmeister"
+      },
+      "Old": 5.99,
+      "New": 6.95
+    },
+    {
+      "P": {
+        "Id": 3689,
+        "Name": "AphriaRX THC28 PPV Platinum Pave #34",
+        "Producer": "Tilray",
+        "MinPrice": 3.99,
+        "Available": true,
+        "Url": "https://flowzz.com/product/aphirarx-thc-28-ppv-platinum-pave-34"
+      },
+      "Old": 2.44,
+      "New": 3.99
+    },
+    {
+      "P": {
+        "Id": 3654,
+        "Name": "Remexian 24/1 GCC GUB Guava Bars",
+        "Producer": "Remexian Pharma",
+        "MinPrice": 4.35,
+        "Available": true,
+        "Url": "https://flowzz.com/product/remexian-24-1-gcc-gub-guava-bars"
+      },
+      "Old": 4.2,
+      "New": 4.35
+    },
+    {
+      "P": {
+        "Id": 3641,
+        "Name": "Siggis HBLT 22:01 Siggis Holunderblüte",
+        "Producer": "Demecan",
+        "MinPrice": 6.79,
+        "Available": true,
+        "Url": "https://flowzz.com/product/siggis-hblt-22-01-siggis-holunderbluete"
+      },
+      "Old": 4.99,
+      "New": 6.79
+    },
+    {
+      "P": {
+        "Id": 3568,
+        "Name": "MGF GBO 26/1 Glitter Bomb",
+        "Producer": "MGF Via Medical",
+        "MinPrice": 4.49,
+        "Available": true,
+        "Url": "https://flowzz.com/product/mgf-gbo-26-1-glitter-bomb"
+      },
+      "Old": 3.98,
+      "New": 4.49
+    },
+    {
+      "P": {
+        "Id": 3479,
+        "Name": "enua 30/1 PS3 CA PCP Pineapple Cherry Punch",
+        "Producer": "enua Pharma",
+        "MinPrice": 4.11,
+        "Available": true,
+        "Url": "https://flowzz.com/product/enua-30-1-ps3-ca-pcp-pineapple-cherry-punch"
+      },
+      "Old": 3.88,
+      "New": 4.11
+    },
+    {
+      "P": {
+        "Id": 3330,
+        "Name": "bava med 27/1 BLA-GA Permanent Marker",
+        "Producer": "bavamedical",
+        "MinPrice": 4.39,
+        "Available": true,
+        "Url": "https://flowzz.com/product/bava-med-27-1-bla-ga-permanent-marker"
+      },
+      "Old": 3.99,
+      "New": 4.39
+    },
+    {
+      "P": {
+        "Id": 3304,
+        "Name": "NICE 33/1 WCR Wedding Crasher",
+        "Producer": "Cansativa",
+        "MinPrice": 5.48,
+        "Available": true,
+        "Url": "https://flowzz.com/product/nice-33-1-wcr-wedding-crasher"
+      },
+      "Old": 4.5,
+      "New": 5.48
+    },
+    {
+      "P": {
+        "Id": 3219,
+        "Name": "enua 30/1 BC CA Cap Junky",
+        "Producer": "enua Pharma",
+        "MinPrice": 5.19,
+        "Available": true,
+        "Url": "https://flowzz.com/product/enua-30-1-bc-ca-cap-junky"
+      },
+      "Old": 4.8,
+      "New": 5.19
+    },
+    {
+      "P": {
+        "Id": 3009,
+        "Name": "Slouu 25/1 PS3 CA OGK OG Kush",
+        "Producer": "enua Pharma",
+        "MinPrice": 3.74,
+        "Available": true,
+        "Url": "https://flowzz.com/product/slouu-25-1-ps3-ca-ogk-og-kush"
+      },
+      "Old": 3.69,
+      "New": 3.74
+    },
+    {
+      "P": {
+        "Id": 2982,
+        "Name": "AMP ZEN MAW THC22 Maui Wowie",
+        "Producer": "AMP",
+        "MinPrice": 4.94,
+        "Available": true,
+        "Url": "https://flowzz.com/product/amp-zen-maw-thc22-maui-wowie"
+      },
+      "Old": 2.99,
+      "New": 4.94
+    },
+    {
+      "P": {
+        "Id": 2890,
+        "Name": "Weeco Nebula 22/1 Big Kush",
+        "Producer": "Weeco",
+        "MinPrice": 6.48,
+        "Available": true,
+        "Url": "https://flowzz.com/product/weeco-nebula-22-1-big-kush"
+      },
+      "Old": 3.2,
+      "New": 6.48
+    },
+    {
+      "P": {
+        "Id": 2125,
+        "Name": "Pedanios 25/1 FLH-CA Frozen Lemon Haze",
+        "Producer": "Aurora",
+        "MinPrice": 4.89,
+        "Available": true,
+        "Url": "https://flowzz.com/product/pedanios-25-1-flh-ca-frozen-lemon-haze"
+      },
+      "Old": 4.5,
+      "New": 4.89
+    },
+    {
+      "P": {
+        "Id": 1079,
+        "Name": "Pedanios 31/1 PND-CA Pink Diesel",
+        "Producer": "Aurora",
+        "MinPrice": 6.19,
+        "Available": true,
+        "Url": "https://flowzz.com/product/pedanios-31-1-pnd-ca-pink-diesel"
+      },
+      "Old": 4.99,
+      "New": 6.19
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "OG Kush",
         "Producer": "Cannamedical",
-        "MinPrice": 4.2,
+        "MinPrice": 3.98,
         "Available": true,
-        "Url": "https://flowzz.com/product/luana-24-1-delight-carnez-citric"
+        "Url": "https://shop.dransay.com/product/og-kush/882"
       },
-      "Old": 3.49,
-      "New": 4.2
+      "Old": 3.97,
+      "New": 3.98
     },
     {
       "P": {
         "Id": 0,
-        "Name": "Capri Haze",
-        "Producer": "Cansativa",
-        "MinPrice": 7.72,
+        "Name": "IMC Mids TC 25/1 Tropic Candy",
+        "Producer": "IMC",
+        "MinPrice": 3.29,
         "Available": true,
-        "Url": "https://shop.dransay.com/product/capri-haze/5583426"
+        "Url": "https://canngo.express/market/product/imc-mids-tc-25-1-tropic-candy"
       },
-      "Old": 5.34,
-      "New": 7.72
+      "Old": 2.99,
+      "New": 3.29
     },
     {
       "P": {
         "Id": 0,
-        "Name": "Blue Zushi",
-        "Producer": "Cansativa",
-        "MinPrice": 10.7,
+        "Name": "Good Supply THC22 AOG Amnesia OG",
+        "Producer": "Tilray",
+        "MinPrice": 3.99,
         "Available": true,
-        "Url": "https://shop.dransay.com/product/blue-zushi/7696686"
+        "Url": "https://canngo.express/market/product/good-supply-thc-22-aog-amnesia-og"
       },
-      "Old": 8.32,
-      "New": 10.7
+      "Old": 2.69,
+      "New": 3.99
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "enua 27/1 MMN CA Marshmallow Man",
+        "Producer": "enua Pharma",
+        "MinPrice": 4.55,
+        "Available": true,
+        "Url": "https://canngo.express/market/product/enua-27-1-mmn-ca-marshmallow-man"
+      },
+      "Old": 4.29,
+      "New": 4.55
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Remexian 24/1 GCC GUB Guava Bars",
+        "Producer": "Remexian Pharma",
+        "MinPrice": 4.35,
+        "Available": true,
+        "Url": "https://canngo.express/market/product/remexian-24-1-gcc-gub-guava-bars"
+      },
+      "Old": 4.2,
+      "New": 4.35
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Slouu 27/1 PS3 CA SBS Sugar Berry Sorbet",
+        "Producer": "enua Pharma",
+        "MinPrice": 4.25,
+        "Available": true,
+        "Url": "https://privatrezept.net/product/slouu-27-1-ps3-ca-sbs-sugar-berry-sorbet-9j58rw"
+      },
+      "Old": 4.15,
+      "New": 4.25
     }
   ],
   "PriceDown": [
     {
       "P": {
-        "Id": 2,
-        "Name": "Bedrocan Cannabis Flos 22/1",
-        "Producer": "Bedrocan",
-        "MinPrice": 3.49,
+        "Id": 2680,
+        "Name": "Eufloria 27/1 KUM Kush Mints",
+        "Producer": "Remexian Pharma",
+        "MinPrice": 2.89,
         "Available": true,
-        "Url": "https://flowzz.com/product/bedrocan-afina"
+        "Url": "https://flowzz.com/product/eufloria-27-1-kum-kush-mints"
+      },
+      "Old": 3.99,
+      "New": 2.89
+    },
+    {
+      "P": {
+        "Id": 2389,
+        "Name": "enua 33/1 JGF Jungle Fumes",
+        "Producer": "enua Pharma",
+        "MinPrice": 4.12,
+        "Available": true,
+        "Url": "https://flowzz.com/product/enua-33-1-jgf-jungle-fumes"
+      },
+      "Old": 4.13,
+      "New": 4.12
+    },
+    {
+      "P": {
+        "Id": 1769,
+        "Name": "Huala 27/1 UK CIN Cinderella Kush",
+        "Producer": "Four 20 Pharma",
+        "MinPrice": 3.38,
+        "Available": true,
+        "Url": "https://flowzz.com/product/huala-27-1-uk-cin-cinderella-kush"
+      },
+      "Old": 3.39,
+      "New": 3.38
+    },
+    {
+      "P": {
+        "Id": 1253,
+        "Name": "Wellford Aquaponic 30/1 QSG Queen SanG",
+        "Producer": "Therismos",
+        "MinPrice": 7.19,
+        "Available": true,
+        "Url": "https://flowzz.com/product/wellford-aquaponic-30-1-qsg-queen-sang"
+      },
+      "Old": 8.0,
+      "New": 7.19
+    },
+    {
+      "P": {
+        "Id": 1174,
+        "Name": "Demecan Core Moonbow 23/1 Moonbow 112 IX",
+        "Producer": "Demecan",
+        "MinPrice": 4.64,
+        "Available": true,
+        "Url": "https://flowzz.com/product/demecan-core-moonbow-23-1-moonbow-112-ix"
       },
       "Old": 4.9,
-      "New": 3.49
+      "New": 4.64
     },
     {
       "P": {
-        "Id": 4073,
-        "Name": "Huala 22/1 CA TRM Triangle Mints",
-        "Producer": "Four 20 Pharma",
-        "MinPrice": 2.99,
+        "Id": 856,
+        "Name": "Canopy Bakerstreet 22/1 Hindu Kush",
+        "Producer": "Canopy Medical",
+        "MinPrice": 3.68,
         "Available": true,
-        "Url": "https://flowzz.com/product/huala-22-1-ca-trm-triangle-mints"
+        "Url": "https://flowzz.com/product/bakerstreet-22-hindu-kush"
       },
-      "Old": 3.09,
-      "New": 2.99
+      "Old": 3.69,
+      "New": 3.68
     },
     {
       "P": {
-        "Id": 3956,
-        "Name": "TRUU GT 26:01 Prime Lime",
-        "Producer": "Demecan",
-        "MinPrice": 4.35,
+        "Id": 345,
+        "Name": "Cannamedical Hybrid Forte 24/1 NM Gorilla Zkittlez",
+        "Producer": "Cannamedical",
+        "MinPrice": 4.49,
         "Available": true,
-        "Url": "https://flowzz.com/product/truu-gt-26-1-prime-lime"
+        "Url": "https://flowzz.com/product/cannamedical-hybrid-forte-nm-gorilla-zkittlez-gorilla-zkittlez"
       },
-      "Old": 4.39,
-      "New": 4.35
+      "Old": 4.76,
+      "New": 4.49
     },
     {
       "P": {
-        "Id": 3861,
-        "Name": "Nice 26/1 M Mont Blanc",
-        "Producer": "Cansativa",
-        "MinPrice": 3.7,
+        "Id": 4818,
+        "Name": "PhCann Exotics 32/1 Black Amber",
+        "Producer": "Nimbus Health",
+        "MinPrice": 4.2,
         "Available": true,
-        "Url": "https://flowzz.com/product/nice-26-1-m-mont-blanc"
+        "Url": "https://flowzz.com/product/phcann-exotics-32-1-black-amber"
       },
-      "Old": 3.74,
-      "New": 3.7
+      "Old": 6.75,
+      "New": 4.2
     },
     {
       "P": {
-        "Id": 3858,
-        "Name": "Remexian 27/1 SGL CJU Cap Junky",
+        "Id": 4670,
+        "Name": "Sitka Legends 24/1 KSD Kim's Sweet Diesel",
         "Producer": "Remexian Pharma",
-        "MinPrice": 4.9,
+        "MinPrice": 4.1,
         "Available": true,
-        "Url": "https://flowzz.com/product/remexian-27-1-sgl-cju-cap-junky"
+        "Url": "https://flowzz.com/product/sitka-legends-24-1-ksd-kims-sweet-diesel"
       },
-      "Old": 4.95,
-      "New": 4.9
+      "Old": 4.79,
+      "New": 4.1
     },
     {
       "P": {
-        "Id": 3722,
-        "Name": "CherryCo THC23 Sativa Skyflow Ghost",
-        "Producer": "Demecan",
-        "MinPrice": 3.75,
+        "Id": 4668,
+        "Name": "Cannamedical Sativa classic DK Super Lemon Haze",
+        "Producer": "Cannamedical",
+        "MinPrice": 4.09,
         "Available": true,
-        "Url": "https://flowzz.com/product/cherryco-thc23-sativa-skyflow-ghost"
+        "Url": "https://flowzz.com/product/cannamedical-sativa-classic-dk-super-lemon-haze"
       },
-      "Old": 4.29,
-      "New": 3.75
+      "Old": 4.13,
+      "New": 4.09
     },
     {
       "P": {
-        "Id": 3108,
-        "Name": "Beyond Bloom AV Gas 24/1",
-        "Producer": "Cantourage",
+        "Id": 4660,
+        "Name": "Apollo Eclipse 28/1 Super Boof",
+        "Producer": "Cannprisma",
+        "MinPrice": 4.98,
+        "Available": true,
+        "Url": "https://flowzz.com/product/apollo-eclipse-28-1-super-boof"
+      },
+      "Old": 4.99,
+      "New": 4.98
+    },
+    {
+      "P": {
+        "Id": 4657,
+        "Name": "Green Mile 30/1 DCA Dante's Cake",
+        "Producer": "Remexian Pharma",
         "MinPrice": 3.99,
         "Available": true,
-        "Url": "https://flowzz.com/product/beyond-bloom-av-gas-24-1"
+        "Url": "https://flowzz.com/product/green-mile30-1-dca-dantes-cake"
       },
-      "Old": 4.19,
+      "Old": 4.95,
       "New": 3.99
     },
     {
       "P": {
-        "Id": 2959,
-        "Name": "22/1 Amici CF Carbon Fiber",
-        "Producer": "Cansativa",
-        "MinPrice": 2.99,
+        "Id": 4591,
+        "Name": "Greenseal 30/1 GUB Guava Bars",
+        "Producer": "Remexian Pharma",
+        "MinPrice": 3.7,
         "Available": true,
-        "Url": "https://flowzz.com/product/22-1-amici-cf-carbon-fiber"
+        "Url": "https://flowzz.com/product/greenseal-30-1-gub-guava-bars"
       },
-      "Old": 3.99,
-      "New": 2.99
+      "Old": 3.95,
+      "New": 3.7
     },
     {
       "P": {
-        "Id": 2851,
-        "Name": "avaay 26/1 SCP Sour Cherry Punch",
-        "Producer": "avaay",
-        "MinPrice": 7.4,
+        "Id": 4601,
+        "Name": "TERPHOUSE 36/1 TMZ CA TRAP MINTZ",
+        "Producer": "Canapac",
+        "MinPrice": 7.95,
         "Available": true,
-        "Url": "https://flowzz.com/product/avaay-26-1-scp-sour-cherry-punch"
+        "Url": "https://flowzz.com/product/terphouse-36-1-tmz-ca-trap-mintz"
       },
-      "Old": 7.47,
-      "New": 7.4
+      "Old": 7.96,
+      "New": 7.95
     },
     {
       "P": {
-        "Id": 183,
-        "Name": "420 Cannabisextrakt THC 20 / CBD 0",
-        "Producer": "Four 20 Pharma",
-        "MinPrice": 1.93,
+        "Id": 4614,
+        "Name": "Culture des Sommets 27/1 FCO Frosted Cookies",
+        "Producer": "Remexian Pharma",
+        "MinPrice": 3.99,
         "Available": true,
-        "Url": "https://flowzz.com/extract/420-cannabisextrakt-thc-20-cbd-0"
-      },
-      "Old": 2.45,
-      "New": 1.93
-    },
-    {
-      "P": {
-        "Id": 0,
-        "Name": "Blue Lobster",
-        "Producer": "Cantourage",
-        "MinPrice": 9.88,
-        "Available": true,
-        "Url": "https://shop.dransay.com/product/blue-lobster/963442"
-      },
-      "Old": 9.89,
-      "New": 9.88
-    },
-    {
-      "P": {
-        "Id": 0,
-        "Name": "Purple Lobster",
-        "Producer": "enua Pharma",
-        "MinPrice": 5.48,
-        "Available": true,
-        "Url": "https://shop.dransay.com/product/purple-lobster/8097569"
-      },
-      "Old": 5.49,
-      "New": 5.48
-    },
-    {
-      "P": {
-        "Id": 0,
-        "Name": "Huala 27/1 UK WTR Waffle Truffle",
-        "Producer": "Four 20 Pharma",
-        "MinPrice": 3.9,
-        "Available": true,
-        "Url": "https://canngo.express/market/product/huala-27-1-uk-wtr-white-truffle"
+        "Url": "https://flowzz.com/product/culture-des-sommets-27-1-fco-frosted-cookies"
       },
       "Old": 4.39,
-      "New": 3.9
+      "New": 3.99
     },
     {
       "P": {
-        "Id": 0,
-        "Name": "TRUU GT 30:01 Cookies OG",
+        "Id": 4426,
+        "Name": "Demecan RF Ultra Drop Biscotti x Mendo Purps",
         "Producer": "Demecan",
-        "MinPrice": 4.33,
+        "MinPrice": 5.39,
         "Available": true,
-        "Url": "https://canngo.express/market/product/truu-gt-30-01-cookies-og"
+        "Url": "https://flowzz.com/product/demecan-ultra-drop-biscotti-x-mendo-purps"
       },
-      "Old": 4.34,
-      "New": 4.33
+      "Old": 5.48,
+      "New": 5.39
     },
     {
       "P": {
-        "Id": 0,
-        "Name": "26/1 Amici CHG Cherry Gas",
-        "Producer": "Cansativa",
-        "MinPrice": 4.73,
-        "Available": true,
-        "Url": "https://canngo.express/market/product/26-1-amici-chg-cherry-gas"
-      },
-      "Old": 4.75,
-      "New": 4.73
-    },
-    {
-      "P": {
-        "Id": 0,
-        "Name": "Huala 27/1 CA ZOP Zoap",
-        "Producer": "Four 20 Pharma",
-        "MinPrice": 4.49,
-        "Available": true,
-        "Url": "https://canngo.express/market/product/huala-27-1-ca-zop-zoap"
-      },
-      "Old": 4.55,
-      "New": 4.49
-    },
-    {
-      "P": {
-        "Id": 0,
-        "Name": "32/1 Amici SLH Super Lemon Haze",
-        "Producer": "Cansativa",
-        "MinPrice": 5.23,
-        "Available": true,
-        "Url": "https://privatrezept.net/product/32-1-amici-slh-super-lemon-haze"
-      },
-      "Old": 5.39,
-      "New": 5.23
-    },
-    {
-      "P": {
-        "Id": 0,
-        "Name": "Firegold 33/1 ANM Animal Mintz Animal Mints",
+        "Id": 4284,
+        "Name": "Firegold 33/1 ANM Animal Mintz",
         "Producer": "Remexian Pharma",
         "MinPrice": 4.49,
         "Available": true,
-        "Url": "https://privatrezept.net/product/firegold-33-1-anm-animal-mintz-animal-mints"
+        "Url": "https://flowzz.com/product/firegold-33-1-anm-animal-mintz"
       },
-      "Old": 5.99,
+      "Old": 5.65,
       "New": 4.49
     },
     {
       "P": {
-        "Id": 0,
-        "Name": "Firegold 33/1 SMC Strawberry MAC",
-        "Producer": "Genetia Production",
-        "MinPrice": 4.49,
-        "Available": true,
-        "Url": "https://privatrezept.net/product/firegold-33-1-smc-strawberry-mac"
-      },
-      "Old": 5.62,
-      "New": 4.49
-    },
-    {
-      "P": {
-        "Id": 0,
-        "Name": "NICE 26/1 KC LA Kush Cake",
+        "Id": 4280,
+        "Name": "NICE 24/1 LVC Lava Cake",
         "Producer": "Cansativa",
-        "MinPrice": 3.54,
+        "MinPrice": 3.38,
         "Available": true,
-        "Url": "https://privatrezept.net/product/nice-26-1-kc-la-kush-cake-49aoc"
+        "Url": "https://flowzz.com/product/nice-24-1-lvc-lava-cake"
       },
-      "Old": 3.95,
-      "New": 3.54
+      "Old": 3.39,
+      "New": 3.38
     },
     {
       "P": {
-        "Id": 0,
-        "Name": "NICE 26/1 NWA New Waves",
+        "Id": 4177,
+        "Name": "Huala 22/1 CA OSB Orange Sherbet",
+        "Producer": "Four 20 Pharma",
+        "MinPrice": 2.98,
+        "Available": true,
+        "Url": "https://flowzz.com/product/huala-22-1-ca-osb-orange-sherbet"
+      },
+      "Old": 2.99,
+      "New": 2.98
+    },
+    {
+      "P": {
+        "Id": 4159,
+        "Name": "NICE 26/1 DVD Devil Driver",
         "Producer": "Cansativa",
-        "MinPrice": 3.19,
+        "MinPrice": 3.91,
         "Available": true,
-        "Url": "https://privatrezept.net/product/nice-26-1-nwa-new-waves"
+        "Url": "https://flowzz.com/product/nice-26-1-dvvd-devil-driver"
       },
-      "Old": 3.73,
-      "New": 3.19
+      "Old": 3.92,
+      "New": 3.91
     },
     {
       "P": {
-        "Id": 0,
-        "Name": "NICE 28/1 JFP Jet Fuel Pie",
-        "Producer": "Cansativa",
-        "MinPrice": 4.19,
+        "Id": 3972,
+        "Name": "Huala 27/1 CA GOL Goldkirsch",
+        "Producer": "Four 20 Pharma",
+        "MinPrice": 3.58,
         "Available": true,
-        "Url": "https://privatrezept.net/product/nice-28-1-jfp-jet-fuel-pie"
+        "Url": "https://flowzz.com/product/huala-27-1-ca-gol-goldkirsch"
       },
-      "Old": 4.2,
-      "New": 4.19
+      "Old": 3.59,
+      "New": 3.58
     },
     {
       "P": {
-        "Id": 0,
-        "Name": "Onit FL 20/1 Forbidden Lolly",
-        "Producer": "Cantourage",
-        "MinPrice": 3.45,
+        "Id": 3945,
+        "Name": "Huala 30/1 CA GOL Goldkirsch",
+        "Producer": "Four 20 Pharma",
+        "MinPrice": 3.84,
         "Available": true,
-        "Url": "https://privatrezept.net/product/onit-fl-20-1-forbidden-lolly"
+        "Url": "https://flowzz.com/product/huala-30-1-ca-gol-goldkirsch"
+      },
+      "Old": 3.85,
+      "New": 3.84
+    },
+    {
+      "P": {
+        "Id": 3907,
+        "Name": "avaay SIGNATURE 28/1 BA Black Amber",
+        "Producer": "avaay",
+        "MinPrice": 6.88,
+        "Available": true,
+        "Url": "https://flowzz.com/product/avaay-signature-28-1-ba-black-amber"
+      },
+      "Old": 6.89,
+      "New": 6.88
+    },
+    {
+      "P": {
+        "Id": 3856,
+        "Name": "Remexian 24/1 CIV SBU Strawberry Bubbles",
+        "Producer": "Remexian Pharma",
+        "MinPrice": 3.79,
+        "Available": true,
+        "Url": "https://flowzz.com/product/remexian-24-1-civ-sbu-strawberry-bubbles"
+      },
+      "Old": 4.09,
+      "New": 3.79
+    },
+    {
+      "P": {
+        "Id": 3469,
+        "Name": "Wildlife 24 GB CAN Glueberry",
+        "Producer": "ADREXpharma",
+        "MinPrice": 3.29,
+        "Available": true,
+        "Url": "https://flowzz.com/product/wildlife-24-gb-can-glueberry"
       },
       "Old": 3.49,
-      "New": 3.45
+      "New": 3.29
+    },
+    {
+      "P": {
+        "Id": 3426,
+        "Name": "enua 27/1 SJ CA Splitter Jelato",
+        "Producer": "enua Pharma",
+        "MinPrice": 4.68,
+        "Available": true,
+        "Url": "https://flowzz.com/product/enua-27-1-sj-ca-splitter-gelato"
+      },
+      "Old": 4.69,
+      "New": 4.68
+    },
+    {
+      "P": {
+        "Id": 3307,
+        "Name": "CRQSH CPJs 33/1 Cap Junky smalls",
+        "Producer": "ROOBS",
+        "MinPrice": 5.69,
+        "Available": true,
+        "Url": "https://flowzz.com/product/crqsh-cpjs-33-1-cap-junky"
+      },
+      "Old": 5.95,
+      "New": 5.69
+    },
+    {
+      "P": {
+        "Id": 3292,
+        "Name": "NICE 27/1 TMI Triangle Mints",
+        "Producer": "Cansativa",
+        "MinPrice": 3.97,
+        "Available": true,
+        "Url": "https://flowzz.com/product/nice-27-1-tmi-triangle-mints"
+      },
+      "Old": 3.98,
+      "New": 3.97
+    },
+    {
+      "P": {
+        "Id": 3224,
+        "Name": "NICE 29/1 LP Lotus Punch",
+        "Producer": "Cansativa",
+        "MinPrice": 4.03,
+        "Available": true,
+        "Url": "https://flowzz.com/product/nice-29-1-lp-lotus-punch"
+      },
+      "Old": 7.95,
+      "New": 4.03
+    },
+    {
+      "P": {
+        "Id": 3183,
+        "Name": "Slouu 27/1 SCH CA Sour Crush Haze",
+        "Producer": "enua Pharma",
+        "MinPrice": 2.96,
+        "Available": true,
+        "Url": "https://flowzz.com/product/slouu-27-1-sch-ca-sour-crash-haze"
+      },
+      "Old": 2.97,
+      "New": 2.96
+    },
+    {
+      "P": {
+        "Id": 3102,
+        "Name": "Eufloria 27/1 SFR Strawberry Froyo",
+        "Producer": "Remexian Pharma",
+        "MinPrice": 3.21,
+        "Available": true,
+        "Url": "https://flowzz.com/product/eufloria-27-1-sfr-strawberry-froyo"
+      },
+      "Old": 4.5,
+      "New": 3.21
+    },
+    {
+      "P": {
+        "Id": 3047,
+        "Name": "Bathera 20/1 PMM Permanent Midnight",
+        "Producer": "Bathera",
+        "MinPrice": 3.98,
+        "Available": true,
+        "Url": "https://flowzz.com/product/Bathera-20-1-PMM"
+      },
+      "Old": 4.89,
+      "New": 3.98
+    },
+    {
+      "P": {
+        "Id": 2728,
+        "Name": "Amici 24/1 BH Blueberry Headband",
+        "Producer": "Cansativa",
+        "MinPrice": 6.9,
+        "Available": true,
+        "Url": "https://flowzz.com/product/amici-24-1-bh-blueberry-headband"
+      },
+      "Old": 9.99,
+      "New": 6.9
+    },
+    {
+      "P": {
+        "Id": 3022,
+        "Name": "NICE 27/1 GT Garlic Truffle",
+        "Producer": "Cansativa",
+        "MinPrice": 3.67,
+        "Available": true,
+        "Url": "https://flowzz.com/product/nice-27-1-gt-garlic-truffle"
+      },
+      "Old": 3.86,
+      "New": 3.67
+    },
+    {
+      "P": {
+        "Id": 254,
+        "Name": "enua 25/1 CCK CA Cold Creek Kush",
+        "Producer": "enua Pharma",
+        "MinPrice": 3.95,
+        "Available": true,
+        "Url": "https://flowzz.com/product/enua-25-1-cck-ca-cold-creek-kush"
+      },
+      "Old": 4.95,
+      "New": 3.95
+    },
+    {
+      "P": {
+        "Id": 333,
+        "Name": "Demecan Rosin Drop 700",
+        "Producer": "Demecan",
+        "MinPrice": 61.05,
+        "Available": true,
+        "Url": "https://flowzz.com/extract/demecan-rosin-drop-700"
+      },
+      "Old": 66.99,
+      "New": 61.05
+    },
+    {
+      "P": {
+        "Id": 283,
+        "Name": "Demecan FE 800 No. 3",
+        "Producer": "Demecan",
+        "MinPrice": 75.15,
+        "Available": true,
+        "Url": "https://flowzz.com/extract/demecan-fe-800-no-3"
+      },
+      "Old": 75.18,
+      "New": 75.15
     },
     {
       "P": {
         "Id": 0,
-        "Name": "Peace Naturals 31/1 GC GMO Cookies",
-        "Producer": "Peace Naturals",
+        "Name": "Vasco PR 27/1 Pave Runtz",
+        "Producer": "Cantourage",
+        "MinPrice": 5.63,
+        "Available": true,
+        "Url": "https://canngo.express/market/product/vasco-pr-27-1-pave-runtz"
+      },
+      "Old": 5.64,
+      "New": 5.63
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Huala 25/1 CA POG Pineapple God",
+        "Producer": "Four 20 Pharma",
+        "MinPrice": 3.78,
+        "Available": true,
+        "Url": "https://canngo.express/market/product/huala-25-1-ca-pog-pineapple-god"
+      },
+      "Old": 3.79,
+      "New": 3.78
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "enua 27/1 SJ CA Splitter Jelato",
+        "Producer": "enua Pharma",
         "MinPrice": 4.69,
         "Available": true,
-        "Url": "https://privatrezept.net/product/peace-naturals-311-gc-gmo-cookies"
+        "Url": "https://canngo.express/market/product/enua-27-1-sj-ca-splitter-gelato"
       },
-      "Old": 4.97,
+      "Old": 4.71,
       "New": 4.69
     },
     {
       "P": {
         "Id": 0,
-        "Name": "Peace Naturals 33/1 SC Space Cake",
-        "Producer": "Peace Naturals",
-        "MinPrice": 5.35,
+        "Name": "Demecan RF Ultra Drop Biscotti x Mendo Purps",
+        "Producer": "Demecan",
+        "MinPrice": 5.39,
         "Available": true,
-        "Url": "https://privatrezept.net/product/peace-naturals-331-sc-space-cake"
+        "Url": "https://canngo.express/market/product/demecan-ultra-drop-biscotti-x-mendo-purps"
       },
-      "Old": 5.44,
-      "New": 5.35
+      "Old": 5.48,
+      "New": 5.39
     },
     {
       "P": {
         "Id": 0,
-        "Name": "Peace Naturals 33/1 SL Sonic Lemon Fuel",
-        "Producer": "Cansativa",
-        "MinPrice": 5.5,
+        "Name": "enua 22/1 SBB CA Strawberry Banana Bang",
+        "Producer": "enua Pharma",
+        "MinPrice": 3.59,
         "Available": true,
-        "Url": "https://privatrezept.net/product/peace-naturals-331-sl-sonic-lemon-fuel"
+        "Url": "https://privatrezept.net/product/enua-22-1-sbb-ca-strawberry-banana-bang"
       },
-      "Old": 5.65,
-      "New": 5.5
+      "Old": 3.6,
+      "New": 3.59
     },
     {
       "P": {
         "Id": 0,
-        "Name": "PhCann Exotics 32/1 Spritzer",
-        "Producer": "Nimbus Health",
-        "MinPrice": 4.64,
+        "Name": "enua 27/1 PS3 JFG CA Jet Fuel Gelato",
+        "Producer": "enua Pharma",
+        "MinPrice": 3.99,
         "Available": true,
-        "Url": "https://privatrezept.net/product/phcann-exotics-32-1-spritzer"
+        "Url": "https://privatrezept.net/product/enua-27-1-ps3-jfg-ca-jet-fuel-gelato-8lhek"
+      },
+      "Old": 4.52,
+      "New": 3.99
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "enua 27/1 SJ CA Splitter Jelato",
+        "Producer": "enua Pharma",
+        "MinPrice": 4.69,
+        "Available": true,
+        "Url": "https://privatrezept.net/product/enua-27-1-sj-ca-splitter-jelato-tnm1us"
+      },
+      "Old": 4.99,
+      "New": 4.69
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "enua 30/1 NLP CA Northern Lime Pie",
+        "Producer": "enua Pharma",
+        "MinPrice": 4.19,
+        "Available": true,
+        "Url": "https://privatrezept.net/product/enua-30-1-nlp-ca-northern-lime-pie"
+      },
+      "Old": 4.39,
+      "New": 4.19
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Huala 22/1 CA TRM Triangle Mints",
+        "Producer": "Four 20 Pharma",
+        "MinPrice": 3.62,
+        "Available": true,
+        "Url": "https://privatrezept.net/product/huala-22-1-ca-trm-triangle-mints"
+      },
+      "Old": 3.72,
+      "New": 3.62
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Remexian 27/1 RPK TSU Tropical Sun",
+        "Producer": "Remexian Pharma",
+        "MinPrice": 4.7,
+        "Available": true,
+        "Url": "https://privatrezept.net/product/remexian-27-1-rpk-tsu-tropical-sun"
       },
       "Old": 4.9,
-      "New": 4.64
+      "New": 4.7
     }
   ]
 }
