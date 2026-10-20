@@ -673,11 +673,6 @@
           "stadt": "Bad Neuenahr"
         },
         {
-          "name": "SKY CANNABIS KREUZBERG (Sky Apotheke, Berlin-Kreuzberg)",
-          "plz": "10961",
-          "stadt": "Berlin"
-        },
-        {
           "name": "SKY CANNABIS WEDDING (Sky Apotheke, Berlin Wedding)",
           "plz": "13353",
           "stadt": "Berlin"
@@ -15553,11 +15548,6 @@
           "stadt": "Aachen"
         },
         {
-          "name": "Karolinger Apotheke Aachen",
-          "plz": "52064",
-          "stadt": "Aachen"
-        },
-        {
           "name": "Cannabis Pluspunkt (Pluspunkt Apotheke im Anger 1, Erfurt)",
           "plz": "99084",
           "stadt": "Erfurt"
@@ -20249,15 +20239,9 @@
       "url": "https://flowzz.com/product/apollo-28-1-jgn-think-fast",
       "match_key": "apollo 28/1 jgn|fast think",
       "quellen": [
-        "canngo",
         "canthera"
       ],
       "apotheken": [
-        {
-          "name": "www.Apocando.de",
-          "plz": "59556",
-          "stadt": "Lippstadt"
-        },
         {
           "name": "Canthera",
           "plz": "90403",
@@ -74378,6 +74362,11 @@
           "stadt": "Lich"
         },
         {
+          "name": "CANNApalu (Park-Apotheke, Ludwigshafen)",
+          "plz": "67063",
+          "stadt": "Ludwigshafen"
+        },
+        {
           "name": "Canna Ludwig (Ludwigs-Apotheke, Ludwigshafen)",
           "plz": "67059",
           "stadt": "Ludwigshafen"
@@ -84533,7 +84522,7 @@
       "url": "https://flowzz.com/product/hidealz-21-1-ms-crl-crimson-luna-smalls",
       "match_key": "hidealz 21/1 ms crl crimson luna smalls|crimson luna",
       "quellen": [
-        "canngo"
+        "flowzz"
       ],
       "apotheken": [
         {
@@ -98176,11 +98165,6 @@
           "name": "Rezepturhof (Wallau-Apotheke, Hofheim)",
           "plz": "65719",
           "stadt": "Hofheim am Taunus"
-        },
-        {
-          "name": "Angel Green Jestetten",
-          "plz": "79798",
-          "stadt": "Jestetten"
         },
         {
           "name": "Myweed24",
@@ -111867,11 +111851,6 @@
         "canngo"
       ],
       "apotheken": [
-        {
-          "name": "Kudamm Botanics (Apotheke am Zoo, Berlin)",
-          "plz": "10623",
-          "stadt": "Berlin"
-        },
         {
           "name": "(CannaQuell) Apotheke am Quellenbusch",
           "plz": "40625",
@@ -150848,49 +150827,6 @@
       ]
     },
     {
-      "name": "Siggis Feature No. 1",
-      "strain": "Siggis Marple Sour",
-      "code": "Siggis Feature No. 1",
-      "thc": 22.0,
-      "cbd": 1.0,
-      "genetik": "",
-      "hersteller": "Demecan",
-      "bewertung": 0.0,
-      "flowzz_verfuegbar": true,
-      "url": "https://flowzz.com/product/siggis-feature-no-1",
-      "match_key": "siggis feature no 1|marple siggis sour",
-      "quellen": [
-        "flowzz"
-      ],
-      "apotheken": [
-        {
-          "name": "Hackesche Blueten (Apotheke Hackesches Quartier, Berlin)",
-          "plz": "10178",
-          "stadt": "Berlin"
-        },
-        {
-          "name": "Hirsch Apotheke Fürth (cannafino.de)",
-          "plz": "90762",
-          "stadt": "Fürth"
-        },
-        {
-          "name": "Burg Apotheke Kempten (Allgäu Cannabis)",
-          "plz": "87435",
-          "stadt": "Kempten"
-        },
-        {
-          "name": "Mannheims Finest (Odenwald Apotheke, Mannheim)",
-          "plz": "68167",
-          "stadt": "Mannheim"
-        },
-        {
-          "name": "KranichCann (Kranich Apotheke, München)",
-          "plz": "80634",
-          "stadt": "München"
-        }
-      ]
-    },
-    {
       "name": "Siggis Feature No. 1 22:01 Siggis Maple Sour",
       "strain": "Siggis Maple Sour",
       "code": "Siggis Feature No. 1 22:01",
@@ -150899,8 +150835,8 @@
       "genetik": "",
       "hersteller": "Demecan",
       "bewertung": 0.0,
-      "flowzz_verfuegbar": false,
-      "url": "https://canngo.express/market/product/siggis-feature-no-1",
+      "flowzz_verfuegbar": true,
+      "url": "https://flowzz.com/product/siggis-feature-no-1",
       "match_key": "siggis feature no 1 22 01|maple siggis sour",
       "quellen": [
         "canngo"
@@ -151313,6 +151249,49 @@
           "name": "Medicannabis Essen (easyApotheke Rathaus Galerie, Essen)",
           "plz": "45127",
           "stadt": "Essen"
+        }
+      ]
+    },
+    {
+      "name": "Siggis Marple Sour",
+      "strain": "Siggis Marple Sour",
+      "code": "Siggis Feature No. 1",
+      "thc": 22.0,
+      "cbd": 1.0,
+      "genetik": "",
+      "hersteller": "Demecan",
+      "bewertung": 0.0,
+      "flowzz_verfuegbar": false,
+      "url": "https://shop.dransay.com/product/siggis-marple-sour/8328184",
+      "match_key": "siggis feature no 1|marple siggis sour",
+      "quellen": [
+        "dransay"
+      ],
+      "apotheken": [
+        {
+          "name": "Hackesche Blueten (Apotheke Hackesches Quartier, Berlin)",
+          "plz": "10178",
+          "stadt": "Berlin"
+        },
+        {
+          "name": "Hirsch Apotheke Fürth (cannafino.de)",
+          "plz": "90762",
+          "stadt": "Fürth"
+        },
+        {
+          "name": "Burg Apotheke Kempten (Allgäu Cannabis)",
+          "plz": "87435",
+          "stadt": "Kempten"
+        },
+        {
+          "name": "Mannheims Finest (Odenwald Apotheke, Mannheim)",
+          "plz": "68167",
+          "stadt": "Mannheim"
+        },
+        {
+          "name": "KranichCann (Kranich Apotheke, München)",
+          "plz": "80634",
+          "stadt": "München"
         }
       ]
     },
@@ -155237,6 +155216,11 @@
           "stadt": "Berlin"
         },
         {
+          "name": "SKY CANNABIS KREUZBERG (Sky Apotheke, Berlin-Kreuzberg)",
+          "plz": "10961",
+          "stadt": "Berlin"
+        },
+        {
           "name": "CannVita (nur Abholung & Botendienst)",
           "plz": "33604",
           "stadt": "Bielefeld"
@@ -156852,11 +156836,6 @@
           "name": "cannalea (Forellen-Apotheke, Neunkirchen-Seelscheid)",
           "plz": "53819",
           "stadt": "Neunkirchen-Seelscheid"
-        },
-        {
-          "name": "St. Antonius Apotheke",
-          "plz": "46045",
-          "stadt": "Oberhausen"
         },
         {
           "name": "SVAPO",
@@ -183508,11 +183487,6 @@
         {
           "name": "Cannatree – Rats-Apotheke Düsseldorf",
           "plz": "40625",
-          "stadt": "Düsseldorf"
-        },
-        {
-          "name": "GreenCalm",
-          "plz": "40231",
           "stadt": "Düsseldorf"
         },
         {
@@ -212463,5 +212437,5 @@
   ],
   "anzahl_apotheken": 547,
   "quelle": "alle",
-  "stand": "2026-10-20T00:00+02:00"
+  "stand": "2026-10-20T02:00+02:00"
 }
