@@ -1,31 +1,40 @@
 {
-  "ScrapedAt": "2026-11-13T04:43:05.903064+01:00",
+  "ScrapedAt": "2026-11-13T05:53:59.194313+01:00",
   "NewStrains": [
     {
       "Id": 0,
-      "Name": "Demecan Core CKI 29:01 Pink Cookies",
-      "Producer": "Demecan",
-      "MinPrice": 5.49,
+      "Name": "Sibanax Crescendo 22/1",
+      "Producer": "Heyday",
+      "MinPrice": 4.8,
       "Available": true,
-      "Url": "https://canngo.express/market/product/demecan-core-cki-29-01-pink-cookies"
+      "Url": "https://canngo.express/market/product/heyday-sibanax-crescendo-22-1"
     }
   ],
   "RemovedCount": 1,
-  "BackInStock": [],
+  "BackInStock": [
+    {
+      "Id": 3916,
+      "Name": "MGF 26/1 Dark Shadows",
+      "Producer": "MGF Via Medical",
+      "MinPrice": 4.69,
+      "Available": true,
+      "Url": "https://flowzz.com/product/mgf-26-1-dark-shadows"
+    }
+  ],
   "OutOfStock": [],
   "PriceUp": [],
   "PriceDown": [
     {
       "P": {
-        "Id": 842,
-        "Name": "Vasco PR 21/1 Pave Runtz",
-        "Producer": "Cantourage",
-        "MinPrice": 6.67,
+        "Id": 0,
+        "Name": "Huala 30/1 UK PIG Pink Gasoline",
+        "Producer": "Four 20 Pharma",
+        "MinPrice": 3.09,
         "Available": true,
-        "Url": "https://flowzz.com/product/vasco-pr-pave-runtz"
+        "Url": "https://canngo.express/market/product/huala-30-1-uk-pig-pink-gasoline"
       },
-      "Old": 6.68,
-      "New": 6.67
+      "Old": 3.6,
+      "New": 3.09
     }
   ]
 }
