@@ -2107,6 +2107,11 @@
           "stadt": "Freystadt"
         },
         {
+          "name": "Burg Apotheke Kempten (Allgäu Cannabis)",
+          "plz": "87435",
+          "stadt": "Kempten"
+        },
+        {
           "name": "CANN EBBES",
           "plz": "71332",
           "stadt": "Waiblingen"
@@ -2817,6 +2822,11 @@
           "name": "CannabIris",
           "plz": "77694",
           "stadt": "Kehl"
+        },
+        {
+          "name": "Burg Apotheke Kempten (Allgäu Cannabis)",
+          "plz": "87435",
+          "stadt": "Kempten"
         },
         {
           "name": "CANNFLOW (Regenbogen Apotheke, Köthen)",
@@ -4615,6 +4625,11 @@
           "name": "Cannaprof",
           "plz": "66440",
           "stadt": "Blieskastel"
+        },
+        {
+          "name": "Burg Apotheke Kempten (Allgäu Cannabis)",
+          "plz": "87435",
+          "stadt": "Kempten"
         },
         {
           "name": "CannamedQuelle",
@@ -15009,6 +15024,11 @@
           "name": "SVAPO",
           "plz": "63075",
           "stadt": "Offenbach"
+        },
+        {
+          "name": "CannaCoast Pansdorf (Apotheke Pansdorf)",
+          "plz": "23689",
+          "stadt": "Pansdorf"
         },
         {
           "name": "MargaCann (Margarethen Apotheke, Reichertshofen)",
@@ -41322,6 +41342,11 @@
           "stadt": "Leonberg"
         },
         {
+          "name": "CannaCoast Ziegelstrasse (Apotheke Ziegelstrasse, Lübeck)",
+          "plz": "23556",
+          "stadt": "Lübeck"
+        },
+        {
           "name": "Helios Cannabis (Apotheke am Königsplatz OHG, München)",
           "plz": "80333",
           "stadt": "Muenchen"
@@ -41335,6 +41360,11 @@
           "name": "Hirsch Apotheke, Nürnberg",
           "plz": "90419",
           "stadt": "Nürnberg"
+        },
+        {
+          "name": "CannaCoast Pansdorf (Apotheke Pansdorf)",
+          "plz": "23689",
+          "stadt": "Pansdorf"
         },
         {
           "name": "MargaCann (Margarethen Apotheke, Reichertshofen)",
@@ -54040,6 +54070,11 @@
           "stadt": "Usingen"
         },
         {
+          "name": "Canamedico - Cannabis-Mainfranken",
+          "plz": "97332",
+          "stadt": "Volkach"
+        },
+        {
           "name": "Cannabis4wuppertal (Widder-Apotheke)",
           "plz": "42277",
           "stadt": "Wuppertal"
@@ -60614,7 +60649,7 @@
       "genetik": "Hybrid",
       "hersteller": "Demecan",
       "bewertung": 3.29,
-      "flowzz_verfuegbar": true,
+      "flowzz_verfuegbar": false,
       "url": "https://flowzz.com/product/dmc-strong-drop-holy-roller",
       "match_key": "dmc strong drop|holy roller",
       "quellen": [
@@ -72022,11 +72057,6 @@
           "stadt": "Berlin"
         },
         {
-          "name": "SKY CANNABIS KUDAMM (Sky-Apotheke, Berlin-Kudamm)",
-          "plz": "10711",
-          "stadt": "Berlin"
-        },
-        {
           "name": "Cannabis Apotheke Zollernalb (Heidelberg-Apotheke, Bisingen)",
           "plz": "72406",
           "stadt": "Bisingen"
@@ -75620,6 +75650,29 @@
           "name": "Augusta Green (Abtei Apotheke, Wadgassen)",
           "plz": "66787",
           "stadt": "Wadgassen"
+        }
+      ]
+    },
+    {
+      "name": "Demecan Regular Drop 25:01 LA WP LA Wedding Pop",
+      "strain": "LA Wedding Pop",
+      "code": "Demecan Regular Drop 25:01 LA WP",
+      "thc": 25.0,
+      "cbd": 0.1,
+      "genetik": "Sativa",
+      "hersteller": "Demecan",
+      "bewertung": 2.0,
+      "flowzz_verfuegbar": true,
+      "url": "https://flowzz.com/product/demecan-regular-drop-25-01-la-wp-la-wedding-pop",
+      "match_key": "demecan regular drop 25 01 la wp|la pop wedding",
+      "quellen": [
+        "canngo"
+      ],
+      "apotheken": [
+        {
+          "name": "neue Apotheke markt. Sinzheim",
+          "plz": "76547",
+          "stadt": "Sinzheim"
         }
       ]
     },
@@ -79553,29 +79606,6 @@
       ]
     },
     {
-      "name": "Dronabinol (THC) 5 mg - WaterClear THC Kapseln 5 mg",
-      "strain": "",
-      "code": "Dronabinol (THC) 5 mg - WaterClear THC Kapseln 5 mg",
-      "thc": 5.0,
-      "cbd": null,
-      "genetik": "Hybrid",
-      "hersteller": "alephSana",
-      "bewertung": 0.0,
-      "flowzz_verfuegbar": false,
-      "url": "https://flowzz.com/extract/waterclear-thc-kapseln-5mg",
-      "match_key": "dronabinol thc 5 mg waterclear thc kapseln 5 mg",
-      "quellen": [
-        "flowzz"
-      ],
-      "apotheken": [
-        {
-          "name": "Grafen Cannabis Apotheke",
-          "plz": "40235",
-          "stadt": "Düsseldorf"
-        }
-      ]
-    },
-    {
       "name": "Dronabinol Tropfen 25 mg/ml (NRF 22.8.)",
       "strain": "",
       "code": "Dronabinol Tropfen 25 mg/ml (NRF 22.8.)",
@@ -79610,7 +79640,7 @@
       "thc": 10.0,
       "cbd": null,
       "genetik": "Hybrid",
-      "hersteller": "alephSana",
+      "hersteller": "Dunbar Pharmaceuticals",
       "bewertung": 0.0,
       "flowzz_verfuegbar": true,
       "url": "https://flowzz.com/extract/waterclear-thc-kapseln-10mg",
@@ -81316,7 +81346,7 @@
       "genetik": "Hybrid",
       "hersteller": "Remexian Pharma",
       "bewertung": 3.5,
-      "flowzz_verfuegbar": true,
+      "flowzz_verfuegbar": false,
       "url": "https://flowzz.com/product/eufloria-30-1-zru-zlush-runtz",
       "match_key": "eufloria 30/1 zru|runtz zlush",
       "quellen": [
@@ -93138,7 +93168,7 @@
       "url": "https://flowzz.com/product/hob-respect-lmh-28-1-lemon-haze",
       "match_key": "hob respect lmh 28/1|haze lemon",
       "quellen": [
-        "canngo"
+        "flowzz"
       ],
       "apotheken": [
         {
@@ -94991,11 +95021,6 @@
           "name": "Einhorn Apotheken Kassel und Baunatal (420unicorn)",
           "plz": "34225",
           "stadt": "Baunatal"
-        },
-        {
-          "name": "SKY CANNABIS KREUZBERG (Sky Apotheke, Berlin-Kreuzberg)",
-          "plz": "10961",
-          "stadt": "Berlin"
         },
         {
           "name": "CANNACOMPANY",
@@ -100963,11 +100988,6 @@
         "canngo"
       ],
       "apotheken": [
-        {
-          "name": "SKY CANNABIS KREUZBERG (Sky Apotheke, Berlin-Kreuzberg)",
-          "plz": "10961",
-          "stadt": "Berlin"
-        },
         {
           "name": "Adler Cannabis Ruhrort (Adler Apotheke, Duisburg)",
           "plz": "47119",
@@ -108485,7 +108505,7 @@
       "genetik": "Hybrid",
       "hersteller": "KHIRON Europe",
       "bewertung": 4.0,
-      "flowzz_verfuegbar": true,
+      "flowzz_verfuegbar": false,
       "url": "https://flowzz.com/product/khiron-elg-33-1-el-gordon",
       "match_key": "khiron elg 33/1|el gordo",
       "quellen": [
@@ -112289,6 +112309,11 @@
           "name": "Grüne Wirkstoffe (=Anthemis Apotheke)",
           "plz": "91567",
           "stadt": "Herrieden"
+        },
+        {
+          "name": "Burg Apotheke Kempten (Allgäu Cannabis)",
+          "plz": "87435",
+          "stadt": "Kempten"
         },
         {
           "name": "Medicanis (Godshorn Apotheke, Langenhagen)",
@@ -123564,6 +123589,11 @@
           "stadt": "Karlsruhe"
         },
         {
+          "name": "Burg Apotheke Kempten (Allgäu Cannabis)",
+          "plz": "87435",
+          "stadt": "Kempten"
+        },
+        {
           "name": "Raths Apotheke am Brauereiviertel / kiel-cann.de",
           "plz": "24105",
           "stadt": "Kiel"
@@ -124474,6 +124504,11 @@
           "name": "Dr. Müller Leafs (Engel-Apotheke Am Rathaus)",
           "plz": "34117",
           "stadt": "Kassel"
+        },
+        {
+          "name": "Burg Apotheke Kempten (Allgäu Cannabis)",
+          "plz": "87435",
+          "stadt": "Kempten"
         },
         {
           "name": "ApoRoKo (Robert Koch Apotheke, Mörfelden-Walldorf)",
@@ -126324,6 +126359,11 @@
           "stadt": "Kassel"
         },
         {
+          "name": "Burg Apotheke Kempten (Allgäu Cannabis)",
+          "plz": "87435",
+          "stadt": "Kempten"
+        },
+        {
           "name": "Westgate-Apotheke",
           "plz": "50674",
           "stadt": "Köln"
@@ -126525,6 +126565,11 @@
           "name": "Dr. Müller Leafs (Engel-Apotheke Am Rathaus)",
           "plz": "34117",
           "stadt": "Kassel"
+        },
+        {
+          "name": "Burg Apotheke Kempten (Allgäu Cannabis)",
+          "plz": "87435",
+          "stadt": "Kempten"
         },
         {
           "name": "SEIDENFARM (Mühlen Apotheke, Krefeld)",
@@ -127269,7 +127314,7 @@
       "genetik": "Hybrid",
       "hersteller": "Cansativa",
       "bewertung": 4.7,
-      "flowzz_verfuegbar": true,
+      "flowzz_verfuegbar": false,
       "url": "https://flowzz.com/product/nice-31-1-gsc-girl-scout-cookies",
       "match_key": "nice 31/1 gsc|cookies girl scout",
       "quellen": [
@@ -128044,6 +128089,11 @@
           "stadt": "Kamen"
         },
         {
+          "name": "Burg Apotheke Kempten (Allgäu Cannabis)",
+          "plz": "87435",
+          "stadt": "Kempten"
+        },
+        {
           "name": "SOPHIE GREEN (Sophien Apotheke, Meppen)",
           "plz": "49716",
           "stadt": "Meppen"
@@ -128417,6 +128467,11 @@
           "name": "calmuno (Barbara Apotheke, Kamen)",
           "plz": "59174",
           "stadt": "Kamen"
+        },
+        {
+          "name": "Burg Apotheke Kempten (Allgäu Cannabis)",
+          "plz": "87435",
+          "stadt": "Kempten"
         },
         {
           "name": "CANNFLOW (Regenbogen Apotheke, Köthen)",
@@ -136304,6 +136359,11 @@
           "stadt": "Fellbach"
         },
         {
+          "name": "Burg Apotheke Kempten (Allgäu Cannabis)",
+          "plz": "87435",
+          "stadt": "Kempten"
+        },
+        {
           "name": "Bavarian Cannabis",
           "plz": "82178",
           "stadt": "Puchheim"
@@ -136779,6 +136839,11 @@
           "name": "CannabIris",
           "plz": "77694",
           "stadt": "Kehl"
+        },
+        {
+          "name": "Burg Apotheke Kempten (Allgäu Cannabis)",
+          "plz": "87435",
+          "stadt": "Kempten"
         },
         {
           "name": "Canniam",
@@ -137531,11 +137596,6 @@
           "name": "NeroWeed (Mohren Apotheke, Wiesbaden)",
           "plz": "65203",
           "stadt": "Wiesbaden Biebrich"
-        },
-        {
-          "name": "ABC Cannabis (ABC Apotheke am Werth, Wuppertal)",
-          "plz": "42275",
-          "stadt": "Wuppertal"
         }
       ]
     },
@@ -144110,7 +144170,7 @@
       "genetik": "Hybrid",
       "hersteller": "Remexian Pharma",
       "bewertung": 4.5,
-      "flowzz_verfuegbar": true,
+      "flowzz_verfuegbar": false,
       "url": "https://flowzz.com/product/petit-vert-24-1-gte-kco-kush-cookies",
       "match_key": "petit vert 24/1 gte kco|cookies kush",
       "quellen": [
@@ -144133,7 +144193,7 @@
       "genetik": "Hybrid",
       "hersteller": "Remexian Pharma",
       "bewertung": 2.0,
-      "flowzz_verfuegbar": true,
+      "flowzz_verfuegbar": false,
       "url": "https://flowzz.com/product/petit-vert-27-1-fre-slu-slurricane",
       "match_key": "petit vert 27/1 fre slu|slurricane",
       "quellen": [
@@ -145473,7 +145533,7 @@
       "url": "https://flowzz.com/product/pop-up-no-32-key-one",
       "match_key": "pop up no 32|key one",
       "quellen": [
-        "canngo"
+        "flowzz"
       ],
       "apotheken": [
         {
@@ -149096,7 +149156,7 @@
       "genetik": "Hybrid",
       "hersteller": "Remexian Pharma",
       "bewertung": 4.2,
-      "flowzz_verfuegbar": true,
+      "flowzz_verfuegbar": false,
       "url": "https://flowzz.com/product/remexian-24-1-twe-gbr-greatful-breath",
       "match_key": "remexian 24/1 twe gbr|breath greatful",
       "quellen": [
@@ -154864,7 +154924,7 @@
       "genetik": "Hybrid",
       "hersteller": "Remexian Pharma",
       "bewertung": 5.0,
-      "flowzz_verfuegbar": true,
+      "flowzz_verfuegbar": false,
       "url": "https://flowzz.com/product/remexian-30-1-trf-mbr-meat-breath",
       "match_key": "remexian 30/1 trf mbr|breath meat",
       "quellen": [
@@ -158218,6 +158278,11 @@
           "name": "Dr. Müller Leafs (Engel-Apotheke Am Rathaus)",
           "plz": "34117",
           "stadt": "Kassel"
+        },
+        {
+          "name": "Burg Apotheke Kempten (Allgäu Cannabis)",
+          "plz": "87435",
+          "stadt": "Kempten"
         },
         {
           "name": "Raths Apotheke am Brauereiviertel / kiel-cann.de",
@@ -162322,7 +162387,7 @@
       "genetik": "Hybrid",
       "hersteller": "Demecan",
       "bewertung": 3.71,
-      "flowzz_verfuegbar": true,
+      "flowzz_verfuegbar": false,
       "url": "https://flowzz.com/product/siggis-lwzahn-2201-siggis-loewenzahn",
       "match_key": "siggis lwzahn 22 01|lowenzahn siggis",
       "quellen": [
@@ -162345,7 +162410,7 @@
       "genetik": "Hybrid",
       "hersteller": "Demecan",
       "bewertung": 4.0,
-      "flowzz_verfuegbar": true,
+      "flowzz_verfuegbar": false,
       "url": "https://flowzz.com/product/siggis-pmnz-28-01-siggis-pfefferminze",
       "match_key": "siggis pmnz 28 01|pfefferminze siggis",
       "quellen": [
@@ -169039,7 +169104,7 @@
       "genetik": "Hybrid",
       "hersteller": "Cansativa",
       "bewertung": 4.11,
-      "flowzz_verfuegbar": true,
+      "flowzz_verfuegbar": false,
       "url": "https://flowzz.com/product/soma-og-32-1-pf-spritzer",
       "match_key": "soma og 32/1 pf|spritzer",
       "quellen": [
@@ -170908,7 +170973,7 @@
       "url": "https://flowzz.com/product/suprobion-mp-22-1-magic-power",
       "match_key": "suprobion mp 22/1|magic power",
       "quellen": [
-        "flowzz"
+        "canngo"
       ],
       "apotheken": [
         {
@@ -177626,7 +177691,7 @@
       "genetik": "Hybrid",
       "hersteller": "Demecan",
       "bewertung": 4.0,
-      "flowzz_verfuegbar": true,
+      "flowzz_verfuegbar": false,
       "url": "https://flowzz.com/product/truu-hs-21-01-rainbow-dawg",
       "match_key": "truu hs 21 01|dawg rainbow",
       "quellen": [
@@ -186418,7 +186483,7 @@
       "genetik": "Hybrid",
       "hersteller": "Cantourage",
       "bewertung": 4.5,
-      "flowzz_verfuegbar": true,
+      "flowzz_verfuegbar": false,
       "url": "https://flowzz.com/product/vasco-pr-25-1-pave-runtz",
       "match_key": "vasco pr 25/1|pave runtz",
       "quellen": [
@@ -188008,7 +188073,7 @@
       "genetik": "Hybrid",
       "hersteller": "Vayamed",
       "bewertung": 4.33,
-      "flowzz_verfuegbar": true,
+      "flowzz_verfuegbar": false,
       "url": "https://flowzz.com/product/vayamed-balanced-12-9-cannatonic",
       "match_key": "vayamed balanced 12/9|cannatonic",
       "quellen": [
@@ -190403,7 +190468,7 @@
       "genetik": "Hybrid",
       "hersteller": "Weeco",
       "bewertung": 4.5,
-      "flowzz_verfuegbar": true,
+      "flowzz_verfuegbar": false,
       "url": "https://flowzz.com/product/weeco-nebula-22-1-big-kush",
       "match_key": "weeco nebula 22/1|big kush",
       "quellen": [
@@ -226967,5 +227032,5 @@
   ],
   "anzahl_apotheken": 573,
   "quelle": "alle",
-  "stand": "2026-11-13T23:00+01:00"
+  "stand": "2026-11-14T00:00+01:00"
 }
