@@ -1,40 +1,104 @@
 {
-  "ScrapedAt": "2026-11-13T05:53:59.194313+01:00",
+  "ScrapedAt": "2026-11-13T06:59:17.652505+01:00",
   "NewStrains": [
     {
       "Id": 0,
-      "Name": "Sibanax Crescendo 22/1",
-      "Producer": "Heyday",
-      "MinPrice": 4.8,
+      "Name": "Eufloria 27/1 SBO Super Boof",
+      "Producer": "Remexian Pharma",
+      "MinPrice": 3.48,
       "Available": true,
-      "Url": "https://canngo.express/market/product/heyday-sibanax-crescendo-22-1"
+      "Url": "https://canngo.express/market/product/eufloria-27-1-sbo-super-boof"
     }
   ],
   "RemovedCount": 1,
-  "BackInStock": [
+  "BackInStock": [],
+  "OutOfStock": [
     {
-      "Id": 3916,
-      "Name": "MGF 26/1 Dark Shadows",
-      "Producer": "MGF Via Medical",
-      "MinPrice": 4.69,
-      "Available": true,
-      "Url": "https://flowzz.com/product/mgf-26-1-dark-shadows"
+      "Id": 2297,
+      "Name": "Tilray CRAFT THC28 TRM Triangle Mints",
+      "Producer": "Tilray",
+      "MinPrice": null,
+      "Available": false,
+      "Url": "https://flowzz.com/product/tilray-craft-thc28-triangle-mints"
+    },
+    {
+      "Id": 2251,
+      "Name": "IMC BCP1 THC25 Grape Dosi",
+      "Producer": "IMC",
+      "MinPrice": null,
+      "Available": false,
+      "Url": "https://flowzz.com/product/imc-cannabisblueten-bcp1-thc25-grape-dosi"
+    },
+    {
+      "Id": 2178,
+      "Name": "HiSociety 30/1 NLL OKDK XX",
+      "Producer": "Cantourage",
+      "MinPrice": null,
+      "Available": false,
+      "Url": "https://flowzz.com/product/hi-society-30-1-nll-okdk-xx"
+    },
+    {
+      "Id": 1485,
+      "Name": "J.R. Strain 27/1 Sudz",
+      "Producer": "Cantourage",
+      "MinPrice": null,
+      "Available": false,
+      "Url": "https://flowzz.com/product/cannabis-flos-jr-27-1-sudz"
+    },
+    {
+      "Id": 582,
+      "Name": "IMC OOG THC 25 Outdoor OG Kush",
+      "Producer": "IMC",
+      "MinPrice": null,
+      "Available": false,
+      "Url": "https://flowzz.com/product/imc-thc-25-oog-og-kush"
+    },
+    {
+      "Id": 3696,
+      "Name": "BUUO 18/1 KBP Kaleido Boom Popstars",
+      "Producer": "YouCann",
+      "MinPrice": null,
+      "Available": false,
+      "Url": "https://flowzz.com/product/buuo-18-1-kbp-kaleido-boom-popstars"
     }
   ],
-  "OutOfStock": [],
-  "PriceUp": [],
-  "PriceDown": [
+  "PriceUp": [
     {
       "P": {
-        "Id": 0,
-        "Name": "Huala 30/1 UK PIG Pink Gasoline",
-        "Producer": "Four 20 Pharma",
-        "MinPrice": 3.09,
+        "Id": 375,
+        "Name": "Remexian 27/1 GJY GRG Grape Galena",
+        "Producer": "Remexian Pharma",
+        "MinPrice": 9.0,
         "Available": true,
-        "Url": "https://canngo.express/market/product/huala-30-1-uk-pig-pink-gasoline"
+        "Url": "https://flowzz.com/product/remexian-27-1-grg-grape-galena-hybrid"
       },
-      "Old": 3.6,
-      "New": 3.09
+      "Old": 7.2,
+      "New": 9.0
+    },
+    {
+      "P": {
+        "Id": 2786,
+        "Name": "NICE 30/1 OZK Ozark",
+        "Producer": "Cansativa",
+        "MinPrice": 7.58,
+        "Available": true,
+        "Url": "https://flowzz.com/product/nice-30-1-ozk"
+      },
+      "Old": 6.5,
+      "New": 7.58
+    },
+    {
+      "P": {
+        "Id": 2896,
+        "Name": "NICE 31/1 GSC Girl Scout Cookies",
+        "Producer": "Cansativa",
+        "MinPrice": 4.89,
+        "Available": true,
+        "Url": "https://flowzz.com/product/nice-31-1-gsc-girl-scout-cookies"
+      },
+      "Old": 4.49,
+      "New": 4.89
     }
-  ]
+  ],
+  "PriceDown": []
 }
