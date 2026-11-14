@@ -1,152 +1,377 @@
 {
-  "ScrapedAt": "2026-11-14T02:08:21.315548+01:00",
+  "ScrapedAt": "2026-11-14T03:08:33.632960+01:00",
   "NewStrains": [
     {
       "Id": 0,
-      "Name": "Vitamin Z",
-      "Producer": "AMP",
-      "MinPrice": 2.96,
+      "Name": "Demecan Organic MC 25:01 Cherry Mints",
+      "Producer": "Demecan",
+      "MinPrice": 3.98,
       "Available": true,
-      "Url": "https://shop.dransay.com/product/vitamin-z/7975098"
+      "Url": "https://canngo.express/market/product/demecan-25-01-mc-organic-cherry-mints"
+    },
+    {
+      "Id": 0,
+      "Name": "INCR Cookies ORIGINALS MND 26/1 Medellin",
+      "Producer": "PS Marketing & Outsourcing GmbH",
+      "MinPrice": 8.99,
+      "Available": true,
+      "Url": "https://canngo.express/market/product/incr-cookies-originals-mnd-26-1-medellin"
+    },
+    {
+      "Id": 0,
+      "Name": "Curaleaf Natural 22/1 CA GCT Garlic Truffle",
+      "Producer": "Adven",
+      "MinPrice": 3.51,
+      "Available": true,
+      "Url": "https://canngo.express/market/product/curaleaf-natural-22-1-ca-gct-garlic-truffle"
     }
   ],
-  "RemovedCount": 0,
-  "BackInStock": [],
-  "OutOfStock": [],
-  "PriceUp": [
+  "RemovedCount": 4,
+  "BackInStock": [
     {
-      "P": {
-        "Id": 0,
-        "Name": "Canopy AKH 24/1 Afghan Kush",
-        "Producer": "Canopy Medical",
-        "MinPrice": 3.1,
-        "Available": true,
-        "Url": "https://canngo.express/market/product/canopy-akh-24-afghan-kush"
-      },
-      "Old": 2.99,
-      "New": 3.1
+      "Id": 2217,
+      "Name": "Medicus 21/1 YAR ADI Astral Drift",
+      "Producer": "Remexian Pharma",
+      "MinPrice": 4.75,
+      "Available": true,
+      "Url": "https://flowzz.com/product/medicus-21-1-yar-astral-drift"
     },
     {
-      "P": {
-        "Id": 0,
-        "Name": "Slouu 27/1 PS3 CA GCB God Cherry Bud",
-        "Producer": "enua Pharma",
-        "MinPrice": 3.55,
-        "Available": true,
-        "Url": "https://canngo.express/market/product/slouu-27-1-ps3-ca-gcb-god-cherry-bud"
-      },
-      "Old": 3.5,
-      "New": 3.55
-    },
-    {
-      "P": {
-        "Id": 0,
-        "Name": "enua 27/1 HSS CA High Society Sweets",
-        "Producer": "enua Pharma",
-        "MinPrice": 3.39,
-        "Available": true,
-        "Url": "https://canngo.express/market/product/enua-27-1-hss-ca-high-society-sweets"
-      },
-      "Old": 3.36,
-      "New": 3.39
-    },
-    {
-      "P": {
-        "Id": 0,
-        "Name": "SA Selection SA OPP 24/1 Orange Push Pop",
-        "Producer": "Bathera",
-        "MinPrice": 3.56,
-        "Available": true,
-        "Url": "https://canngo.express/market/product/sa-selection-sa-opp-24-1-orange-push-pop"
-      },
-      "Old": 3.55,
-      "New": 3.56
-    },
-    {
-      "P": {
-        "Id": 0,
-        "Name": "ZOIKS 26/1 MN Moonlight Nectar",
-        "Producer": "Vayamed",
-        "MinPrice": 3.42,
-        "Available": true,
-        "Url": "https://canngo.express/market/product/zoiks-26-1-mn-moonlight-nectar"
-      },
-      "Old": 3.36,
-      "New": 3.42
+      "Id": 1106,
+      "Name": "TYSON 2.0 26/1 Tiger Milk",
+      "Producer": "Nimbus Health",
+      "MinPrice": 7.35,
+      "Available": true,
+      "Url": "https://flowzz.com/product/tyson-26-1-tiger-milk"
     }
   ],
+  "OutOfStock": [
+    {
+      "Id": 4974,
+      "Name": "INCR Cookies ORIGINALS GP 26/1 Georgia Pie",
+      "Producer": "PS Marketing & Outsourcing GmbH",
+      "MinPrice": null,
+      "Available": false,
+      "Url": "https://flowzz.com/product/incr-cookkies-originals-gp-26-1-georgia-pie"
+    },
+    {
+      "Id": 4975,
+      "Name": "INCR Cookies ORIGINALS ANB 26/1 Apples & Bananas",
+      "Producer": "PS Marketing & Outsourcing GmbH",
+      "MinPrice": null,
+      "Available": false,
+      "Url": "https://flowzz.com/product/incr-cookies-originals-anb-26-1-apples-and-bananas"
+    },
+    {
+      "Id": 4976,
+      "Name": "INCR Cookies ORIGINALS 2090 35/1 2090 Shit",
+      "Producer": "PS Marketing & Outsourcing GmbH",
+      "MinPrice": null,
+      "Available": false,
+      "Url": "https://flowzz.com/product/incr-cookies-originals-2090-35-1-2090-shit"
+    },
+    {
+      "Id": 4977,
+      "Name": "stabil. 27/1 Funk Bomb",
+      "Producer": "Cannovum",
+      "MinPrice": null,
+      "Available": false,
+      "Url": "https://flowzz.com/product/stabil-27-1-funk-bomb"
+    },
+    {
+      "Id": 4957,
+      "Name": "HiDealz 21/1 C3 FCO Frosted Cookies",
+      "Producer": "Remexian Pharma",
+      "MinPrice": null,
+      "Available": false,
+      "Url": "https://flowzz.com/product/hidealz-21-1-c3-fco-frosted-cookies"
+    },
+    {
+      "Id": 4943,
+      "Name": "TETRA THC25 Mac 3",
+      "Producer": "adjupharm GmbH",
+      "MinPrice": null,
+      "Available": false,
+      "Url": "https://flowzz.com/product/tetra-thc25-mac-3"
+    },
+    {
+      "Id": 4942,
+      "Name": "TETRA THC22 Pink Diesel",
+      "Producer": "adjupharm GmbH",
+      "MinPrice": null,
+      "Available": false,
+      "Url": "https://flowzz.com/product/tetra-thc22-pink-diesel"
+    },
+    {
+      "Id": 4941,
+      "Name": "TETRA THC22 Waffle Truffle",
+      "Producer": "adjupharm GmbH",
+      "MinPrice": null,
+      "Available": false,
+      "Url": "https://flowzz.com/product/tetra-thc22-waffle-truffle"
+    },
+    {
+      "Id": 4944,
+      "Name": "Truth Holdings LH 33/1 Liberty Haze",
+      "Producer": "Cantourage",
+      "MinPrice": null,
+      "Available": false,
+      "Url": "https://flowzz.com/product/truth-holdings-lh-33-1-liberty-haze"
+    },
+    {
+      "Id": 4940,
+      "Name": "TETRA THC22 Bling Blaow",
+      "Producer": "adjupharm GmbH",
+      "MinPrice": null,
+      "Available": false,
+      "Url": "https://flowzz.com/product/tetra-thc22-bling-blaow"
+    },
+    {
+      "Id": 4948,
+      "Name": "TETRA THC27 Chemango Kush",
+      "Producer": "adjupharm GmbH",
+      "MinPrice": null,
+      "Available": false,
+      "Url": "https://flowzz.com/product/tetra-thc27-chemango-kush"
+    },
+    {
+      "Id": 4939,
+      "Name": "Huala 18/1 UK CIN Cinderella Kush",
+      "Producer": "Four 20 Pharma",
+      "MinPrice": null,
+      "Available": false,
+      "Url": "https://flowzz.com/product/huala-18-1-uk-cin-cinderella-kush"
+    },
+    {
+      "Id": 4938,
+      "Name": "Fast Leaf 24/1 BFR Blueberry Fritter",
+      "Producer": "Remexian Pharma",
+      "MinPrice": null,
+      "Available": false,
+      "Url": "https://flowzz.com/product/fast-leaf-24-1-bfr-blueberry-fritter"
+    },
+    {
+      "Id": 4949,
+      "Name": "TETRA THC25 Full Gas",
+      "Producer": "adjupharm GmbH",
+      "MinPrice": null,
+      "Available": false,
+      "Url": "https://flowzz.com/product/tetra-thc-25-full-gas"
+    },
+    {
+      "Id": 4950,
+      "Name": "TETRA THC25 MAC Deluxe",
+      "Producer": "adjupharm GmbH",
+      "MinPrice": null,
+      "Available": false,
+      "Url": "https://flowzz.com/product/tetra-thc25-mac-deluxe"
+    },
+    {
+      "Id": 4951,
+      "Name": "TETRA THC25 Waffle Bites",
+      "Producer": "adjupharm GmbH",
+      "MinPrice": null,
+      "Available": false,
+      "Url": "https://flowzz.com/product/tetra-thc25-waffle-bites"
+    },
+    {
+      "Id": 4952,
+      "Name": "TETRA THC22 Strawberry Diesel",
+      "Producer": "adjupharm GmbH",
+      "MinPrice": null,
+      "Available": false,
+      "Url": "https://flowzz.com/product/tetra-thc22-s-diesel"
+    },
+    {
+      "Id": 4953,
+      "Name": "Aleph Air 26/1 GM Cap Junky",
+      "Producer": "YouCann",
+      "MinPrice": null,
+      "Available": false,
+      "Url": "https://flowzz.com/product/aleph-air-26-1-gm-cap-junky"
+    },
+    {
+      "Id": 4954,
+      "Name": "TETRA THC22 Sonic Lemon Fuel",
+      "Producer": "adjupharm GmbH",
+      "MinPrice": null,
+      "Available": false,
+      "Url": "https://flowzz.com/product/tetra-thc22-sonic-lemon-fuel"
+    },
+    {
+      "Id": 4955,
+      "Name": "TETRA THC22 Grape Cream Cake",
+      "Producer": "adjupharm GmbH",
+      "MinPrice": null,
+      "Available": false,
+      "Url": "https://flowzz.com/product/tetra-thc22-grape-cream-cake"
+    },
+    {
+      "Id": 4956,
+      "Name": "Cannamedical Hybrid Ultra SF Afghan Bubba Kush",
+      "Producer": "Cannamedical",
+      "MinPrice": null,
+      "Available": false,
+      "Url": "https://flowzz.com/product/cannamedical-hybrid-ultra-sf-afghan-bubba-kush"
+    },
+    {
+      "Id": 4933,
+      "Name": "PhCann Exotics 24/1 Spritzer",
+      "Producer": "Nimbus Health",
+      "MinPrice": null,
+      "Available": false,
+      "Url": "https://flowzz.com/product/phcann-exotics-24-1-spritzer"
+    },
+    {
+      "Id": 4935,
+      "Name": "Nordic Zest 25/1 Purple Punch Haze",
+      "Producer": "Schroll Medical",
+      "MinPrice": null,
+      "Available": false,
+      "Url": "https://flowzz.com/product/nordic-zest-25-1-purple-punch-haze"
+    },
+    {
+      "Id": 4936,
+      "Name": "HiDealz 24/1 C3 FDR Fou Du Roi",
+      "Producer": "Remexian Pharma",
+      "MinPrice": null,
+      "Available": false,
+      "Url": "https://flowzz.com/product/hidealz-24-1-c3-fdr-fou-du-roi"
+    },
+    {
+      "Id": 4937,
+      "Name": "Materia LZ 23/1 Lemon Zorilla",
+      "Producer": "Materia",
+      "MinPrice": null,
+      "Available": false,
+      "Url": "https://flowzz.com/product/materia-lz-23-1-lemon-zorilla"
+    },
+    {
+      "Id": 4934,
+      "Name": "Huala 27/1 CA PGR Planet of the Grapes",
+      "Producer": "Four 20 Pharma",
+      "MinPrice": null,
+      "Available": false,
+      "Url": "https://flowzz.com/product/huala-27-1-ca-pgr-planet-of-the-grapes"
+    },
+    {
+      "Id": 4932,
+      "Name": "Cannamedical Hybrid Ultra SA Blunicorn",
+      "Producer": "Cannamedical",
+      "MinPrice": null,
+      "Available": false,
+      "Url": "https://flowzz.com/product/cannamedical-hybrid-ultra-sa-blunicorn"
+    }
+  ],
+  "PriceUp": [],
   "PriceDown": [
     {
       "P": {
-        "Id": 4896,
-        "Name": "HiDealz 24/1 C3 PSL Pink Slurricane",
+        "Id": 1696,
+        "Name": "IMC THC30 T03 GG4 Gorilla Glue",
+        "Producer": "IMC",
+        "MinPrice": 4.29,
+        "Available": true,
+        "Url": "https://flowzz.com/product/imc-thc-30-t03-gg-4-gorilla-glue-4"
+      },
+      "Old": 5.3,
+      "New": 4.29
+    },
+    {
+      "P": {
+        "Id": 562,
+        "Name": "IMC THC27 T03 GG4 Gorilla Glue",
+        "Producer": "IMC",
+        "MinPrice": 4.29,
+        "Available": true,
+        "Url": "https://flowzz.com/product/imc-thc-27-t03-gg-4-gorilla-glue-4"
+      },
+      "Old": 4.8,
+      "New": 4.29
+    },
+    {
+      "P": {
+        "Id": 4503,
+        "Name": "SKK GG 32/1 Gorila Glow",
+        "Producer": "INOPHA GmbH",
+        "MinPrice": 4.57,
+        "Available": true,
+        "Url": "https://flowzz.com/product/skk-gg-32-1-gorila-glow"
+      },
+      "Old": 4.69,
+      "New": 4.57
+    },
+    {
+      "P": {
+        "Id": 3992,
+        "Name": "Remexian 27/1 OGN MDL Medellin",
         "Producer": "Remexian Pharma",
-        "MinPrice": 3.01,
+        "MinPrice": 3.54,
         "Available": true,
-        "Url": "https://flowzz.com/product/hidealz-24-1-c3-psl-pink-slurricane"
+        "Url": "https://flowzz.com/product/remexian-27-1-ogn-mdl-medellin"
       },
-      "Old": 3.03,
-      "New": 3.01
+      "Old": 3.65,
+      "New": 3.54
     },
     {
       "P": {
-        "Id": 4555,
-        "Name": "TYSON 2.0 22/1 Alexander The Great",
-        "Producer": "Nimbus Health",
-        "MinPrice": 2.88,
+        "Id": 3873,
+        "Name": "Craft Kings 27/1 BPI Banana Pie",
+        "Producer": "Remexian Pharma",
+        "MinPrice": 3.88,
         "Available": true,
-        "Url": "https://flowzz.com/product/tyson-22-1-alexander-the-great"
+        "Url": "https://flowzz.com/product/craft-kings-27-1-bpi-banana-pie"
       },
-      "Old": 3.1,
-      "New": 2.88
+      "Old": 3.89,
+      "New": 3.88
     },
     {
       "P": {
-        "Id": 3161,
-        "Name": "Demecan GT Strong Drop 27/1 Girl Scout Kush",
+        "Id": 3695,
+        "Name": "Greenseal 33/1 SGU Strawberry Guava",
+        "Producer": "Remexian Pharma",
+        "MinPrice": 5.41,
+        "Available": true,
+        "Url": "https://flowzz.com/product/greenseal-33-1-sgu-strawberry-guava"
+      },
+      "Old": 5.58,
+      "New": 5.41
+    },
+    {
+      "P": {
+        "Id": 3625,
+        "Name": "30/1 Amici SLH Super Lemon Haze",
+        "Producer": "Cansativa",
+        "MinPrice": 3.77,
+        "Available": true,
+        "Url": "https://flowzz.com/product/30-1-amici-slh-super-lemon-haze"
+      },
+      "Old": 3.78,
+      "New": 3.77
+    },
+    {
+      "P": {
+        "Id": 2934,
+        "Name": "Remexian 33/1 TRF GSK Golden State Kush",
+        "Producer": "Remexian Pharma",
+        "MinPrice": 6.49,
+        "Available": true,
+        "Url": "https://flowzz.com/product/remexian-33-1-trf-gsk-golden-state-kush"
+      },
+      "Old": 7.5,
+      "New": 6.49
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "TRUU GT 22:01 Tangerine Dream",
         "Producer": "Demecan",
         "MinPrice": 3.7,
         "Available": true,
-        "Url": "https://flowzz.com/product/demecan-gt-strong-drop-27-1-girl-scout-kush"
+        "Url": "https://canngo.express/market/product/truu-gt-22-01-tangerine-dream"
       },
-      "Old": 3.98,
+      "Old": 3.81,
       "New": 3.7
-    },
-    {
-      "P": {
-        "Id": 0,
-        "Name": "Beacon CC T30 Cosmic Cookies",
-        "Producer": "Cansativa",
-        "MinPrice": 3.56,
-        "Available": true,
-        "Url": "https://canngo.express/market/product/beacon-cc-t30-cosmic-cookies"
-      },
-      "Old": 3.57,
-      "New": 3.56
-    },
-    {
-      "P": {
-        "Id": 0,
-        "Name": "avaay Signature 31/1 OGC Ocean Grown Cookies",
-        "Producer": "avaay",
-        "MinPrice": 7.16,
-        "Available": true,
-        "Url": "https://privatrezept.net/product/avaay-signature-311-ogc-ocean-grown-cookies"
-      },
-      "Old": 7.18,
-      "New": 7.16
-    },
-    {
-      "P": {
-        "Id": 0,
-        "Name": "Pedanios 10/13 MBE-CA Moon Berry",
-        "Producer": "Aurora",
-        "MinPrice": 5.65,
-        "Available": true,
-        "Url": "https://privatrezept.net/product/pedanios-1013-mbe-ca-moon-berry"
-      },
-      "Old": 5.67,
-      "New": 5.65
     }
   ]
 }
