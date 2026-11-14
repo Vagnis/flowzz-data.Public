@@ -1,100 +1,108 @@
 {
-  "ScrapedAt": "2026-11-14T23:19:17.324689+01:00",
+  "ScrapedAt": "2026-11-15T00:29:20.880292+01:00",
   "NewStrains": [
     {
       "Id": 0,
-      "Name": "JOI Botanicals 27/1 MTC Mojito Cookies",
-      "Producer": "Remexian Pharma",
-      "MinPrice": 3.49,
+      "Name": "24/1 IUVO OC Triangle Queen",
+      "Producer": "IUVO Therapeutics",
+      "MinPrice": 6.95,
       "Available": true,
-      "Url": "https://canngo.express/market/product/joi-botanicals-27-1-mtc-mojito-cookies"
+      "Url": "https://canngo.express/market/product/24-1-iuvo-oc-triangle-queen"
     },
     {
       "Id": 0,
-      "Name": "Balancial 22/1 PT Runtz",
-      "Producer": "Balancial",
-      "MinPrice": 5.0,
+      "Name": "enua 27/1 BIC CA Baked Ice Cream",
+      "Producer": "enua Pharma",
+      "MinPrice": 4.25,
       "Available": true,
-      "Url": "https://canngo.express/market/product/balancial-22-1-pt-runtz"
+      "Url": "https://canngo.express/market/product/enua-27-1-bic-ca-baked-ice-cream"
+    },
+    {
+      "Id": 0,
+      "Name": "LIT 31/1 PBB Peanut Butter Breath",
+      "Producer": "Cansativa",
+      "MinPrice": 3.69,
+      "Available": true,
+      "Url": "https://canngo.express/market/product/lit-31-1-pbb-peanut-butter-breath"
+    },
+    {
+      "Id": 0,
+      "Name": "Gripon420 24/1 MC3 MAC 3",
+      "Producer": "Remexian Pharma",
+      "MinPrice": 3.79,
+      "Available": true,
+      "Url": "https://canngo.express/market/product/gripon420-24-1-mc3-mac-3"
+    },
+    {
+      "Id": 0,
+      "Name": "Apollo 22/1 RKS Honey Suckle",
+      "Producer": "Cannprisma",
+      "MinPrice": 3.57,
+      "Available": true,
+      "Url": "https://canngo.express/market/product/apollo-22-1-rks-honey-suckle"
+    },
+    {
+      "Id": 0,
+      "Name": "PHENO 22/1 WGT White Gelato",
+      "Producer": "smile pharma",
+      "MinPrice": 2.69,
+      "Available": true,
+      "Url": "https://canngo.express/market/product/pheno-22-1-wgt-white-gelato"
+    },
+    {
+      "Id": 0,
+      "Name": "AphriaRX THC30 PPV Platinum Pave",
+      "Producer": "Tilray",
+      "MinPrice": 5.95,
+      "Available": true,
+      "Url": "https://canngo.express/market/product/aphriarx-thc30-ppv-platinum-pave"
+    },
+    {
+      "Id": 0,
+      "Name": "Remexian 27/1 BBR HOT High Octane 94",
+      "Producer": "Remexian Pharma",
+      "MinPrice": 2.69,
+      "Available": true,
+      "Url": "https://canngo.express/market/product/remexian-27-1-bbr-hot-high-octane-94"
     }
   ],
-  "RemovedCount": 8,
+  "RemovedCount": 2,
   "BackInStock": [],
-  "OutOfStock": [],
+  "OutOfStock": [
+    {
+      "Id": 4806,
+      "Name": "Pop Pp No. 35 White Runtz",
+      "Producer": "MGF Via Medical",
+      "MinPrice": null,
+      "Available": false,
+      "Url": "https://flowzz.com/product/pop-pp-no-35-white-runtz"
+    }
+  ],
   "PriceUp": [
     {
       "P": {
         "Id": 0,
-        "Name": "Remexian 15/1 HCC GTH Ghost Train Haze",
+        "Name": "Medical Saints 21/1 MC1 MAC 1",
         "Producer": "Remexian Pharma",
-        "MinPrice": 4.5,
+        "MinPrice": 3.25,
         "Available": true,
-        "Url": "https://canngo.express/market/product/remexian-15-1-hcc-gth-ghost-train-haze"
-      },
-      "Old": 3.99,
-      "New": 4.5
-    }
-  ],
-  "PriceDown": [
-    {
-      "P": {
-        "Id": 0,
-        "Name": "LOT 420 PLBG 31/1 Platinum Blue Gelatti",
-        "Producer": "Cantourage",
-        "MinPrice": 5.91,
-        "Available": true,
-        "Url": "https://canngo.express/market/product/lot-420-plbg-31-1-platinum-blue-gelatti"
-      },
-      "Old": 5.92,
-      "New": 5.91
-    },
-    {
-      "P": {
-        "Id": 0,
-        "Name": "LOT 420 GNDI Gandi",
-        "Producer": "Cantourage",
-        "MinPrice": 2.98,
-        "Available": true,
-        "Url": "https://canngo.express/market/product/lot-420-gndi-gandi"
+        "Url": "https://canngo.express/market/product/medical-saints-21-1-mc1-mac1"
       },
       "Old": 2.99,
-      "New": 2.98
-    },
-    {
-      "P": {
-        "Id": 0,
-        "Name": "APEX KHZ 31 PT Karels Haze",
-        "Producer": "Cannovum",
-        "MinPrice": 5.87,
-        "Available": true,
-        "Url": "https://canngo.express/market/product/apex-khz-pt-karels-haze"
-      },
-      "Old": 7.5,
-      "New": 5.87
+      "New": 3.25
     },
     {
       "P": {
         "Id": 0,
         "Name": "LIGHV 27/1 Wizard R65",
         "Producer": "NOVVIA PHARM GmbH",
-        "MinPrice": 7.09,
+        "MinPrice": 7.1,
         "Available": true,
         "Url": "https://canngo.express/market/product/lighv-27-1-wizard-r65"
       },
-      "Old": 7.1,
-      "New": 7.09
-    },
-    {
-      "P": {
-        "Id": 0,
-        "Name": "Pedanios 10/13 MBE-CA Moon Berry",
-        "Producer": "Aurora",
-        "MinPrice": 5.59,
-        "Available": true,
-        "Url": "https://privatrezept.net/product/pedanios-1013-mbe-ca-moon-berry"
-      },
-      "Old": 5.61,
-      "New": 5.59
+      "Old": 7.09,
+      "New": 7.1
     }
-  ]
+  ],
+  "PriceDown": []
 }
