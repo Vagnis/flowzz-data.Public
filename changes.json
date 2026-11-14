@@ -1,76 +1,161 @@
 {
-  "ScrapedAt": "2026-11-14T07:23:15.495368+01:00",
+  "ScrapedAt": "2026-11-14T07:52:44.406855+01:00",
   "NewStrains": [
     {
       "Id": 0,
-      "Name": "Vitamin Z",
+      "Name": "Care MW THC22 Maui Wauwi",
       "Producer": "AMP",
-      "MinPrice": 2.96,
+      "MinPrice": 2.69,
       "Available": true,
-      "Url": "https://shop.dransay.com/product/vitamin-z/7975098"
+      "Url": "https://canngo.express/market/product/care-mw-thc22-maui-wauwi"
+    },
+    {
+      "Id": 0,
+      "Name": "Aroma 24/1 SLG Sleepy Gary",
+      "Producer": "Remexian Pharma",
+      "MinPrice": 3.97,
+      "Available": true,
+      "Url": "https://canngo.express/market/product/aroma-24-1-slg-sleepy-gary"
+    },
+    {
+      "Id": 0,
+      "Name": "Cannamedical Hybrid Forte KA Citrus Candy Kush",
+      "Producer": "Cannamedical",
+      "MinPrice": 3.99,
+      "Available": true,
+      "Url": "https://canngo.express/market/product/cannamedical-hybrid-forte-ka-citrus-candy-kush"
+    },
+    {
+      "Id": 0,
+      "Name": "HiDealz 27/1 C3 BAC Banana Cake",
+      "Producer": "Remexian Pharma",
+      "MinPrice": 2.98,
+      "Available": true,
+      "Url": "https://canngo.express/market/product/hidealz-27-1-c3-bac-banana-cake"
     }
   ],
-  "RemovedCount": 0,
+  "RemovedCount": 5,
   "BackInStock": [],
   "OutOfStock": [],
-  "PriceUp": [],
+  "PriceUp": [
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Tikun Noga 27/1",
+        "Producer": "Dopiopharm",
+        "MinPrice": 5.5,
+        "Available": true,
+        "Url": "https://canngo.express/market/product/tikun-noga-27-1"
+      },
+      "Old": 5.49,
+      "New": 5.5
+    }
+  ],
   "PriceDown": [
     {
       "P": {
         "Id": 0,
-        "Name": "Cantourage MAC 1+",
-        "Producer": "Cantourage",
-        "MinPrice": 4.29,
+        "Name": "Amsterdam Amnesia",
+        "Producer": "Cannamedical",
+        "MinPrice": 6.22,
         "Available": true,
-        "Url": "https://canngo.express/market/product/cantourage-mac-1-mac-1"
+        "Url": "https://shop.dransay.com/product/amsterdam-amnesia/3456660"
       },
-      "Old": 5.72,
-      "New": 4.29
+      "Old": 6.23,
+      "New": 6.22
     },
     {
       "P": {
         "Id": 0,
-        "Name": "Sinceritas Sativa Verum 24/1 Kush Mints",
+        "Name": "NICE 26/1 CHA Capri Haze",
+        "Producer": "Cansativa",
+        "MinPrice": 3.36,
+        "Available": true,
+        "Url": "https://canngo.express/market/product/nice-26-1-cha-capri-haze"
+      },
+      "Old": 3.38,
+      "New": 3.36
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Medical Saints 24/1 ACB Acai Berry",
+        "Producer": "Remexian Pharma",
+        "MinPrice": 3.37,
+        "Available": true,
+        "Url": "https://canngo.express/market/product/medical-saints-24-1-acb-acai-berry"
+      },
+      "Old": 4.07,
+      "New": 3.37
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "IMC Mids TC 25/1 Tropic Candy",
+        "Producer": "IMC",
+        "MinPrice": 2.94,
+        "Available": true,
+        "Url": "https://canngo.express/market/product/imc-mids-tc-25-1-tropic-candy"
+      },
+      "Old": 2.98,
+      "New": 2.94
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Sinceritas Sativa Verum 24/1 TC Tropical Cake",
         "Producer": "Sinceritas",
-        "MinPrice": 3.79,
+        "MinPrice": 5.34,
         "Available": true,
-        "Url": "https://canngo.express/market/product/sinceritas-sativa-verum-24-1-kush-mints"
+        "Url": "https://canngo.express/market/product/sinceritas-sativa-verum-24-1-tc-tropical-cake"
       },
-      "Old": 3.99,
-      "New": 3.79
+      "Old": 5.45,
+      "New": 5.34
     },
     {
       "P": {
         "Id": 0,
-        "Name": "NICE 31/1 GT Garlic Truffle",
-        "Producer": "Cansativa",
-        "MinPrice": 3.94,
+        "Name": "enua 27/1 PS3 PNK Pink Kush",
+        "Producer": "enua Pharma",
+        "MinPrice": 1.86,
         "Available": true,
-        "Url": "https://canngo.express/market/product/nice-31-1-gt-garlic-truffle"
+        "Url": "https://canngo.express/market/product/enua-27-1-ps3-pk-pink-kush"
       },
-      "Old": 3.99,
-      "New": 3.94
+      "Old": 2.99,
+      "New": 1.86
     },
     {
       "P": {
         "Id": 0,
-        "Name": "avaay 27/1 JFP Jet Fuel Pie",
-        "Producer": "avaay",
-        "MinPrice": 4.47,
+        "Name": "420 Natural 22/1 CA GG4 Gorilla Glue",
+        "Producer": "Four 20 Pharma",
+        "MinPrice": 3.88,
         "Available": true,
-        "Url": "https://canngo.express/market/product/avaay-27-1-jfp-jet-fuel-pie"
+        "Url": "https://canngo.express/market/product/420-natural-22-1-ca-gg-4-gorilla-glue-4"
       },
-      "Old": 4.48,
-      "New": 4.47
+      "Old": 3.89,
+      "New": 3.88
     },
     {
       "P": {
         "Id": 0,
-        "Name": "Dank Craft 28 UC CAN Ultra Coconut",
-        "Producer": "Cansativa",
+        "Name": "Slouu 27/1 PS3 CA SBS Sugar Berry Sorbet",
+        "Producer": "enua Pharma",
+        "MinPrice": 3.45,
+        "Available": true,
+        "Url": "https://canngo.express/market/product/slouu-27-1-ps3-ca-sbs-sugar-berry-sorbet"
+      },
+      "Old": 3.46,
+      "New": 3.45
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "PhCann Exotics 30/1 Black Amber",
+        "Producer": "Nimbus Health",
         "MinPrice": 2.98,
         "Available": true,
-        "Url": "https://canngo.express/market/product/dank-craft-28-uc-can-ultra-coconut"
+        "Url": "https://canngo.express/market/product/phcann-exotics-30-1-black-amber"
       },
       "Old": 2.99,
       "New": 2.98
@@ -78,98 +163,338 @@
     {
       "P": {
         "Id": 0,
-        "Name": "Remexian 30/1 SIU GG4 Gorilla Glue",
-        "Producer": "Remexian Pharma",
-        "MinPrice": 4.17,
+        "Name": "Slouu 25/1 PS3 CA OGK OG Kush",
+        "Producer": "enua Pharma",
+        "MinPrice": 3.47,
         "Available": true,
-        "Url": "https://canngo.express/market/product/remexian-30-1-siu-gg4-gorilla-glue"
+        "Url": "https://canngo.express/market/product/slouu-25-1-ps3-ca-ogk-og-kush"
       },
-      "Old": 4.18,
-      "New": 4.17
+      "Old": 3.69,
+      "New": 3.47
     },
     {
       "P": {
         "Id": 0,
-        "Name": "420 Evolution 27/1 CA CBB Cherry Bang Bang",
-        "Producer": "Four 20 Pharma",
-        "MinPrice": 4.93,
+        "Name": "Tikun Midnight 10/14",
+        "Producer": "Dopiopharm",
+        "MinPrice": 6.57,
         "Available": true,
-        "Url": "https://canngo.express/market/product/420-evolution-27-1-ca-cbb-cherry-bang-bang"
+        "Url": "https://canngo.express/market/product/tikun-midnight-10-14"
       },
-      "Old": 4.94,
-      "New": 4.93
+      "Old": 6.58,
+      "New": 6.57
     },
     {
       "P": {
         "Id": 0,
-        "Name": "Wildlife 24 GB CAN Glueberry",
-        "Producer": "ADREXpharma",
-        "MinPrice": 2.74,
-        "Available": true,
-        "Url": "https://canngo.express/market/product/wildlife-24-gb-can-glueberry"
-      },
-      "Old": 2.88,
-      "New": 2.74
-    },
-    {
-      "P": {
-        "Id": 0,
-        "Name": "Luana 20/1 Mochi",
+        "Name": "Cannamedical Indica Forte BC Tangerine Boost",
         "Producer": "Cannamedical",
-        "MinPrice": 2.87,
+        "MinPrice": 3.98,
         "Available": true,
-        "Url": "https://canngo.express/market/product/luana-20-1-mochi"
+        "Url": "https://canngo.express/market/product/cannamedical-indica-forte-bc-tangerine-boost"
       },
-      "Old": 2.88,
-      "New": 2.87
+      "Old": 3.99,
+      "New": 3.98
     },
     {
       "P": {
         "Id": 0,
-        "Name": "34/1 IUVO SQ Apples & Bananas",
-        "Producer": "IUVO Therapeutics",
-        "MinPrice": 6.88,
-        "Available": true,
-        "Url": "https://canngo.express/market/product/34-1-iuvo-sq-apples-bananas"
-      },
-      "Old": 6.89,
-      "New": 6.88
-    },
-    {
-      "P": {
-        "Id": 0,
-        "Name": "Weeco HK 20/1 Hindu Kush",
+        "Name": "Weeco 25/1 Frosted Lemon Angel",
         "Producer": "Weeco",
-        "MinPrice": 2.94,
+        "MinPrice": 2.88,
         "Available": true,
-        "Url": "https://canngo.express/market/product/weeco-hk-20-1-hindu-kush"
+        "Url": "https://canngo.express/market/product/weeco-25-1-frosted-lemon-angel"
       },
-      "Old": 3.44,
-      "New": 2.94
+      "Old": 2.99,
+      "New": 2.88
     },
     {
       "P": {
         "Id": 0,
-        "Name": "Origine Nature MED 32/1 Medellin",
-        "Producer": "Cantourage",
-        "MinPrice": 4.49,
+        "Name": "Tilray THC 25 Spotlight Porto Island Sweet Skunk",
+        "Producer": "Tilray",
+        "MinPrice": 2.98,
         "Available": true,
-        "Url": "https://canngo.express/market/product/origine-nature-med-32-1-medellin"
+        "Url": "https://canngo.express/market/product/tilray-thc-25-spotlight-porto-island-sweet-skunk-island-sweet-skunk"
       },
-      "Old": 5.4,
-      "New": 4.49
+      "Old": 5.49,
+      "New": 2.98
     },
     {
       "P": {
         "Id": 0,
-        "Name": "24/1 IUVO KC OJ Zainbow",
-        "Producer": "IUVO Therapeutics",
-        "MinPrice": 5.89,
+        "Name": "Cannamedical Indica Forte AU LKC LA Kush Cake",
+        "Producer": "Cannamedical",
+        "MinPrice": 3.98,
         "Available": true,
-        "Url": "https://canngo.express/market/product/24-1-iuvo-kc-oj-zainbow"
+        "Url": "https://canngo.express/market/product/cannamedical-indica-forte-au-lkc-la-kush-cake"
       },
-      "Old": 5.9,
-      "New": 5.89
+      "Old": 3.99,
+      "New": 3.98
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Sinceritas Sativa Verum 24/1 BG Blueberry Gelato",
+        "Producer": "Sinceritas",
+        "MinPrice": 4.83,
+        "Available": true,
+        "Url": "https://canngo.express/market/product/sinceritas-Sativa-verum-24-1-bg-blueberry-gelato"
+      },
+      "Old": 4.84,
+      "New": 4.83
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Balancial CA-S1 31/1 BC Banana Cake",
+        "Producer": "Balancial",
+        "MinPrice": 2.98,
+        "Available": true,
+        "Url": "https://canngo.express/market/product/balancial-s1-31-1-bc-banana-cake"
+      },
+      "Old": 3.49,
+      "New": 2.98
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Wellford Peak CA T95 30/1 Tres Dawg x I-95",
+        "Producer": "Therismos",
+        "MinPrice": 3.69,
+        "Available": true,
+        "Url": "https://canngo.express/market/product/wellford-peak-ca-t95-30-1-tres-dawg-x-i-95"
+      },
+      "Old": 3.99,
+      "New": 3.69
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Remexian 33/1 MTL LRZ Lemon Razz",
+        "Producer": "Remexian Pharma",
+        "MinPrice": 4.98,
+        "Available": true,
+        "Url": "https://canngo.express/market/product/remexian-33-1-mtl-lrz-lemon-razz"
+      },
+      "Old": 4.99,
+      "New": 4.98
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Remexian 33/1 HMA CCA Cosmic Candy",
+        "Producer": "Remexian Pharma",
+        "MinPrice": 4.54,
+        "Available": true,
+        "Url": "https://canngo.express/market/product/remexian-33-1-hma-cca-cosmic-candy"
+      },
+      "Old": 4.55,
+      "New": 4.54
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "WEECO Tavira 23/1 Sour Punch",
+        "Producer": "Weeco",
+        "MinPrice": 3.23,
+        "Available": true,
+        "Url": "https://canngo.express/market/product/weeco-tavira-23-1-sour-punch"
+      },
+      "Old": 3.32,
+      "New": 3.23
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Canify 24/1 CZE Platinum Garlic",
+        "Producer": "Canify",
+        "MinPrice": 3.48,
+        "Available": true,
+        "Url": "https://canngo.express/market/product/canify-24-1-cze-platinum-garlic"
+      },
+      "Old": 3.49,
+      "New": 3.48
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Cannamedical Indica Forte DK Cookies Kerosene Punch",
+        "Producer": "Cannamedical",
+        "MinPrice": 3.92,
+        "Available": true,
+        "Url": "https://canngo.express/market/product/cannamedical-indica-forte-dk-cookies-kerosene-punch"
+      },
+      "Old": 3.94,
+      "New": 3.92
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Briah LCP 30 Lemon Cherry Pie",
+        "Producer": "Canapac",
+        "MinPrice": 3.94,
+        "Available": true,
+        "Url": "https://canngo.express/market/product/briah-lcp-30-lemon-cherry-pie"
+      },
+      "Old": 3.95,
+      "New": 3.94
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Cannamedical Indica Classic ZAF Grape Galena",
+        "Producer": "Cannamedical",
+        "MinPrice": 2.96,
+        "Available": true,
+        "Url": "https://canngo.express/market/product/cannamedical-indica-classic-zaf-grape-galena"
+      },
+      "Old": 3.9,
+      "New": 2.96
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Unit17 30/1 MCJ MAC1 x Cap Junky",
+        "Producer": "Remexian Pharma",
+        "MinPrice": 2.98,
+        "Available": true,
+        "Url": "https://canngo.express/market/product/unit17-30-1-mcj-mac1-x-cap-junky"
+      },
+      "Old": 3.98,
+      "New": 2.98
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "SKK DB 30/1 Donkey Breath",
+        "Producer": "INOPHA GmbH",
+        "MinPrice": 3.36,
+        "Available": true,
+        "Url": "https://canngo.express/market/product/skk-db-30-1-donkey-breath"
+      },
+      "Old": 3.37,
+      "New": 3.36
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "avaay SIGNATURE 28/1 BA Black Amber",
+        "Producer": "avaay",
+        "MinPrice": 5.95,
+        "Available": true,
+        "Url": "https://canngo.express/market/product/avaay-signature-28-1-ba-black-amber"
+      },
+      "Old": 5.96,
+      "New": 5.95
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Green Mile 33/1 GIS Grape Ice Storm",
+        "Producer": "Remexian Pharma",
+        "MinPrice": 3.07,
+        "Available": true,
+        "Url": "https://canngo.express/market/product/green-mile-33-1-gis-grape-ice-storm"
+      },
+      "Old": 5.69,
+      "New": 3.07
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Luana 28/1 GCG God Cherry Gusher",
+        "Producer": "Cannamedical",
+        "MinPrice": 3.85,
+        "Available": true,
+        "Url": "https://canngo.express/market/product/luana-28-1-gcg-god-cherry-gusher"
+      },
+      "Old": 3.86,
+      "New": 3.85
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "LIGHV Trials 25/1 EG Egyptian Gold",
+        "Producer": "NOVVIA PHARM GmbH",
+        "MinPrice": 5.48,
+        "Available": true,
+        "Url": "https://canngo.express/market/product/lighv-trials-25-1-eg-egyptian-gold"
+      },
+      "Old": 5.49,
+      "New": 5.48
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "CRF KM 27/1 Kush Mints",
+        "Producer": "Remexian Pharma",
+        "MinPrice": 3.87,
+        "Available": true,
+        "Url": "https://canngo.express/market/product/crf-km-27-1-kush-mints"
+      },
+      "Old": 3.88,
+      "New": 3.87
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Remexian 30/1 CRX LTA Lemonata",
+        "Producer": "Remexian Pharma",
+        "MinPrice": 4.01,
+        "Available": true,
+        "Url": "https://canngo.express/market/product/remexian-30-1-crx-lta-lemonata"
+      },
+      "Old": 4.02,
+      "New": 4.01
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Good Supply THC25 BBD Blueberry Donuts 29",
+        "Producer": "Tilray",
+        "MinPrice": 3.08,
+        "Available": true,
+        "Url": "https://canngo.express/market/product/good-supply-thc25-bbd-blueberry-donuts-29"
+      },
+      "Old": 5.59,
+      "New": 3.08
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "PhCann Exotics 24/1 Red Pop",
+        "Producer": "Nimbus Health",
+        "MinPrice": 3.98,
+        "Available": true,
+        "Url": "https://canngo.express/market/product/phcann-exotics-24-1-red-pop"
+      },
+      "Old": 3.99,
+      "New": 3.98
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "LIGHV 27/1 Wizard R65",
+        "Producer": "NOVVIA PHARM GmbH",
+        "MinPrice": 7.09,
+        "Available": true,
+        "Url": "https://canngo.express/market/product/lighv-27-1-wizard-r65"
+      },
+      "Old": 7.1,
+      "New": 7.09
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Tilray THC 25 Spotlight Porto Island Sweet Skunk",
+        "Producer": "Tilray",
+        "MinPrice": 2.98,
+        "Available": true,
+        "Url": "https://privatrezept.net/product/tilray-thc-25-spotlight-porto-island-sweet-skunk"
+      },
+      "Old": 6.39,
+      "New": 2.98
     }
   ]
 }
