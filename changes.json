@@ -1,13 +1,29 @@
 {
-  "ScrapedAt": "2026-11-15T07:30:48.597021+01:00",
+  "ScrapedAt": "2026-11-15T08:04:01.597984+01:00",
   "NewStrains": [
     {
-      "Id": 0,
-      "Name": "Tilray THC 25 Spotlight Porto Pink Kush",
-      "Producer": "Tilray",
+      "Id": 5125,
+      "Name": "Steady 14/1 PDY Payday",
+      "Producer": "INOPHA GmbH",
       "MinPrice": 2.99,
       "Available": true,
-      "Url": "https://canngo.express/market/product/tilray-thc-25-spotlight-porto-pink-kush-pink-kush"
+      "Url": "https://flowzz.com/product/steady-14-1-pdy-payday"
+    },
+    {
+      "Id": 5115,
+      "Name": "Demecan PMGL Drop 30:01 Peppermint Glaze",
+      "Producer": "Demecan",
+      "MinPrice": 3.99,
+      "Available": true,
+      "Url": "https://flowzz.com/product/demecan-pmgl-drop-3001-peppermint-glaze"
+    },
+    {
+      "Id": 0,
+      "Name": "Nova 26/1 Tamarindo",
+      "Producer": "Novacana",
+      "MinPrice": 4.78,
+      "Available": true,
+      "Url": "https://canngo.express/market/product/nova-26-1-tamarindo"
     }
   ],
   "RemovedCount": 1,
@@ -16,12 +32,36 @@
   "PriceUp": [
     {
       "P": {
-        "Id": 4424,
+        "Id": 0,
+        "Name": "Demecan Core 21:01 LimeZ",
+        "Producer": "Demecan",
+        "MinPrice": 4.29,
+        "Available": true,
+        "Url": "https://canngo.express/market/product/demecan-core-21-01-limez"
+      },
+      "Old": 3.85,
+      "New": 4.29
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Legend's RP 34/1 Rainbow Pavé",
+        "Producer": "Cantourage",
+        "MinPrice": 5.99,
+        "Available": true,
+        "Url": "https://canngo.express/market/product/legends-rp-34-1-rainbow-pave"
+      },
+      "Old": 5.97,
+      "New": 5.99
+    },
+    {
+      "P": {
+        "Id": 0,
         "Name": "Beacon LC T32 Lime Crumble",
         "Producer": "Cansativa",
         "MinPrice": 3.98,
         "Available": true,
-        "Url": "https://flowzz.com/product/beacon-lc-t32-lime-crumble"
+        "Url": "https://canngo.express/market/product/beacon-lc-t32-lime-crumble"
       },
       "Old": 3.97,
       "New": 3.98
@@ -30,15 +70,27 @@
   "PriceDown": [
     {
       "P": {
-        "Id": 2276,
-        "Name": "Peace Naturals 33/1 SL Sonic Lemon Fuel",
-        "Producer": "Cansativa",
-        "MinPrice": 4.19,
+        "Id": 0,
+        "Name": "Amsterdam Amnesia",
+        "Producer": "Cannamedical",
+        "MinPrice": 6.1,
         "Available": true,
-        "Url": "https://flowzz.com/product/peace-naturals-33-1-sl-sonic-lemon-fuel"
+        "Url": "https://shop.dransay.com/product/amsterdam-amnesia/3456660"
       },
-      "Old": 4.64,
-      "New": 4.19
+      "Old": 6.11,
+      "New": 6.1
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Canify 18/1 CL Ku MAC",
+        "Producer": "Canify",
+        "MinPrice": 1.75,
+        "Available": true,
+        "Url": "https://canngo.express/market/product/canify-18-1-cl-ku-mac"
+      },
+      "Old": 1.79,
+      "New": 1.75
     }
   ]
 }
