@@ -1,27 +1,148 @@
 {
-  "ScrapedAt": "2026-11-15T04:07:57.012980+01:00",
+  "ScrapedAt": "2026-11-15T04:33:57.075364+01:00",
   "NewStrains": [
     {
       "Id": 0,
-      "Name": "stabil. 27/1 Funk Bomb",
-      "Producer": "Cannovum",
-      "MinPrice": 4.6,
+      "Name": "Demecan Core CKI 29:01 Pink Cookies",
+      "Producer": "Demecan",
+      "MinPrice": 5.49,
       "Available": true,
-      "Url": "https://canngo.express/market/product/stabil-27-1-funk-bomb"
+      "Url": "https://canngo.express/market/product/demecan-core-cki-29-01-pink-cookies"
     }
   ],
-  "RemovedCount": 1,
-  "BackInStock": [
+  "RemovedCount": 2,
+  "BackInStock": [],
+  "OutOfStock": [
     {
-      "Id": 3930,
-      "Name": "MGF 30/1 Black Shadows",
-      "Producer": "MGF Via Medical",
-      "MinPrice": 4.91,
-      "Available": true,
-      "Url": "https://flowzz.com/product/mgf-30-1-black-shadows"
+      "Id": 1961,
+      "Name": "Tilray Craft Cannabisblüten THC28 CTB Cactus Breath",
+      "Producer": "Tilray",
+      "MinPrice": null,
+      "Available": false,
+      "Url": "https://flowzz.com/product/tilray-craft-thc28-ctb-cactus-breath"
+    },
+    {
+      "Id": 1960,
+      "Name": "Huala 22/1 CA GRF Grape Face",
+      "Producer": "Four 20 Pharma",
+      "MinPrice": null,
+      "Available": false,
+      "Url": "https://flowzz.com/product/huala-22-1-ca-grf-grape-face"
+    },
+    {
+      "Id": 1958,
+      "Name": "Huala 20/1 UK CIN Cinderella Kush",
+      "Producer": "Four 20 Pharma",
+      "MinPrice": null,
+      "Available": false,
+      "Url": "https://flowzz.com/product/huala-20-1-uk-cin-cinderella-kush"
+    },
+    {
+      "Id": 1956,
+      "Name": "madrecan 24/1 GB9 Garlic Budder",
+      "Producer": "Remexian Pharma",
+      "MinPrice": null,
+      "Available": false,
+      "Url": "https://flowzz.com/product/madrecan-24-1-gb9-garlic-budder"
+    },
+    {
+      "Id": 1955,
+      "Name": "ZOIKS 22/1 BB Ben & Berries",
+      "Producer": "avaay",
+      "MinPrice": null,
+      "Available": false,
+      "Url": "https://flowzz.com/product/zoiks-22-1-ben-berries"
+    },
+    {
+      "Id": 1949,
+      "Name": "Cannamedical Sativa ultra ES Nova",
+      "Producer": "Cannamedical",
+      "MinPrice": null,
+      "Available": false,
+      "Url": "https://flowzz.com/product/cannamedical-sativa-ultra-es-nova"
+    },
+    {
+      "Id": 1947,
+      "Name": "CherryCo 23/01 GOG-K Gelato OG",
+      "Producer": "Demecan",
+      "MinPrice": null,
+      "Available": false,
+      "Url": "https://flowzz.com/product/cherryco-23-01-gog-k-gelato-og"
+    },
+    {
+      "Id": 1941,
+      "Name": "Wellford Aquaponic 29/1 LBO Legendary Bozy",
+      "Producer": "Therismos",
+      "MinPrice": null,
+      "Available": false,
+      "Url": "https://flowzz.com/product/wellford-aquaponic-29-1-gth-legendary-bozy"
+    },
+    {
+      "Id": 1937,
+      "Name": "Wellford Aquaponic 26/1 GTH Ghost Train Haze",
+      "Producer": "Therismos",
+      "MinPrice": null,
+      "Available": false,
+      "Url": "https://flowzz.com/product/wellford-aquaponic-26-1-gth-ghost-train-haze"
+    },
+    {
+      "Id": 1933,
+      "Name": "Wellford Peak CA T95 30/1 Tres Dawg x I-95",
+      "Producer": "Therismos",
+      "MinPrice": null,
+      "Available": false,
+      "Url": "https://flowzz.com/product/wellford-peak-ca-t95-30-1-tres-dawg-x-i-95"
     }
   ],
-  "OutOfStock": [],
   "PriceUp": [],
-  "PriceDown": []
+  "PriceDown": [
+    {
+      "P": {
+        "Id": 4657,
+        "Name": "Green Mile 30/1 DCA Dante's Cake",
+        "Producer": "Remexian Pharma",
+        "MinPrice": 3.45,
+        "Available": true,
+        "Url": "https://flowzz.com/product/green-mile30-1-dca-dantes-cake"
+      },
+      "Old": 3.46,
+      "New": 3.45
+    },
+    {
+      "P": {
+        "Id": 3289,
+        "Name": "GT Epic Drop Girl Scout Kush 30:1 smalls",
+        "Producer": "Demecan",
+        "MinPrice": 3.39,
+        "Available": true,
+        "Url": "https://flowzz.com/product/gt-epic-drop-girl-scout-kush-30-1-smalls"
+      },
+      "Old": 3.49,
+      "New": 3.39
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "All Nations LT 29/1 Lemon Tartz",
+        "Producer": "Cantourage",
+        "MinPrice": 4.44,
+        "Available": true,
+        "Url": "https://privatrezept.net/product/all-nations-lt-29-1-lemon-tartz"
+      },
+      "Old": 4.48,
+      "New": 4.44
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Shrubs 25/1 SGK Sugar Kush",
+        "Producer": "",
+        "MinPrice": 2.42,
+        "Available": true,
+        "Url": "https://privatrezept.net/product/shrubs-25-1-sgk-sugar-kush"
+      },
+      "Old": 2.58,
+      "New": 2.42
+    }
+  ]
 }
