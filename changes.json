@@ -1,252 +1,241 @@
 {
-  "ScrapedAt": "2026-11-15T19:59:40.115018+01:00",
+  "ScrapedAt": "2026-11-15T20:39:27.174292+01:00",
   "NewStrains": [
     {
       "Id": 0,
-      "Name": "Aleph Air 26/1 GM Cap Junky",
-      "Producer": "YouCann",
-      "MinPrice": 2.99,
+      "Name": "Orange Creamsicle",
+      "Producer": "ADREXpharma",
+      "MinPrice": 3.99,
       "Available": true,
-      "Url": "https://canngo.express/market/product/aleph-air-26-1-gm-cap-junky"
+      "Url": "https://shop.dransay.com/product/orange-creamsicle/8226484"
     },
     {
       "Id": 0,
-      "Name": "LIGHV 27/1 Wizard R65",
-      "Producer": "NOVVIA PHARM GmbH",
-      "MinPrice": 7.1,
+      "Name": "SIQQ 30/1 CA HRS Hard Reset",
+      "Producer": "canymed",
+      "MinPrice": 5.0,
       "Available": true,
-      "Url": "https://canngo.express/market/product/lighv-27-1-wizard-r65"
+      "Url": "https://canngo.express/market/product/siqq-30-1-ca-hrs-hard-reset"
     },
     {
       "Id": 0,
-      "Name": "Huala 22/1 CA MOJ Blue Mojito",
-      "Producer": "Four 20 Pharma",
-      "MinPrice": 4.45,
+      "Name": "HiDealz 27/1 C3 BAC Banana Cake",
+      "Producer": "Remexian Pharma",
+      "MinPrice": 2.98,
       "Available": true,
-      "Url": "https://canngo.express/market/product/huala-22-1-ca-moj-blue-mojito"
+      "Url": "https://canngo.express/market/product/hidealz-27-1-c3-bac-banana-cake"
     },
     {
       "Id": 0,
-      "Name": "Balancial CA-S1 29/1 ML Mona Lisa",
-      "Producer": "Balancial",
-      "MinPrice": 4.99,
+      "Name": "Remexian 27/1 BBR HOT High Octane 94",
+      "Producer": "Remexian Pharma",
+      "MinPrice": 2.69,
       "Available": true,
-      "Url": "https://canngo.express/market/product/balancial-ca-s1-29-1-ml-mona-lisa"
+      "Url": "https://canngo.express/market/product/remexian-27-1-bbr-hot-high-octane-94"
     },
     {
       "Id": 0,
-      "Name": "AphriaRX THC30 PPV Platinum Pave",
-      "Producer": "Tilray",
-      "MinPrice": 5.95,
+      "Name": "madrecan 18/1 RCH Remo Chemo",
+      "Producer": "Remexian Pharma",
+      "MinPrice": 5.99,
       "Available": true,
-      "Url": "https://canngo.express/market/product/aphriarx-thc30-ppv-platinum-pave"
-    },
-    {
-      "Id": 0,
-      "Name": "IMC 24K THC26 Egoist",
-      "Producer": "IMC",
-      "MinPrice": 8.99,
-      "Available": true,
-      "Url": "https://canngo.express/market/product/imc-chd-thc26-egoist"
+      "Url": "https://canngo.express/market/product/madrecan-18-1-remo-chemo"
     }
   ],
-  "RemovedCount": 6,
+  "RemovedCount": 5,
   "BackInStock": [],
-  "OutOfStock": [],
+  "OutOfStock": [
+    {
+      "Id": 1821,
+      "Name": "Remexian 27/1 JPM WFM Wicked Frosted Mintz",
+      "Producer": "Remexian Pharma",
+      "MinPrice": null,
+      "Available": false,
+      "Url": "https://flowzz.com/product/remexian-27-1-jpm-wfm-wicked-frosted-mintz"
+    }
+  ],
   "PriceUp": [
     {
       "P": {
-        "Id": 1686,
-        "Name": "Cannamedical Indica Forte BC Tangerine Boost",
-        "Producer": "Cannamedical",
-        "MinPrice": 3.99,
+        "Id": 2622,
+        "Name": "187 Cannabisflower 24K THC25",
+        "Producer": "AMP",
+        "MinPrice": 7.8,
         "Available": true,
-        "Url": "https://flowzz.com/product/cannamedical-indica-forte-bc-tangerine-boost"
+        "Url": "https://flowzz.com/product/187-cannabisflower-24k-thc25"
       },
-      "Old": 3.98,
-      "New": 3.99
+      "Old": 3.99,
+      "New": 7.8
     },
     {
       "P": {
-        "Id": 3487,
-        "Name": "Balancial CA-S1 31/1 BC Banana Cake",
-        "Producer": "Balancial",
-        "MinPrice": 2.99,
+        "Id": 2568,
+        "Name": "Huala 25/1 CA POG Pineapple God",
+        "Producer": "Four 20 Pharma",
+        "MinPrice": 3.48,
         "Available": true,
-        "Url": "https://flowzz.com/product/balancial-s1-31-1-bc-banana-cake"
+        "Url": "https://flowzz.com/product/huala-25-1-ca-pog-pineapple-god"
       },
-      "Old": 2.98,
-      "New": 2.99
+      "Old": 2.89,
+      "New": 3.48
+    },
+    {
+      "P": {
+        "Id": 2496,
+        "Name": "Curaleaf Natural 27/1 PT ZKS Zookies",
+        "Producer": "Adven",
+        "MinPrice": 3.52,
+        "Available": true,
+        "Url": "https://flowzz.com/product/curaleaf-natural-27-1-pt-zks-zookies"
+      },
+      "Old": 2.99,
+      "New": 3.52
+    },
+    {
+      "P": {
+        "Id": 1896,
+        "Name": "420 Evolution 27/1 CA MFG Modified Grapes",
+        "Producer": "Four 20 Pharma",
+        "MinPrice": 6.4,
+        "Available": true,
+        "Url": "https://flowzz.com/product/420-evolution-27-1-ca-mfg-modified-grapes"
+      },
+      "Old": 3.99,
+      "New": 6.4
+    },
+    {
+      "P": {
+        "Id": 5031,
+        "Name": "ONO MCC 26/1 Mint Cream Cake",
+        "Producer": "Cantourage",
+        "MinPrice": 4.74,
+        "Available": true,
+        "Url": "https://flowzz.com/product/ono-mcc-26-1-mint-cream-cake"
+      },
+      "Old": 4.69,
+      "New": 4.74
     },
     {
       "P": {
         "Id": 0,
-        "Name": "ZOIKS 22/1 SF Sourflare",
-        "Producer": "Vayamed",
-        "MinPrice": 4.99,
+        "Name": "Modified Grapes",
+        "Producer": "Remexian/Madrecan",
+        "MinPrice": 5.99,
         "Available": true,
-        "Url": "https://privatrezept.net/product/zoiks-22-1-sf-sourflare-fpr8gp"
+        "Url": "https://shop.dransay.com/product/modified-grapes/5859648"
       },
-      "Old": 4.69,
-      "New": 4.99
+      "Old": 3.99,
+      "New": 5.99
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "LIT 31/1 STA Sticky Ape",
+        "Producer": "Cansativa",
+        "MinPrice": 4.77,
+        "Available": true,
+        "Url": "https://canngo.express/market/product/lit-31-1-sta-sticky-ape"
+      },
+      "Old": 3.99,
+      "New": 4.77
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "LIT 31/1 PBB Peanut Butter Breath",
+        "Producer": "Cansativa",
+        "MinPrice": 4.49,
+        "Available": true,
+        "Url": "https://canngo.express/market/product/lit-31-1-pbb-peanut-butter-breath"
+      },
+      "Old": 3.67,
+      "New": 4.49
     }
   ],
   "PriceDown": [
     {
       "P": {
-        "Id": 4910,
-        "Name": "LOT 420 Greyscales JFRO 29/1 Jack Frosted",
-        "Producer": "Cantourage",
-        "MinPrice": 4.92,
+        "Id": 3424,
+        "Name": "NICE 24/1 Mac 1",
+        "Producer": "Cansativa",
+        "MinPrice": 2.99,
         "Available": true,
-        "Url": "https://flowzz.com/product/lot-420-greyscales-jfro-29-1-jack-frosted"
+        "Url": "https://flowzz.com/product/nice-24-1-mac-1"
       },
-      "Old": 4.93,
-      "New": 4.92
+      "Old": 3.29,
+      "New": 2.99
     },
     {
       "P": {
         "Id": 0,
-        "Name": "Solpina Magic",
+        "Name": "Amsterdam Amnesia",
         "Producer": "Cannamedical",
-        "MinPrice": 4.86,
+        "MinPrice": 5.99,
         "Available": true,
-        "Url": "https://shop.dransay.com/product/solpina-magic/3443044"
+        "Url": "https://shop.dransay.com/product/amsterdam-amnesia/3456660"
       },
-      "Old": 4.87,
-      "New": 4.86
+      "Old": 6.0,
+      "New": 5.99
     },
     {
       "P": {
         "Id": 0,
-        "Name": "TRUU GT 30:01 Cookies OG",
-        "Producer": "Demecan",
-        "MinPrice": 4.19,
+        "Name": "El Jefe",
+        "Producer": "Cannamedical",
+        "MinPrice": 8.29,
         "Available": true,
-        "Url": "https://canngo.express/market/product/truu-gt-30-01-cookies-og"
+        "Url": "https://shop.dransay.com/product/el-jefe/200"
       },
-      "Old": 4.2,
-      "New": 4.19
+      "Old": 8.3,
+      "New": 8.29
     },
     {
       "P": {
         "Id": 0,
-        "Name": "TRUU GT 23:01 Crumbled Lime",
-        "Producer": "Demecan",
-        "MinPrice": 3.45,
+        "Name": "NICE 24/1 Mac 1",
+        "Producer": "Cansativa",
+        "MinPrice": 2.99,
         "Available": true,
-        "Url": "https://canngo.express/market/product/truu-gt-23-01-crumbled-lime"
+        "Url": "https://canngo.express/market/product/nice-24-1-mac-1"
       },
-      "Old": 3.65,
-      "New": 3.45
+      "Old": 3.3,
+      "New": 2.99
     },
     {
       "P": {
         "Id": 0,
-        "Name": "Remexian 30/1 PRT MTP Mokum's Tulip",
-        "Producer": "Remexian Pharma",
-        "MinPrice": 2.84,
+        "Name": "SHÜSH 29/1 SMO Smooth Operator",
+        "Producer": "Cansativa",
+        "MinPrice": 2.88,
         "Available": true,
-        "Url": "https://canngo.express/market/product/remexian-prt-30-1-mokums-tulip"
+        "Url": "https://canngo.express/market/product/shuesh-29-1-smo-smooth-operator"
       },
-      "Old": 2.85,
-      "New": 2.84
+      "Old": 2.89,
+      "New": 2.88
     },
     {
       "P": {
         "Id": 0,
-        "Name": "Demecan CRAFT Walkie Talkie 27:01 Sugar Cake",
-        "Producer": "Demecan",
-        "MinPrice": 3.98,
-        "Available": true,
-        "Url": "https://canngo.express/market/product/demecan-craft-walkie-talkie-27-01-sugar-cake"
-      },
-      "Old": 3.99,
-      "New": 3.98
-    },
-    {
-      "P": {
-        "Id": 0,
-        "Name": "Remexian 30/1 SIU GG4 Gorilla Glue",
-        "Producer": "Remexian Pharma",
-        "MinPrice": 4.15,
-        "Available": true,
-        "Url": "https://canngo.express/market/product/remexian-30-1-siu-gg4-gorilla-glue"
-      },
-      "Old": 4.17,
-      "New": 4.15
-    },
-    {
-      "P": {
-        "Id": 0,
-        "Name": "All Nations GG 34/1 Grey Goose",
-        "Producer": "Cantourage",
-        "MinPrice": 4.99,
-        "Available": true,
-        "Url": "https://privatrezept.net/product/all-nations-gg-34-1-grey-goose"
-      },
-      "Old": 5.79,
-      "New": 4.99
-    },
-    {
-      "P": {
-        "Id": 0,
-        "Name": "SA Selection SA FC 26/1 Fight Club",
-        "Producer": "JUMIS PHARMA",
-        "MinPrice": 3.33,
-        "Available": true,
-        "Url": "https://privatrezept.net/product/sa-selection-sa-fc-26-1-fight-club"
-      },
-      "Old": 3.99,
-      "New": 3.33
-    },
-    {
-      "P": {
-        "Id": 0,
-        "Name": "SA Selection SA OPP 24/1 Orange Push Pop",
-        "Producer": "JUMIS PHARMA",
-        "MinPrice": 3.2,
-        "Available": true,
-        "Url": "https://privatrezept.net/product/sa-selection-sa-opp-24-1-orange-push-pop"
-      },
-      "Old": 3.99,
-      "New": 3.2
-    },
-    {
-      "P": {
-        "Id": 0,
-        "Name": "TRUU CG 31:01 Umami Kush",
-        "Producer": "Demecan",
-        "MinPrice": 3.99,
-        "Available": true,
-        "Url": "https://privatrezept.net/product/truu-cg-31-01-umami-kush"
-      },
-      "Old": 4.49,
-      "New": 3.99
-    },
-    {
-      "P": {
-        "Id": 0,
-        "Name": "TRUU GT 23:01 Crumbled Lime",
-        "Producer": "Demecan",
-        "MinPrice": 3.45,
-        "Available": true,
-        "Url": "https://privatrezept.net/product/truu-gt-23-01-crumbled-lime-vhpl2b"
-      },
-      "Old": 3.7,
-      "New": 3.45
-    },
-    {
-      "P": {
-        "Id": 0,
-        "Name": "Weeco LMC 33/1 DK Lemoncello",
-        "Producer": "Weeco",
+        "Name": "NICE 32/1 MBU Mintz Burger",
+        "Producer": "Cansativa",
         "MinPrice": 3.71,
         "Available": true,
-        "Url": "https://privatrezept.net/product/weeco-lmc-33-1-dk-lemoncello-gfaoo"
+        "Url": "https://canngo.express/market/product/nice-32-1-mbu-mintz-burger"
       },
-      "Old": 3.99,
+      "Old": 3.72,
       "New": 3.71
+    },
+    {
+      "P": {
+        "Id": 0,
+        "Name": "Sitka Legends 24/1 KSD Kim's Sweet Diesel",
+        "Producer": "Remexian Pharma",
+        "MinPrice": 2.54,
+        "Available": true,
+        "Url": "https://canngo.express/market/product/sitka-legends-24-1-ksd-kims-sweet-diesel"
+      },
+      "Old": 3.95,
+      "New": 2.54
     }
   ]
 }
